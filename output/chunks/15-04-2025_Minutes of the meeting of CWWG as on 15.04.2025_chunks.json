@@ -1,0 +1,3803 @@
+{
+    "metadata": {
+        "document_name": "15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025.pdf",
+        "document_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\..\\downloads\\pdfs\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025.pdf",
+        "title": "",
+        "author": "AYUSH RAJ",
+        "creator": "Microsoft® Word 2016",
+        "producer": "Microsoft® Word 2016",
+        "subject": "",
+        "keywords": "",
+        "creation_date": "D:20250430171557+05'30'",
+        "modification_date": "D:20250430171557+05'30'",
+        "total_pages": 18,
+        "file_size_bytes": 2177146,
+        "extraction_tool": "PyMuPDF",
+        "extraction_timestamp": "2026-07-19T02:10:48.551847"
+    },
+    "statistics": {
+        "pages": 18,
+        "sections": 14,
+        "merged_sections": 8,
+        "text_chunks": 18,
+        "table_chunks": 2,
+        "image_chunks": 3,
+        "total_chunks": 19
+    },
+    "chunks": [
+        {
+            "chunk_id": "CWWG_00001",
+            "chunk_type": "text",
+            "heading": "Introduction",
+            "page_start": 1,
+            "page_end": 3,
+            "text": "| 1 (as on 15.04.2025)\n\n\n\n\n| 2 5. Inputs Situation a) Water Reservoir Status: As on 11th April 2025, the total live water storage in 161 important reservoirs across the country (monitored by CWC) is 66.82 Billion Cubic Meter, which is 37% of total live storage capacity (182.37 BCM). The current year's storage is nearly 111 percent of last year's storage and 111 percent of the average storage of the last ten years during the corresponding period. The overall storage position is better than the corresponding period of last year in the country as a whole and is also better than the Normal storage during the corresponding period. b) Groundwater Levels: Approximately 66.6% of monitoring wells show water levels between 0-5 m, while 29.1% report levels between 5-10 m. Decadal analysis (2014–2023) indicates a rise in 64.9% of wells and a decline in 35.1% as of August 2024. c) Seeds and Fertilizers: For Rabi 2024-25, certified seed availability is 337.98 lakh quintals against a requirement of 307.07 lakh quintals, ensuring a surplus of 30.90 lakh quintals. The fertilizer supply remains stable across all products. 6. Pests & Diseases: Intensity of pests and diseases, at some fields, has been reported to be above Economic Threshold Level for Coconut (Stem bleeding, Ganoderma wilt, Rugose spiraling whitefly, Leaf blight) in Karnataka. The Advisory has been issued by the survey team to the farms and regular monitoring is being carried out. The overall intensity of pests and diseases remained below the Economic Threshold Level. 7. Crops whose Mandi Wholesale prices are below MSP: All India Mandi Wholesale Prices Commodities MSP (RS/Qtl) Price as on 26-03-2025 % Variation over MSP Arhar whole Masur whole Urad whole Groundnut Mustard Soyabean Sunflower 7550 6700 7400 6783 5950 4892 7280 7087 6296 6927 5143 5828 4248 4950 6.13 6.02 6.4 24.17 2.05 13.16 32.0\n| 3",
+            "word_count": 308,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 2,
+                    "rows_count": 11,
+                    "columns_count": 2,
+                    "header": [
+                        "a) Water Reservoir Status: As on 11th April 2025, the total live water storage in 161 important",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "a) Water Reservoir Status: As on 11th April 2025, the total live water storage in 161 important",
+                            ""
+                        ],
+                        [
+                            "reservoirs across the country (monitored by CWC) is 66.82 Billion Cubic Meter, which is",
+                            ""
+                        ],
+                        [
+                            "37% of total live storage capacity (182.37 BCM). The current year's storage is nearly 111",
+                            ""
+                        ],
+                        [
+                            "percent of last year's storage and 111 percent of the average storage of the last ten years",
+                            ""
+                        ],
+                        [
+                            "during the corresponding period.",
+                            ""
+                        ],
+                        [
+                            "",
+                            "The overall storage position is better than the corresponding period of last year in the"
+                        ],
+                        [
+                            "",
+                            "country as a whole and is also better than the Normal storage during the corresponding"
+                        ],
+                        [
+                            "",
+                            "period."
+                        ],
+                        [
+                            "b) Groundwater Levels: Approximately 66.6% of monitoring wells show water levels between",
+                            ""
+                        ],
+                        [
+                            "0-5 m, while 29.1% report levels between 5-10 m. Decadal analysis (2014–2023) indicates a",
+                            ""
+                        ],
+                        [
+                            "rise in 64.9% of wells and a decline in 35.1% as of August 2024.",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 2,
+                    "rows_count": 9,
+                    "columns_count": 12,
+                    "header": [
+                        "All India Mandi Wholesale Prices",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Mandi Wholesale Prices",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Commodities",
+                            "",
+                            "",
+                            "MSP (RS/Qtl)",
+                            "",
+                            "",
+                            "Price as on 26-03-2025",
+                            "",
+                            "",
+                            "% Variation over MSP",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Arhar whole",
+                            "",
+                            "",
+                            "7550",
+                            "",
+                            "",
+                            "7087",
+                            "",
+                            "",
+                            "6.13",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Masur whole",
+                            "",
+                            "",
+                            "6700",
+                            "",
+                            "",
+                            "6296",
+                            "",
+                            "",
+                            "6.02",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Urad whole",
+                            "",
+                            "",
+                            "7400",
+                            "",
+                            "",
+                            "6927",
+                            "",
+                            "",
+                            "6.4",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Groundnut",
+                            "",
+                            "",
+                            "6783",
+                            "",
+                            "",
+                            "5143",
+                            "",
+                            "",
+                            "24.17",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Mustard",
+                            "",
+                            "",
+                            "5950",
+                            "",
+                            "",
+                            "5828",
+                            "",
+                            "",
+                            "2.05",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Soyabean",
+                            "",
+                            "",
+                            "4892",
+                            "",
+                            "",
+                            "4248",
+                            "",
+                            "",
+                            "13.16",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Sunflower",
+                            "",
+                            "",
+                            "7280",
+                            "",
+                            "",
+                            "4950",
+                            "",
+                            "",
+                            "32.0",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 1,
+                    "xref": 13,
+                    "image_name": "page_1_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_1_image_1.png",
+                    "width": 1213,
+                    "height": 281,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 3,
+                    "xref": 59,
+                    "image_name": "page_3_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_3_image_2.png",
+                    "width": 733,
+                    "height": 807,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 3,
+                    "page": 3,
+                    "xref": 65,
+                    "image_name": "page_3_image_3.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_3_image_3.png",
+                    "width": 1193,
+                    "height": 193,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 3,
+            "multimodal_score": 7,
+            "keywords": [
+                "storage",
+                "water",
+                "corresponding period",
+                "pests diseases",
+                "lakh quintals",
+                "groundwater",
+                "fertilizers",
+                "fertilizer",
+                "reservoir",
+                "mustard"
+            ],
+            "quality": "excellent"
+        },
+        {
+            "chunk_id": "CWWG_00002",
+            "chunk_type": "text",
+            "heading": "Details of each Segment",
+            "page_start": 3,
+            "page_end": 4,
+            "text": "- During the week (03rd Mar 2025 – 09th April 2025), lower rainfall was observed, as compared to Long Period Average (LPA) by 21%. Cumulative seasonal rainfall (01th Mar to 15th April 2025) is lower than LPA by 23%. Rainfall Forecast: 10th April – 16th April 2025 - Scattered to fairly widespread light/moderate rainfall accompanied with thunderstorm, lightning & gusty winds (speed reaching 40-50 kmph) likely over Northeast & East India during next 4 days. - Isolated to scattered rainfall accompanied with thunderstorm, lightning & gusty winds (speed reaching 40-50 kmph) likely over the plains of Central India and Maharashtra on 15th April. Heavy rainfall likely over Odisha on 15th & 16th; Assam & Meghalaya during 16th-18th; Nagaland, Manipur, Mizoram &Tripura on 17th April. - Scattered to fairly widespread light/moderate rainfall accompanied with thunderstorm, lightning & gusty winds (speed 30-40 kmph) likely over Tamil Nadu, Puducherry & Karaikal, Coastal Andhra Pradesh & Yanam, Rayalaseema, Telangana and Interior Karnataka during next 4 days. Isolated to Scattered light/moderate rainfall accompanied\n| 4 with thunderstorm, lightning & gusty winds (speed 40-50 kmph) likely over Kerala & Mahe during next 2 days. - An intense Western Disturbance likely to affect Western Himalayan Region from 16th to 20th with peak intensity with isolated heavy falls on 18th & 19th April.",
+            "word_count": 215,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 3,
+                    "rows_count": 11,
+                    "columns_count": 1,
+                    "header": [
+                        "- Scattered to fairly widespread light/moderate rainfall accompanied with thunderstorm,"
+                    ],
+                    "rows": [
+                        [
+                            "- Scattered to fairly widespread light/moderate rainfall accompanied with thunderstorm,"
+                        ],
+                        [
+                            "lightning & gusty winds (speed reaching 40-50 kmph) likely over Northeast & East India"
+                        ],
+                        [
+                            "during next 4 days."
+                        ],
+                        [
+                            "- Isolated to scattered rainfall accompanied with thunderstorm, lightning & gusty winds"
+                        ],
+                        [
+                            "(speed reaching 40-50 kmph) likely over the plains of Central India and Maharashtra on"
+                        ],
+                        [
+                            "15th April. Heavy rainfall likely over Odisha on 15th & 16th; Assam & Meghalaya"
+                        ],
+                        [
+                            "during 16th-18th; Nagaland, Manipur, Mizoram &Tripura on 17th April."
+                        ],
+                        [
+                            "- Scattered to fairly widespread light/moderate rainfall accompanied with thunderstorm,"
+                        ],
+                        [
+                            "lightning & gusty winds (speed 30-40 kmph) likely over Tamil Nadu, Puducherry &"
+                        ],
+                        [
+                            "Karaikal, Coastal Andhra Pradesh & Yanam, Rayalaseema, Telangana and Interior"
+                        ],
+                        [
+                            "Karnataka during next 4 days. Isolated to Scattered light/moderate rainfall accompanied"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 4,
+                    "rows_count": 11,
+                    "columns_count": 1,
+                    "header": [
+                        "- Under the influence of western disturbances, isolated to scattered rainfall is likely over"
+                    ],
+                    "rows": [
+                        [
+                            "- Under the influence of western disturbances, isolated to scattered rainfall is likely over"
+                        ],
+                        [
+                            "the Western Himalayan Region during some days of the week. Due to trough/cyclonic"
+                        ],
+                        [
+                            "circulations over East India, light/moderate scattered to fairly widespread rainfall along"
+                        ],
+                        [
+                            "with thunderstorms & lightning are likely over northeast India & adjoining East India"
+                        ],
+                        [
+                            "during some/many days of the week."
+                        ],
+                        [
+                            "- Isolated heavy rainfall is also likely over northeast India during some days of the week."
+                        ],
+                        [
+                            "Light/moderate rainfall, along with thunderstorms & lightning, is also likely over south"
+                        ],
+                        [
+                            "Peninsular India during some days of the week."
+                        ],
+                        [
+                            "- Overall, normal to above normal rainfall, along with thunderstorms & lightning, are"
+                        ],
+                        [
+                            "likely over many parts of East & northeast India and South Peninsular India and near"
+                        ],
+                        [
+                            "normal over the Western Himalayan Region during the week."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 3,
+                    "xref": 58,
+                    "image_name": "page_3_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_3_image_1.png",
+                    "width": 683,
+                    "height": 739,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 3,
+                    "xref": 59,
+                    "image_name": "page_3_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_3_image_2.png",
+                    "width": 733,
+                    "height": 807,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 3,
+                    "page": 3,
+                    "xref": 65,
+                    "image_name": "page_3_image_3.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_3_image_3.png",
+                    "width": 1193,
+                    "height": 193,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 3,
+            "multimodal_score": 7,
+            "keywords": [
+                "rainfall",
+                "likely over",
+                "accompanied thunderstorm",
+                "thunderstorm lightning",
+                "rainfall accompanied",
+                "lightning gusty",
+                "gusty winds",
+                "winds speed",
+                "kmph likely",
+                "april"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00003",
+            "chunk_type": "text",
+            "heading": "Details of each Segment",
+            "page_start": 3,
+            "page_end": 4,
+            "text": "Isolated Hailstorm likely over Jammu-Kashmir-Ladakh on 18th Himachal Pradesh, Uttarakhand on 18th & 19th. Rainfall along with thunderstorm & lightning and gusty winds is likely over adjoining plains of northwest India during 18th to 20th April, 2025. - No significant weather likely over rest parts of the country during the week. 17th April – 23rd April 2025 - Under the influence of western disturbances, isolated to scattered rainfall is likely over the Western Himalayan Region during some days of the week. Due to trough/cyclonic circulations over East India, light/moderate scattered to fairly widespread rainfall along with thunderstorms & lightning are likely over northeast India & adjoining East India during some/many days of the week. - Isolated heavy rainfall is also likely over northeast India during some days of the week. Light/moderate rainfall, along with thunderstorms & lightning, is also likely over south Peninsular India during some days of the week. - Overall, normal to above normal rainfall, along with thunderstorms & lightning, are likely over many parts of East & northeast India and South Peninsular India and near normal over the Western Himalayan Region during the week.",
+            "word_count": 187,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 3,
+                    "rows_count": 11,
+                    "columns_count": 1,
+                    "header": [
+                        "- Scattered to fairly widespread light/moderate rainfall accompanied with thunderstorm,"
+                    ],
+                    "rows": [
+                        [
+                            "- Scattered to fairly widespread light/moderate rainfall accompanied with thunderstorm,"
+                        ],
+                        [
+                            "lightning & gusty winds (speed reaching 40-50 kmph) likely over Northeast & East India"
+                        ],
+                        [
+                            "during next 4 days."
+                        ],
+                        [
+                            "- Isolated to scattered rainfall accompanied with thunderstorm, lightning & gusty winds"
+                        ],
+                        [
+                            "(speed reaching 40-50 kmph) likely over the plains of Central India and Maharashtra on"
+                        ],
+                        [
+                            "15th April. Heavy rainfall likely over Odisha on 15th & 16th; Assam & Meghalaya"
+                        ],
+                        [
+                            "during 16th-18th; Nagaland, Manipur, Mizoram &Tripura on 17th April."
+                        ],
+                        [
+                            "- Scattered to fairly widespread light/moderate rainfall accompanied with thunderstorm,"
+                        ],
+                        [
+                            "lightning & gusty winds (speed 30-40 kmph) likely over Tamil Nadu, Puducherry &"
+                        ],
+                        [
+                            "Karaikal, Coastal Andhra Pradesh & Yanam, Rayalaseema, Telangana and Interior"
+                        ],
+                        [
+                            "Karnataka during next 4 days. Isolated to Scattered light/moderate rainfall accompanied"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 4,
+                    "rows_count": 11,
+                    "columns_count": 1,
+                    "header": [
+                        "- Under the influence of western disturbances, isolated to scattered rainfall is likely over"
+                    ],
+                    "rows": [
+                        [
+                            "- Under the influence of western disturbances, isolated to scattered rainfall is likely over"
+                        ],
+                        [
+                            "the Western Himalayan Region during some days of the week. Due to trough/cyclonic"
+                        ],
+                        [
+                            "circulations over East India, light/moderate scattered to fairly widespread rainfall along"
+                        ],
+                        [
+                            "with thunderstorms & lightning are likely over northeast India & adjoining East India"
+                        ],
+                        [
+                            "during some/many days of the week."
+                        ],
+                        [
+                            "- Isolated heavy rainfall is also likely over northeast India during some days of the week."
+                        ],
+                        [
+                            "Light/moderate rainfall, along with thunderstorms & lightning, is also likely over south"
+                        ],
+                        [
+                            "Peninsular India during some days of the week."
+                        ],
+                        [
+                            "- Overall, normal to above normal rainfall, along with thunderstorms & lightning, are"
+                        ],
+                        [
+                            "likely over many parts of East & northeast India and South Peninsular India and near"
+                        ],
+                        [
+                            "normal over the Western Himalayan Region during the week."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 3,
+                    "xref": 58,
+                    "image_name": "page_3_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_3_image_1.png",
+                    "width": 683,
+                    "height": 739,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 3,
+                    "xref": 59,
+                    "image_name": "page_3_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_3_image_2.png",
+                    "width": 733,
+                    "height": 807,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 3,
+                    "page": 3,
+                    "xref": 65,
+                    "image_name": "page_3_image_3.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_3_image_3.png",
+                    "width": 1193,
+                    "height": 193,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 3,
+            "multimodal_score": 7,
+            "keywords": [
+                "likely over",
+                "rainfall",
+                "over",
+                "rainfall along",
+                "days week",
+                "likely",
+                "thunderstorms lightning",
+                "along thunderstorms",
+                "some days",
+                "cyclonic"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00004",
+            "chunk_type": "text",
+            "heading": "2. TEMPERATURE: MIN & MAX",
+            "page_start": 4,
+            "page_end": 5,
+            "text": "| 5 Temperature Forecast 10th April – 16th April 2025 - Fall by 3-5°C in maximum temperatures likely over Northwest India during next 3 days and gradual rise by 2-4°C thereafter during subsequent 4 days. Fall by 2-4°C in maximum temperatures likely over Central India during next 3 days and no significant change thereafter during subsequent 4 days. - Fall by 2-4°C in maximum temperatures likely over west India during next 3 days and gradual rise by 2-3°C thereafter during subsequent 4 days. - No significant change over rest parts of the country. 17th April – 23rd April 2025 - Maximum temperatures are likely to be above normal by 1-3°C over many parts of northwest India, some parts of East India and over Gujarat. It is near normal or below normal over rest parts of the country. There is a low to moderate probability of heatwave conditions over some/isolated pockets of Rajasthan, south Haryana & south Punjab, north Gujarat and Madhya Pradesh during some days of the week.",
+            "word_count": 168,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 4,
+                    "rows_count": 8,
+                    "columns_count": 1,
+                    "header": [
+                        "with thunderstorm, lightning & gusty winds (speed 40-50 kmph) likely over Kerala &"
+                    ],
+                    "rows": [
+                        [
+                            "with thunderstorm, lightning & gusty winds (speed 40-50 kmph) likely over Kerala &"
+                        ],
+                        [
+                            "Mahe during next 2 days."
+                        ],
+                        [
+                            "- An intense Western Disturbance likely to affect Western Himalayan Region from 16th to"
+                        ],
+                        [
+                            "20th with peak intensity with isolated heavy falls on 18th & 19th April. Isolated"
+                        ],
+                        [
+                            "Hailstorm likely over Jammu-Kashmir-Ladakh on 18th Himachal Pradesh, Uttarakhand"
+                        ],
+                        [
+                            "on 18th & 19th. Rainfall along with thunderstorm & lightning and gusty winds is likely"
+                        ],
+                        [
+                            "over adjoining plains of northwest India during 18th to 20th April, 2025."
+                        ],
+                        [
+                            "- No significant weather likely over rest parts of the country during the week."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 4,
+                    "rows_count": 11,
+                    "columns_count": 1,
+                    "header": [
+                        "- Under the influence of western disturbances, isolated to scattered rainfall is likely over"
+                    ],
+                    "rows": [
+                        [
+                            "- Under the influence of western disturbances, isolated to scattered rainfall is likely over"
+                        ],
+                        [
+                            "the Western Himalayan Region during some days of the week. Due to trough/cyclonic"
+                        ],
+                        [
+                            "circulations over East India, light/moderate scattered to fairly widespread rainfall along"
+                        ],
+                        [
+                            "with thunderstorms & lightning are likely over northeast India & adjoining East India"
+                        ],
+                        [
+                            "during some/many days of the week."
+                        ],
+                        [
+                            "- Isolated heavy rainfall is also likely over northeast India during some days of the week."
+                        ],
+                        [
+                            "Light/moderate rainfall, along with thunderstorms & lightning, is also likely over south"
+                        ],
+                        [
+                            "Peninsular India during some days of the week."
+                        ],
+                        [
+                            "- Overall, normal to above normal rainfall, along with thunderstorms & lightning, are"
+                        ],
+                        [
+                            "likely over many parts of East & northeast India and South Peninsular India and near"
+                        ],
+                        [
+                            "normal over the Western Himalayan Region during the week."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 5,
+                    "rows_count": 5,
+                    "columns_count": 1,
+                    "header": [
+                        "- Maximum temperatures are likely to be above normal by 1-3°C over many parts of"
+                    ],
+                    "rows": [
+                        [
+                            "- Maximum temperatures are likely to be above normal by 1-3°C over many parts of"
+                        ],
+                        [
+                            "northwest India, some parts of East India and over Gujarat. It is near normal or below"
+                        ],
+                        [
+                            "normal over rest parts of the country. There is a low to moderate probability of heatwave"
+                        ],
+                        [
+                            "conditions over some/isolated pockets of Rajasthan, south Haryana & south Punjab,"
+                        ],
+                        [
+                            "north Gujarat and Madhya Pradesh during some days of the week."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 4,
+                    "page": 5,
+                    "rows_count": 2,
+                    "columns_count": 1,
+                    "header": [
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            ""
+                        ],
+                        [
+                            "Week 1 (10th – 17th April)"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 5,
+                    "page": 5,
+                    "rows_count": 3,
+                    "columns_count": 1,
+                    "header": [
+                        "Heat wave conditions likely over Rajasthan till 17th, over Gujarat state from 15th to 17th;"
+                    ],
+                    "rows": [
+                        [
+                            "Heat wave conditions likely over Rajasthan till 17th, over Gujarat state from 15th to 17th;"
+                        ],
+                        [
+                            "Punjab, Haryana, Chandigarh & Delhi and West Madhya Pradesh during 16th to 18th"
+                        ],
+                        [
+                            "April."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 4,
+                    "xref": 68,
+                    "image_name": "page_4_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_4_image_1.png",
+                    "width": 618,
+                    "height": 436,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 5,
+            "image_count": 1,
+            "multimodal_score": 11,
+            "keywords": [
+                "maximum temperatures",
+                "temperatures likely",
+                "over",
+                "days",
+                "thereafter subsequent",
+                "subsequent days",
+                "fall maximum",
+                "temperature",
+                "likely over",
+                "next days"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00005",
+            "chunk_type": "text",
+            "heading": "Heat wave Forecast",
+            "page_start": 5,
+            "page_end": 8,
+            "text": "Week 1 (10th – 17th April) Heat wave conditions likely over Rajasthan till 17th, over Gujarat state from 15th to 17th; Punjab, Haryana, Chandigarh & Delhi and West Madhya Pradesh during 16th to 18th April.\n| 6 Week 2 ( 18th – 24th April) Heat Wave conditions likely over Rajasthan during 18th-19th, there is low to moderate probability of heat wave conditions over some/isolated pockets of Rajasthan, south Haryana & south Punjab, north Gujarat and Madhya Pradesh during some days of the week.\n| 7\n\n\nCurrent live storage in 161 reservoirs was 66.82 BCM (37%) of total live capacity of 182.37 BCM. Table 1: For 161 major reservoirs of the country Source: CWC Period Storage as % of FRL Storage as % of Last Year Storage as % of 10 Year’s Average Level Current Week 37 111 111 Last Week 40 114 118\n| 8",
+            "word_count": 145,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 5,
+                    "rows_count": 7,
+                    "columns_count": 1,
+                    "header": [
+                        "- Fall by 3-5°C in maximum temperatures likely over Northwest India during next 3 days"
+                    ],
+                    "rows": [
+                        [
+                            "- Fall by 3-5°C in maximum temperatures likely over Northwest India during next 3 days"
+                        ],
+                        [
+                            "and gradual rise by 2-4°C thereafter during subsequent 4 days. Fall by 2-4°C in"
+                        ],
+                        [
+                            "maximum temperatures likely over Central India during next 3 days and no significant"
+                        ],
+                        [
+                            "change thereafter during subsequent 4 days."
+                        ],
+                        [
+                            "- Fall by 2-4°C in maximum temperatures likely over west India during next 3 days and"
+                        ],
+                        [
+                            "gradual rise by 2-3°C thereafter during subsequent 4 days."
+                        ],
+                        [
+                            "- No significant change over rest parts of the country."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 5,
+                    "rows_count": 2,
+                    "columns_count": 1,
+                    "header": [
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            ""
+                        ],
+                        [
+                            "17th April – 23rd April 2025"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 5,
+                    "rows_count": 5,
+                    "columns_count": 1,
+                    "header": [
+                        "- Maximum temperatures are likely to be above normal by 1-3°C over many parts of"
+                    ],
+                    "rows": [
+                        [
+                            "- Maximum temperatures are likely to be above normal by 1-3°C over many parts of"
+                        ],
+                        [
+                            "northwest India, some parts of East India and over Gujarat. It is near normal or below"
+                        ],
+                        [
+                            "normal over rest parts of the country. There is a low to moderate probability of heatwave"
+                        ],
+                        [
+                            "conditions over some/isolated pockets of Rajasthan, south Haryana & south Punjab,"
+                        ],
+                        [
+                            "north Gujarat and Madhya Pradesh during some days of the week."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 4,
+                    "page": 5,
+                    "rows_count": 2,
+                    "columns_count": 1,
+                    "header": [
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            ""
+                        ],
+                        [
+                            "Week 1 (10th – 17th April)"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 5,
+                    "page": 5,
+                    "rows_count": 3,
+                    "columns_count": 1,
+                    "header": [
+                        "Heat wave conditions likely over Rajasthan till 17th, over Gujarat state from 15th to 17th;"
+                    ],
+                    "rows": [
+                        [
+                            "Heat wave conditions likely over Rajasthan till 17th, over Gujarat state from 15th to 17th;"
+                        ],
+                        [
+                            "Punjab, Haryana, Chandigarh & Delhi and West Madhya Pradesh during 16th to 18th"
+                        ],
+                        [
+                            "April."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 5,
+                    "xref": 72,
+                    "image_name": "page_5_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_5_image_1.png",
+                    "width": 618,
+                    "height": 435,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 7,
+                    "xref": 81,
+                    "image_name": "page_7_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_7_image_2.png",
+                    "width": 526,
+                    "height": 394,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 5,
+            "image_count": 2,
+            "multimodal_score": 12,
+            "keywords": [
+                "storage",
+                "wave conditions",
+                "heat wave",
+                "week",
+                "conditions likely",
+                "over rajasthan",
+                "madhya pradesh",
+                "likely over",
+                "week april",
+                "april heat"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00006",
+            "chunk_type": "text",
+            "heading": "4. REMOTE SENSING BASED SOIL MOISTURE OBSERVATION",
+            "page_start": 8,
+            "page_end": 11,
+            "text": "Soil Moisture Observation (a) Soil moisture during 06 – 12 April 2025 is better/similar to the average of the past 9 years in A.P, Karnataka, Telangana, Tamil Nadu, Gujarat, Rajasthan, M.P, Punjab, Haryana and Maharashtra. (b) Whereas it is lower than average of past 9 years avg. in parts of Bihar, Northern W.B., Chhattisgarh, Eastern U.P & in parts of southern & western Odisha. (b) Temperature Observation\n| 9\n\n\nSummer Crops - Area coverage - As on 11.04.2025, about 93.9 percent of the normal area has been sown under the summer season crops. - Rice: About 31.50 lakh ha area coverage under Summer Rice has been reported as compared to 27.55 lakh ha during the corresponding period of last year. - Pulses: About 13.79 lakh ha area coverage has been reported compared to 11.51 lakh ha during the corresponding period of last year. - Oilseeds: About 9.14 lakh ha area coverage has been reported compared to 8.58 lakh ha during the corresponding period of last year. Government of India Crops Division Progress of Area coverage under Summer crops as on 11.04.2025 Area: In lakh hectare Sl. No.",
+            "word_count": 187,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 9,
+                    "rows_count": 20,
+                    "columns_count": 10,
+                    "header": [
+                        "Sl.\nNo.",
+                        "Crops",
+                        "Normal\nSummer Area\n(DES)",
+                        "Area Sown",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "Increase/\nDecrease over\nLast year"
+                    ],
+                    "rows": [
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal\nSummer Area\n(DES)",
+                            "Area Sown",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Increase/\nDecrease over\nLast year"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current Year\n2025",
+                            "",
+                            "",
+                            "Last Year\n2024",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "",
+                            "31.50",
+                            "",
+                            "",
+                            "27.55",
+                            "",
+                            "3.95"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.645",
+                            "13.79",
+                            "",
+                            "",
+                            "11.51",
+                            "",
+                            "",
+                            "2.28"
+                        ],
+                        [
+                            "a",
+                            "Green gram",
+                            "18.950",
+                            "10.90",
+                            "",
+                            "",
+                            "9.03",
+                            "",
+                            "",
+                            "1.87"
+                        ],
+                        [
+                            "b",
+                            "Black gram",
+                            "2.695",
+                            "2.71",
+                            "",
+                            "",
+                            "2.30",
+                            "",
+                            "",
+                            "0.41"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.18",
+                            "",
+                            "",
+                            "0.17",
+                            "",
+                            "",
+                            "0.01"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum\nCoarse Cereals",
+                            "11.048",
+                            "12.54",
+                            "",
+                            "",
+                            "9.86",
+                            "",
+                            "",
+                            "2.68"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "0.42",
+                            "",
+                            "",
+                            "0.31",
+                            "",
+                            "",
+                            "0.11"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "4.08",
+                            "",
+                            "",
+                            "4.11",
+                            "",
+                            "",
+                            "-0.02"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "0.306",
+                            "0.13",
+                            "",
+                            "",
+                            "0.18",
+                            "",
+                            "",
+                            "-0.04"
+                        ],
+                        [
+                            "d",
+                            "Small Millets",
+                            "0.017",
+                            "0.03",
+                            "",
+                            "",
+                            "0.00",
+                            "",
+                            "",
+                            "0.03"
+                        ],
+                        [
+                            "e",
+                            "Maize",
+                            "6.290",
+                            "6.85",
+                            "",
+                            "",
+                            "5.32",
+                            "",
+                            "",
+                            "1.53"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "7.855",
+                            "9.14",
+                            "",
+                            "",
+                            "8.58",
+                            "",
+                            "",
+                            "0.56"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "2.995",
+                            "4.40",
+                            "",
+                            "",
+                            "3.99",
+                            "",
+                            "",
+                            "0.41"
+                        ],
+                        [
+                            "b",
+                            "Sunflower",
+                            "0.340",
+                            "0.36",
+                            "",
+                            "",
+                            "0.31",
+                            "",
+                            "",
+                            "0.05"
+                        ],
+                        [
+                            "c",
+                            "Sesamum",
+                            "4.520",
+                            "4.31",
+                            "",
+                            "",
+                            "4.11",
+                            "",
+                            "",
+                            "0.20"
+                        ],
+                        [
+                            "d",
+                            "Other Oilseeds",
+                            "0.000",
+                            "0.06",
+                            "",
+                            "",
+                            "0.16",
+                            "",
+                            "",
+                            "-1.10"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "71.343",
+                            "66.97",
+                            "",
+                            "",
+                            "57.49",
+                            "",
+                            "",
+                            "9.48"
+                        ],
+                        [
+                            "The Summer Sowing is going on smoothly. Expected to achieve normal area.",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 8,
+                    "xref": 90,
+                    "image_name": "page_8_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_8_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 8,
+                    "xref": 91,
+                    "image_name": "page_8_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_8_image_2.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "area coverage",
+                "summer",
+                "crops",
+                "moisture",
+                "area",
+                "rice",
+                "lakh",
+                "corresponding period",
+                "lakh corresponding",
+                "reported compared"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00007",
+            "chunk_type": "text",
+            "heading": "4. REMOTE SENSING BASED SOIL MOISTURE OBSERVATION",
+            "page_start": 8,
+            "page_end": 11,
+            "text": "Crops Normal Summer Area (DES) Area Sown Increase/ Decrease over Last year Current Year 2025 Last Year 2024 1 Rice 30.795 31.50 27.55 3.95 2 Pulses 21.645 13.79 11.51 2.28 a Green gram 18.950 10.90 9.03 1.87 b Black gram 2.695 2.71 2.30 0.41 c Other Pulses 0.000 0.18 0.17 0.01 3 Shree Anna cum Coarse Cereals 11.048 12.54 9.86 2.68 a Jowar 0.335 0.42 0.31 0.11 b Bajra 4.100 4.08 4.11 -0.02 c Ragi 0.306 0.13 0.18 -0.04 d Small Millets 0.017 0.03 0.00 0.03 e Maize 6.290 6.85 5.32 1.53 4 Oilseeds 7.855 9.14 8.58 0.56 a Groundnut 2.995 4.40 3.99 0.41 b Sunflower 0.340 0.36 0.31 0.05 c Sesamum 4.520 4.31 4.11 0.20 d Other Oilseeds 0.000 0.06 0.16 -1.10 Total 71.343 66.97 57.49 9.48 The Summer Sowing is going on smoothly. Expected to achieve normal area.",
+            "word_count": 140,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 9,
+                    "rows_count": 20,
+                    "columns_count": 10,
+                    "header": [
+                        "Sl.\nNo.",
+                        "Crops",
+                        "Normal\nSummer Area\n(DES)",
+                        "Area Sown",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "Increase/\nDecrease over\nLast year"
+                    ],
+                    "rows": [
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal\nSummer Area\n(DES)",
+                            "Area Sown",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Increase/\nDecrease over\nLast year"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current Year\n2025",
+                            "",
+                            "",
+                            "Last Year\n2024",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "",
+                            "31.50",
+                            "",
+                            "",
+                            "27.55",
+                            "",
+                            "3.95"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.645",
+                            "13.79",
+                            "",
+                            "",
+                            "11.51",
+                            "",
+                            "",
+                            "2.28"
+                        ],
+                        [
+                            "a",
+                            "Green gram",
+                            "18.950",
+                            "10.90",
+                            "",
+                            "",
+                            "9.03",
+                            "",
+                            "",
+                            "1.87"
+                        ],
+                        [
+                            "b",
+                            "Black gram",
+                            "2.695",
+                            "2.71",
+                            "",
+                            "",
+                            "2.30",
+                            "",
+                            "",
+                            "0.41"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.18",
+                            "",
+                            "",
+                            "0.17",
+                            "",
+                            "",
+                            "0.01"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum\nCoarse Cereals",
+                            "11.048",
+                            "12.54",
+                            "",
+                            "",
+                            "9.86",
+                            "",
+                            "",
+                            "2.68"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "0.42",
+                            "",
+                            "",
+                            "0.31",
+                            "",
+                            "",
+                            "0.11"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "4.08",
+                            "",
+                            "",
+                            "4.11",
+                            "",
+                            "",
+                            "-0.02"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "0.306",
+                            "0.13",
+                            "",
+                            "",
+                            "0.18",
+                            "",
+                            "",
+                            "-0.04"
+                        ],
+                        [
+                            "d",
+                            "Small Millets",
+                            "0.017",
+                            "0.03",
+                            "",
+                            "",
+                            "0.00",
+                            "",
+                            "",
+                            "0.03"
+                        ],
+                        [
+                            "e",
+                            "Maize",
+                            "6.290",
+                            "6.85",
+                            "",
+                            "",
+                            "5.32",
+                            "",
+                            "",
+                            "1.53"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "7.855",
+                            "9.14",
+                            "",
+                            "",
+                            "8.58",
+                            "",
+                            "",
+                            "0.56"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "2.995",
+                            "4.40",
+                            "",
+                            "",
+                            "3.99",
+                            "",
+                            "",
+                            "0.41"
+                        ],
+                        [
+                            "b",
+                            "Sunflower",
+                            "0.340",
+                            "0.36",
+                            "",
+                            "",
+                            "0.31",
+                            "",
+                            "",
+                            "0.05"
+                        ],
+                        [
+                            "c",
+                            "Sesamum",
+                            "4.520",
+                            "4.31",
+                            "",
+                            "",
+                            "4.11",
+                            "",
+                            "",
+                            "0.20"
+                        ],
+                        [
+                            "d",
+                            "Other Oilseeds",
+                            "0.000",
+                            "0.06",
+                            "",
+                            "",
+                            "0.16",
+                            "",
+                            "",
+                            "-1.10"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "71.343",
+                            "66.97",
+                            "",
+                            "",
+                            "57.49",
+                            "",
+                            "",
+                            "9.48"
+                        ],
+                        [
+                            "The Summer Sowing is going on smoothly. Expected to achieve normal area.",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 8,
+                    "xref": 90,
+                    "image_name": "page_8_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_8_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 8,
+                    "xref": 91,
+                    "image_name": "page_8_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_8_image_2.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "summer",
+                "pulses",
+                "crops",
+                "jowar",
+                "bajra",
+                "maize",
+                "rice",
+                "last year",
+                "area",
+                "year"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00008",
+            "chunk_type": "text",
+            "heading": "4. REMOTE SENSING BASED SOIL MOISTURE OBSERVATION",
+            "page_start": 8,
+            "page_end": 11,
+            "text": "Disclaimer : For Kharif crop wise estimated area, please see advanced estimates released by Ministry of Agriculture and Farmers' Welfare available on UPAg (upag.gov.in)\n| 10 Rabi Horticulture Crops Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi Season as on 11th April, 2025 Area in Lakh Hectare Crop Normal Rabi Area Sown in major producing States Area Sown** during 2024-25 Area Sown in the corresponding period of 2023-24 Increase/Decrease in 2024- 25 over 2023-24 (1) (2) (3) (4) (5) Onion 10.29 12.57 9.76 2.81 Potato 18.23 20.03 19.56 0.47 Tomato 3.83 3.20 3.14 0.06 Note - 1: The figures for major producing States in Onion and Tomato have been revised by including area sown of West Bengal. 2. The Figures for Maharashtra in Rabi Onion area sown is provisional. District-wise details regarding the over-achievement of 1.52 LHA (6.52 LHA achievement where target was 5 LHA) in Maharashtra, is yet to be received. The Rabi onion area figures will be re-assessed through field visit by the end of April, 2025. - Normal Area is the average sown area in last 5 years (2019-20 to 2023-24). - The share of major producing States is nearly 85% in case of Rabi Potato and Tomato and 90% in case of Rabi onion.",
+            "word_count": 214,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 9,
+                    "rows_count": 20,
+                    "columns_count": 10,
+                    "header": [
+                        "Sl.\nNo.",
+                        "Crops",
+                        "Normal\nSummer Area\n(DES)",
+                        "Area Sown",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "Increase/\nDecrease over\nLast year"
+                    ],
+                    "rows": [
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal\nSummer Area\n(DES)",
+                            "Area Sown",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Increase/\nDecrease over\nLast year"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current Year\n2025",
+                            "",
+                            "",
+                            "Last Year\n2024",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "",
+                            "31.50",
+                            "",
+                            "",
+                            "27.55",
+                            "",
+                            "3.95"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.645",
+                            "13.79",
+                            "",
+                            "",
+                            "11.51",
+                            "",
+                            "",
+                            "2.28"
+                        ],
+                        [
+                            "a",
+                            "Green gram",
+                            "18.950",
+                            "10.90",
+                            "",
+                            "",
+                            "9.03",
+                            "",
+                            "",
+                            "1.87"
+                        ],
+                        [
+                            "b",
+                            "Black gram",
+                            "2.695",
+                            "2.71",
+                            "",
+                            "",
+                            "2.30",
+                            "",
+                            "",
+                            "0.41"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.18",
+                            "",
+                            "",
+                            "0.17",
+                            "",
+                            "",
+                            "0.01"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum\nCoarse Cereals",
+                            "11.048",
+                            "12.54",
+                            "",
+                            "",
+                            "9.86",
+                            "",
+                            "",
+                            "2.68"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "0.42",
+                            "",
+                            "",
+                            "0.31",
+                            "",
+                            "",
+                            "0.11"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "4.08",
+                            "",
+                            "",
+                            "4.11",
+                            "",
+                            "",
+                            "-0.02"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "0.306",
+                            "0.13",
+                            "",
+                            "",
+                            "0.18",
+                            "",
+                            "",
+                            "-0.04"
+                        ],
+                        [
+                            "d",
+                            "Small Millets",
+                            "0.017",
+                            "0.03",
+                            "",
+                            "",
+                            "0.00",
+                            "",
+                            "",
+                            "0.03"
+                        ],
+                        [
+                            "e",
+                            "Maize",
+                            "6.290",
+                            "6.85",
+                            "",
+                            "",
+                            "5.32",
+                            "",
+                            "",
+                            "1.53"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "7.855",
+                            "9.14",
+                            "",
+                            "",
+                            "8.58",
+                            "",
+                            "",
+                            "0.56"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "2.995",
+                            "4.40",
+                            "",
+                            "",
+                            "3.99",
+                            "",
+                            "",
+                            "0.41"
+                        ],
+                        [
+                            "b",
+                            "Sunflower",
+                            "0.340",
+                            "0.36",
+                            "",
+                            "",
+                            "0.31",
+                            "",
+                            "",
+                            "0.05"
+                        ],
+                        [
+                            "c",
+                            "Sesamum",
+                            "4.520",
+                            "4.31",
+                            "",
+                            "",
+                            "4.11",
+                            "",
+                            "",
+                            "0.20"
+                        ],
+                        [
+                            "d",
+                            "Other Oilseeds",
+                            "0.000",
+                            "0.06",
+                            "",
+                            "",
+                            "0.16",
+                            "",
+                            "",
+                            "-1.10"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "71.343",
+                            "66.97",
+                            "",
+                            "",
+                            "57.49",
+                            "",
+                            "",
+                            "9.48"
+                        ],
+                        [
+                            "The Summer Sowing is going on smoothly. Expected to achieve normal area.",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 8,
+                    "xref": 90,
+                    "image_name": "page_8_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_8_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 8,
+                    "xref": 91,
+                    "image_name": "page_8_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_8_image_2.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "rabi",
+                "onion",
+                "area sown",
+                "area",
+                "tomato",
+                "producing states",
+                "major producing",
+                "potato",
+                "crop",
+                "potato tomato"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00009",
+            "chunk_type": "text",
+            "heading": "4. REMOTE SENSING BASED SOIL MOISTURE OBSERVATION",
+            "page_start": 8,
+            "page_end": 11,
+            "text": "- The total normal Rabi sown area in the Country (including minor producing States) was 11.37 LHA for Onion, 21.47 LHA for Potato and 5.80 LHA for Tomato. - Transplanting of Tomato crop for the ongoing Rabi season is progressing smoothly. - The sowing window is still available for Tomato crop. Given the good prices prevailing in the market, it is expected to achieve the normal area. ** In case of Onion and Tomato, transplanted area is reported. 1 1Major Producing States for Rabi Onion are: Maharashtra, Madhya Pradesh, Karnataka, Bihar, Rajasthan, Gujarat, Andhra Pradesh, Haryana, Uttar Pradesh, Telangana and Tamil Nadu Major Producing States for Rabi Potato are: Uttar Pradesh, West Bengal, Bihar, Gujarat, Madhya Pradesh, Punjab and Haryana Major Producing States for Rabi Tomato are: Andhra Pradesh, Madhya Pradesh, Karnataka, Gujarat, Maharashtra, and Telangana\n| 11",
+            "word_count": 138,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 9,
+                    "rows_count": 20,
+                    "columns_count": 10,
+                    "header": [
+                        "Sl.\nNo.",
+                        "Crops",
+                        "Normal\nSummer Area\n(DES)",
+                        "Area Sown",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "Increase/\nDecrease over\nLast year"
+                    ],
+                    "rows": [
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal\nSummer Area\n(DES)",
+                            "Area Sown",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Increase/\nDecrease over\nLast year"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current Year\n2025",
+                            "",
+                            "",
+                            "Last Year\n2024",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "",
+                            "31.50",
+                            "",
+                            "",
+                            "27.55",
+                            "",
+                            "3.95"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.645",
+                            "13.79",
+                            "",
+                            "",
+                            "11.51",
+                            "",
+                            "",
+                            "2.28"
+                        ],
+                        [
+                            "a",
+                            "Green gram",
+                            "18.950",
+                            "10.90",
+                            "",
+                            "",
+                            "9.03",
+                            "",
+                            "",
+                            "1.87"
+                        ],
+                        [
+                            "b",
+                            "Black gram",
+                            "2.695",
+                            "2.71",
+                            "",
+                            "",
+                            "2.30",
+                            "",
+                            "",
+                            "0.41"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.18",
+                            "",
+                            "",
+                            "0.17",
+                            "",
+                            "",
+                            "0.01"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum\nCoarse Cereals",
+                            "11.048",
+                            "12.54",
+                            "",
+                            "",
+                            "9.86",
+                            "",
+                            "",
+                            "2.68"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "0.42",
+                            "",
+                            "",
+                            "0.31",
+                            "",
+                            "",
+                            "0.11"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "4.08",
+                            "",
+                            "",
+                            "4.11",
+                            "",
+                            "",
+                            "-0.02"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "0.306",
+                            "0.13",
+                            "",
+                            "",
+                            "0.18",
+                            "",
+                            "",
+                            "-0.04"
+                        ],
+                        [
+                            "d",
+                            "Small Millets",
+                            "0.017",
+                            "0.03",
+                            "",
+                            "",
+                            "0.00",
+                            "",
+                            "",
+                            "0.03"
+                        ],
+                        [
+                            "e",
+                            "Maize",
+                            "6.290",
+                            "6.85",
+                            "",
+                            "",
+                            "5.32",
+                            "",
+                            "",
+                            "1.53"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "7.855",
+                            "9.14",
+                            "",
+                            "",
+                            "8.58",
+                            "",
+                            "",
+                            "0.56"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "2.995",
+                            "4.40",
+                            "",
+                            "",
+                            "3.99",
+                            "",
+                            "",
+                            "0.41"
+                        ],
+                        [
+                            "b",
+                            "Sunflower",
+                            "0.340",
+                            "0.36",
+                            "",
+                            "",
+                            "0.31",
+                            "",
+                            "",
+                            "0.05"
+                        ],
+                        [
+                            "c",
+                            "Sesamum",
+                            "4.520",
+                            "4.31",
+                            "",
+                            "",
+                            "4.11",
+                            "",
+                            "",
+                            "0.20"
+                        ],
+                        [
+                            "d",
+                            "Other Oilseeds",
+                            "0.000",
+                            "0.06",
+                            "",
+                            "",
+                            "0.16",
+                            "",
+                            "",
+                            "-1.10"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "71.343",
+                            "66.97",
+                            "",
+                            "",
+                            "57.49",
+                            "",
+                            "",
+                            "9.48"
+                        ],
+                        [
+                            "The Summer Sowing is going on smoothly. Expected to achieve normal area.",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 8,
+                    "xref": 90,
+                    "image_name": "page_8_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_8_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 8,
+                    "xref": 91,
+                    "image_name": "page_8_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_8_image_2.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "tomato",
+                "rabi",
+                "producing states",
+                "onion",
+                "pradesh",
+                "potato",
+                "crop",
+                "major producing",
+                "madhya pradesh",
+                "states rabi"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00010",
+            "chunk_type": "text",
+            "heading": "6. FERTILIZER POSITION: Availability of fertilizer has been found comfortable. Details of Requirement, Receipt,",
+            "page_start": 11,
+            "page_end": 12,
+            "text": "Availability, Sales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Rabi 2024-25 as on 15.04.2025 is given below: (Unit : in Lakh MT) Pro duct Total Requir ement Kharif 2025 Total Require ment Kharif 2024 Ope ning stock as on 1.4.2 5 Open ing stock as on 1.4.2 4 Requir ement during April, 2025 Requir ement during April, 2024 (as 15/4/25) (as on 19/4/24) Availa bility Sa les Clos ing stoc k Availa bility Sa les Clos ing stoc k UREA 185.40 177.13 55.96 79.83 21.96 20.24 67.01 5.46 61.56 94.86 6.01 88.85 DAP 56.99 59.87 9.15 17.75 7.81 7.66 10.25 0.83 9.42 19.51 1.25 18.26 MOP 11.13 10.26 8.83 6.36 1.53 1.34 9.08 0.43 8.65 6.63 0.35 6.28 NPK 76.51 74.19 34.04 40.16 8.53 7.68 37.45 1.67 35.77 43.96 1.58 42.38 SSP 32.57 36.12 21.58 18.70 3.95 4.37 22.81 0.70 22.12 19.89 0.64 19.25 TOTA L 362.60 357.56 129.55 162.79 43.79 41.28 146.60 9.09 137.51 184.85 9.83 175.02 · The above data indicates that the availability of Urea, MOP, Complexes and SSP is comfortable. · In case of DAP, the opening stock of Kharif 2025 as compared to the opening stock of Kharif 2024 is less by 11.94 LMT · As on 15th April, 2025the availability of DAP is 10.25 LMT against the requirement of 7.81 LMT during the ongoing Kharif 2025 season.\n| 12",
+            "word_count": 231,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 8,
+                    "columns_count": 13,
+                    "header": [
+                        "Pro\nduct",
+                        "Total\nRequir\nement\nKharif\n2025",
+                        "Total\nRequire\nment\nKharif\n2024",
+                        "Ope\nning\nstock\nas on\n1.4.2",
+                        "Open\ning\nstock\nas on\n1.4.2",
+                        "Requir\nement\nduring\nApril,\n2025",
+                        "Requir\nement\nduring\nApril,\n2024",
+                        "(as 15/4/25)",
+                        "",
+                        "",
+                        "(as on 19/4/24)",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Pro\nduct",
+                            "Total\nRequir\nement\nKharif\n2025",
+                            "Total\nRequire\nment\nKharif\n2024",
+                            "Ope\nning\nstock\nas on\n1.4.2",
+                            "Open\ning\nstock\nas on\n1.4.2",
+                            "Requir\nement\nduring\nApril,\n2025",
+                            "Requir\nement\nduring\nApril,\n2024",
+                            "(as 15/4/25)",
+                            "",
+                            "",
+                            "(as on 19/4/24)",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Availa\nbility",
+                            "Sa\nles",
+                            "Clos\ning\nstoc\nk",
+                            "Availa\nbility",
+                            "Sa\nles",
+                            "Clos\ning\nstoc\nk"
+                        ],
+                        [
+                            "UREA",
+                            "185.40",
+                            "177.13",
+                            "55.96",
+                            "79.83",
+                            "21.96",
+                            "20.24",
+                            "67.01",
+                            "5.46",
+                            "61.56",
+                            "94.86",
+                            "6.01",
+                            "88.85"
+                        ],
+                        [
+                            "DAP",
+                            "56.99",
+                            "59.87",
+                            "9.15",
+                            "17.75",
+                            "7.81",
+                            "7.66",
+                            "10.25",
+                            "0.83",
+                            "9.42",
+                            "19.51",
+                            "1.25",
+                            "18.26"
+                        ],
+                        [
+                            "MOP",
+                            "11.13",
+                            "10.26",
+                            "8.83",
+                            "6.36",
+                            "1.53",
+                            "1.34",
+                            "9.08",
+                            "0.43",
+                            "8.65",
+                            "6.63",
+                            "0.35",
+                            "6.28"
+                        ],
+                        [
+                            "NPK",
+                            "76.51",
+                            "74.19",
+                            "34.04",
+                            "40.16",
+                            "8.53",
+                            "7.68",
+                            "37.45",
+                            "1.67",
+                            "35.77",
+                            "43.96",
+                            "1.58",
+                            "42.38"
+                        ],
+                        [
+                            "SSP",
+                            "32.57",
+                            "36.12",
+                            "21.58",
+                            "18.70",
+                            "3.95",
+                            "4.37",
+                            "22.81",
+                            "0.70",
+                            "22.12",
+                            "19.89",
+                            "0.64",
+                            "19.25"
+                        ],
+                        [
+                            "TOTA\nL",
+                            "362.60",
+                            "357.56",
+                            "129.55",
+                            "162.79",
+                            "43.79",
+                            "41.28",
+                            "146.60",
+                            "9.09",
+                            "137.51",
+                            "184.85",
+                            "9.83",
+                            "175.02"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 1,
+            "image_count": 0,
+            "multimodal_score": 2,
+            "keywords": [
+                "kharif",
+                "requir ement",
+                "fertilizers",
+                "rabi",
+                "stock",
+                "availa bility",
+                "opening stock",
+                "stock kharif",
+                "ement april",
+                "bility les"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00011",
+            "chunk_type": "text",
+            "heading": "7. PEST & DISEASE Over all intensity of pests and disease remained below Economic Threshold Level (ETL) except:",
+            "page_start": 12,
+            "page_end": 14,
+            "text": "Crop State District/ Sub District/ Village Source Pest/ Disease Intensity Action Taken/ Remark Area infested/In fected above *ETL (ha) Coconu t Karnatak a Tumakuru , Hassan, Chikkama nagaluru and Chitradur ga Survey by RCIPMC Bengaluru Stem bleeding, Ganoderma wilt, Rugose spiraling whitefly, Leaf blight 138 Pest incidence was reported on 04.04.2025. RCIPMC, Bengaluru conducted survey in Tumakuru, Hassan, Chikkamanagaluru and Chitradurga districts from 03.04.2025 to 05.04.2025. Advisory issued through State WhatsApp group. Survey team distributed pest management leaflets to the farmers and issued on farm advisory. Regular monitoring is being carried out by all field functionaries as follow up action.\n| 13\n\n\nAll India Weekly Average Mandi Prices Increasing Trend Decreasing Trend Commodities % Variation over last Week Commodities % Variation over last Week Paddy (Rice un-milled) Gram Masur Moong Groundnut Soyabean Sesamum Tomato 0.83 4.06 1.07 13.94 0.83 0.39 12.66 9.49 Wheat Tur (Arhar) Urad Mustard Sunflower Onion Potato -0.12 -2.54 -0.19 -0.02 -8.69 -5.00 -0.59 Source: DoCA (through UPAg) All India Weekly Average Retail Prices Increasing Trend Decreasing Trend Commodities % Variation over last Week Commodities % Variation over last Week Rice Moong Dal Potato Tomato 0.07 0.04 0.34 0.96 Wheat Arhar Gram Masur Urad Mustard Oil Soyabean Oil Onion -1.32 -0.47 -0.14 -0.05 -0.06 -0.50 -0.17 -2.76 Source: DoCA (through UPAg) Details are enclosed at Annexure\n| 14",
+            "word_count": 221,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "Crop",
+                        "State",
+                        "District/\nSub\nDistrict/\nVillage",
+                        "Source",
+                        "Pest/\nDisease",
+                        "Intensity",
+                        "Action Taken/ Remark"
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "State",
+                            "District/\nSub\nDistrict/\nVillage",
+                            "Source",
+                            "Pest/\nDisease",
+                            "Intensity",
+                            "Action Taken/ Remark"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area\ninfested/In\nfected\nabove\n*ETL (ha)",
+                            ""
+                        ],
+                        [
+                            "Coconu\nt",
+                            "Karnatak\na",
+                            "Tumakuru\n, Hassan,\nChikkama\nnagaluru\nand\nChitradur\nga",
+                            "Survey by\nRCIPMC\nBengaluru",
+                            "Stem\nbleeding,\nGanoderma\nwilt,\nRugose\nspiraling\nwhitefly,\nLeaf blight",
+                            "-\n-\n-\n-\n-\n-\n-\n-\n-",
+                            "Pest incidence was\nreported on 04.04.2025.\nRCIPMC, Bengaluru\nconducted survey in\nTumakuru, Hassan,\nChikkamanagaluru and\nChitradurga districts\nfrom 03.04.2025 to\n05.04.2025.\nAdvisory issued through\nState WhatsApp group.\nSurvey team distributed\npest management leaflets\nto the farmers and issued\non farm advisory.\nRegular monitoring is\nbeing carried out by all\nfield functionaries as\nfollow up action."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 13,
+                    "rows_count": 12,
+                    "columns_count": 11,
+                    "header": [
+                        "All India Weekly Average Retail Prices",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Retail Prices",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Increasing Trend",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Decreasing Trend",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "Commodities",
+                            "",
+                            "% Variation over last",
+                            "",
+                            "Commodities",
+                            "Commodities",
+                            "",
+                            "",
+                            "% Variation over last",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Week",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Week",
+                            ""
+                        ],
+                        [
+                            "Rice\nMoong Dal\nPotato\nTomato",
+                            "",
+                            "0.07\n0.04\n0.34\n0.96",
+                            "0.07",
+                            "",
+                            "",
+                            "Wheat",
+                            "",
+                            "",
+                            "-1.32",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "0.04",
+                            "",
+                            "",
+                            "Arhar",
+                            "",
+                            "",
+                            "-0.47",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "0.34",
+                            "",
+                            "",
+                            "Gram",
+                            "",
+                            "",
+                            "-0.14",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "0.96",
+                            "",
+                            "",
+                            "Masur",
+                            "",
+                            "",
+                            "-0.05",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Urad",
+                            "",
+                            "",
+                            "-0.06",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Mustard Oil",
+                            "",
+                            "",
+                            "-0.50",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Soyabean Oil",
+                            "",
+                            "",
+                            "-0.17",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Onion",
+                            "",
+                            "",
+                            "-2.76",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 13,
+                    "rows_count": 4,
+                    "columns_count": 1,
+                    "header": [
+                        "Rice"
+                    ],
+                    "rows": [
+                        [
+                            "Rice"
+                        ],
+                        [
+                            "Moong Dal"
+                        ],
+                        [
+                            "Potato"
+                        ],
+                        [
+                            "Tomato"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 3,
+            "image_count": 0,
+            "multimodal_score": 6,
+            "keywords": [
+                "commodities variation",
+                "variation over",
+                "over last",
+                "last week",
+                "pest",
+                "mustard",
+                "tomato",
+                "potato",
+                "wheat",
+                "onion"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00012",
+            "chunk_type": "text",
+            "heading": "9. PROCUREMENT - Actual stock of Rice & Wheat together was 503.11 LMT against the buffer norm of 214.10",
+            "page_start": 14,
+            "page_end": 18,
+            "text": "All India Procurement of Paddy/Rice during KMS 2024-25 As on 14.04.2025 (Figures in LMT) Crop Rice Procurement Estimates during KMS 2024-25 (Estimates in terms of Paddy) KMS 2024-25 KMS 2023-24 Progressive Paddy procurement Progressive procurement in terms of Rice (Percentage of target achieved) Progressive Corresponding paddy Procurement Progressive Corresponding Procurement in terms of Rice Kharif 495.61 (739.69) 764.53 512.24 (103.35%) 716.31 479.93 Rabi 71.70 (107.07) 2.75 1.84 (2.57%) 5.09 3.41 (Source: CFPP Portal) All India Procurement of Wheat during RMS 2025-26 & RMS 2024-25 As on 14.04.2025 (Figures in LMT) Wheat Procurement Estimates during RMS 2025-26 ( LMTs) Progressive Wheat Procurement during RMS 2025-26 Corresponding Wheat Procurement during RMS 2024-25 312.70 33.47 32.78 (Source: CFPP Portal) ********************** | 15 Annexure All India Mandi Wholesale prices (Rs/Quintal) Current MSP Prices as on 09.04.25 One Week Ago 02.04.25 1 Month Ago 09.03.25 1 Year Ago 09.04.24 Last Week Last Month 1 Year Ago Paddy (Rice unmilled) 2300 2376 2357 2468 2394 0.83 -3.72 -0.76 Wheat 2425 2475 2478 2705 2369 -0.12 -8.49 4.48 Arhar whole 7550 7087 7272 7450 9851 -2.54 -4.87 -28.05 Gram whole 5650 5705 5482 5705 5586 4.06 0.00 2.14 Masur Whole 6700 6296 6229 6613 6436 1.07 -4.80 -2.18 Moong Whole 8682 8804 7727 7772 8414 13.94 13.29 4.64 Urad Whole 7400 6927 6940 7436 8493 -0.19 -6.85",
+            "word_count": 220,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                        "KMS 2024-25",
+                        "",
+                        "KMS 2023-24",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                            "KMS 2024-25",
+                            "",
+                            "KMS 2023-24",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "Progressive\nPaddy\nprocurement",
+                            "Progressive\nprocurement in\nterms of Rice\n(Percentage of\ntarget achieved)",
+                            "Progressive\nCorresponding\npaddy\nProcurement",
+                            "Progressive\nCorresponding\nProcurement\nin terms of\nRice"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.69)",
+                            "764.53",
+                            "512.24\n(103.35%)",
+                            "716.31",
+                            "479.93"
+                        ],
+                        [
+                            "Rabi",
+                            "71.70\n(107.07)",
+                            "2.75",
+                            "1.84\n(2.57%)",
+                            "5.09",
+                            "3.41"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 14,
+                    "rows_count": 2,
+                    "columns_count": 3,
+                    "header": [
+                        "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                        "Progressive Wheat Procurement\nduring RMS 2025-26",
+                        "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                    ],
+                    "rows": [
+                        [
+                            "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                            "Progressive Wheat Procurement\nduring RMS 2025-26",
+                            "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                        ],
+                        [
+                            "312.70",
+                            "33.47",
+                            "32.78"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 2,
+            "image_count": 0,
+            "multimodal_score": 4,
+            "keywords": [
+                "procurement",
+                "wheat",
+                "rice",
+                "wheat procurement",
+                "kharif",
+                "crop",
+                "rabi",
+                "progressive",
+                "paddy",
+                "whole"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00013",
+            "chunk_type": "text",
+            "heading": "9. PROCUREMENT - Actual stock of Rice & Wheat together was 503.11 LMT against the buffer norm of 214.10",
+            "page_start": 14,
+            "page_end": 18,
+            "text": "-18.44 Groundnut 6783 5143 5101 4994 5981 0.83 2.97 -14.02 Mustard 5950 5828 5830 5600 5188 -0.02 4.08 12.34 Soyabean 4892 4248 4231 3840 4537 0.39 10.62 -6.37 Sesamum 9267 10157 9015 8886 13587 12.66 14.29 -25.25 Sunflower 7280 4520 4950 - - -8.69 - - Onion 1167 1228 1905 1476 -5.00 -38.73 -20.94 Potato 1123 1129 1058 1481 -0.59 6.08 -24.20 Tomato 881 805 782 1483 9.49 12.69 -40.60 Commodities % Variation Over Cereals Pulses Oil Seeds Source: Agmarknet (through UPAg) All India Retail Prices (Rs/Quintal) | 16 Prices as on 09.04.25 One Week Ago 02.04.25 1 Month Ago 09.03.25 1 Year Ago 09.04.24 Last Week Last Month 1 Year Ago Rice 4290 4287 4213 4372 0.07 1.83 -1.88 Wheat 3149 3191 3319 3048 -1.32 -5.12 3.31 Arhar/Tur Dal 13038 13100 13293 14825 -0.47 -1.92 -12.05 Gram Dal 8756 8768 8770 8356 -0.14 -0.16 4.79 Masur Dal 8838 8842 8736 9290 -0.05 1.17 -4.87 Moong Dal 11210 11206 11089 11698 0.04 1.09 -4.17 Urad Dal 11902 11909 11973 12312 -0.06 -0.59 -3.33 Mustard Oil 16863 16947 17020 13599 -0.50 -0.92 24.00 Soyabean Oil 14603 14628 14663 12452 -0.17 -0.41 17.27 Onion 3061 3148 3523 3211 -2.76 -13.11 -4.67 Potato 2361 2353 2293 2525 0.34 2.97 -6.50 Tomato 2113 2093 1905 3271 0.96 10.92 -35.40 All India Weekly Average Retail",
+            "word_count": 220,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                        "KMS 2024-25",
+                        "",
+                        "KMS 2023-24",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                            "KMS 2024-25",
+                            "",
+                            "KMS 2023-24",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "Progressive\nPaddy\nprocurement",
+                            "Progressive\nprocurement in\nterms of Rice\n(Percentage of\ntarget achieved)",
+                            "Progressive\nCorresponding\npaddy\nProcurement",
+                            "Progressive\nCorresponding\nProcurement\nin terms of\nRice"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.69)",
+                            "764.53",
+                            "512.24\n(103.35%)",
+                            "716.31",
+                            "479.93"
+                        ],
+                        [
+                            "Rabi",
+                            "71.70\n(107.07)",
+                            "2.75",
+                            "1.84\n(2.57%)",
+                            "5.09",
+                            "3.41"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 14,
+                    "rows_count": 2,
+                    "columns_count": 3,
+                    "header": [
+                        "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                        "Progressive Wheat Procurement\nduring RMS 2025-26",
+                        "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                    ],
+                    "rows": [
+                        [
+                            "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                            "Progressive Wheat Procurement\nduring RMS 2025-26",
+                            "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                        ],
+                        [
+                            "312.70",
+                            "33.47",
+                            "32.78"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 2,
+            "image_count": 0,
+            "multimodal_score": 4,
+            "keywords": [
+                "mustard",
+                "potato",
+                "tomato",
+                "onion",
+                "pulses",
+                "seeds",
+                "wheat",
+                "rice",
+                "dal",
+                "potato tomato"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00014",
+            "chunk_type": "text",
+            "heading": "9. PROCUREMENT - Actual stock of Rice & Wheat together was 503.11 LMT against the buffer norm of 214.10",
+            "page_start": 14,
+            "page_end": 18,
+            "text": "Prices (In Rs./Quintal) % Variation Over Cereals Pulses Edible Oils Horticulture Source: DoCA ( through UPAg) Commodities Government of India Crops Division SOWING AND HARVESTING STATUS OF RABI CROPS AS ON 11.04.2025 (Area in lakh ha.) S. No. Crop Normal Area (DES) Area as per 2nd A.E. % Area Harvested Crop condition/Remark 1 Wheat 312.35 326.06 51.04 Harvesting almost completed in Karnataka, Chhattisgarh and Maharashtra. Harvesting is going on in a full swing in Madhya Pradesh (75%), Rajasthan (75%), Punjab (65%), Gujarat (75%), Bihar (30%), Haryana (25%), Jharkhand (35%), Uttar Pradesh (48%)West Bengal (25%), etc. 2 Rice * 42.02 43.12 45.46 100% harvested in Kerala. Harvesting is going on in a full swing in Karnataka (89%), Tamil Nadu (78%), Tripura (55%),Telangana (23%), Andhra Pradesh (47)%, etc. 3 Pulses 140.44 142.43 97.00 Crop is at Maturity to harvesting stage. a Gram 100.99 99.41 96.00 Harvesting has been completed in Gujarat, Madhya Pradesh & Maharashtra and Telangana harvesting is going on in , Andhra Pradesh (95%), Bihar (95%), Weast Bengal (95%), Odisha (90)%, Karnataka (90%), Jharkhand (90%), Chhattisgarh (95%), Rajasthan (90%), Uttar Pradesh (95%), Assam (80%)etc. b Lentil 15.13 17.38 98.00 100% harvested in Assam, Chhattisgarh and Uttar Pradesh. | 17 Harvesting is going on in , Chhattisgarh (95%), Jharkhand (95%), Rajasthan (90%), Bihar (80%) and Rajasthan 90%.",
+            "word_count": 216,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                        "KMS 2024-25",
+                        "",
+                        "KMS 2023-24",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                            "KMS 2024-25",
+                            "",
+                            "KMS 2023-24",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "Progressive\nPaddy\nprocurement",
+                            "Progressive\nprocurement in\nterms of Rice\n(Percentage of\ntarget achieved)",
+                            "Progressive\nCorresponding\npaddy\nProcurement",
+                            "Progressive\nCorresponding\nProcurement\nin terms of\nRice"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.69)",
+                            "764.53",
+                            "512.24\n(103.35%)",
+                            "716.31",
+                            "479.93"
+                        ],
+                        [
+                            "Rabi",
+                            "71.70\n(107.07)",
+                            "2.75",
+                            "1.84\n(2.57%)",
+                            "5.09",
+                            "3.41"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 14,
+                    "rows_count": 2,
+                    "columns_count": 3,
+                    "header": [
+                        "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                        "Progressive Wheat Procurement\nduring RMS 2025-26",
+                        "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                    ],
+                    "rows": [
+                        [
+                            "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                            "Progressive Wheat Procurement\nduring RMS 2025-26",
+                            "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                        ],
+                        [
+                            "312.70",
+                            "33.47",
+                            "32.78"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 2,
+            "image_count": 0,
+            "multimodal_score": 4,
+            "keywords": [
+                "harvesting",
+                "harvesting going",
+                "crop",
+                "pradesh",
+                "pulses",
+                "crops",
+                "uttar pradesh",
+                "horticulture",
+                "wheat",
+                "rabi"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00015",
+            "chunk_type": "text",
+            "heading": "9. PROCUREMENT - Actual stock of Rice & Wheat together was 503.11 LMT against the buffer norm of 214.10",
+            "page_start": 14,
+            "page_end": 18,
+            "text": "c Fieldpea $ 6.50 7.94 100.00 100% Harvesting stage. d Kulthi $ 1.98 2.00 98.00 Harvesting has been completed in Chhattisgarh, Odisha, Andhra Pradesh and Tamil Nadu. Harvesting is going on in a full swing in Karnataka (95%). e Urdbean * 6.15 6.08 95.00 100% harvested in Assam and Tamil Nadu and harvesting is going on in Andhra Pradesh (90%), Chhattisgarh (90%), Bihar (60%), Telangana (75%) and West Bengal (50%). f Moongbean * 1.44 1.34 95.00 Harvesting has been completed in Karnataka, Tamil Nadu. Harvesting going on in), Andhra Pradesh (90%), and Bihar (70%). g Lathyrus $ 2.79 2.80 99.00 Harvesting is completed in Chhattisgarh and West Bengal. Harvesting going on in Bihar (80%). h Other Pulses $ 5.46 5.47 100.00 100% Harvesting stage. 4 Shri Anna & Coarse cereals 52.20 53.86 80.56 Crop is at Maturity to harvesting stage. a Jowar * 24.37 24.77 96.547 Harvesting is completed in Maharashtra and Tamil Nadu. Harvesting is going on in Andhra Pradesh 85%, Karnataka 95% and Telangana 18%. b Maize * 22.11 22.92 69.94 Harvesting is completed in Maharashtra and Gujarat. Harvesting is going on in Andhra Pradesh 65%, Arunachal Pradesh, 20%, Assam 39%, Bihar 35%,Chhattisgarh 60%, Jharkhand 55%,Karnataka 97%,Odisha 45%,Tamil Nadu 80%, Telangana 55% Uttar Pradesh 35% and West Bengal 50%.",
+            "word_count": 211,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                        "KMS 2024-25",
+                        "",
+                        "KMS 2023-24",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                            "KMS 2024-25",
+                            "",
+                            "KMS 2023-24",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "Progressive\nPaddy\nprocurement",
+                            "Progressive\nprocurement in\nterms of Rice\n(Percentage of\ntarget achieved)",
+                            "Progressive\nCorresponding\npaddy\nProcurement",
+                            "Progressive\nCorresponding\nProcurement\nin terms of\nRice"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.69)",
+                            "764.53",
+                            "512.24\n(103.35%)",
+                            "716.31",
+                            "479.93"
+                        ],
+                        [
+                            "Rabi",
+                            "71.70\n(107.07)",
+                            "2.75",
+                            "1.84\n(2.57%)",
+                            "5.09",
+                            "3.41"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 14,
+                    "rows_count": 2,
+                    "columns_count": 3,
+                    "header": [
+                        "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                        "Progressive Wheat Procurement\nduring RMS 2025-26",
+                        "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                    ],
+                    "rows": [
+                        [
+                            "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                            "Progressive Wheat Procurement\nduring RMS 2025-26",
+                            "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                        ],
+                        [
+                            "312.70",
+                            "33.47",
+                            "32.78"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 2,
+            "image_count": 0,
+            "multimodal_score": 4,
+            "keywords": [
+                "harvesting",
+                "harvesting going",
+                "andhra pradesh",
+                "tamil nadu",
+                "nadu harvesting",
+                "going andhra",
+                "pradesh",
+                "harvesting completed",
+                "harvesting stage",
+                "west bengal"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00016",
+            "chunk_type": "text",
+            "heading": "9. PROCUREMENT - Actual stock of Rice & Wheat together was 503.11 LMT against the buffer norm of 214.10",
+            "page_start": 14,
+            "page_end": 18,
+            "text": "c Barley 5.72 6.17 58.88 Harvesting has been completed in Maharashtra and Gujarat. Harvesting is going on in Bihar 35%, Chhattisgarh 30%, Haryana 45%, Himachal Pradesh 15% Jammu &Kashmir 12%, Madhya Pradesh 85%, Punjab 30%, Rajasthan 55%,Uttar Pradesh 65%, Uttarakhand 25% and West Bengal 27%. 5 Oilseeds 87.02 95.18 92.22 a Rapeseed & Mustard 79.16 87.58 94.71 Harvesting has been completed in Andhra Pradesh, Arunachal Pradesh, Assam, Chhattisgarh, Gujarat, Himachal Pradesh, Jammu & Kashmir ,Karnataka, Madhya Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Tamilnadu, Sikkim, Tripura, Uttarakhand and West Bengal.. Harvesting going on in Bihar 95%, Haryana 96%,Jharkhand 40%, Maharashtra 92%, Punjab 90%, Rajasthan 98%, etc. b Groundnut * 3.82 4.03 51.81 Harvesting has been completed in Odisha and Telangana. Harvesting is going on in Andhra Pradesh 53 %, Bihar 50%, Karnatak 10%,Tamil Nadu 66% , Tripura 60% and West Bengal 75% c Safflower 0.72 0.64 86.01 Harvesting has been completed in Andhra Pradesh, Jharkhand and Odisha. Harvesting is going on Chhattisgarh 60%, Karnataka\n| 18 85%Telangana 60%, Maharashtra 92%. d Sunflower * 0.81 0.63 63.56 Harvesting is in full swing in Maharashtra 92%, Telangana 75%, Karnataka 53% and Tamil Nadu 77% and Andhra Pradesh 70%. e Sesamum * 0.58 0.42 40.31 Harvesting has been completed in Karnataka, Meghalaya and Telangana. Harvesting is going on Maharashtra 92%, and Tami Nadu 38%.",
+            "word_count": 219,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                        "KMS 2024-25",
+                        "",
+                        "KMS 2023-24",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                            "KMS 2024-25",
+                            "",
+                            "KMS 2023-24",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "Progressive\nPaddy\nprocurement",
+                            "Progressive\nprocurement in\nterms of Rice\n(Percentage of\ntarget achieved)",
+                            "Progressive\nCorresponding\npaddy\nProcurement",
+                            "Progressive\nCorresponding\nProcurement\nin terms of\nRice"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.69)",
+                            "764.53",
+                            "512.24\n(103.35%)",
+                            "716.31",
+                            "479.93"
+                        ],
+                        [
+                            "Rabi",
+                            "71.70\n(107.07)",
+                            "2.75",
+                            "1.84\n(2.57%)",
+                            "5.09",
+                            "3.41"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 14,
+                    "rows_count": 2,
+                    "columns_count": 3,
+                    "header": [
+                        "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                        "Progressive Wheat Procurement\nduring RMS 2025-26",
+                        "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                    ],
+                    "rows": [
+                        [
+                            "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                            "Progressive Wheat Procurement\nduring RMS 2025-26",
+                            "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                        ],
+                        [
+                            "312.70",
+                            "33.47",
+                            "32.78"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 2,
+            "image_count": 0,
+            "multimodal_score": 4,
+            "keywords": [
+                "harvesting",
+                "harvesting going",
+                "harvesting has",
+                "has completed",
+                "pradesh",
+                "andhra pradesh",
+                "west bengal",
+                "mustard",
+                "maharashtra",
+                "completed"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00017",
+            "chunk_type": "text",
+            "heading": "9. PROCUREMENT - Actual stock of Rice & Wheat together was 503.11 LMT against the buffer norm of 214.10",
+            "page_start": 14,
+            "page_end": 18,
+            "text": "f Linseed 1.93 1.88 80.96 Harvesting has been completed in Assam, Bihar, Chhattisgarh, Karnataka and Madhya Pradesh. Harvesting is going on Jharkhand 30%, Maharashtra 92%, Nagaland 50%, Uttar Pradesh80% and West Bengal 50%. g Other Oilseeds 0.00 0.39 85.87 Harvesting is completed in almost all states expect Chhattisgarh 50%, Karnataka 37%, Maharashtra 92%, Odisha 80%, Tamil Nadu 54% etc. Total Crops 634.04 660.65 74.82",
+            "word_count": 64,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                        "KMS 2024-25",
+                        "",
+                        "KMS 2023-24",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                            "KMS 2024-25",
+                            "",
+                            "KMS 2023-24",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "Progressive\nPaddy\nprocurement",
+                            "Progressive\nprocurement in\nterms of Rice\n(Percentage of\ntarget achieved)",
+                            "Progressive\nCorresponding\npaddy\nProcurement",
+                            "Progressive\nCorresponding\nProcurement\nin terms of\nRice"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.69)",
+                            "764.53",
+                            "512.24\n(103.35%)",
+                            "716.31",
+                            "479.93"
+                        ],
+                        [
+                            "Rabi",
+                            "71.70\n(107.07)",
+                            "2.75",
+                            "1.84\n(2.57%)",
+                            "5.09",
+                            "3.41"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 14,
+                    "rows_count": 2,
+                    "columns_count": 3,
+                    "header": [
+                        "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                        "Progressive Wheat Procurement\nduring RMS 2025-26",
+                        "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                    ],
+                    "rows": [
+                        [
+                            "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                            "Progressive Wheat Procurement\nduring RMS 2025-26",
+                            "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                        ],
+                        [
+                            "312.70",
+                            "33.47",
+                            "32.78"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 2,
+            "image_count": 0,
+            "multimodal_score": 4,
+            "keywords": [
+                "harvesting",
+                "crops",
+                "chhattisgarh karnataka",
+                "jharkhand maharashtra",
+                "karnataka maharashtra",
+                "maharashtra nagaland",
+                "harvesting completed",
+                "oilseeds harvesting",
+                "expect chhattisgarh",
+                "linseed harvesting"
+            ],
+            "quality": "small"
+        },
+        {
+            "chunk_id": "CWWG_00018",
+            "chunk_type": "table",
+            "heading": "Introduction",
+            "page_start": 1,
+            "page_end": 3,
+            "table_id": 1,
+            "table_index": 1,
+            "caption": "",
+            "text": "a) Water Reservoir Status: As on 11th April 2025, the total live water storage in 161 important\nreservoirs across the country (monitored by CWC) is 66.82 Billion Cubic Meter, which is\n37% of total live storage capacity (182.37 BCM). The current year's storage is nearly 111\npercent of last year's storage and 111 percent of the average storage of the last ten years\nduring the corresponding period.\nThe overall storage position is better than the corresponding period of last year in the\ncountry as a whole and is also better than the Normal storage during the corresponding\nperiod.\nb) Groundwater Levels: Approximately 66.6% of monitoring wells show water levels between\n0-5 m, while 29.1% report levels between 5-10 m. Decadal analysis (2014–2023) indicates a\nrise in 64.9% of wells and a decline in 35.1% as of August 2024.",
+            "word_count": 138,
+            "row_count": 11,
+            "column_count": 2,
+            "table_count": 2,
+            "image_count": 3,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 2,
+                    "rows_count": 11,
+                    "columns_count": 2,
+                    "header": [
+                        "a) Water Reservoir Status: As on 11th April 2025, the total live water storage in 161 important",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "a) Water Reservoir Status: As on 11th April 2025, the total live water storage in 161 important",
+                            ""
+                        ],
+                        [
+                            "reservoirs across the country (monitored by CWC) is 66.82 Billion Cubic Meter, which is",
+                            ""
+                        ],
+                        [
+                            "37% of total live storage capacity (182.37 BCM). The current year's storage is nearly 111",
+                            ""
+                        ],
+                        [
+                            "percent of last year's storage and 111 percent of the average storage of the last ten years",
+                            ""
+                        ],
+                        [
+                            "during the corresponding period.",
+                            ""
+                        ],
+                        [
+                            "",
+                            "The overall storage position is better than the corresponding period of last year in the"
+                        ],
+                        [
+                            "",
+                            "country as a whole and is also better than the Normal storage during the corresponding"
+                        ],
+                        [
+                            "",
+                            "period."
+                        ],
+                        [
+                            "b) Groundwater Levels: Approximately 66.6% of monitoring wells show water levels between",
+                            ""
+                        ],
+                        [
+                            "0-5 m, while 29.1% report levels between 5-10 m. Decadal analysis (2014–2023) indicates a",
+                            ""
+                        ],
+                        [
+                            "rise in 64.9% of wells and a decline in 35.1% as of August 2024.",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 2,
+                    "rows_count": 9,
+                    "columns_count": 12,
+                    "header": [
+                        "All India Mandi Wholesale Prices",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Mandi Wholesale Prices",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Commodities",
+                            "",
+                            "",
+                            "MSP (RS/Qtl)",
+                            "",
+                            "",
+                            "Price as on 26-03-2025",
+                            "",
+                            "",
+                            "% Variation over MSP",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Arhar whole",
+                            "",
+                            "",
+                            "7550",
+                            "",
+                            "",
+                            "7087",
+                            "",
+                            "",
+                            "6.13",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Masur whole",
+                            "",
+                            "",
+                            "6700",
+                            "",
+                            "",
+                            "6296",
+                            "",
+                            "",
+                            "6.02",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Urad whole",
+                            "",
+                            "",
+                            "7400",
+                            "",
+                            "",
+                            "6927",
+                            "",
+                            "",
+                            "6.4",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Groundnut",
+                            "",
+                            "",
+                            "6783",
+                            "",
+                            "",
+                            "5143",
+                            "",
+                            "",
+                            "24.17",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Mustard",
+                            "",
+                            "",
+                            "5950",
+                            "",
+                            "",
+                            "5828",
+                            "",
+                            "",
+                            "2.05",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Soyabean",
+                            "",
+                            "",
+                            "4892",
+                            "",
+                            "",
+                            "4248",
+                            "",
+                            "",
+                            "13.16",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Sunflower",
+                            "",
+                            "",
+                            "7280",
+                            "",
+                            "",
+                            "4950",
+                            "",
+                            "",
+                            "32.0",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 1,
+                    "xref": 13,
+                    "image_name": "page_1_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_1_image_1.png",
+                    "width": 1213,
+                    "height": 281,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 3,
+                    "xref": 59,
+                    "image_name": "page_3_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_3_image_2.png",
+                    "width": 733,
+                    "height": 807,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 3,
+                    "page": 3,
+                    "xref": 65,
+                    "image_name": "page_3_image_3.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_3_image_3.png",
+                    "width": 1193,
+                    "height": 193,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "keywords": [
+                "storage",
+                "water",
+                "corresponding period",
+                "groundwater",
+                "reservoir",
+                "levels between",
+                "year storage",
+                "better than",
+                "total live",
+                "last year"
+            ],
+            "multimodal_score": 7,
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00019",
+            "chunk_type": "table",
+            "heading": "Introduction",
+            "page_start": 1,
+            "page_end": 3,
+            "table_id": 2,
+            "table_index": 2,
+            "caption": "",
+            "text": "All India Mandi Wholesale Prices\nCommodities | MSP (RS/Qtl) | Price as on 26-03-2025 | % Variation over MSP\nArhar whole | 7550 | 7087 | 6.13\nMasur whole | 6700 | 6296 | 6.02\nUrad whole | 7400 | 6927 | 6.4\nGroundnut | 6783 | 5143 | 24.17\nMustard | 5950 | 5828 | 2.05\nSoyabean | 4892 | 4248 | 13.16\nSunflower | 7280 | 4950 | 32.0",
+            "word_count": 71,
+            "row_count": 9,
+            "column_count": 12,
+            "table_count": 2,
+            "image_count": 3,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 2,
+                    "rows_count": 11,
+                    "columns_count": 2,
+                    "header": [
+                        "a) Water Reservoir Status: As on 11th April 2025, the total live water storage in 161 important",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "a) Water Reservoir Status: As on 11th April 2025, the total live water storage in 161 important",
+                            ""
+                        ],
+                        [
+                            "reservoirs across the country (monitored by CWC) is 66.82 Billion Cubic Meter, which is",
+                            ""
+                        ],
+                        [
+                            "37% of total live storage capacity (182.37 BCM). The current year's storage is nearly 111",
+                            ""
+                        ],
+                        [
+                            "percent of last year's storage and 111 percent of the average storage of the last ten years",
+                            ""
+                        ],
+                        [
+                            "during the corresponding period.",
+                            ""
+                        ],
+                        [
+                            "",
+                            "The overall storage position is better than the corresponding period of last year in the"
+                        ],
+                        [
+                            "",
+                            "country as a whole and is also better than the Normal storage during the corresponding"
+                        ],
+                        [
+                            "",
+                            "period."
+                        ],
+                        [
+                            "b) Groundwater Levels: Approximately 66.6% of monitoring wells show water levels between",
+                            ""
+                        ],
+                        [
+                            "0-5 m, while 29.1% report levels between 5-10 m. Decadal analysis (2014–2023) indicates a",
+                            ""
+                        ],
+                        [
+                            "rise in 64.9% of wells and a decline in 35.1% as of August 2024.",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 2,
+                    "rows_count": 9,
+                    "columns_count": 12,
+                    "header": [
+                        "All India Mandi Wholesale Prices",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Mandi Wholesale Prices",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Commodities",
+                            "",
+                            "",
+                            "MSP (RS/Qtl)",
+                            "",
+                            "",
+                            "Price as on 26-03-2025",
+                            "",
+                            "",
+                            "% Variation over MSP",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Arhar whole",
+                            "",
+                            "",
+                            "7550",
+                            "",
+                            "",
+                            "7087",
+                            "",
+                            "",
+                            "6.13",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Masur whole",
+                            "",
+                            "",
+                            "6700",
+                            "",
+                            "",
+                            "6296",
+                            "",
+                            "",
+                            "6.02",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Urad whole",
+                            "",
+                            "",
+                            "7400",
+                            "",
+                            "",
+                            "6927",
+                            "",
+                            "",
+                            "6.4",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Groundnut",
+                            "",
+                            "",
+                            "6783",
+                            "",
+                            "",
+                            "5143",
+                            "",
+                            "",
+                            "24.17",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Mustard",
+                            "",
+                            "",
+                            "5950",
+                            "",
+                            "",
+                            "5828",
+                            "",
+                            "",
+                            "2.05",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Soyabean",
+                            "",
+                            "",
+                            "4892",
+                            "",
+                            "",
+                            "4248",
+                            "",
+                            "",
+                            "13.16",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Sunflower",
+                            "",
+                            "",
+                            "7280",
+                            "",
+                            "",
+                            "4950",
+                            "",
+                            "",
+                            "32.0",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 1,
+                    "xref": 13,
+                    "image_name": "page_1_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_1_image_1.png",
+                    "width": 1213,
+                    "height": 281,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 3,
+                    "xref": 59,
+                    "image_name": "page_3_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_3_image_2.png",
+                    "width": 733,
+                    "height": 807,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 3,
+                    "page": 3,
+                    "xref": 65,
+                    "image_name": "page_3_image_3.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\15-04-2025_Minutes of the meeting of CWWG as on 15.04.2025\\page_3_image_3.png",
+                    "width": 1193,
+                    "height": 193,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "keywords": [
+                "mustard",
+                "whole",
+                "prices commodities",
+                "soyabean sunflower",
+                "groundnut mustard",
+                "wholesale prices",
+                "mustard soyabean",
+                "mandi wholesale",
+                "commodities msp",
+                "price variation"
+            ],
+            "multimodal_score": 7,
+            "quality": "small"
+        }
+    ]
+}

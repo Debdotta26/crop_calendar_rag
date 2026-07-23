@@ -1,0 +1,2075 @@
+{
+    "metadata": {
+        "document_name": "03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025.pdf",
+        "document_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\..\\downloads\\pdfs\\03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025.pdf",
+        "title": "",
+        "author": "AYUSH RAJ",
+        "creator": "Microsoft® Word 2016",
+        "producer": "Microsoft® Word 2016",
+        "subject": "",
+        "keywords": "",
+        "creation_date": "D:20251107160804+05'30'",
+        "modification_date": "D:20251107160804+05'30'",
+        "total_pages": 15,
+        "file_size_bytes": 1249297,
+        "extraction_tool": "PyMuPDF",
+        "extraction_timestamp": "2026-07-19T02:09:41.261808"
+    },
+    "statistics": {
+        "pages": 15,
+        "sections": 12,
+        "merged_sections": 5,
+        "text_chunks": 9,
+        "table_chunks": 0,
+        "image_chunks": 3,
+        "total_chunks": 9
+    },
+    "chunks": [
+        {
+            "chunk_id": "CWWG_00001",
+            "chunk_type": "text",
+            "heading": "Introduction",
+            "page_start": 1,
+            "page_end": 4,
+            "text": "| 1 (as on 03.11.2025)\n\n\n\n\n| 2 b) Groundwater Levels: In August 2025, around 89% of the country's monitoring stations exhibited a depth to water level within 10 meters below ground level. Deeper water levels of more than 20 m are observed in around 5% of stations of the country covering mainly the western states, especially Western Rajasthan, Punjab, Haryana and Chandigarh. - The deeper groundwater level in the states like Western Rajasthan, Punjab, Haryana and Chandigarh during August 2025 has been significantly influenced by the over extraction of groundwater compared to the recharge during the monsoon period. - Annual water level comparison with the previous year August 2024 to August 2025 has shown that about 56.5% of total analyzed stations of the country experienced rise in annual water level fluctuation because of the higher rainfall in 2025 compared to 2024 in Monsoon period. - About 70% of the analyzed stations of the unconfined aquifer experienced a rise of water level in the decadal mean water level fluctuation of 2015-2024 with respect to August 2025. c) Seeds and Fertilizers: For Kharif 2025, certified seed availability is 178.64 lakh quintals against a requirement of 164.05 lakh quintals, ensuring a surplus of 14.60 lakh quintals. The fertilizer supply remains stable across all products. 4.",
+            "word_count": 212,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 1,
+                    "rows_count": 6,
+                    "columns_count": 1,
+                    "header": [
+                        "a) Temperature: Minimum temperature is likely to be above normal over North East India,"
+                    ],
+                    "rows": [
+                        [
+                            "a) Temperature: Minimum temperature is likely to be above normal over North East India,"
+                        ],
+                        [
+                            "East India, Central India, Gujarat and many parts of North West India."
+                        ],
+                        [
+                            "b) Rainfall Distribution: From October 01– November 02 2025, the All-India cumulative"
+                        ],
+                        [
+                            "rainfall is 49% higher than its Long Period Average (LPA), with regional variations: (i)"
+                        ],
+                        [
+                            "East & Northeast India: 20%; (ii) Northwest India: 158%; (iii) Central India: 71%; and"
+                        ],
+                        [
+                            "South Peninsula: 32%."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 1,
+                    "rows_count": 7,
+                    "columns_count": 1,
+                    "header": [
+                        "a) Water Reservoir Status: As on 30 October 2025, the total live water storage in 161 important"
+                    ],
+                    "rows": [
+                        [
+                            "a) Water Reservoir Status: As on 30 October 2025, the total live water storage in 161 important"
+                        ],
+                        [
+                            "reservoirs across the country (monitored by CWC) is 165.782 billion cubic meter, which is"
+                        ],
+                        [
+                            "90.85% of total live storage capacity (182.479 BCM). The current year's storage is nearly"
+                        ],
+                        [
+                            "104.4 percent of last year's storage and 116.3 percent of the average storage of the last ten"
+                        ],
+                        [
+                            "years during the corresponding period. The overall storage position is better than the"
+                        ],
+                        [
+                            "corresponding period of last year in the country as a whole and is also better than the"
+                        ],
+                        [
+                            "Normal storage during the corresponding period."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 2,
+                    "rows_count": 2,
+                    "columns_count": 1,
+                    "header": [
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            ""
+                        ],
+                        [
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 1,
+                    "xref": 13,
+                    "image_name": "page_1_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025\\page_1_image_1.png",
+                    "width": 1213,
+                    "height": 281,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 4,
+                    "xref": 61,
+                    "image_name": "page_4_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025\\page_4_image_2.png",
+                    "width": 497,
+                    "height": 532,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 3,
+                    "page": 4,
+                    "xref": 67,
+                    "image_name": "page_4_image_3.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025\\page_4_image_3.png",
+                    "width": 1193,
+                    "height": 193,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 3,
+            "image_count": 3,
+            "multimodal_score": 9,
+            "keywords": [
+                "water",
+                "water level",
+                "groundwater",
+                "monsoon",
+                "level",
+                "lakh quintals",
+                "fertilizers",
+                "fertilizer",
+                "rainfall",
+                "kharif"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00002",
+            "chunk_type": "text",
+            "heading": "Introduction",
+            "page_start": 1,
+            "page_end": 4,
+            "text": "Pests & Diseases: Intensity of pests and diseases at some fields has been reported to be above Economic Threshold Level for Paddy (Bacterial leaf blight Brown plant hopper and False Smut) in Jharkhand. The Advisory has been issued by the survey team to the farms and regular monitoring is being carried out. The overall intensity of pests and diseases remained below the Economic Threshold Level. | 3 5. Crops whose Mandi Wholesale prices are below MSP: All India Mandi Wholesale Prices Commodities MSP (RS/Qtl) Price as on 31-10-2025 % Variation over MSP Rice (un milled) Wheat Maize Arhar whole Gram whole Masur whole Moong whole Urad Jowar Bajra Ragi Groundnut Soyabean Sesamum Sunflower 2369 2585 2400 8000 5875 7000 8768 7800 3699 2775 4886 7263 5328 9846 7721 2337 2539 1761 6659 5792 6739 6821 6346 3412 2165 3773 5470 4065 9551 6002 -1.35 -1.78 -26.63 -16.76 -1.41 -3.73 -22.21 -18.64 -7.76 -21.98 -22.78 -24.69 -23.70 -3.00 -22.26\n| 4",
+            "word_count": 160,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 1,
+                    "rows_count": 6,
+                    "columns_count": 1,
+                    "header": [
+                        "a) Temperature: Minimum temperature is likely to be above normal over North East India,"
+                    ],
+                    "rows": [
+                        [
+                            "a) Temperature: Minimum temperature is likely to be above normal over North East India,"
+                        ],
+                        [
+                            "East India, Central India, Gujarat and many parts of North West India."
+                        ],
+                        [
+                            "b) Rainfall Distribution: From October 01– November 02 2025, the All-India cumulative"
+                        ],
+                        [
+                            "rainfall is 49% higher than its Long Period Average (LPA), with regional variations: (i)"
+                        ],
+                        [
+                            "East & Northeast India: 20%; (ii) Northwest India: 158%; (iii) Central India: 71%; and"
+                        ],
+                        [
+                            "South Peninsula: 32%."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 1,
+                    "rows_count": 7,
+                    "columns_count": 1,
+                    "header": [
+                        "a) Water Reservoir Status: As on 30 October 2025, the total live water storage in 161 important"
+                    ],
+                    "rows": [
+                        [
+                            "a) Water Reservoir Status: As on 30 October 2025, the total live water storage in 161 important"
+                        ],
+                        [
+                            "reservoirs across the country (monitored by CWC) is 165.782 billion cubic meter, which is"
+                        ],
+                        [
+                            "90.85% of total live storage capacity (182.479 BCM). The current year's storage is nearly"
+                        ],
+                        [
+                            "104.4 percent of last year's storage and 116.3 percent of the average storage of the last ten"
+                        ],
+                        [
+                            "years during the corresponding period. The overall storage position is better than the"
+                        ],
+                        [
+                            "corresponding period of last year in the country as a whole and is also better than the"
+                        ],
+                        [
+                            "Normal storage during the corresponding period."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 2,
+                    "rows_count": 2,
+                    "columns_count": 1,
+                    "header": [
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            ""
+                        ],
+                        [
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 1,
+                    "xref": 13,
+                    "image_name": "page_1_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025\\page_1_image_1.png",
+                    "width": 1213,
+                    "height": 281,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 4,
+                    "xref": 61,
+                    "image_name": "page_4_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025\\page_4_image_2.png",
+                    "width": 497,
+                    "height": 532,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 3,
+                    "page": 4,
+                    "xref": 67,
+                    "image_name": "page_4_image_3.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025\\page_4_image_3.png",
+                    "width": 1193,
+                    "height": 193,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 3,
+            "image_count": 3,
+            "multimodal_score": 9,
+            "keywords": [
+                "pests diseases",
+                "crops",
+                "wheat",
+                "maize",
+                "jowar",
+                "bajra",
+                "rice",
+                "economic threshold",
+                "wholesale prices",
+                "intensity pests"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00003",
+            "chunk_type": "text",
+            "heading": "Details of each Segment",
+            "page_start": 4,
+            "page_end": 7,
+            "text": "- During the week (23 Oct – 29 Oct 2025), lower rainfall was observed, as compared to Long Period Average (LPA) by 158%. Cumulative seasonal rainfall (01st Oct to 29 Oct 2025) is higher than LPA by 39%. Rainfall Forecast:\n\n\nTemerature Week 1 (31 Oct – 06 Nov 2025): - Minimum Temperature is likely to be above normal in NE India, East India, Central India, Gujarat and many parts of NW India.\n| 5 Week 2 (07 Nov – 13 Nov 2025): - Minimum Temperature is likely to be above normal in NE India, J&K and Uttarakhand and it is likely to be below normal in the rest of India.\n\n\nCurrent live storage in 161 reservoirs was 165.782 BCM (90.85%) of total live capacity of 182.479 BCM.\n| 6 Table 1: For 161 major reservoirs of the country - 158 reservoirs having storage more than 80% of normal storage. - 03 reservoirs having storage 51% to 80%. - 00 reservoirs having storage upto 50%. Source: CWC Period Storage as % of FRL Storage as % of Last Year Storage as % of 10 Year’s Average Level Current Week 90.8 104 116 Last Week 90.7 104 116\n| 7",
+            "word_count": 198,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 6,
+                    "rows_count": 3,
+                    "columns_count": 4,
+                    "header": [
+                        "Period",
+                        "Storage\nas % of\nFRL",
+                        "Storage\nas % of\nLast\nYear",
+                        "Storage as %\nof 10 Year’s\nAverage\nLevel"
+                    ],
+                    "rows": [
+                        [
+                            "Period",
+                            "Storage\nas % of\nFRL",
+                            "Storage\nas % of\nLast\nYear",
+                            "Storage as %\nof 10 Year’s\nAverage\nLevel"
+                        ],
+                        [
+                            "Current\nWeek",
+                            "90.8",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Last\nWeek",
+                            "90.7",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 4,
+                    "xref": 60,
+                    "image_name": "page_4_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025\\page_4_image_1.png",
+                    "width": 511,
+                    "height": 529,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 4,
+                    "xref": 61,
+                    "image_name": "page_4_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025\\page_4_image_2.png",
+                    "width": 497,
+                    "height": 532,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 3,
+                    "page": 4,
+                    "xref": 67,
+                    "image_name": "page_4_image_3.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025\\page_4_image_3.png",
+                    "width": 1193,
+                    "height": 193,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 3,
+            "multimodal_score": 5,
+            "keywords": [
+                "storage",
+                "rainfall",
+                "temperature",
+                "storage reservoirs",
+                "reservoirs having",
+                "having storage",
+                "forecast",
+                "reservoirs",
+                "week",
+                "oct"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00004",
+            "chunk_type": "text",
+            "heading": "4. REMOTE SENSING BASED SOIL MOISTURE OBSERVATION",
+            "page_start": 7,
+            "page_end": 8,
+            "text": "Soil Moisture Observation - Soil moisture as on 29 Oct 2025 was similar/better than the average of the past 9 years in major parts of M.P, Rajasthan, Uttar Pradesh, Chhattisgarh, Gujarat, Jharkhand, Odisha, Haryana, Punjab, Karnataka, Kerala, Tamil Nadu, Maharashtra, Telangana, A.P. and Bihar. - It was lower than average of past 9 years in pockets of Bihar, in North eastern parts of Jharkhand, in pockets of eastern part of UP and in pockets of Assam and West Bengal.\n\n\nAvailability of fertilizer has been found comfortable. Details of Requirement, Receipt, Availability, Sales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Rabi 2025-26 as on 31.10.2025 is given below:\n| 8 (Unit : in Lakh MT) Produ ct Total Requirem ent Rabi 2025-26 Total Requirem ent Rabi 2024-25 Openi ng stock as on 1.10.2 5 Openin g stock as on 1.10.2 4 Requirem ent during October, 2025 Requirem ent during October, 2024 (as on 31/10/25) (upto 31/10/24) Availabili ty Sale s Closin g stock Availabili ty Sale s Closin g stock UREA 196.06 186.89 37.33 63.02 39.68 36.65 72.77 22.23 50.54 91.39 23.23 68.16 DAP 53.43 52.05 20.07 12.23 18.81 18.69 32.79 13.75 19.05 23.00 11.48 11.52 MOP 15.69 11.95 7.14 7.33 3.35 3.05 9.35 2.02 7.33 9.76 2.35 7.41 NPK 82.38 77.10 35.59 35.94 20.84 19.87 48.36 12.15 36.21 46.54 15.41 31.13 SSP 31.19 36.48 22.45 21.76 9.37 10.40 27.77 5.90 21.87 27.11 5.85 21.26 TOTAL 378.75 364.47 122.57 140.29 92.06 88.66 191.04 56.04 135.00 197.80 58.32 139.48 - The above data indicates that the availability of Urea, MOP, Complexes and SSP is comfortable. - In case of DAP, The opening stock of Rabi 2025-26 as compared to the opening stock of Rabi 2024-25 is more by 7.84 LMT - As on 31st October, 2025the availability of DAP is 32.79 LMT against the requirement of 18.81 LMT during the ongoing Rabi 2025-26 season.",
+            "word_count": 318,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 8,
+                    "rows_count": 4,
+                    "columns_count": 8,
+                    "header": [
+                        "(Unit : in Lakh MT)\n(as on 31/10/25) (upto 31/10/24)\nOpeni\nOpenin\nTotal Total ng Requirem Requirem\ng stock\nProdu Requirem Requirem stock ent during ent during\nas on\nct ent Rabi ent Rabi as on October, October, Closin Closin\n1.10.2 Availabili Sale Availabili Sale\n2025-26 2024-25 1.10.2 2025 2024 g g\n4 ty s ty s\n5stock stock\nUREA 196.06 186.89 37.33 63.02 39.68 36.65 72.77 22.23 50.54 91.39 23.23 68.16\nDAP 53.43 52.05 20.07 12.23 18.81 18.69 32.79 13.75 19.05 23.00 11.48 11.52\nMOP 15.69 11.95 7.14 7.33 3.35 3.05 9.35 2.02 7.33 9.76 2.35 7.41\nNPK 82.38 77.10 35.59 35.94 20.84 19.87 48.36 12.15 36.21 46.54 15.41 31.13\nSSP 31.19 36.48 22.45 21.76 9.37 10.40 27.77 5.90 21.87 27.11 5.85 21.26\nTOTAL 378.75 364.47 122.57 140.29 92.06 88.66 191.04 56.04 135.00 197.80 58.32 139.48\n- The above data indicates that the availability of Urea, MOP, Complexes and SSP is\ncomfortable.\n- In case of DAP, The opening stock of Rabi 2025-26 as compared to the opening stock of Rabi\n2024-25 is more by 7.84 LMT\n- As on 31st October, 2025the availability of DAP is 32.79 LMT against the requirement of\n18.81 LMT during the ongoing Rabi 2025-26 season.\n6. PEST & DISEASE\n- Over all intensity of pests and disease remained below Economic Threshold Level (ETL)\nexcept:",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "(Unit : in Lakh MT)\n(as on 31/10/25) (upto 31/10/24)\nOpeni\nOpenin\nTotal Total ng Requirem Requirem\ng stock\nProdu Requirem Requirem stock ent during ent during\nas on\nct ent Rabi ent Rabi as on October, October, Closin Closin\n1.10.2 Availabili Sale Availabili Sale\n2025-26 2024-25 1.10.2 2025 2024 g g\n4 ty s ty s\n5stock stock\nUREA 196.06 186.89 37.33 63.02 39.68 36.65 72.77 22.23 50.54 91.39 23.23 68.16\nDAP 53.43 52.05 20.07 12.23 18.81 18.69 32.79 13.75 19.05 23.00 11.48 11.52\nMOP 15.69 11.95 7.14 7.33 3.35 3.05 9.35 2.02 7.33 9.76 2.35 7.41\nNPK 82.38 77.10 35.59 35.94 20.84 19.87 48.36 12.15 36.21 46.54 15.41 31.13\nSSP 31.19 36.48 22.45 21.76 9.37 10.40 27.77 5.90 21.87 27.11 5.85 21.26\nTOTAL 378.75 364.47 122.57 140.29 92.06 88.66 191.04 56.04 135.00 197.80 58.32 139.48\n- The above data indicates that the availability of Urea, MOP, Complexes and SSP is\ncomfortable.\n- In case of DAP, The opening stock of Rabi 2025-26 as compared to the opening stock of Rabi\n2024-25 is more by 7.84 LMT\n- As on 31st October, 2025the availability of DAP is 32.79 LMT against the requirement of\n18.81 LMT during the ongoing Rabi 2025-26 season.\n6. PEST & DISEASE\n- Over all intensity of pests and disease remained below Economic Threshold Level (ETL)\nexcept:",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "फसल\nCrop",
+                            "राज्य\nState",
+                            "जिला/उपजिला/गाांव\nDistrict/ Sub\nDistrict/ Village",
+                            "स्रोत/\nSource",
+                            "कीट/रोग\nPest\nDisease",
+                            "राज्य में\nफसल के\nअांतगगत\nकुल\nक्षेत्रफल\n(हेक्टेयर)\nTotal\narea\nunder\nthe crop\nin the\nstate\n(ha)",
+                            "तीव्रता\nIntensity",
+                            "की गई\nकारगवाई/जटप्पणी\nAction Taken/\nRemark"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "संक्रमित/प्रभावितक्षेत्र\n*ETL (हेक्टेयर)\nसेऊपर\n/Area\ninfested/Infected\nabove *ETL (ha)",
+                            ""
+                        ],
+                        [
+                            "Paddy",
+                            "Jharkhand",
+                            "Ranchi,\nKhunti,\nLohardaga",
+                            "CIPMC, Ranchi\n1) Joint Survey\nwas conducted\nwith DAO,\nLohardaga in\nfield crops on",
+                            "Bacterial\nleaf\nblight\nBrown\nplant",
+                            "--",
+                            "",
+                            "- Advisories\nissued and\nfollow up\nis going on\nwith\nconcerned"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 8,
+                    "rows_count": 8,
+                    "columns_count": 13,
+                    "header": [
+                        "Produ\nct",
+                        "Total\nRequirem\nent Rabi\n2025-26",
+                        "Total\nRequirem\nent Rabi\n2024-25",
+                        "Openi\nng\nstock\nas on\n1.10.2",
+                        "Openin\ng stock\nas on\n1.10.2",
+                        "Requirem\nent during\nOctober,\n2025",
+                        "Requirem\nent during\nOctober,\n2024",
+                        "(as on 31/10/25)",
+                        "",
+                        "",
+                        "(upto 31/10/24)",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Produ\nct",
+                            "Total\nRequirem\nent Rabi\n2025-26",
+                            "Total\nRequirem\nent Rabi\n2024-25",
+                            "Openi\nng\nstock\nas on\n1.10.2",
+                            "Openin\ng stock\nas on\n1.10.2",
+                            "Requirem\nent during\nOctober,\n2025",
+                            "Requirem\nent during\nOctober,\n2024",
+                            "(as on 31/10/25)",
+                            "",
+                            "",
+                            "(upto 31/10/24)",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Availabili\nty",
+                            "Sale\ns",
+                            "Closin\ng\nstock",
+                            "Availabili\nty",
+                            "Sale\ns",
+                            "Closin\ng\nstock"
+                        ],
+                        [
+                            "UREA",
+                            "196.06",
+                            "186.89",
+                            "37.33",
+                            "63.02",
+                            "39.68",
+                            "36.65",
+                            "72.77",
+                            "22.23",
+                            "50.54",
+                            "91.39",
+                            "23.23",
+                            "68.16"
+                        ],
+                        [
+                            "DAP",
+                            "53.43",
+                            "52.05",
+                            "20.07",
+                            "12.23",
+                            "18.81",
+                            "18.69",
+                            "32.79",
+                            "13.75",
+                            "19.05",
+                            "23.00",
+                            "11.48",
+                            "11.52"
+                        ],
+                        [
+                            "MOP",
+                            "15.69",
+                            "11.95",
+                            "7.14",
+                            "7.33",
+                            "3.35",
+                            "3.05",
+                            "9.35",
+                            "2.02",
+                            "7.33",
+                            "9.76",
+                            "2.35",
+                            "7.41"
+                        ],
+                        [
+                            "NPK",
+                            "82.38",
+                            "77.10",
+                            "35.59",
+                            "35.94",
+                            "20.84",
+                            "19.87",
+                            "48.36",
+                            "12.15",
+                            "36.21",
+                            "46.54",
+                            "15.41",
+                            "31.13"
+                        ],
+                        [
+                            "SSP",
+                            "31.19",
+                            "36.48",
+                            "22.45",
+                            "21.76",
+                            "9.37",
+                            "10.40",
+                            "27.77",
+                            "5.90",
+                            "21.87",
+                            "27.11",
+                            "5.85",
+                            "21.26"
+                        ],
+                        [
+                            "TOTAL",
+                            "378.75",
+                            "364.47",
+                            "122.57",
+                            "140.29",
+                            "92.06",
+                            "88.66",
+                            "191.04",
+                            "56.04",
+                            "135.00",
+                            "197.80",
+                            "58.32",
+                            "139.48"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 7,
+                    "xref": 78,
+                    "image_name": "page_7_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025\\page_7_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 1,
+            "multimodal_score": 5,
+            "keywords": [
+                "rabi",
+                "requirem ent",
+                "moisture",
+                "stock",
+                "fertilizers",
+                "fertilizer",
+                "availabili sale",
+                "total requirem",
+                "soil moisture",
+                "opening stock"
+            ],
+            "quality": "excellent"
+        },
+        {
+            "chunk_id": "CWWG_00005",
+            "chunk_type": "text",
+            "heading": "6. PEST & DISEASE",
+            "page_start": 8,
+            "page_end": 10,
+            "text": "- Over all intensity of pests and disease remained below Economic Threshold Level (ETL) except: फसल Crop राज्य State जिला/उपजिला/गाांव District/ Sub District/ Village स्रोत/ Source कीट/रोग Pest Disease राज्य में फसल के अांतगगत कुल क्षेत्रफल (हेक्टेयर) Total area under the crop in the state (ha) तीव्रता Intensity की गई कारगवाई/जटप्पणी Action Taken/ Remark संक्रमित/प्रभावितक्षेत्र *ETL (हेक्टेयर) सेऊपर /Area infested/Infected above *ETL (ha) Paddy Jharkhand Ranchi, Khunti, Lohardaga CIPMC, Ranchi 1) Joint Survey was conducted with DAO, Lohardaga in field crops on Bacterial leaf blight Brown plant -- 01 - Advisories issued and follow up is going on with concerned\n| 9\n\n\nSource: Agmarknet (through UPAg) dated 29.10.25. 2) Discussion about the pest situation with Dr. Milan Kumar Chakraborty, Sr. Scientist, Birsa Agriculture University, Ranchi and Sh. Akask Sinha, JPPO, Ranchi on dated 30.10.25. NPSS App hopper DDAs. - CIB&RC recommen ded chemical pesticides having low PHI are recommen ded to spray. Paddy Jharkhand Kandri CIPMC Survey False Smut -- 03 - Advisories issued and follow up is going on with concerned DDAs. - Farmers were asked to be vigilant. All India Weekly Average Mandi Prices Increasing Trend Decreasing Trend Commodities % Variation over last Week Commodities % Variation over last Week Moong Jowar Ragi Mustard Sesamum Sunflower Onion Potato 0.92 12.94 18.20 0.74 5.09 7.46 3.77 6.32 Paddy (Rice un-milled) Wheat Maize Tur (Arhar) Gram Masur Urad Bajra Groundnut Soyabean Tomato -0.65 -0.09 -13.46 -10.74 -5.80 -3.64 -5.69 -2.26 -0.60 -1.78 -21.25\n| 10 All India Weekly Average Retail Prices Increasing Trend Decreasing Trend Commodities % Variation over last Week Commodities % Variation over last Week Arhar/Tur Dal Gram Masur Jowar Bajra Onion Potato 0.06 0.15 0.16 0.51 0.35 0.79 2.52 Rice Wheat Moong Urad Ragi Mustard Oil Soyabean Oil Tomato -0.07 -0.09 -0.14 -0.10 -0.35 -0.07 -0.57 -0.48 Source: DoCA (through UPAg) Details are enclosed at Annexure -I",
+            "word_count": 310,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 8,
+                    "rows_count": 4,
+                    "columns_count": 8,
+                    "header": [
+                        "(Unit : in Lakh MT)\n(as on 31/10/25) (upto 31/10/24)\nOpeni\nOpenin\nTotal Total ng Requirem Requirem\ng stock\nProdu Requirem Requirem stock ent during ent during\nas on\nct ent Rabi ent Rabi as on October, October, Closin Closin\n1.10.2 Availabili Sale Availabili Sale\n2025-26 2024-25 1.10.2 2025 2024 g g\n4 ty s ty s\n5stock stock\nUREA 196.06 186.89 37.33 63.02 39.68 36.65 72.77 22.23 50.54 91.39 23.23 68.16\nDAP 53.43 52.05 20.07 12.23 18.81 18.69 32.79 13.75 19.05 23.00 11.48 11.52\nMOP 15.69 11.95 7.14 7.33 3.35 3.05 9.35 2.02 7.33 9.76 2.35 7.41\nNPK 82.38 77.10 35.59 35.94 20.84 19.87 48.36 12.15 36.21 46.54 15.41 31.13\nSSP 31.19 36.48 22.45 21.76 9.37 10.40 27.77 5.90 21.87 27.11 5.85 21.26\nTOTAL 378.75 364.47 122.57 140.29 92.06 88.66 191.04 56.04 135.00 197.80 58.32 139.48\n- The above data indicates that the availability of Urea, MOP, Complexes and SSP is\ncomfortable.\n- In case of DAP, The opening stock of Rabi 2025-26 as compared to the opening stock of Rabi\n2024-25 is more by 7.84 LMT\n- As on 31st October, 2025the availability of DAP is 32.79 LMT against the requirement of\n18.81 LMT during the ongoing Rabi 2025-26 season.\n6. PEST & DISEASE\n- Over all intensity of pests and disease remained below Economic Threshold Level (ETL)\nexcept:",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "(Unit : in Lakh MT)\n(as on 31/10/25) (upto 31/10/24)\nOpeni\nOpenin\nTotal Total ng Requirem Requirem\ng stock\nProdu Requirem Requirem stock ent during ent during\nas on\nct ent Rabi ent Rabi as on October, October, Closin Closin\n1.10.2 Availabili Sale Availabili Sale\n2025-26 2024-25 1.10.2 2025 2024 g g\n4 ty s ty s\n5stock stock\nUREA 196.06 186.89 37.33 63.02 39.68 36.65 72.77 22.23 50.54 91.39 23.23 68.16\nDAP 53.43 52.05 20.07 12.23 18.81 18.69 32.79 13.75 19.05 23.00 11.48 11.52\nMOP 15.69 11.95 7.14 7.33 3.35 3.05 9.35 2.02 7.33 9.76 2.35 7.41\nNPK 82.38 77.10 35.59 35.94 20.84 19.87 48.36 12.15 36.21 46.54 15.41 31.13\nSSP 31.19 36.48 22.45 21.76 9.37 10.40 27.77 5.90 21.87 27.11 5.85 21.26\nTOTAL 378.75 364.47 122.57 140.29 92.06 88.66 191.04 56.04 135.00 197.80 58.32 139.48\n- The above data indicates that the availability of Urea, MOP, Complexes and SSP is\ncomfortable.\n- In case of DAP, The opening stock of Rabi 2025-26 as compared to the opening stock of Rabi\n2024-25 is more by 7.84 LMT\n- As on 31st October, 2025the availability of DAP is 32.79 LMT against the requirement of\n18.81 LMT during the ongoing Rabi 2025-26 season.\n6. PEST & DISEASE\n- Over all intensity of pests and disease remained below Economic Threshold Level (ETL)\nexcept:",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "फसल\nCrop",
+                            "राज्य\nState",
+                            "जिला/उपजिला/गाांव\nDistrict/ Sub\nDistrict/ Village",
+                            "स्रोत/\nSource",
+                            "कीट/रोग\nPest\nDisease",
+                            "राज्य में\nफसल के\nअांतगगत\nकुल\nक्षेत्रफल\n(हेक्टेयर)\nTotal\narea\nunder\nthe crop\nin the\nstate\n(ha)",
+                            "तीव्रता\nIntensity",
+                            "की गई\nकारगवाई/जटप्पणी\nAction Taken/\nRemark"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "संक्रमित/प्रभावितक्षेत्र\n*ETL (हेक्टेयर)\nसेऊपर\n/Area\ninfested/Infected\nabove *ETL (ha)",
+                            ""
+                        ],
+                        [
+                            "Paddy",
+                            "Jharkhand",
+                            "Ranchi,\nKhunti,\nLohardaga",
+                            "CIPMC, Ranchi\n1) Joint Survey\nwas conducted\nwith DAO,\nLohardaga in\nfield crops on",
+                            "Bacterial\nleaf\nblight\nBrown\nplant",
+                            "--",
+                            "",
+                            "- Advisories\nissued and\nfollow up\nis going on\nwith\nconcerned"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 8,
+                    "rows_count": 8,
+                    "columns_count": 13,
+                    "header": [
+                        "Produ\nct",
+                        "Total\nRequirem\nent Rabi\n2025-26",
+                        "Total\nRequirem\nent Rabi\n2024-25",
+                        "Openi\nng\nstock\nas on\n1.10.2",
+                        "Openin\ng stock\nas on\n1.10.2",
+                        "Requirem\nent during\nOctober,\n2025",
+                        "Requirem\nent during\nOctober,\n2024",
+                        "(as on 31/10/25)",
+                        "",
+                        "",
+                        "(upto 31/10/24)",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Produ\nct",
+                            "Total\nRequirem\nent Rabi\n2025-26",
+                            "Total\nRequirem\nent Rabi\n2024-25",
+                            "Openi\nng\nstock\nas on\n1.10.2",
+                            "Openin\ng stock\nas on\n1.10.2",
+                            "Requirem\nent during\nOctober,\n2025",
+                            "Requirem\nent during\nOctober,\n2024",
+                            "(as on 31/10/25)",
+                            "",
+                            "",
+                            "(upto 31/10/24)",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Availabili\nty",
+                            "Sale\ns",
+                            "Closin\ng\nstock",
+                            "Availabili\nty",
+                            "Sale\ns",
+                            "Closin\ng\nstock"
+                        ],
+                        [
+                            "UREA",
+                            "196.06",
+                            "186.89",
+                            "37.33",
+                            "63.02",
+                            "39.68",
+                            "36.65",
+                            "72.77",
+                            "22.23",
+                            "50.54",
+                            "91.39",
+                            "23.23",
+                            "68.16"
+                        ],
+                        [
+                            "DAP",
+                            "53.43",
+                            "52.05",
+                            "20.07",
+                            "12.23",
+                            "18.81",
+                            "18.69",
+                            "32.79",
+                            "13.75",
+                            "19.05",
+                            "23.00",
+                            "11.48",
+                            "11.52"
+                        ],
+                        [
+                            "MOP",
+                            "15.69",
+                            "11.95",
+                            "7.14",
+                            "7.33",
+                            "3.35",
+                            "3.05",
+                            "9.35",
+                            "2.02",
+                            "7.33",
+                            "9.76",
+                            "2.35",
+                            "7.41"
+                        ],
+                        [
+                            "NPK",
+                            "82.38",
+                            "77.10",
+                            "35.59",
+                            "35.94",
+                            "20.84",
+                            "19.87",
+                            "48.36",
+                            "12.15",
+                            "36.21",
+                            "46.54",
+                            "15.41",
+                            "31.13"
+                        ],
+                        [
+                            "SSP",
+                            "31.19",
+                            "36.48",
+                            "22.45",
+                            "21.76",
+                            "9.37",
+                            "10.40",
+                            "27.77",
+                            "5.90",
+                            "21.87",
+                            "27.11",
+                            "5.85",
+                            "21.26"
+                        ],
+                        [
+                            "TOTAL",
+                            "378.75",
+                            "364.47",
+                            "122.57",
+                            "140.29",
+                            "92.06",
+                            "88.66",
+                            "191.04",
+                            "56.04",
+                            "135.00",
+                            "197.80",
+                            "58.32",
+                            "139.48"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 9,
+                    "rows_count": 9,
+                    "columns_count": 1,
+                    "header": [
+                        "Moong"
+                    ],
+                    "rows": [
+                        [
+                            "Moong"
+                        ],
+                        [
+                            "Jowar"
+                        ],
+                        [
+                            "Ragi"
+                        ],
+                        [
+                            "Mustard"
+                        ],
+                        [
+                            "Sesamum"
+                        ],
+                        [
+                            "Sunflower"
+                        ],
+                        [
+                            "Onion"
+                        ],
+                        [
+                            "Potato"
+                        ],
+                        [
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 3,
+            "image_count": 0,
+            "multimodal_score": 6,
+            "keywords": [
+                "commodities variation",
+                "variation over",
+                "over last",
+                "last week",
+                "disease",
+                "mustard",
+                "potato",
+                "tomato",
+                "jowar",
+                "onion"
+            ],
+            "quality": "excellent"
+        },
+        {
+            "chunk_id": "CWWG_00006",
+            "chunk_type": "text",
+            "heading": "8. PROCUREMENT - As on 16.10.2025, Actual stock of Rice & Wheat together was 666.45 LMT against the buffer norm of 307.70 LMT.",
+            "page_start": 10,
+            "page_end": 15,
+            "text": "All India Procurement of Paddy/Rice during KMS 2024-25 As on 02.11.2025 (Figures in LMT) Crop Rice Procurement Estimates during KMS 2025-26 (Estimates in terms of Paddy) KMS 2025-26 KMS 2024-25 Progressive Paddy procurement Progressive procurement in terms of Rice (Percentage of target achieved) Progressive Corresponding paddy Procurement Progressive Corresponding Procurement in terms of Rice Kharif 463.49 (691.78) 179.60 120.45 (25.99%) 122.59 82.18 Rabi - - - - - Kharif + Rabi 463.49 (691.78) 179.60 120.45 (25.99%) 122.59 82.18 (Source: FCI Portal)\n| 11 All India Procurement of Wheat during RMS 2025-26 & RMS 2024-25 As on 02.11.2025 (Figures in LMT) Wheat Procurement Estimates during RMS 2025-26 ( LMTs) Progressive Wheat Procurement during RMS 2025-26 Corresponding Wheat Procurement during RMS 2024-25 334.10 300.35 265.95 (Source: FCI Portal) **********************\n| 12 Annexure -I All India Mandi Wholesale prices (Rs/Quintal)\n| 13 All India Retail Prices (Rs/Quintal)\n| 14 Annexure –II Government of India Crops Division SOWING AND HARVESTING STATUS OF KHARIF CROPS AS ON 31.10.2025 (Area in lakh ha.) S. No. Crop Normal Area (DES) Area Coverage as on 03.10.2025 % Area Harvested Crop condition/Remark 1 Rice 403.09 441.58 28.00 Andhra Pradesh (15%), Chhattisgarh (70%), Haryana (60%), Jharkhand (20%), J&K (26%), Maharashtra (30%), Nagaland (40%), Odisha (15%), Punjab (58%), Rajasthan (89%), Tamil Nadu (51%), Uttar Pradesh (36%), etc has already been harvested.",
+            "word_count": 220,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 10,
+                    "rows_count": 12,
+                    "columns_count": 12,
+                    "header": [
+                        "All India Weekly Average Retail Prices",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Retail Prices",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Increasing Trend",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Decreasing Trend",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "Commodities",
+                            "",
+                            "",
+                            "% Variation over last",
+                            "",
+                            "Commodities",
+                            "Commodities",
+                            "",
+                            "",
+                            "% Variation over last",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Week",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Week",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Arhar/Tur Dal",
+                            "",
+                            "0.06\n0.15\n0.16\n0.51\n0.35\n0.79\n2.52",
+                            "0.06",
+                            "",
+                            "",
+                            "Rice",
+                            "",
+                            "",
+                            "-0.07",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Gram",
+                            "",
+                            "",
+                            "0.15",
+                            "",
+                            "",
+                            "Wheat",
+                            "",
+                            "",
+                            "-0.09",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Masur",
+                            "",
+                            "",
+                            "0.16",
+                            "",
+                            "",
+                            "Moong",
+                            "",
+                            "",
+                            "-0.14",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Jowar",
+                            "",
+                            "",
+                            "0.51",
+                            "",
+                            "",
+                            "Urad",
+                            "",
+                            "",
+                            "-0.10",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Bajra",
+                            "",
+                            "",
+                            "0.35",
+                            "",
+                            "",
+                            "Ragi",
+                            "",
+                            "",
+                            "-0.35",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Onion",
+                            "",
+                            "",
+                            "0.79",
+                            "",
+                            "",
+                            "Mustard Oil",
+                            "",
+                            "",
+                            "-0.07",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Potato",
+                            "",
+                            "",
+                            "2.52",
+                            "",
+                            "",
+                            "Soyabean Oil",
+                            "",
+                            "",
+                            "-0.57",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Tomato",
+                            "",
+                            "",
+                            "-0.48",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 10,
+                    "rows_count": 5,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice\nProcurement\nEstimates\nduring KMS\n2025-26\n(Estimates in\nterms of Paddy)",
+                        "KMS 2025-26",
+                        "",
+                        "KMS 2024-25",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice\nProcurement\nEstimates\nduring KMS\n2025-26\n(Estimates in\nterms of Paddy)",
+                            "KMS 2025-26",
+                            "",
+                            "KMS 2024-25",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "Progressive\nPaddy\nprocurement",
+                            "Progressive\nprocurement in\nterms of Rice\n(Percentage of\ntarget achieved)",
+                            "Progressive\nCorresponding\npaddy\nProcurement",
+                            "Progressive\nCorresponding\nProcurement\nin terms of\nRice"
+                        ],
+                        [
+                            "Kharif",
+                            "463.49\n(691.78)",
+                            "179.60",
+                            "120.45\n(25.99%)",
+                            "122.59",
+                            "82.18"
+                        ],
+                        [
+                            "Rabi",
+                            "-",
+                            "-",
+                            "-",
+                            "-",
+                            "-"
+                        ],
+                        [
+                            "Kharif +\nRabi",
+                            "463.49\n(691.78)",
+                            "179.60",
+                            "120.45\n(25.99%)",
+                            "122.59",
+                            "82.18"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 12,
+                    "xref": 104,
+                    "image_name": "page_12_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025\\page_12_image_1.png",
+                    "width": 700,
+                    "height": 944,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 1,
+            "multimodal_score": 5,
+            "keywords": [
+                "procurement",
+                "rice",
+                "wheat",
+                "kharif",
+                "crop",
+                "crops",
+                "rabi",
+                "wheat procurement",
+                "harvesting",
+                "progressive"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00007",
+            "chunk_type": "text",
+            "heading": "8. PROCUREMENT - As on 16.10.2025, Actual stock of Rice & Wheat together was 666.45 LMT against the buffer norm of 307.70 LMT.",
+            "page_start": 10,
+            "page_end": 15,
+            "text": "2 Pulses 129.61 120.41 59.83 Around 59.83% area of Pulses has been harvested mainly in Moth bean (100%), Moongbean (91%), Urdbean (56%) & Kulthi (56%). a Arhar 44.71 46.60 b Urdbean 32.64 24.37 64.00 100% harvested in Maharashtra, Karnataka & Rajasthan. Madhya Pradesh (40%), Tamil Nadu (50%), Uttar Pradesh (70%) etc. has already been harvested c Moongbean 35.69 34.87 93.00 100% harvested in Karnataka, Maharashtra, Rajasthan & Telangana. Tamil Nadu (70%), Uttar Pradesh (85%), etc. has already been harvested d Kulthi 1.72 0.72 47.00 Chhattisgarh (50%), Karnataka (25%), etc. has already been harvested. e Mothbean 9.70 9.24 99.00 100% harvested in Rajasthan. In Gujarat (45%) has been already been harvested. f Other pulses* 5.15 4.62 53.00 Around 82% area has been harvested. 3 Shri Anna cum Coarse cereals 180.71 194.67 59.54 Overall around 59.54% area has been harvested mainly in Bajra (86.53%), Jowar (67.54%) & Maize (46.91%). a Jowar 15.07 14.07 67.54 100% harvested in Haryana and Rajasthan. Bihar (30%), Gujarat (40%), Karnataka (45%), Madhya Pradesh (45%), Maharashtra (35%), Tamil Nadu (25%), Telangana (10%), Uttar Pradesh (40%), etc. b Bajra** 70.69 68.44 86.53 100% harvested in Haryana and Rajasthan. Bihar (35%), Gujarat (45%), Karnataka (75%), Madhya Pradesh (40%), Maharashtra (85%), Tamil Nadu (20%), Telangana (53%), Uttar Pradesh (50%), etc.",
+            "word_count": 209,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 10,
+                    "rows_count": 12,
+                    "columns_count": 12,
+                    "header": [
+                        "All India Weekly Average Retail Prices",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Retail Prices",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Increasing Trend",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Decreasing Trend",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "Commodities",
+                            "",
+                            "",
+                            "% Variation over last",
+                            "",
+                            "Commodities",
+                            "Commodities",
+                            "",
+                            "",
+                            "% Variation over last",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Week",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Week",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Arhar/Tur Dal",
+                            "",
+                            "0.06\n0.15\n0.16\n0.51\n0.35\n0.79\n2.52",
+                            "0.06",
+                            "",
+                            "",
+                            "Rice",
+                            "",
+                            "",
+                            "-0.07",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Gram",
+                            "",
+                            "",
+                            "0.15",
+                            "",
+                            "",
+                            "Wheat",
+                            "",
+                            "",
+                            "-0.09",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Masur",
+                            "",
+                            "",
+                            "0.16",
+                            "",
+                            "",
+                            "Moong",
+                            "",
+                            "",
+                            "-0.14",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Jowar",
+                            "",
+                            "",
+                            "0.51",
+                            "",
+                            "",
+                            "Urad",
+                            "",
+                            "",
+                            "-0.10",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Bajra",
+                            "",
+                            "",
+                            "0.35",
+                            "",
+                            "",
+                            "Ragi",
+                            "",
+                            "",
+                            "-0.35",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Onion",
+                            "",
+                            "",
+                            "0.79",
+                            "",
+                            "",
+                            "Mustard Oil",
+                            "",
+                            "",
+                            "-0.07",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Potato",
+                            "",
+                            "",
+                            "2.52",
+                            "",
+                            "",
+                            "Soyabean Oil",
+                            "",
+                            "",
+                            "-0.57",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Tomato",
+                            "",
+                            "",
+                            "-0.48",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 10,
+                    "rows_count": 5,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice\nProcurement\nEstimates\nduring KMS\n2025-26\n(Estimates in\nterms of Paddy)",
+                        "KMS 2025-26",
+                        "",
+                        "KMS 2024-25",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice\nProcurement\nEstimates\nduring KMS\n2025-26\n(Estimates in\nterms of Paddy)",
+                            "KMS 2025-26",
+                            "",
+                            "KMS 2024-25",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "Progressive\nPaddy\nprocurement",
+                            "Progressive\nprocurement in\nterms of Rice\n(Percentage of\ntarget achieved)",
+                            "Progressive\nCorresponding\npaddy\nProcurement",
+                            "Progressive\nCorresponding\nProcurement\nin terms of\nRice"
+                        ],
+                        [
+                            "Kharif",
+                            "463.49\n(691.78)",
+                            "179.60",
+                            "120.45\n(25.99%)",
+                            "122.59",
+                            "82.18"
+                        ],
+                        [
+                            "Rabi",
+                            "-",
+                            "-",
+                            "-",
+                            "-",
+                            "-"
+                        ],
+                        [
+                            "Kharif +\nRabi",
+                            "463.49\n(691.78)",
+                            "179.60",
+                            "120.45\n(25.99%)",
+                            "122.59",
+                            "82.18"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 12,
+                    "xref": 104,
+                    "image_name": "page_12_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025\\page_12_image_1.png",
+                    "width": 700,
+                    "height": 944,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 1,
+            "multimodal_score": 5,
+            "keywords": [
+                "harvested",
+                "already harvested",
+                "uttar pradesh",
+                "pradesh etc",
+                "has already",
+                "tamil nadu",
+                "pulses",
+                "pradesh",
+                "bajra",
+                "jowar"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00008",
+            "chunk_type": "text",
+            "heading": "8. PROCUREMENT - As on 16.10.2025, Actual stock of Rice & Wheat together was 666.45 LMT against the buffer norm of 307.70 LMT.",
+            "page_start": 10,
+            "page_end": 15,
+            "text": "c Ragi 11.52 11.81 17.94 d Small millets 4.48 5.39 9.79\n| 15 e Maize 78.95 94.95 46.91 100% harvested in Rajasthan. Andhra Pradesh (23%), Bihar (30%), Chhattisgarh (50%), Gujarat (35%), Himachal Pradesh (10%), J&K (10%), Jharkhand (25%), Karnataka (32%), Madhya Pradesh (55%), Maharashtra (40%), Odisha (18%), Tamil Nadu (24%), Telangana (71%), Uttar Pradesh (55%), etc. 4 Oilseeds 194.63 190.13 55.71 Overall around 55.71% area of Oilseeds has been harvested majorly in Groundnut (28.87%), Soybean (16.29%) and Sesame (49.43%). a Groundnut 45.10 48.36 54.48 Gujarat (50%), Andhra Pradesh (70%), Rajasthan (85%), Tamil Nadu (75%) & Uttar Pradesh (65%) has already been harvested. b Soybean 127.19 120.45 60.09 Gujarat (50%), Rajasthan (90%), Uttar Pradesh (73%) and Uttrakhand (56%) has already been harvested. c Sunflower 1.29 0.71 20.87 Tamil Nadu (80%), Andhra Pradesh (80%) has already been harvested. d Sesamum** 10.32 10.51 64.88 Harvesting completed in Karnataka. Uttar Pradesh (87%), Gujarat (70%), Rajasthan (80%), Andhra Pradesh (95%) & Tamil Nadu (72%) has already been harvested. e Niger 1.08 1.04 8.75 f Castor 9.65 8.98 1.33 Harvesting completed in Karnataka.",
+            "word_count": 177,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 10,
+                    "rows_count": 12,
+                    "columns_count": 12,
+                    "header": [
+                        "All India Weekly Average Retail Prices",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Retail Prices",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Increasing Trend",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Decreasing Trend",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "Commodities",
+                            "",
+                            "",
+                            "% Variation over last",
+                            "",
+                            "Commodities",
+                            "Commodities",
+                            "",
+                            "",
+                            "% Variation over last",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Week",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Week",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Arhar/Tur Dal",
+                            "",
+                            "0.06\n0.15\n0.16\n0.51\n0.35\n0.79\n2.52",
+                            "0.06",
+                            "",
+                            "",
+                            "Rice",
+                            "",
+                            "",
+                            "-0.07",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Gram",
+                            "",
+                            "",
+                            "0.15",
+                            "",
+                            "",
+                            "Wheat",
+                            "",
+                            "",
+                            "-0.09",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Masur",
+                            "",
+                            "",
+                            "0.16",
+                            "",
+                            "",
+                            "Moong",
+                            "",
+                            "",
+                            "-0.14",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Jowar",
+                            "",
+                            "",
+                            "0.51",
+                            "",
+                            "",
+                            "Urad",
+                            "",
+                            "",
+                            "-0.10",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Bajra",
+                            "",
+                            "",
+                            "0.35",
+                            "",
+                            "",
+                            "Ragi",
+                            "",
+                            "",
+                            "-0.35",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Onion",
+                            "",
+                            "",
+                            "0.79",
+                            "",
+                            "",
+                            "Mustard Oil",
+                            "",
+                            "",
+                            "-0.07",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Potato",
+                            "",
+                            "",
+                            "2.52",
+                            "",
+                            "",
+                            "Soyabean Oil",
+                            "",
+                            "",
+                            "-0.57",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Tomato",
+                            "",
+                            "",
+                            "-0.48",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 10,
+                    "rows_count": 5,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice\nProcurement\nEstimates\nduring KMS\n2025-26\n(Estimates in\nterms of Paddy)",
+                        "KMS 2025-26",
+                        "",
+                        "KMS 2024-25",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice\nProcurement\nEstimates\nduring KMS\n2025-26\n(Estimates in\nterms of Paddy)",
+                            "KMS 2025-26",
+                            "",
+                            "KMS 2024-25",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "Progressive\nPaddy\nprocurement",
+                            "Progressive\nprocurement in\nterms of Rice\n(Percentage of\ntarget achieved)",
+                            "Progressive\nCorresponding\npaddy\nProcurement",
+                            "Progressive\nCorresponding\nProcurement\nin terms of\nRice"
+                        ],
+                        [
+                            "Kharif",
+                            "463.49\n(691.78)",
+                            "179.60",
+                            "120.45\n(25.99%)",
+                            "122.59",
+                            "82.18"
+                        ],
+                        [
+                            "Rabi",
+                            "-",
+                            "-",
+                            "-",
+                            "-",
+                            "-"
+                        ],
+                        [
+                            "Kharif +\nRabi",
+                            "463.49\n(691.78)",
+                            "179.60",
+                            "120.45\n(25.99%)",
+                            "122.59",
+                            "82.18"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 12,
+                    "xref": 104,
+                    "image_name": "page_12_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025\\page_12_image_1.png",
+                    "width": 700,
+                    "height": 944,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 1,
+            "multimodal_score": 5,
+            "keywords": [
+                "pradesh",
+                "already harvested",
+                "andhra pradesh",
+                "uttar pradesh",
+                "has already",
+                "tamil nadu",
+                "harvesting",
+                "harvested",
+                "maize",
+                "has"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00009",
+            "chunk_type": "text",
+            "heading": "8. PROCUREMENT - As on 16.10.2025, Actual stock of Rice & Wheat together was 666.45 LMT against the buffer norm of 307.70 LMT.",
+            "page_start": 10,
+            "page_end": 15,
+            "text": "Andhra Pradesh (20%) & Tamil Nadu (20%) has been harvested 5 Sugarcane 52.51 59.07 6 Jute & Mesta 6.60 5.56 100.00 Harvesting has been completed 7 Cotton 129.50 110.03 Harvesting given as under Total 1096.65 1121.45 37.79 States Harvesting Status of Cotton North Zone 1st picking has been completed in Punjab, Haryana, Rajasthan and 2nd picking has been completed in Punjab. 2nd picking in Haryana (90%) & Rajasthan (60%) has been completed. (Punjab, Haryana and Rajasthan) Central Zone 1st picking has been completed in Gujarat (80%). 1st picking in Maharashtra (15%) and Madhya Pradesh (30%) has already been completed. (Gujarat, Madhya Pradesh and Maharashtra) South Zone 1st picking in Andhra Pradesh (38%), Telangana (30%), Karnataka (30%) and Tamil Nadu (6%) has already been completed. (Telangana, Andhra Pradesh, Karnataka and Tamil Nadu) Odisha & Others 1st picking in Odisha (4%) & Other states (90%).",
+            "word_count": 143,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 10,
+                    "rows_count": 12,
+                    "columns_count": 12,
+                    "header": [
+                        "All India Weekly Average Retail Prices",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Retail Prices",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Increasing Trend",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Decreasing Trend",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "Commodities",
+                            "",
+                            "",
+                            "% Variation over last",
+                            "",
+                            "Commodities",
+                            "Commodities",
+                            "",
+                            "",
+                            "% Variation over last",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Week",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Week",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Arhar/Tur Dal",
+                            "",
+                            "0.06\n0.15\n0.16\n0.51\n0.35\n0.79\n2.52",
+                            "0.06",
+                            "",
+                            "",
+                            "Rice",
+                            "",
+                            "",
+                            "-0.07",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Gram",
+                            "",
+                            "",
+                            "0.15",
+                            "",
+                            "",
+                            "Wheat",
+                            "",
+                            "",
+                            "-0.09",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Masur",
+                            "",
+                            "",
+                            "0.16",
+                            "",
+                            "",
+                            "Moong",
+                            "",
+                            "",
+                            "-0.14",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Jowar",
+                            "",
+                            "",
+                            "0.51",
+                            "",
+                            "",
+                            "Urad",
+                            "",
+                            "",
+                            "-0.10",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Bajra",
+                            "",
+                            "",
+                            "0.35",
+                            "",
+                            "",
+                            "Ragi",
+                            "",
+                            "",
+                            "-0.35",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Onion",
+                            "",
+                            "",
+                            "0.79",
+                            "",
+                            "",
+                            "Mustard Oil",
+                            "",
+                            "",
+                            "-0.07",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Potato",
+                            "",
+                            "",
+                            "2.52",
+                            "",
+                            "",
+                            "Soyabean Oil",
+                            "",
+                            "",
+                            "-0.57",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Tomato",
+                            "",
+                            "",
+                            "-0.48",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 10,
+                    "rows_count": 5,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice\nProcurement\nEstimates\nduring KMS\n2025-26\n(Estimates in\nterms of Paddy)",
+                        "KMS 2025-26",
+                        "",
+                        "KMS 2024-25",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice\nProcurement\nEstimates\nduring KMS\n2025-26\n(Estimates in\nterms of Paddy)",
+                            "KMS 2025-26",
+                            "",
+                            "KMS 2024-25",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "Progressive\nPaddy\nprocurement",
+                            "Progressive\nprocurement in\nterms of Rice\n(Percentage of\ntarget achieved)",
+                            "Progressive\nCorresponding\npaddy\nProcurement",
+                            "Progressive\nCorresponding\nProcurement\nin terms of\nRice"
+                        ],
+                        [
+                            "Kharif",
+                            "463.49\n(691.78)",
+                            "179.60",
+                            "120.45\n(25.99%)",
+                            "122.59",
+                            "82.18"
+                        ],
+                        [
+                            "Rabi",
+                            "-",
+                            "-",
+                            "-",
+                            "-",
+                            "-"
+                        ],
+                        [
+                            "Kharif +\nRabi",
+                            "463.49\n(691.78)",
+                            "179.60",
+                            "120.45\n(25.99%)",
+                            "122.59",
+                            "82.18"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 12,
+                    "xref": 104,
+                    "image_name": "page_12_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-11-2025_Minutes of the meeting of CWWG as on 03.11.2025\\page_12_image_1.png",
+                    "width": 700,
+                    "height": 944,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 1,
+            "multimodal_score": 5,
+            "keywords": [
+                "has completed",
+                "harvesting",
+                "has",
+                "completed",
+                "picking",
+                "cotton",
+                "haryana rajasthan",
+                "completed punjab",
+                "andhra pradesh",
+                "zone picking"
+            ],
+            "quality": "good"
+        }
+    ]
+}

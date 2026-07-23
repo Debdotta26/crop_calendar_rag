@@ -1,0 +1,13 @@
+{
+    "chunks_processed": 725,
+    "records_before_cleaning": 6545,
+    "duplicates_removed": 5538,
+    "final_records": 1007,
+    "unique_crops": 28,
+    "unique_states": 27,
+    "unique_districts": 15,
+    "unique_weather_events": 6,
+    "unique_crop_stages": 0,
+    "unique_seasons": 3,
+    "processing_time_seconds": 0.45
+}

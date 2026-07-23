@@ -1,0 +1,277 @@
+## CROP WEATHER WATCH GROUP (CWWG) MEETING HELD ON 20.01.2025
+
+Agricultural Statistics Division Department of Agriculture &amp; Farmers Welfare Ministry of Agriculture &amp; Farmers Welfare
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Summary Points of the CWWG meeting:
+
+## I. Preliminary Report of area coverage under Rabi season
+
+## Rabi crops:
+
+-  As  on  January  17,  2025,  the  area  sown  under  Rabi  crops  is  640.00  lakh  ha  as compared to 637.49 lakh ha during the corresponding period of last year.  Of this, area of 320.00 lakh ha has been sown under wheat this year against the previous year area of 315.63 lakh ha (increase of 4.37 lakh ha).
+
+## Rabi Horticulture Crops :
+
+-  For  Onion,  Potato  and  Tomato,  an  area  sown  has  been  reported  by  the  major producing States, 7.70 lakh ha, 19.71 lakh ha, 1.96 lakh ha as against total sown area of 6.97 lakh ha, 19.52 lakh ha, 1.51 lakh ha, respectively in the last year.
+
+## II. Weather:
+
+-  The Western Disturbance as a trough in middle tropospheric levels with its axis at 5.8  km above mean sea level Long. 72°E to the north of Lat. 30°N. An induced cyclonic  circulation  lies  over  West  Rajasthan  &amp;  adjoining  Pakistan  at  lower tropospheric level. Another Western Disturbance as a trough in middle &amp; upper tropospheric levels runs roughly along Long. 58°E to the north of Lat. 28°N.
+-  Isolated  to  Scattered  rainfall/snowfall  very  likely  over  Western  Himalayan Region till 21st; scattered to fairly widespread rainfall/snowfall on 22nd &amp; 23rd; and  isolated  to  scattered  rainfall  accompanied  with  thunderstorm  &amp;  lightning likely over Punjab, Haryana Chandigarh &amp; Delhi, north Rajasthan &amp; West Uttar Pradesh on 22nd &amp; 23rd January.
+-  Due  to  strong  northeasterly  winds  over  Tamil  Nadu  coast,  scattered  Light  to moderate rainfall accompanied with Thunderstorm &amp; lightning at isolated places very likely over coastal Tamil Nadu, Puducherry on 20th January.
+-  Gradual rise in minimum temperatures by 2-3°C likely over plains of Northwest India during next 2 days, no significant change thereafter.
+-  No significant change in minimum temperatures likely over West, East India &amp; Gujarat region during next 4- 5 days.
+
+-  Overall, rainfall is likely to be above normal over most parts of south Peninsular &amp; adjoining central India during the week.
+
+## III. Rainfall distribution:
+
+-  All India seasonal cumulative (01 st  Jan 2025  - 19 th  Jan 2025) rainfall in % departure from its Long Period Average (LPA) was (-)61%, with East &amp; North East-India (-)39%, NorthWest India (-)68%,  Central India (-)94% and South Peninsula (-)17%.
+
+## IV. Water Reservoir Status:
+
+-  As on 16 th   January, 2025, the total live water storage in 155 important reservoirs across the country (monitored by CWC) is 123.805 billion Cubic Meter, which is 68% of total live storage capacity (180.85 BCM).
+-  The current year's storage is nearly 123 percent of last year's storage and 121 percent of the average storage of the last ten years during the corresponding period.
+-  The overall storage position is better than the corresponding period of last year in the country as a whole and is also better than the Normal storage during the corresponding period.
+
+## V. Groundwater Levels Scenario
+
+-  About 66.6% of the total monitoring wells show depth to water level in the range of 0 to 5 m below ground level and 29.1% show depth to water level in the range of 5 to 10 m below ground level. As per decadal water level fluctuation with a mean (August 2014 to 2023) and August 2024 analysis, 64.9% of monitoring wells (8199) show a rise whereas 35.1% (4435) show a fall in August month.
+
+## VI. Seeds:
+
+-  For  Rabi  2024-25,  availability  of  certified/  quality  seed  in  the  country  is  337.98  lakh quintals against the requirement of 307.07 lakh quintals indicating an overall surplus of 30.90 lakh quintals of seeds.
+
+## VII. Fertilizers:
+
+-  Fertilizers position is stated to be comfortable in all products.
+
+## VIII. Pests &amp; Diseases:
+
+Intensity  of  pests  and  diseases,  at  some  fields,  has  been  reported  to  be  above  Economic Threshold Level for Coconut (Black headed caterpillar) in Tamil Nadu. The Advisory has been issued by the survey team to the farms and regular monitoring is being carried out. The overall intensity of pests and diseases remained below Economic Threshold Level.
+
+## Details of each sector have been enclosed at Annex.
+
+WEATHER OUTLOOK 01 st Jan  to 19 th  Jan, 2025:
+
+<!-- image -->
+
+## Legend
+
+LargeExcess[60%ormore]
+
+Excess[20% to 59%]
+
+## NOTES :
+
+- a) RainFallfigures arebased on operation data.
+- b) Small figures indicate actual rainfal (mm), while bold figures indicate Normal rainfall (mm).
+- c) Percentage Departures of rainfall are shown in brackets.
+
+Normal [-19% to 19%]
+
+Deficient[-59% to-20%]
+
+## Annex
+
+Large Deficient [-99% to -60%] No Rain [-100%]  No Data
+
+-  During  the  week  (09  Jan  2024  -  15-01-2025),  large  deficient  rainfall  was  observed,  as compared to Long Period Average (LPA) by 64%. Cumulative seasonal rainfall (01 Jan to 19 Jan 2025) is lower than LPA by 61 %.
+
+## Rainfall Forecast:
+
+## 16 th  Jan - 22 th  Jan 2025
+
+-  Isolated  to  Scattered  rainfall/snowfall very likely  over  Western  Himalayan Region till 21st; scattered to fairly widespread rainfall/snowfall on 22nd &amp; 23rd;  and  isolated  to  scattered  rainfall accompanied with thunderstorm &amp; lightning  likely  over  Punjab,  Haryana Chandigarh &amp; Delhi, north Rajasthan &amp; West  Uttar  Pradesh  on  22nd  &amp;  23rd January.
+-  Overall,  rainfall  is  likely  to  be  above normal over most parts of south Peninsular &amp;  adjoining central India during the week.
+
+## 23 th  Jan - 29 nd  Jan 2025
+
+-  No active  western  disturbance  is  likely to influence northwest India during the week.
+-  Under the influence of likely formation of  cyclonic  circulation/  Low  Pressure area  over  south  Bay  of  Bengal,  isolated to  scattered  rainfall  likely  over  South Peninsular &amp;  adjoining central India during some days of the week.
+-  Overall, rainfall is likely to be normal to above normal over most parts of south Peninsular; below normal over rest parts of the country during the week.
+
+## Temperature Forecast:
+
+## 16 th  Jan - 22 th  Jan 2025
+
+-  No significant change in minimum temperatures  likely  over  Central  India and  East  India  &amp;  East  Uttar  Pradesh during  next  24  hours  and  gradual  rise by 2- 4°C during subsequent 4 days.
+-  No significant change in minimum temperatures likely over rest parts of the country.
+
+## 23 th  Jan - 29 nd  Jan 2025
+
+-  Minimum temperatures are likely to fall by 1-4°C over northwest, central, central east&amp;  Peninsular  India  as  compared  to week 1. It is likely to be between 4-8°C to  be  many  parts  of  north  &amp;  adjoining central India (excluding Western Himalayan Region) and above 8°C over rest  parts  of  the  country  during  the week.
+-  There  is  a  low  to  moderate  probability of cold wave conditions at isolated places  over  Himachal  Pradesh,  Punjab, Haryana  and  north  Rajasthan  during some days of the week.
+-  Dense  fog  is  likely  to  occur  in  isolated places  of  Indo  Gangetic  plains  during some to many days of the week.
+
+For more details login to IMD website.
+
+## RESERVOIR STORAGE (as on 16 th  January, 2025)
+
+-  Current live storage in 155 reservoirs was 123.805 BCM (68%) of total live capacity of 180.85 BCM.
+-  145 reservoirs having storage more than 80% of normal storage.
+-  06 reservoirs having storage 51% to 80%.
+-  03 reservoirs having storage 31% to 50%.
+-  01 reservoir having storage up to 30 %.
+
+<!-- image -->
+
+| Period       |   Storage as % of FRL |   Storage as % of Last Year |   Storage as % of 10 Year's Average Level |
+|--------------|-----------------------|-----------------------------|-------------------------------------------|
+| Current Week |                    68 |                         123 |                                       121 |
+| Last Week    |                    71 |                         124 |                                       121 |
+
+The  percentage  to  live  capacity  at  FRL  was 55%  on  16.01.2024,  68%  on  16.01.2023,  70% 16.01.2022 and 69% on 16.01.2021.
+
+Table 2: For 155 major reservoirs of the country
+
+## MapIndicatingStatewiseStoragePosition
+
+Ason16.01.2025
+
+<!-- image -->
+
+Source: CWC
+
+## CROP SOWING STATUS FOR RABI SEASON
+
+## Rabi Crops
+
+-  As on 17.01.2025 area sown under Rabi crops is 640.00 lakh ha as compared to 637.49 lakh ha during the corresponding period of last year.
+- o Sowing Status of Wheat : As on 17.01.2025, area of 320.00 lakh ha has been sown under wheat this year against the previous year area of 315.63 lakh ha while the normal area of wheat is 312.35 lakh ha.
+- o Sowing status of Rapeseed &amp; Mustard: As on 17.01.2025, an area of 89.30 lakh ha area has been sown under mustard against the previous year area of 93.73 lakh ha while the normal area under Mustard is 79.16 lakh ha.
+- o Sowing status of Jowar: As  on  17.01.2025,  the  area  covered  under Rabi Jowar is 23.95 lakh. Sowing is almost completed for the current season.
+-  Rabi sowing for all crops is above normal except gram, as the sowing window is still open, it is expected to achieve normal area.
+
+| Progress of area coverage under Rabi crops as on 17.01.2025   | Progress of area coverage under Rabi crops as on 17.01.2025   | Progress of area coverage under Rabi crops as on 17.01.2025   | Progress of area coverage under Rabi crops as on 17.01.2025   | Progress of area coverage under Rabi crops as on 17.01.2025   | Progress of area coverage under Rabi crops as on 17.01.2025   |
+|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
+| S.                                                            |                                                               | Normal Rabi                                                   | (Area Area                                                    | Sown                                                          | Increase (+) / Decrease (-) over 2023-24                      |
+| No.                                                           | Crops                                                         | Area (DES)                                                    | 2024-25                                                       | 2023-24                                                       |                                                               |
+| 1                                                             | Wheat                                                         | 312.35                                                        | 320.00                                                        | 315.63                                                        | 4.37                                                          |
+| 2                                                             | Rice *                                                        | 42.02                                                         | 26.20                                                         | 26.14                                                         | 0.06                                                          |
+| 3                                                             | Pulses                                                        | 140.44                                                        | 141.69                                                        | 139.29                                                        | 2.40                                                          |
+| a                                                             | Gram                                                          | 100.99                                                        | 98.28                                                         | 95.87                                                         | 2.41                                                          |
+| b                                                             | Lentil                                                        | 15.13                                                         | 17.43                                                         | 17.76                                                         | -0.33                                                         |
+| c                                                             | Fieldpea $                                                    | 6.50                                                          | 8.94                                                          | 8.98                                                          | -0.04                                                         |
+| d                                                             | Kulthi $                                                      | 1.98                                                          | 3.13                                                          | 3.13                                                          | 0.00                                                          |
+| e                                                             | Urdbean *                                                     | 6.15                                                          | 5.12                                                          | 5.12                                                          | 0.01                                                          |
+| f                                                             | Moongbean *                                                   | 1.44                                                          | 1.21                                                          | 1.08                                                          | 0.13                                                          |
+| g                                                             | Lathyrus $                                                    | 2.79                                                          | 3.12                                                          | 3.32                                                          | -0.20                                                         |
+| h                                                             | Other Pulses $                                                | 5.46                                                          | 4.45                                                          | 4.04                                                          | 0.42                                                          |
+| 4                                                             | Shri Anna & Coarse cereals                                    | 53.46                                                         | 54.49                                                         | 54.63                                                         | -0.14                                                         |
+| a                                                             | Jowar *                                                       | 24.37                                                         | 23.95                                                         | 25.76                                                         | -1.80                                                         |
+| b                                                             | Bajra #                                                       | 0.37                                                          | 0.14                                                          | 0.17                                                          | -0.03                                                         |
+| c                                                             | Ragi #                                                        | 0.74                                                          | 0.72                                                          | 0.68                                                          | 0.04                                                          |
+| d                                                             | Small Millets #                                               | 0.15                                                          | 0.16                                                          | 0.00                                                          | 0.16                                                          |
+| e                                                             | Maize *                                                       | 22.11                                                         | 22.90                                                         | 21.32                                                         | 1.58                                                          |
+| f                                                             | Barley                                                        | 5.72                                                          | 6.62                                                          | 6.71                                                          | -0.09                                                         |
+| 5                                                             | Oilseeds                                                      | 87.02                                                         | 97.62                                                         | 101.80                                                        | -4.18                                                         |
+| a                                                             | Rapeseed & Mustard                                            | 79.16                                                         | 89.30                                                         | 93.73                                                         | -4.43                                                         |
+
+| b   | Groundnut *    |   3.82 |   3.65 |   3.42 |   0.23 |
+|-----|----------------|--------|--------|--------|--------|
+| c   | Safflower      |   0.72 |   0.70 |   0.71 |  -0.01 |
+| d   | Sunflower *    |   0.81 |   0.74 |   0.43 |   0.31 |
+| e   | Sesamum *      |   0.58 |   0.20 |   0.37 |  -0.17 |
+| f   | Linseed        |   1.93 |   2.68 |   2.84 |  -0.17 |
+| g   | Other Oilseeds |   0.00 |   0.35 |   0.29 |   0.06 |
+|     | Total Crops    | 635.30 | 640.00 | 637.49 |   2.51 |
+
+Note: *Average of 2022-23 and 2023-24, $ average (2016-17 to 2020-21) as per DES, # Average of (2018-19 to 2022-23) as per CWWG report.
+
+Disclaimer  :  For  Kharif  crop  wise  estimated  area,  please  see  advanced  estimates  released  by  Ministry  of  Agriculture  and Farmers' Welfare available on UPAg (upag.gov.in)
+
+## Rabi Horticulture Crops:
+
+## Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi Season as on 16 th Jan 2025
+
+Area in Lakh Hectare
+
+| Crop   | Normal Rabi Area Sown in major producing States   | Area Sown** during 2024-25   | Area Sown in the corresponding period of 2023-24   | Increase/Decrease in 2024-25 over 2023-24   |
+|--------|---------------------------------------------------|------------------------------|----------------------------------------------------|---------------------------------------------|
+| (1)    | (2)                                               | (3)                          | (4)                                                | (5)                                         |
+| Onion  | 10.29                                             | 7.70                         | 6.97                                               | 0.73                                        |
+| Potato | 18.23                                             | 19.71                        | 19.32                                              | 0.39                                        |
+| Tomato | 3.24                                              | 1.96                         | 1.51                                               | 0.45                                        |
+
+- The share of major producing States 1  is nearly 85% in case of Rabi Potato and Tomato and 90% in case of Rabi onion.
+- The total normal Rabi sown area in the Country (including minor producing States) was 11.37 lakh ha for Onion, 21.47 lakh ha for Potato and 5.83 lakh ha for Tomato
+- Sowing of Tomato, Onion and Potato (TOP) crops for the ongoing Rabi season is progressing smoothly.
+- The sowing window is still available for all  the  three  crops. Given  the  good  prices prevailing  in  the market, it is expected to achieve the normal area
+- ** In case of Onion, transplanted area is reported.
+
+## REMOTE SENSING BASED SOIL MOISTURE OBSERVATION
+
+## Soil Moisture Observation
+
+-  Soil moisture during 11- 17 Jan 2025 is better/similar to the average of the past 9 years in A.P,  Karnataka,  Telangana,  Tamil  Nadu,  Gujarat,  Rajasthan,  M.P,  Punjab,  Haryana, Western UP and Maharashtra.
+-  Whereas lower than average of past 9 years avg. in Northern parts of Bihar, Northern W.B. and in parts of Odisha .
+
+<!-- image -->
+
+## FERTILIZER POSITION:
+
+Availability of fertilizer has been found comfortable. Details of Requirement, Receipt, Availability, Sales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Rabi 2024 as on 13.12.2024 is given below:
+
+|           |                                 |                                 | Ope ning stoc k as on   |   Ope ning stoc k as on 1.10 | Require                    |                                    | (As on 17/1/25)   | (As on 17/1/25)   | (As on 17/1/25)   | (As on 15/1/24)   | (As on 15/1/24)   | (As on 15/1/24)   |
+|-----------|---------------------------------|---------------------------------|-------------------------|------------------------------|----------------------------|------------------------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
+| Pro duct  | Total Requir ement Rabi 2024-25 | Total Require ment Rabi 2023-24 | 1.10. 24                |                          .23 | ment during January , 2025 | Require ment during January , 2024 | Availa bility     | Sa les            | Clos ing stoc k   | Availa bility     | Sa les            | Clos ing stoc k   |
+| URE A     | 186.89                          | 185.41 63.02                    | 45.02                   |                        31.63 |                            | 31.82                              | 70.32             | 25.1 8            | 45.14             | 78.06             | 17.9 1            | 60.14             |
+| DAP 52.05 | 54.99                           | 12.23                           | 21.76                   |                         4.20 | 4.75                       | 10.22                              | 2.12              | 8.10              | 15.35             | 2.15              | 13.21             |                   |
+| MOP 11.95 | 12.60                           | 7.33                            | 5.06                    |                         1.66 | 1.72                       | 10.02                              | 0.99              | 9.03              | 7.29              | 0.57              | 6.72              |                   |
+| NPK 77.10 | 63.60                           | 35.94                           | 33.25                   |                        10.32 | 8.61                       | 28.52                              | 6.05              | 22.47             | 35.86             | 4.15              | 31.71             |                   |
+| SSP 36.48 | 31.24                           | 21.76                           | 16.47                   |                         4.41 | 4.22                       | 18.75                              | 1.92              | 16.83             | 15.19             | 0.97              | 14.22             |                   |
+| TOTA L    | 364.47                          | 347.84 140.29                   | 121.55                  |                        52.22 | 51.11                      | 137.83                             | 36.2 6            | 101.56 6          | 151.75            | 25.7 4            | 126.00            |                   |
+
+-  The  above  data  indicates  that  the  availability  of  Urea,  MOP,  Complexes  and  SSP  is comfortable.
+-  In case of DAP, The opening stock of Rabi 2024-25 as compared to the opening stock of Rabi 2023-24 is less by 9.53 LMT
+-  As on 17 th January, 2025 the availability of DAP is 10.22 LMT against the requirement of 4.20 LMT during the ongoing Rabi 2024-25 season.
+
+## PEST &amp; DISEASE
+
+-  Overall intensity of pests and diseases remained below Economic Threshold Level (ETL) except:
+
+| Crop    | State      | District/ Sub District/ Village                                                                                                                      | Source                                | Pest/ Disease                                  | Intensity Area                            | Action Taken                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|---------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------------------------------------------|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|         |            |                                                                                                                                                      |                                       |                                                | infested/Infected above *ETL (ha)         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Coconut | Tamil Nadu | Thekkupattu, Ambalur (Natrampalli block), Pethakallupalli, Chinnamuthur (Jolarpet block), Uthayendram (Alangayam block) & Byrapalli (Madhanur block) | Surveyed by CIPMC/ State Agri. Deptt. | Black Headed Caterpillar ( Opisina arenosella) | 27 ha.-Near ETL & 7 ha. - Low to Moderate | Pest incidence was reported on 06.01.2025 CIPMC Trichy conducted joint survey along with the State Agricultural Department in Thirupathur district of Tamil Nadu' on 06.01.2025 and submitted the report on 08.01.2025. Advisory issued by the survey team to the farms. Regular monitoring is being carried out by all field functionaries as follow up action. Action has been taken up for Coconut Black Headed Caterpillar management with State Department of Horticulture, Thirupathur District and instructed to disseminate to undertake control measures given by CIPMC, Trichy. -Also, it has been published through Newspapers and other medias. Distributed Leaflets to farmers prepared by CIPMC, Trichy -Farmers were advised to take up control measures in synchronised manner. |
+
+## RABI HORTICULTURE (As on 16 th  Jan, 2025)
+
+Onion: 7.70 lakh ha area has been sown in 2024-25 as compared to all India total area sown of 6.97 lakh ha in 2023-24.
+
+Potato :  19.71 lakh ha area has been sown in 2024-25 as compared to all India total area sown of 19.32 lakh ha in 2023-24.
+
+Tomato :  1.96 lakh ha area has been sown in 2024-25 as compared to all India total area sown of 1.51 lakh ha in 2023-24.
+
+## PRICES
+
+-  Mandi  prices  of  Rice  (0.52%),  Masur  (1.72%),  Moong  (5.48%),  Urad  (0.33%),  Groundnut (3.75%) and Sunflower (11.47%) have increased week-on-week and prices of Wheat (1.12%), Tur (3.44%), Gram (2.11%), Mustard (1.54%), Soybean (0.27%) and Sesamum (0.82%) have decreased week-on-week.
+-  All India retail prices of Wheat (0.43%) and Soya bean (0.40%) increased week-on-week and prices  of  Rice  (1.06%),  Tur  (1.18%),  Gram  (0.34%),  Masur  (0.41%),  Moong  (0.16%),  Urad (0.24%) and Mustard (0.11%) have decreased week-on-week.
+-  Mandi prices and Retail prices of Onion, Potato and Tomato have decreased week-on-week.
+
+## PROCUREMENT
+
+-  Kharif Marketing Season (KMS) 2024-25 is progressing smoothly in various procuring states and  up  to  19.01.2025, 394.88 LMT of  paddy  in  terms  of  Rice  has  been  procured  against previous season's corresponding procurement of 390.61 LMT.
+-  Procurement period in Rabi Marketing Season (RMS) 2024-25 is over in all procuring states and  a  quantity  of  266.05  LMT  of  wheat  has  been  procured  whereas  procurement  in  the previous marketing season (RMS 2023-24) was 261.97 LMT.
+-  Actual stock of Rice &amp; Wheat together was 475.03 LMT against buffer norm of 307.70 LMT.
+
+## All India Procurement of Paddy/Rice during KMS 2024-25 vis-a-vis KMS 2023-24 Up to 19.01.2025 (Figures in LMT)
+
+| Crop   | Rice Procurement Estimates during KMS 2024-25 (Estimates in terms of Paddy)   |   Cumulative Paddy procurement during KMS 2024-25 |   Cumulative Corresponding Paddy procurement in KMS 2023- 24 | Cumulative procurement in terms of Rice during KMS 2024- 25 (Percentage of target achieved)   |   Cumulative Corresponding procurement in terms of Rice in KMS 2023-24 |
+|--------|-------------------------------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Kharif | 492.11 (734.49)                                                               |                                            588.76 |                                                       582.35 | 394.88 (80.24%)                                                                               |                                                                 390.61 |
+
+(
+
+Source: FCI Daily Bulletin)
+
+**********************

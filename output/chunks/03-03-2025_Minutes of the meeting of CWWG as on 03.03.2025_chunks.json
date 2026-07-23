@@ -1,0 +1,3953 @@
+{
+    "metadata": {
+        "document_name": "03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025.pdf",
+        "document_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\..\\downloads\\pdfs\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025.pdf",
+        "title": "",
+        "author": "AYUSH RAJ",
+        "creator": "Microsoft® Word 2016",
+        "producer": "Microsoft® Word 2016",
+        "subject": "",
+        "keywords": "",
+        "creation_date": "D:20250311132909+05'30'",
+        "modification_date": "D:20250311132909+05'30'",
+        "total_pages": 14,
+        "file_size_bytes": 1855184,
+        "extraction_tool": "PyMuPDF",
+        "extraction_timestamp": "2026-07-19T02:09:39.139576"
+    },
+    "statistics": {
+        "pages": 14,
+        "sections": 14,
+        "merged_sections": 7,
+        "text_chunks": 14,
+        "table_chunks": 3,
+        "image_chunks": 2,
+        "total_chunks": 17
+    },
+    "chunks": [
+        {
+            "chunk_id": "CWWG_00001",
+            "chunk_type": "text",
+            "heading": "Introduction",
+            "page_start": 1,
+            "page_end": 3,
+            "text": "| 1 (as on 03.03.2025)\n\n\n\n\n| 2 with hailstorm over Punjab on 03rd March; Isolated heavy rainfall/snowfall likely at isolated places likely over Jammu Kashmir-Ladakh-Gilgit-Baltistan-Muzaffarabad and Himachal Pradesh on 03rd March. - Overall, rainfall is likely to be below normal over all the homogeneous regions of the country during the week except northwest India, where it is likely to be near normal during the week. 5. Inputs Situation a) Water Reservoir Status: As of February 27, 2025, the live storage in 155 major reservoirs is 93.53 BCM (52% of total capacity). Storage is at 119% of last year’s level and 115% of the 10- year average. The overall storage position is better than the corresponding period of last year in the country as a whole and is also better than the Normal storage during the corresponding period. b) Groundwater Levels: Approximately 66.6% of monitoring wells show water levels between 0- 5 m, while 29.1% report levels between 5-10 m. Decadal analysis (2014–2023) indicates a rise in 64.9% of wells and a decline in 35.1% as of August 2024. c) Seeds and Fertilizers: For Rabi 2024-25, certified seed availability is 337.98 lakh quintals against a requirement of 307.07 lakh quintals, ensuring a surplus of 30.90 lakh quintals. The fertilizer supply remains stable across all products. 6. Pests & Diseases: The overall intensity of pests and diseases remained below the Economic Threshold Level (ETL) and no major pest incidence was reported. 7. Crops whose Mandi Wholesale prices are below MSP:\n| 3",
+            "word_count": 250,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 1,
+                    "rows_count": 4,
+                    "columns_count": 1,
+                    "header": [
+                        "- A fresh Western Disturbance is likely to affect Northwest India from 02nd March."
+                    ],
+                    "rows": [
+                        [
+                            "- A fresh Western Disturbance is likely to affect Northwest India from 02nd March."
+                        ],
+                        [
+                            "- Isolated to Scattered light/moderate rainfall/snowfall accompanied with isolated"
+                        ],
+                        [
+                            "thunderstorms and lightning very likely over Jammu-Kashmir-Ladakh-Gilgit-"
+                        ],
+                        [
+                            "Baltistan- Muzaffarabad, Himachal Pradesh & Uttarakhand on 03rd & 04th March;"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 2,
+                    "rows_count": 5,
+                    "columns_count": 1,
+                    "header": [
+                        "a) Water Reservoir Status: As of February 27, 2025, the live storage in 155 major reservoirs is"
+                    ],
+                    "rows": [
+                        [
+                            "a) Water Reservoir Status: As of February 27, 2025, the live storage in 155 major reservoirs is"
+                        ],
+                        [
+                            "93.53 BCM (52% of total capacity). Storage is at 119% of last year’s level and 115% of the 10-"
+                        ],
+                        [
+                            "year average. The overall storage position is better than the corresponding period of last"
+                        ],
+                        [
+                            "year in the country as a whole and is also better than the Normal storage during the"
+                        ],
+                        [
+                            "corresponding period."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 2,
+                    "page": 1,
+                    "xref": 43,
+                    "image_name": "page_1_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_1_image_2.png",
+                    "width": 2000,
+                    "height": 329,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 3,
+                    "page": 3,
+                    "xref": 65,
+                    "image_name": "page_3_image_3.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_3_image_3.png",
+                    "width": 761,
+                    "height": 901,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 2,
+            "multimodal_score": 6,
+            "keywords": [
+                "storage",
+                "rainfall",
+                "water",
+                "lakh quintals",
+                "groundwater",
+                "fertilizers",
+                "fertilizer",
+                "reservoir",
+                "seeds",
+                "crops"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00002",
+            "chunk_type": "text",
+            "heading": "Details of each Segment",
+            "page_start": 3,
+            "page_end": 4,
+            "text": "Period Average (LPA) by 6%. Cumulative seasonal rainfall (01 Jan to 03 March 2025) is above than LPA by 22%. Rainfall Forecast: 27th Feb – 05th Mar 2025 a) A fresh Western Disturbance is likely to affect Northwest India from 02nd March. Under its influence; Isolated to Scattered light/moderate rainfall/snowfall very likely over Jammu-Kashmir-Ladakh-Gilgit-Baltistan-Muzaffarabad & Himachal Pradesh during 02nd -05th; Uttarakhand during 02nd-04th; Isolated light/moderate rainfall/snowfall likely over Punjab, Haryana, Chandigarh on 03rd February. b) No significant weather likely over rest parts of the country during the week. 06th Mar - 12th Mar, 2025 c) Under the influence of western disturbances, scattered to fairly widespread rainfall/snowfall is likely over Western Himalayan Region during some to many days of the week.\n| 4 d) Light/moderate isolated to scattered rainfall is also likely over northeast India and extreme south Peninsular India during some days of the week. e) Overall, rainfall is likely to be below normal over all the homogeneous regions of the country during the week except northwest India, where it is likely to be near normal during the week.",
+            "word_count": 179,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 3,
+                    "rows_count": 6,
+                    "columns_count": 1,
+                    "header": [
+                        "a) A fresh Western Disturbance is likely to affect Northwest India from 02nd March. Under"
+                    ],
+                    "rows": [
+                        [
+                            "a) A fresh Western Disturbance is likely to affect Northwest India from 02nd March. Under"
+                        ],
+                        [
+                            "its influence; Isolated to Scattered light/moderate rainfall/snowfall very likely over"
+                        ],
+                        [
+                            "Jammu-Kashmir-Ladakh-Gilgit-Baltistan-Muzaffarabad & Himachal Pradesh during"
+                        ],
+                        [
+                            "02nd -05th; Uttarakhand during 02nd-04th; Isolated light/moderate rainfall/snowfall"
+                        ],
+                        [
+                            "likely over Punjab, Haryana, Chandigarh on 03rd February."
+                        ],
+                        [
+                            "b) No significant weather likely over rest parts of the country during the week."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 3,
+                    "rows_count": 3,
+                    "columns_count": 1,
+                    "header": [
+                        "c) Under the influence of western disturbances, scattered to fairly widespread"
+                    ],
+                    "rows": [
+                        [
+                            "c) Under the influence of western disturbances, scattered to fairly widespread"
+                        ],
+                        [
+                            "rainfall/snowfall is likely over Western Himalayan Region during some to many days of"
+                        ],
+                        [
+                            "the week."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 3,
+                    "xref": 63,
+                    "image_name": "page_3_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_3_image_1.png",
+                    "width": 1193,
+                    "height": 193,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 3,
+                    "xref": 64,
+                    "image_name": "page_3_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_3_image_2.png",
+                    "width": 810,
+                    "height": 920,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 3,
+                    "page": 3,
+                    "xref": 65,
+                    "image_name": "page_3_image_3.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_3_image_3.png",
+                    "width": 761,
+                    "height": 901,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 3,
+            "multimodal_score": 7,
+            "keywords": [
+                "rainfall",
+                "likely over",
+                "likely",
+                "rainfall snowfall",
+                "light moderate",
+                "forecast",
+                "weather",
+                "over",
+                "week",
+                "isolated scattered"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00003",
+            "chunk_type": "text",
+            "heading": "2. TEMPERATURE: MIN & MAX",
+            "page_start": 4,
+            "page_end": 5,
+            "text": "Temperature Forecast 27th Feb – 05th Mar 2025 a) A gradual decrease in maximum temperatures by 3-5°C is likely over Northwest India during next two days, and gradual rise by 4-6°C thereafter. b) No significant changes in maximum temperature over West India for the next 24 hours, and gradual increase of 2-3°C thereafter. c) No significant change in maximum temperatures likely over rest parts of India during next 4-5 days. d) No significant change in minimum temperatures likely over Northwest India during next 2 days and gradual fall by 2-4°C thereafter. No significant change in minimum temperatures likely over rest parts of India during most days of the week. 06th Mar - 12th Mar, 2025 e) Maximum temperatures are likely to be above normal by 2-3°C over many parts of northwest India and along west & east coast of India. It is likely to be near normal or below normal over rest parts of the country. f) There is low to moderate probability of heat wave conditions over Gujarat, Konkan and coastal Karnataka during some days of the week.\n| 5 g) Minimum temperatures are likely to be below normal or near normal over most parts of the country except Western Himalayan Region, where it is likely to be above normal 2- 3°C.",
+            "word_count": 213,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 4,
+                    "rows_count": 5,
+                    "columns_count": 1,
+                    "header": [
+                        "d) Light/moderate isolated to scattered rainfall is also likely over northeast India and"
+                    ],
+                    "rows": [
+                        [
+                            "d) Light/moderate isolated to scattered rainfall is also likely over northeast India and"
+                        ],
+                        [
+                            "extreme south Peninsular India during some days of the week."
+                        ],
+                        [
+                            "e) Overall, rainfall is likely to be below normal over all the homogeneous regions of the"
+                        ],
+                        [
+                            "country during the week except northwest India, where it is likely to be near normal"
+                        ],
+                        [
+                            "during the week."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 4,
+                    "xref": 69,
+                    "image_name": "page_4_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_4_image_1.png",
+                    "width": 643,
+                    "height": 754,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 5,
+                    "xref": 83,
+                    "image_name": "page_5_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_5_image_2.png",
+                    "width": 626,
+                    "height": 469,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "temperatures likely",
+                "over",
+                "likely over",
+                "likely",
+                "temperature",
+                "thereafter significant",
+                "maximum temperatures",
+                "minimum temperatures",
+                "significant change",
+                "temperatures"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00004",
+            "chunk_type": "text",
+            "heading": "3. RESERVOIR STORAGE (as on 27th February, 2025)",
+            "page_start": 5,
+            "page_end": 7,
+            "text": "Current live storage in 155 reservoirs was 93.53 BCM (52%) of total live capacity of 180.85 BCM. Table 1: For 155 major reservoirs of the country - 129 reservoirs having storage more than 80% of normal storage. - 19 reservoirs having storage 51% to 80%. - 04 reservoirs having storage 31% to 50%. - 03 reservoir having storage up to 30 % Source: CWC Period Storage as % of FRL Storage as % of Last Year Storage as % of 10 Year’s Average Level Current Week 52 119 115 Last Week 55 120 116 The percentage to live capacity at FRL was 43% on 27.02.2024, 52% on 27.02.2023, 58% 27.02.2022 and 54% on 27.02.2021.\n| 6\n\n\na) Soil Moisture Observation - Soil moisture during 14 Feb – 20 Feb 2025 is better/similar to the average of the past 9 years in A.P, Karnataka, Telangana, Tamil Nadu, Gujarat, Rajasthan, M.P, Punjab, Haryana and Maharashtra. - Whereas it is lower than average of past 9 years avg. in parts of Bihar, Northern W.B., Jharkhand, Chhattisgarh, Eastern U.P & Odisha. (b) Temperature Observation\n| 7",
+            "word_count": 182,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 5,
+                    "rows_count": 4,
+                    "columns_count": 4,
+                    "header": [
+                        "Period",
+                        "Storage\nas % of\nFRL",
+                        "Storage\nas % of\nLast Year",
+                        "Storage as %\nof 10 Year’s\nAverage Level"
+                    ],
+                    "rows": [
+                        [
+                            "Period",
+                            "Storage\nas % of\nFRL",
+                            "Storage\nas % of\nLast Year",
+                            "Storage as %\nof 10 Year’s\nAverage Level"
+                        ],
+                        [
+                            "Current\nWeek",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Last\nWeek",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "The percentage to live capacity at FRL was 43% on\n27.02.2024, 52% on 27.02.2023, 58% 27.02.2022\nand 54% on 27.02.2021.",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 5,
+                    "xref": 82,
+                    "image_name": "page_5_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_5_image_1.png",
+                    "width": 480,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 5,
+                    "xref": 83,
+                    "image_name": "page_5_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_5_image_2.png",
+                    "width": 626,
+                    "height": 469,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "storage",
+                "having storage",
+                "moisture",
+                "storage reservoirs",
+                "reservoirs having",
+                "temperature",
+                "reservoir",
+                "reservoirs",
+                "live capacity",
+                "soil moisture"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00005",
+            "chunk_type": "text",
+            "heading": "5. CROP SOWING STATUS FOR RABI SEASON Preliminary area coverage of Summer Crops",
+            "page_start": 7,
+            "page_end": 9,
+            "text": "- Rice: About 25.06 lakh ha area coverage under Summer Rice has been reported as compared to 22.24 lakh ha during the corresponding period of last year. - Pulses: About 4.36 lakh ha area coverage has been reported compared to 1.42 lakh ha during the corresponding period of last year. - Oilseeds: About 1.46 lakh ha area coverage has been reported compared to 1.53 lakh ha during the corresponding period of last year. Progress of Area coverage under Summer crops as on 27.02.2025 Area: In lakh hectare Sl. No.",
+            "word_count": 89,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 7,
+                    "rows_count": 22,
+                    "columns_count": 10,
+                    "header": [
+                        "Progress of Area coverage under Summer crops as on 27.02.2025",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Progress of Area coverage under Summer crops as on 27.02.2025",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area: In lakh hectare",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal\nSummer\nArea\n(DES)",
+                            "Area Sown",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Increase/\nDecrease\nover Last\nyear"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current\nYear 2025",
+                            "",
+                            "",
+                            "Last Year\n2024",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "",
+                            "25.062",
+                            "",
+                            "",
+                            "22.243",
+                            "",
+                            "2.819"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.645",
+                            "4.357",
+                            "",
+                            "",
+                            "1.417",
+                            "",
+                            "",
+                            "2.941"
+                        ],
+                        [
+                            "a",
+                            "Greengram",
+                            "18.950",
+                            "3.175",
+                            "",
+                            "",
+                            "0.997",
+                            "",
+                            "",
+                            "2.178"
+                        ],
+                        [
+                            "b",
+                            "Blackgram",
+                            "2.695",
+                            "1.093",
+                            "",
+                            "",
+                            "0.378",
+                            "",
+                            "",
+                            "0.715"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.089",
+                            "",
+                            "",
+                            "0.041",
+                            "",
+                            "",
+                            "0.048"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum\nCoarse Cereals",
+                            "11.048",
+                            "1.676",
+                            "",
+                            "",
+                            "1.360",
+                            "",
+                            "",
+                            "0.316"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "0.038",
+                            "",
+                            "",
+                            "0.018",
+                            "",
+                            "",
+                            "0.020"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "0.213",
+                            "",
+                            "",
+                            "0.151",
+                            "",
+                            "",
+                            "0.062"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "0.306",
+                            "0.052",
+                            "",
+                            "",
+                            "0.040",
+                            "",
+                            "",
+                            "0.012"
+                        ],
+                        [
+                            "d",
+                            "Small Millets",
+                            "0.017",
+                            "0.010",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.010"
+                        ],
+                        [
+                            "e",
+                            "Maize",
+                            "6.290",
+                            "1.363",
+                            "",
+                            "",
+                            "1.150",
+                            "",
+                            "",
+                            "0.213"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "7.855",
+                            "1.459",
+                            "",
+                            "",
+                            "1.526",
+                            "",
+                            "",
+                            "-0.067"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "2.995",
+                            "1.021",
+                            "",
+                            "",
+                            "1.042",
+                            "",
+                            "",
+                            "-0.021"
+                        ],
+                        [
+                            "b",
+                            "Sunflower",
+                            "0.340",
+                            "0.125",
+                            "",
+                            "",
+                            "0.111",
+                            "",
+                            "",
+                            "0.014"
+                        ],
+                        [
+                            "c",
+                            "Sesamum",
+                            "4.520",
+                            "0.300",
+                            "",
+                            "",
+                            "0.349",
+                            "",
+                            "",
+                            "-0.048"
+                        ],
+                        [
+                            "d",
+                            "Other Oilseeds",
+                            "0.000",
+                            "0.012",
+                            "",
+                            "",
+                            "0.023",
+                            "",
+                            "",
+                            "-0.011"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "71.343",
+                            "32.553",
+                            "",
+                            "",
+                            "26.545",
+                            "",
+                            "",
+                            "6.009"
+                        ],
+                        [
+                            "The Summer Sowing is going on smoothly. Expected to achieve normal area.",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 1,
+            "image_count": 0,
+            "multimodal_score": 2,
+            "keywords": [
+                "area coverage",
+                "summer",
+                "rice",
+                "lakh",
+                "corresponding period",
+                "lakh corresponding",
+                "reported compared",
+                "compared lakh",
+                "has reported",
+                "period last"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00006",
+            "chunk_type": "text",
+            "heading": "5. CROP SOWING STATUS FOR RABI SEASON Preliminary area coverage of Summer Crops",
+            "page_start": 7,
+            "page_end": 9,
+            "text": "Crops Normal Summer Area (DES) Area Sown Increase/ Decrease over Last year Current Year 2025 Last Year 2024 1 Rice 30.795 25.062 22.243 2.819 2 Pulses 21.645 4.357 1.417 2.941 a Greengram 18.950 3.175 0.997 2.178 b Blackgram 2.695 1.093 0.378 0.715 c Other Pulses 0.000 0.089 0.041 0.048 3 Shree Anna cum Coarse Cereals 11.048 1.676 1.360 0.316 a Jowar 0.335 0.038 0.018 0.020 b Bajra 4.100 0.213 0.151 0.062 c Ragi 0.306 0.052 0.040 0.012 d Small Millets 0.017 0.010 0.000 0.010 e Maize 6.290 1.363 1.150 0.213 4 Oilseeds 7.855 1.459 1.526 -0.067 a Groundnut 2.995 1.021 1.042 -0.021 b Sunflower 0.340 0.125 0.111 0.014 c Sesamum 4.520 0.300 0.349 -0.048 d Other Oilseeds 0.000 0.012 0.023 -0.011 Total 71.343 32.553 26.545 6.009 The Summer Sowing is going on smoothly. Expected to achieve normal area.",
+            "word_count": 138,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 7,
+                    "rows_count": 22,
+                    "columns_count": 10,
+                    "header": [
+                        "Progress of Area coverage under Summer crops as on 27.02.2025",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Progress of Area coverage under Summer crops as on 27.02.2025",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area: In lakh hectare",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal\nSummer\nArea\n(DES)",
+                            "Area Sown",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Increase/\nDecrease\nover Last\nyear"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current\nYear 2025",
+                            "",
+                            "",
+                            "Last Year\n2024",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "",
+                            "25.062",
+                            "",
+                            "",
+                            "22.243",
+                            "",
+                            "2.819"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.645",
+                            "4.357",
+                            "",
+                            "",
+                            "1.417",
+                            "",
+                            "",
+                            "2.941"
+                        ],
+                        [
+                            "a",
+                            "Greengram",
+                            "18.950",
+                            "3.175",
+                            "",
+                            "",
+                            "0.997",
+                            "",
+                            "",
+                            "2.178"
+                        ],
+                        [
+                            "b",
+                            "Blackgram",
+                            "2.695",
+                            "1.093",
+                            "",
+                            "",
+                            "0.378",
+                            "",
+                            "",
+                            "0.715"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.089",
+                            "",
+                            "",
+                            "0.041",
+                            "",
+                            "",
+                            "0.048"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum\nCoarse Cereals",
+                            "11.048",
+                            "1.676",
+                            "",
+                            "",
+                            "1.360",
+                            "",
+                            "",
+                            "0.316"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "0.038",
+                            "",
+                            "",
+                            "0.018",
+                            "",
+                            "",
+                            "0.020"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "0.213",
+                            "",
+                            "",
+                            "0.151",
+                            "",
+                            "",
+                            "0.062"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "0.306",
+                            "0.052",
+                            "",
+                            "",
+                            "0.040",
+                            "",
+                            "",
+                            "0.012"
+                        ],
+                        [
+                            "d",
+                            "Small Millets",
+                            "0.017",
+                            "0.010",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.010"
+                        ],
+                        [
+                            "e",
+                            "Maize",
+                            "6.290",
+                            "1.363",
+                            "",
+                            "",
+                            "1.150",
+                            "",
+                            "",
+                            "0.213"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "7.855",
+                            "1.459",
+                            "",
+                            "",
+                            "1.526",
+                            "",
+                            "",
+                            "-0.067"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "2.995",
+                            "1.021",
+                            "",
+                            "",
+                            "1.042",
+                            "",
+                            "",
+                            "-0.021"
+                        ],
+                        [
+                            "b",
+                            "Sunflower",
+                            "0.340",
+                            "0.125",
+                            "",
+                            "",
+                            "0.111",
+                            "",
+                            "",
+                            "0.014"
+                        ],
+                        [
+                            "c",
+                            "Sesamum",
+                            "4.520",
+                            "0.300",
+                            "",
+                            "",
+                            "0.349",
+                            "",
+                            "",
+                            "-0.048"
+                        ],
+                        [
+                            "d",
+                            "Other Oilseeds",
+                            "0.000",
+                            "0.012",
+                            "",
+                            "",
+                            "0.023",
+                            "",
+                            "",
+                            "-0.011"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "71.343",
+                            "32.553",
+                            "",
+                            "",
+                            "26.545",
+                            "",
+                            "",
+                            "6.009"
+                        ],
+                        [
+                            "The Summer Sowing is going on smoothly. Expected to achieve normal area.",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 1,
+            "image_count": 0,
+            "multimodal_score": 2,
+            "keywords": [
+                "summer",
+                "pulses",
+                "crops",
+                "jowar",
+                "bajra",
+                "maize",
+                "rice",
+                "last year",
+                "area",
+                "year"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00007",
+            "chunk_type": "text",
+            "heading": "5. CROP SOWING STATUS FOR RABI SEASON Preliminary area coverage of Summer Crops",
+            "page_start": 7,
+            "page_end": 9,
+            "text": "Disclaimer : For Kharif crop wise estimated area, please see advanced estimates released by Ministry of Agriculture and Farmers' Welfare available on UPAg (upag.gov.in)\n| 8 Rabi Horticulture Crops Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi Season as on 28.02.2025 Area in Lakh Hectare Crop Normal Rabi Area Sown in major producing States Area Sown** during 2024- 25 Area Sown in the corresponding period of 2023-24 Increase/Decrease in 2024-25 over 2023-24 (1) (2) (3) (4) (5) Onion 10.29 10.31 9.05 1.26 Potato 18.23 19.82 19.56 0.26 Tomato 3.24 2.41 2.50 -0.09 - Normal Area is the average sown area in last 5 years (2019-20 to 2023-24). - The share of major producing States is nearly 85% in case of Rabi Potato and Tomato and 90% in case of Rabi onion. - The total normal Rabi sown area in the Country (including minor producing States) was 11.37 LHA for Onion, 21.47 LHA for Potato and 5.80 LHA for Tomato. - Sowing of Tomato and Onion crops for the ongoing Rabi season is progressing smoothly. - The sowing window is still available for Tomato and Onion crops. Given the good prices prevailing in the market, it is expected to achieve the normal area. - ** In case of Onion and Tomato, transplanted area is reported.",
+            "word_count": 220,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 7,
+                    "rows_count": 22,
+                    "columns_count": 10,
+                    "header": [
+                        "Progress of Area coverage under Summer crops as on 27.02.2025",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Progress of Area coverage under Summer crops as on 27.02.2025",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area: In lakh hectare",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal\nSummer\nArea\n(DES)",
+                            "Area Sown",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Increase/\nDecrease\nover Last\nyear"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current\nYear 2025",
+                            "",
+                            "",
+                            "Last Year\n2024",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "",
+                            "25.062",
+                            "",
+                            "",
+                            "22.243",
+                            "",
+                            "2.819"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.645",
+                            "4.357",
+                            "",
+                            "",
+                            "1.417",
+                            "",
+                            "",
+                            "2.941"
+                        ],
+                        [
+                            "a",
+                            "Greengram",
+                            "18.950",
+                            "3.175",
+                            "",
+                            "",
+                            "0.997",
+                            "",
+                            "",
+                            "2.178"
+                        ],
+                        [
+                            "b",
+                            "Blackgram",
+                            "2.695",
+                            "1.093",
+                            "",
+                            "",
+                            "0.378",
+                            "",
+                            "",
+                            "0.715"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.089",
+                            "",
+                            "",
+                            "0.041",
+                            "",
+                            "",
+                            "0.048"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum\nCoarse Cereals",
+                            "11.048",
+                            "1.676",
+                            "",
+                            "",
+                            "1.360",
+                            "",
+                            "",
+                            "0.316"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "0.038",
+                            "",
+                            "",
+                            "0.018",
+                            "",
+                            "",
+                            "0.020"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "0.213",
+                            "",
+                            "",
+                            "0.151",
+                            "",
+                            "",
+                            "0.062"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "0.306",
+                            "0.052",
+                            "",
+                            "",
+                            "0.040",
+                            "",
+                            "",
+                            "0.012"
+                        ],
+                        [
+                            "d",
+                            "Small Millets",
+                            "0.017",
+                            "0.010",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.010"
+                        ],
+                        [
+                            "e",
+                            "Maize",
+                            "6.290",
+                            "1.363",
+                            "",
+                            "",
+                            "1.150",
+                            "",
+                            "",
+                            "0.213"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "7.855",
+                            "1.459",
+                            "",
+                            "",
+                            "1.526",
+                            "",
+                            "",
+                            "-0.067"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "2.995",
+                            "1.021",
+                            "",
+                            "",
+                            "1.042",
+                            "",
+                            "",
+                            "-0.021"
+                        ],
+                        [
+                            "b",
+                            "Sunflower",
+                            "0.340",
+                            "0.125",
+                            "",
+                            "",
+                            "0.111",
+                            "",
+                            "",
+                            "0.014"
+                        ],
+                        [
+                            "c",
+                            "Sesamum",
+                            "4.520",
+                            "0.300",
+                            "",
+                            "",
+                            "0.349",
+                            "",
+                            "",
+                            "-0.048"
+                        ],
+                        [
+                            "d",
+                            "Other Oilseeds",
+                            "0.000",
+                            "0.012",
+                            "",
+                            "",
+                            "0.023",
+                            "",
+                            "",
+                            "-0.011"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "71.343",
+                            "32.553",
+                            "",
+                            "",
+                            "26.545",
+                            "",
+                            "",
+                            "6.009"
+                        ],
+                        [
+                            "The Summer Sowing is going on smoothly. Expected to achieve normal area.",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 1,
+            "image_count": 0,
+            "multimodal_score": 2,
+            "keywords": [
+                "tomato",
+                "onion",
+                "rabi",
+                "area",
+                "potato",
+                "producing states",
+                "crops",
+                "crop",
+                "major producing",
+                "potato tomato"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00008",
+            "chunk_type": "text",
+            "heading": "5. CROP SOWING STATUS FOR RABI SEASON Preliminary area coverage of Summer Crops",
+            "page_start": 7,
+            "page_end": 9,
+            "text": "1 1Major Producing States for Rabi Onion are: Maharashtra, Madhya Pradesh, Karnataka, Bihar, Rajasthan, Gujarat, Andhra Pradesh, Haryana, Uttar Pradesh, Telangana and Tamil Nadu Major Producing States for Rabi Potato are: Uttar Pradesh, West Bengal, Bihar, Gujarat, Madhya Pradesh, Punjab and Haryana Major Producing States for Rabi Tomato are: Andhra Pradesh, Madhya Pradesh, Karnataka, Gujarat, Maharashtra, and Telangana\n| 9",
+            "word_count": 60,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 7,
+                    "rows_count": 22,
+                    "columns_count": 10,
+                    "header": [
+                        "Progress of Area coverage under Summer crops as on 27.02.2025",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Progress of Area coverage under Summer crops as on 27.02.2025",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area: In lakh hectare",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal\nSummer\nArea\n(DES)",
+                            "Area Sown",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Increase/\nDecrease\nover Last\nyear"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current\nYear 2025",
+                            "",
+                            "",
+                            "Last Year\n2024",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "",
+                            "25.062",
+                            "",
+                            "",
+                            "22.243",
+                            "",
+                            "2.819"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.645",
+                            "4.357",
+                            "",
+                            "",
+                            "1.417",
+                            "",
+                            "",
+                            "2.941"
+                        ],
+                        [
+                            "a",
+                            "Greengram",
+                            "18.950",
+                            "3.175",
+                            "",
+                            "",
+                            "0.997",
+                            "",
+                            "",
+                            "2.178"
+                        ],
+                        [
+                            "b",
+                            "Blackgram",
+                            "2.695",
+                            "1.093",
+                            "",
+                            "",
+                            "0.378",
+                            "",
+                            "",
+                            "0.715"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.089",
+                            "",
+                            "",
+                            "0.041",
+                            "",
+                            "",
+                            "0.048"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum\nCoarse Cereals",
+                            "11.048",
+                            "1.676",
+                            "",
+                            "",
+                            "1.360",
+                            "",
+                            "",
+                            "0.316"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "0.038",
+                            "",
+                            "",
+                            "0.018",
+                            "",
+                            "",
+                            "0.020"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "0.213",
+                            "",
+                            "",
+                            "0.151",
+                            "",
+                            "",
+                            "0.062"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "0.306",
+                            "0.052",
+                            "",
+                            "",
+                            "0.040",
+                            "",
+                            "",
+                            "0.012"
+                        ],
+                        [
+                            "d",
+                            "Small Millets",
+                            "0.017",
+                            "0.010",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.010"
+                        ],
+                        [
+                            "e",
+                            "Maize",
+                            "6.290",
+                            "1.363",
+                            "",
+                            "",
+                            "1.150",
+                            "",
+                            "",
+                            "0.213"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "7.855",
+                            "1.459",
+                            "",
+                            "",
+                            "1.526",
+                            "",
+                            "",
+                            "-0.067"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "2.995",
+                            "1.021",
+                            "",
+                            "",
+                            "1.042",
+                            "",
+                            "",
+                            "-0.021"
+                        ],
+                        [
+                            "b",
+                            "Sunflower",
+                            "0.340",
+                            "0.125",
+                            "",
+                            "",
+                            "0.111",
+                            "",
+                            "",
+                            "0.014"
+                        ],
+                        [
+                            "c",
+                            "Sesamum",
+                            "4.520",
+                            "0.300",
+                            "",
+                            "",
+                            "0.349",
+                            "",
+                            "",
+                            "-0.048"
+                        ],
+                        [
+                            "d",
+                            "Other Oilseeds",
+                            "0.000",
+                            "0.012",
+                            "",
+                            "",
+                            "0.023",
+                            "",
+                            "",
+                            "-0.011"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "71.343",
+                            "32.553",
+                            "",
+                            "",
+                            "26.545",
+                            "",
+                            "",
+                            "6.009"
+                        ],
+                        [
+                            "The Summer Sowing is going on smoothly. Expected to achieve normal area.",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 1,
+            "image_count": 0,
+            "multimodal_score": 2,
+            "keywords": [
+                "rabi",
+                "pradesh",
+                "producing states",
+                "major producing",
+                "madhya pradesh",
+                "states rabi",
+                "potato",
+                "tomato",
+                "onion",
+                "pradesh karnataka"
+            ],
+            "quality": "small"
+        },
+        {
+            "chunk_id": "CWWG_00009",
+            "chunk_type": "text",
+            "heading": "6. FERTILIZER POSITION: Availability of fertilizer has been found comfortable. Details of Requirement, Receipt, Availability,",
+            "page_start": 9,
+            "page_end": 10,
+            "text": "Sales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Rabi 2024- 25 as on 28.2.2025 is given below: Prod uct Total Require ment Rabi 2024-25 Total Require ment Rabi 2023-24 Openin g stock as on 1.10.2 4 Open ing stock as on 1.10. 23 Require ment during February, 2025 Require ment during February, 2024 (upto 28/2/25) (upto 29/2/24) Availab ility Sal es Closin g stock Availabi lity Sale s Closin g stock URE A 186.89 185.41 63.02 45.02 21.55 21.63 69.16 25.34 43.83 91.92 24.62 67.30 DAP 52.05 54.99 12.23 21.76 3.20 3.70 13.26 3.17 10.10 18.61 3.34 15.27 MOP 11.95 12.60 7.33 5.06 1.38 1.43 10.94 1.67 9.27 7.95 1.28 6.67 NPK 77.10 63.60 35.94 33.25 8.65 8.02 35.11 8.33 26.79 41.17 6.70 34.47 SSP 36.48 31.24 21.76 16.47 3.26 3.18 21.07 2.16 18.91 18.05 1.63 16.42 TOT AL 364.47 347.84 140.29 121.55 38.04 37.96 149.55 40.66 108.89 177.70 37.57 140.13 - The above data indicates that the availability of Urea, MOP, Complexes and SSP is comfortable. - In case of DAP, the opening stock of Rabi 2024-25 as compared to the opening stock of Rabi 2023-24 is less by 9.53 LMT - As on 27th February, 2025the availability of DAP is 13.26 LMT against the requirement of 3.20 LMT during the ongoing Rabi 2024-25 season.\n| 10",
+            "word_count": 224,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 9,
+                    "rows_count": 8,
+                    "columns_count": 13,
+                    "header": [
+                        "Prod\nuct",
+                        "Total\nRequire\nment\nRabi\n2024-25",
+                        "Total\nRequire\nment\nRabi\n2023-24",
+                        "Openin\ng\nstock\nas on\n1.10.2",
+                        "Open\ning\nstock\nas on\n1.10.",
+                        "Require\nment\nduring\nFebruary,\n2025",
+                        "Require\nment\nduring\nFebruary,\n2024",
+                        "(upto 28/2/25)",
+                        "",
+                        "",
+                        "(upto 29/2/24)",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Prod\nuct",
+                            "Total\nRequire\nment\nRabi\n2024-25",
+                            "Total\nRequire\nment\nRabi\n2023-24",
+                            "Openin\ng\nstock\nas on\n1.10.2",
+                            "Open\ning\nstock\nas on\n1.10.",
+                            "Require\nment\nduring\nFebruary,\n2025",
+                            "Require\nment\nduring\nFebruary,\n2024",
+                            "(upto 28/2/25)",
+                            "",
+                            "",
+                            "(upto 29/2/24)",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Availab\nility",
+                            "Sal\nes",
+                            "Closin\ng\nstock",
+                            "Availabi\nlity",
+                            "Sale\ns",
+                            "Closin\ng\nstock"
+                        ],
+                        [
+                            "URE\nA",
+                            "186.89",
+                            "185.41",
+                            "63.02",
+                            "45.02",
+                            "21.55",
+                            "21.63",
+                            "69.16",
+                            "25.34",
+                            "43.83",
+                            "91.92",
+                            "24.62",
+                            "67.30"
+                        ],
+                        [
+                            "DAP",
+                            "52.05",
+                            "54.99",
+                            "12.23",
+                            "21.76",
+                            "3.20",
+                            "3.70",
+                            "13.26",
+                            "3.17",
+                            "10.10",
+                            "18.61",
+                            "3.34",
+                            "15.27"
+                        ],
+                        [
+                            "MOP",
+                            "11.95",
+                            "12.60",
+                            "7.33",
+                            "5.06",
+                            "1.38",
+                            "1.43",
+                            "10.94",
+                            "1.67",
+                            "9.27",
+                            "7.95",
+                            "1.28",
+                            "6.67"
+                        ],
+                        [
+                            "NPK",
+                            "77.10",
+                            "63.60",
+                            "35.94",
+                            "33.25",
+                            "8.65",
+                            "8.02",
+                            "35.11",
+                            "8.33",
+                            "26.79",
+                            "41.17",
+                            "6.70",
+                            "34.47"
+                        ],
+                        [
+                            "SSP",
+                            "36.48",
+                            "31.24",
+                            "21.76",
+                            "16.47",
+                            "3.26",
+                            "3.18",
+                            "21.07",
+                            "2.16",
+                            "18.91",
+                            "18.05",
+                            "1.63",
+                            "16.42"
+                        ],
+                        [
+                            "TOT\nAL",
+                            "364.47",
+                            "347.84",
+                            "140.29",
+                            "121.55",
+                            "38.04",
+                            "37.96",
+                            "149.55",
+                            "40.66",
+                            "108.89",
+                            "177.70",
+                            "37.57",
+                            "140.13"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 10,
+                    "xref": 107,
+                    "image_name": "page_10_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_1.png",
+                    "width": 1068,
+                    "height": 456,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 10,
+                    "xref": 108,
+                    "image_name": "page_10_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_2.png",
+                    "width": 1002,
+                    "height": 435,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "rabi",
+                "require ment",
+                "stock",
+                "fertilizers",
+                "total require",
+                "ment february",
+                "opening stock",
+                "closin stock",
+                "stock rabi",
+                "ment rabi"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00010",
+            "chunk_type": "text",
+            "heading": "7. PEST & DISEASE",
+            "page_start": 10,
+            "page_end": 14,
+            "text": "Over all intensity of pests and disease remained below Economic Threshold Level (ETL). | 11\n\n\nprocuring states and up to 02.03.2025, a quantity of 458.69 LMT of paddy in terms of Rice has been procured against the previous season’s corresponding procurement of 438.72 LMT. - Wheat: The procurement period in Rabi Marketing Season (RMS) 2024-25 is over in all procuring states and a quantity of 266.05 LMT of wheat has been procured whereas procurement in the previous marketing season (RMS 2023-24) was 261.97 LMT. - Actual stock of Rice & Wheat together was 501.80 LMT against the buffer norm of 214.10 LMT.",
+            "word_count": 102,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 2,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                        "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                        "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                        "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                        "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                            "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                            "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                            "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                            "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.72)",
+                            "682.89",
+                            "653.57",
+                            "458.69\n(92.55%)",
+                            "438.72"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "4294",
+                        "4315",
+                        "4278",
+                        "4450",
+                        "-0.49",
+                        "0.37"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "4294",
+                            "4315",
+                            "4278",
+                            "4450",
+                            "-0.49",
+                            "0.37"
+                        ],
+                        [
+                            "",
+                            "3279",
+                            "3275",
+                            "3290",
+                            "3102",
+                            "0.12",
+                            "-0.33"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 12,
+                    "rows_count": 5,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "13901",
+                        "14086",
+                        "14950",
+                        "15061",
+                        "-1.31",
+                        "-7.02"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "13901",
+                            "14086",
+                            "14950",
+                            "15061",
+                            "-1.31",
+                            "-7.02"
+                        ],
+                        [
+                            "",
+                            "9013",
+                            "9053",
+                            "9226",
+                            "8263",
+                            "-0.44",
+                            "-2.31"
+                        ],
+                        [
+                            "",
+                            "8896",
+                            "8913",
+                            "8900",
+                            "9357",
+                            "-0.19",
+                            "-0.04"
+                        ],
+                        [
+                            "",
+                            "11288",
+                            "11301",
+                            "11358",
+                            "11636",
+                            "-0.12",
+                            "-0.62"
+                        ],
+                        [
+                            "",
+                            "12143",
+                            "12196",
+                            "12308",
+                            "12350",
+                            "-0.43",
+                            "-1.34"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 4,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "16846",
+                        "16878",
+                        "16957",
+                        "13437",
+                        "-0.19",
+                        "-0.65"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "16846",
+                            "16878",
+                            "16957",
+                            "13437",
+                            "-0.19",
+                            "-0.65"
+                        ],
+                        [
+                            "",
+                            "14465",
+                            "14526",
+                            "14422",
+                            "11990",
+                            "-0.42",
+                            "0.30"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 5,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "3688",
+                        "3705",
+                        "3760",
+                        "3039",
+                        "-0.46",
+                        "-1.91"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "3688",
+                            "3705",
+                            "3760",
+                            "3039",
+                            "-0.46",
+                            "-1.91"
+                        ],
+                        [
+                            "",
+                            "2457",
+                            "2541",
+                            "2904",
+                            "2138",
+                            "-3.31",
+                            "-15.39"
+                        ],
+                        [
+                            "",
+                            "2233",
+                            "2306",
+                            "2763",
+                            "3029",
+                            "-3.17",
+                            "-19.18"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 10,
+                    "xref": 107,
+                    "image_name": "page_10_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_1.png",
+                    "width": 1068,
+                    "height": 456,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 10,
+                    "xref": 108,
+                    "image_name": "page_10_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_2.png",
+                    "width": 1002,
+                    "height": 435,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 5,
+            "image_count": 2,
+            "multimodal_score": 12,
+            "keywords": [
+                "wheat",
+                "rice",
+                "disease",
+                "rabi",
+                "lmt",
+                "procuring states",
+                "marketing season",
+                "states quantity",
+                "quantity lmt",
+                "has procured"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00011",
+            "chunk_type": "text",
+            "heading": "7. PEST & DISEASE",
+            "page_start": 10,
+            "page_end": 14,
+            "text": "All India Procurement of Paddy/Rice during KMS 2024-25 vis-a-vis KMS 2023-24 As on 02.03.2025 (Figures in LMT) Crop Rice Procurement Estimates during KMS 2024-25 (Estimates in terms of Paddy) Cumulative Paddy procurement during KMS 2024-25 Cumulative Corresponding Paddy procurement in KMS 2023-24 Cumulative procurement in terms of Rice during KMS 2024-25 (Percentage of target achieved) Cumulative Corresponding procurement in terms of Rice in KMS 2023-24 Kharif 495.61 (739.72) 682.89 653.57 458.69 (92.55%) 438.72 (Source: FCI Daily Bulletin) ********************** | 12 Annexure All India Mandi Wholesale prices (Rs/Quintal) All India Retail Prices (Rs/Quintal) Current MSP Prices as on 25.02.25 One Week Ago 18.02.25 1 Month Ago 25.01.25 1 Year Ago 25.02.24 Last Week Last Month 1 Year Ago Paddy (Rice unmilled) 2300 2415 2452 2432 2432 -1.48 -0.66 -0.69 Wheat 2275 2914 2987 2937 2399 -2.43 -0.79 21.49 Arhar whole 7550 7129 7247 7221 9390 -1.62 -1.28 -24.08 Gram whole 5440 5542 5855 6444 5743 -5.36 -14.00 -3.50 Masur Whole 6425 5894 6062 6770 6092 -2.77 -12.93 -3.25 Moong Whole 8682 8637 7678 7430 9260 12.49 16.24 -6.72 Urad Whole 7400 7198 7050 7151 8887 2.10 0.67 -19.01 Groundnut 6783 5317 5019 4893 6343 5.96 8.68 -16.17 Mustard 5650 5615 5578 5728 4906 0.66 -1.96 14.44 Soyabean 4892 3949 3974 4030 4025 -0.64 -2.02 -1.91 Sesamum 9267 9516 9783 9898 12061",
+            "word_count": 220,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 2,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                        "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                        "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                        "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                        "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                            "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                            "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                            "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                            "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.72)",
+                            "682.89",
+                            "653.57",
+                            "458.69\n(92.55%)",
+                            "438.72"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "4294",
+                        "4315",
+                        "4278",
+                        "4450",
+                        "-0.49",
+                        "0.37"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "4294",
+                            "4315",
+                            "4278",
+                            "4450",
+                            "-0.49",
+                            "0.37"
+                        ],
+                        [
+                            "",
+                            "3279",
+                            "3275",
+                            "3290",
+                            "3102",
+                            "0.12",
+                            "-0.33"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 12,
+                    "rows_count": 5,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "13901",
+                        "14086",
+                        "14950",
+                        "15061",
+                        "-1.31",
+                        "-7.02"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "13901",
+                            "14086",
+                            "14950",
+                            "15061",
+                            "-1.31",
+                            "-7.02"
+                        ],
+                        [
+                            "",
+                            "9013",
+                            "9053",
+                            "9226",
+                            "8263",
+                            "-0.44",
+                            "-2.31"
+                        ],
+                        [
+                            "",
+                            "8896",
+                            "8913",
+                            "8900",
+                            "9357",
+                            "-0.19",
+                            "-0.04"
+                        ],
+                        [
+                            "",
+                            "11288",
+                            "11301",
+                            "11358",
+                            "11636",
+                            "-0.12",
+                            "-0.62"
+                        ],
+                        [
+                            "",
+                            "12143",
+                            "12196",
+                            "12308",
+                            "12350",
+                            "-0.43",
+                            "-1.34"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 4,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "16846",
+                        "16878",
+                        "16957",
+                        "13437",
+                        "-0.19",
+                        "-0.65"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "16846",
+                            "16878",
+                            "16957",
+                            "13437",
+                            "-0.19",
+                            "-0.65"
+                        ],
+                        [
+                            "",
+                            "14465",
+                            "14526",
+                            "14422",
+                            "11990",
+                            "-0.42",
+                            "0.30"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 5,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "3688",
+                        "3705",
+                        "3760",
+                        "3039",
+                        "-0.46",
+                        "-1.91"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "3688",
+                            "3705",
+                            "3760",
+                            "3039",
+                            "-0.46",
+                            "-1.91"
+                        ],
+                        [
+                            "",
+                            "2457",
+                            "2541",
+                            "2904",
+                            "2138",
+                            "-3.31",
+                            "-15.39"
+                        ],
+                        [
+                            "",
+                            "2233",
+                            "2306",
+                            "2763",
+                            "3029",
+                            "-3.17",
+                            "-19.18"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 10,
+                    "xref": 107,
+                    "image_name": "page_10_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_1.png",
+                    "width": 1068,
+                    "height": 456,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 10,
+                    "xref": 108,
+                    "image_name": "page_10_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_2.png",
+                    "width": 1002,
+                    "height": 435,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 5,
+            "image_count": 2,
+            "multimodal_score": 12,
+            "keywords": [
+                "rice",
+                "kms",
+                "procurement",
+                "rice kms",
+                "mustard",
+                "kharif",
+                "wheat",
+                "crop",
+                "paddy",
+                "whole"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00012",
+            "chunk_type": "text",
+            "heading": "7. PEST & DISEASE",
+            "page_start": 10,
+            "page_end": 14,
+            "text": "-2.73 -3.86 -21.10 Sunflower 7280 5696 6946 4970 - -17.99 14.61 - Onion 2022 2364 2135 1673 -14.46 -5.31 20.84 Potato 976 988 1148 981 -1.28 -15.02 -0.58 Tomato 843 880 985 1359 -4.14 -14.38 -37.97 Cereals % Variation Over Source: Agmarknet (through UPAg) Pulses Oil Seeds Commodities Prices as on 25.02.25 One Week Ago 18.02.25 1 Month Ago 25.01.25 1 Year Ago 25.02.24 Last Week Last Month 1 Year Ago Rice 4294 4315 4278 4450 -0.49 0.37 -3.51 Wheat 3279 3275 3290 3102 0.12 -0.33 5.71 Arhar/Tur Dal 13901 14086 14950 15061 -1.31 -7.02 -7.70 Gram Dal 9013 9053 9226 8263 -0.44 -2.31 9.08 Masur Dal 8896 8913 8900 9357 -0.19 -0.04 -4.93 Moong Dal 11288 11301 11358 11636 -0.12 -0.62 -2.99 Urad Dal 12143 12196 12308 12350 -0.43 -1.34 -1.68 Mustard Oil 16846 16878 16957 13437 -0.19 -0.65 25.37 Soyabean Oil 14465 14526 14422 11990 -0.42 0.30 20.64 Onion 3688 3705 3760 3039 -0.46 -1.91 21.36 Potato 2457 2541 2904 2138 -3.31 -15.39 14.92 Tomato 2233 2306 2763 3029 -3.17 -19.18 -26.28 % Variation Over Commodities All India Weekly Average Retail Prices (In Rs./Quintal) Cereals Pulses Edible Oils Horticulture Source: DoCA ( through UPAg) | 13 Government of India Crops Division SOWING AND HARVESTING STATUS OF RABI CROPS AS ON 27.02.2025 (Area in lakh ha.) S. No.",
+            "word_count": 219,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 2,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                        "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                        "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                        "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                        "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                            "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                            "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                            "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                            "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.72)",
+                            "682.89",
+                            "653.57",
+                            "458.69\n(92.55%)",
+                            "438.72"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "4294",
+                        "4315",
+                        "4278",
+                        "4450",
+                        "-0.49",
+                        "0.37"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "4294",
+                            "4315",
+                            "4278",
+                            "4450",
+                            "-0.49",
+                            "0.37"
+                        ],
+                        [
+                            "",
+                            "3279",
+                            "3275",
+                            "3290",
+                            "3102",
+                            "0.12",
+                            "-0.33"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 12,
+                    "rows_count": 5,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "13901",
+                        "14086",
+                        "14950",
+                        "15061",
+                        "-1.31",
+                        "-7.02"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "13901",
+                            "14086",
+                            "14950",
+                            "15061",
+                            "-1.31",
+                            "-7.02"
+                        ],
+                        [
+                            "",
+                            "9013",
+                            "9053",
+                            "9226",
+                            "8263",
+                            "-0.44",
+                            "-2.31"
+                        ],
+                        [
+                            "",
+                            "8896",
+                            "8913",
+                            "8900",
+                            "9357",
+                            "-0.19",
+                            "-0.04"
+                        ],
+                        [
+                            "",
+                            "11288",
+                            "11301",
+                            "11358",
+                            "11636",
+                            "-0.12",
+                            "-0.62"
+                        ],
+                        [
+                            "",
+                            "12143",
+                            "12196",
+                            "12308",
+                            "12350",
+                            "-0.43",
+                            "-1.34"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 4,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "16846",
+                        "16878",
+                        "16957",
+                        "13437",
+                        "-0.19",
+                        "-0.65"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "16846",
+                            "16878",
+                            "16957",
+                            "13437",
+                            "-0.19",
+                            "-0.65"
+                        ],
+                        [
+                            "",
+                            "14465",
+                            "14526",
+                            "14422",
+                            "11990",
+                            "-0.42",
+                            "0.30"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 5,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "3688",
+                        "3705",
+                        "3760",
+                        "3039",
+                        "-0.46",
+                        "-1.91"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "3688",
+                            "3705",
+                            "3760",
+                            "3039",
+                            "-0.46",
+                            "-1.91"
+                        ],
+                        [
+                            "",
+                            "2457",
+                            "2541",
+                            "2904",
+                            "2138",
+                            "-3.31",
+                            "-15.39"
+                        ],
+                        [
+                            "",
+                            "2233",
+                            "2306",
+                            "2763",
+                            "3029",
+                            "-3.17",
+                            "-19.18"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 10,
+                    "xref": 107,
+                    "image_name": "page_10_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_1.png",
+                    "width": 1068,
+                    "height": 456,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 10,
+                    "xref": 108,
+                    "image_name": "page_10_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_2.png",
+                    "width": 1002,
+                    "height": 435,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 5,
+            "image_count": 2,
+            "multimodal_score": 12,
+            "keywords": [
+                "potato",
+                "tomato",
+                "pulses",
+                "onion",
+                "crops",
+                "horticulture",
+                "harvesting",
+                "mustard",
+                "seeds",
+                "wheat"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00013",
+            "chunk_type": "text",
+            "heading": "7. PEST & DISEASE",
+            "page_start": 10,
+            "page_end": 14,
+            "text": "Crop Normal Area (DES) Area Coverage as on 31.01.2025 % Area Harvested Crop condition/Remark 1 Wheat 312.35 324.88 1.00 Harvesting of wheat crop just started in Maharashtra & at maturity stage in Southern states, whereas in northern states it is at grain filling stage. 2 Rice 42.02 42.54 18.60 Harvesting is started in Tamil Nadu, Tripura, etc. 3 Pulses 140.44 140.89 19.61 Crop is at Maturity to harvesting stage. a Gram 100.99 98.55 27.00 Crop is at maturity to harvesting stage. Harvesting is going on in Chhattisgarh, Maharashtra, Karnataka, Andhra Pradesh, Telangana, etc. b Lentil 15.13 17.43 10.61 Crop is at Maturity to harvesting stage. Harvesting started in Chhattisgarh. c Fieldpea 6.50 7.94 9.00 Crop is at Maturity to harvesting stage. d Kulthi 1.98 2.00 19.00 Crop is at Maturity to harvesting stage. e Urdbean 6.15 6.12 65.00 Crop is at Maturity to harvesting stage. f Moongbean 1.44 1.40 46.00 Crop is at Maturity to harvesting stage. g Lathyrus 2.79 2.80 71.00 Crop is at Maturity to harvesting stage. Harvesting is completed in Chhattisgarh. h Other Pulses 5.46 4.65 20.00 Crop is at Maturity to harvesting stage. 4 Shri Anna & Coarse cereals 53.46 55.25 17.42 Crop is at Maturity to harvesting stage. a Jowar 24.37 24.35 29.02 Harvesting is started in Karnataka, Madhya Pradesh & Tamil Nadu.",
+            "word_count": 218,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 2,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                        "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                        "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                        "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                        "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                            "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                            "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                            "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                            "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.72)",
+                            "682.89",
+                            "653.57",
+                            "458.69\n(92.55%)",
+                            "438.72"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "4294",
+                        "4315",
+                        "4278",
+                        "4450",
+                        "-0.49",
+                        "0.37"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "4294",
+                            "4315",
+                            "4278",
+                            "4450",
+                            "-0.49",
+                            "0.37"
+                        ],
+                        [
+                            "",
+                            "3279",
+                            "3275",
+                            "3290",
+                            "3102",
+                            "0.12",
+                            "-0.33"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 12,
+                    "rows_count": 5,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "13901",
+                        "14086",
+                        "14950",
+                        "15061",
+                        "-1.31",
+                        "-7.02"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "13901",
+                            "14086",
+                            "14950",
+                            "15061",
+                            "-1.31",
+                            "-7.02"
+                        ],
+                        [
+                            "",
+                            "9013",
+                            "9053",
+                            "9226",
+                            "8263",
+                            "-0.44",
+                            "-2.31"
+                        ],
+                        [
+                            "",
+                            "8896",
+                            "8913",
+                            "8900",
+                            "9357",
+                            "-0.19",
+                            "-0.04"
+                        ],
+                        [
+                            "",
+                            "11288",
+                            "11301",
+                            "11358",
+                            "11636",
+                            "-0.12",
+                            "-0.62"
+                        ],
+                        [
+                            "",
+                            "12143",
+                            "12196",
+                            "12308",
+                            "12350",
+                            "-0.43",
+                            "-1.34"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 4,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "16846",
+                        "16878",
+                        "16957",
+                        "13437",
+                        "-0.19",
+                        "-0.65"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "16846",
+                            "16878",
+                            "16957",
+                            "13437",
+                            "-0.19",
+                            "-0.65"
+                        ],
+                        [
+                            "",
+                            "14465",
+                            "14526",
+                            "14422",
+                            "11990",
+                            "-0.42",
+                            "0.30"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 5,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "3688",
+                        "3705",
+                        "3760",
+                        "3039",
+                        "-0.46",
+                        "-1.91"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "3688",
+                            "3705",
+                            "3760",
+                            "3039",
+                            "-0.46",
+                            "-1.91"
+                        ],
+                        [
+                            "",
+                            "2457",
+                            "2541",
+                            "2904",
+                            "2138",
+                            "-3.31",
+                            "-15.39"
+                        ],
+                        [
+                            "",
+                            "2233",
+                            "2306",
+                            "2763",
+                            "3029",
+                            "-3.17",
+                            "-19.18"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 10,
+                    "xref": 107,
+                    "image_name": "page_10_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_1.png",
+                    "width": 1068,
+                    "height": 456,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 10,
+                    "xref": 108,
+                    "image_name": "page_10_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_2.png",
+                    "width": 1002,
+                    "height": 435,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 5,
+            "image_count": 2,
+            "multimodal_score": 12,
+            "keywords": [
+                "harvesting",
+                "maturity harvesting",
+                "harvesting stage",
+                "crop maturity",
+                "crop",
+                "stage",
+                "maturity",
+                "pulses",
+                "wheat",
+                "harvesting started"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00014",
+            "chunk_type": "text",
+            "heading": "7. PEST & DISEASE",
+            "page_start": 10,
+            "page_end": 14,
+            "text": "b Bajra 0.37 0.14 60.40 Harvesting is started in Karnataka & Tamil Nadu. c Ragi 0.74 0.73 33.44 Harvesting is started in Karnataka & Tamil Nadu. d Small Millets 0.15 0.16 46.97 Harvesting is started in Karnataka, Maharashtra & Tamil Nadu. e Maize 22.11 23.67 9.35 Harvesting is started in Karnataka, Maharashtra & Tamil Nadu. | 14 f Barley 5.72 6.20 0.18 Crop is at Maturity to harvesting stage. 5 Oilseeds 87.02 97.47 24.72 a Rapeseed & Mustard 79.16 89.30 11.62 Crop is at grain filling to maturity stage. Harvesting is started in Chhattisgarh, Rajasthan, Madhya Pradesh and Uttar Pradesh. b Groundnut 3.82 3.65 2.27 Crop is at grain filling to maturity stage and harvesting is just started in Telangana. c Safflower 0.72 0.72 3.52 Crop is at grain filling to maturity stage and harvesting is just started in Maharashtra. d Sunflower 0.81 0.74 0.06 Crop is at grain filling to maturity stage. e Sesamum 0.58 0.42 0.11 Crop is at grain filling to maturity stage. f Linseed 1.93 2.26 0.20 Crop is at grain filling to maturity stage. g Other Oilseeds 0.00 0.39 0.00 Crop is at grain filling to maturity stage. Total Crops 635.30 661.03 11.50",
+            "word_count": 198,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 2,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                        "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                        "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                        "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                        "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                            "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                            "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                            "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                            "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.72)",
+                            "682.89",
+                            "653.57",
+                            "458.69\n(92.55%)",
+                            "438.72"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "4294",
+                        "4315",
+                        "4278",
+                        "4450",
+                        "-0.49",
+                        "0.37"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "4294",
+                            "4315",
+                            "4278",
+                            "4450",
+                            "-0.49",
+                            "0.37"
+                        ],
+                        [
+                            "",
+                            "3279",
+                            "3275",
+                            "3290",
+                            "3102",
+                            "0.12",
+                            "-0.33"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 12,
+                    "rows_count": 5,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "13901",
+                        "14086",
+                        "14950",
+                        "15061",
+                        "-1.31",
+                        "-7.02"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "13901",
+                            "14086",
+                            "14950",
+                            "15061",
+                            "-1.31",
+                            "-7.02"
+                        ],
+                        [
+                            "",
+                            "9013",
+                            "9053",
+                            "9226",
+                            "8263",
+                            "-0.44",
+                            "-2.31"
+                        ],
+                        [
+                            "",
+                            "8896",
+                            "8913",
+                            "8900",
+                            "9357",
+                            "-0.19",
+                            "-0.04"
+                        ],
+                        [
+                            "",
+                            "11288",
+                            "11301",
+                            "11358",
+                            "11636",
+                            "-0.12",
+                            "-0.62"
+                        ],
+                        [
+                            "",
+                            "12143",
+                            "12196",
+                            "12308",
+                            "12350",
+                            "-0.43",
+                            "-1.34"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 4,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "16846",
+                        "16878",
+                        "16957",
+                        "13437",
+                        "-0.19",
+                        "-0.65"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "16846",
+                            "16878",
+                            "16957",
+                            "13437",
+                            "-0.19",
+                            "-0.65"
+                        ],
+                        [
+                            "",
+                            "14465",
+                            "14526",
+                            "14422",
+                            "11990",
+                            "-0.42",
+                            "0.30"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 5,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "3688",
+                        "3705",
+                        "3760",
+                        "3039",
+                        "-0.46",
+                        "-1.91"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "3688",
+                            "3705",
+                            "3760",
+                            "3039",
+                            "-0.46",
+                            "-1.91"
+                        ],
+                        [
+                            "",
+                            "2457",
+                            "2541",
+                            "2904",
+                            "2138",
+                            "-3.31",
+                            "-15.39"
+                        ],
+                        [
+                            "",
+                            "2233",
+                            "2306",
+                            "2763",
+                            "3029",
+                            "-3.17",
+                            "-19.18"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 10,
+                    "xref": 107,
+                    "image_name": "page_10_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_1.png",
+                    "width": 1068,
+                    "height": 456,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 10,
+                    "xref": 108,
+                    "image_name": "page_10_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_2.png",
+                    "width": 1002,
+                    "height": 435,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 5,
+            "image_count": 2,
+            "multimodal_score": 12,
+            "keywords": [
+                "filling maturity",
+                "maturity stage",
+                "grain filling",
+                "crop grain",
+                "harvesting",
+                "crop",
+                "harvesting started",
+                "started karnataka",
+                "tamil nadu",
+                "maturity"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00015",
+            "chunk_type": "table",
+            "heading": "7. PEST & DISEASE",
+            "page_start": 10,
+            "page_end": 14,
+            "table_id": 3,
+            "table_index": 4,
+            "caption": "",
+            "text": "13901 | 14086 | 14950 | 15061 | -1.31 | -7.02\n9013 | 9053 | 9226 | 8263 | -0.44 | -2.31\n8896 | 8913 | 8900 | 9357 | -0.19 | -0.04\n11288 | 11301 | 11358 | 11636 | -0.12 | -0.62\n12143 | 12196 | 12308 | 12350 | -0.43 | -1.34",
+            "word_count": 55,
+            "row_count": 5,
+            "column_count": 7,
+            "table_count": 5,
+            "image_count": 2,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 2,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                        "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                        "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                        "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                        "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                            "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                            "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                            "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                            "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.72)",
+                            "682.89",
+                            "653.57",
+                            "458.69\n(92.55%)",
+                            "438.72"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "4294",
+                        "4315",
+                        "4278",
+                        "4450",
+                        "-0.49",
+                        "0.37"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "4294",
+                            "4315",
+                            "4278",
+                            "4450",
+                            "-0.49",
+                            "0.37"
+                        ],
+                        [
+                            "",
+                            "3279",
+                            "3275",
+                            "3290",
+                            "3102",
+                            "0.12",
+                            "-0.33"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 12,
+                    "rows_count": 5,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "13901",
+                        "14086",
+                        "14950",
+                        "15061",
+                        "-1.31",
+                        "-7.02"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "13901",
+                            "14086",
+                            "14950",
+                            "15061",
+                            "-1.31",
+                            "-7.02"
+                        ],
+                        [
+                            "",
+                            "9013",
+                            "9053",
+                            "9226",
+                            "8263",
+                            "-0.44",
+                            "-2.31"
+                        ],
+                        [
+                            "",
+                            "8896",
+                            "8913",
+                            "8900",
+                            "9357",
+                            "-0.19",
+                            "-0.04"
+                        ],
+                        [
+                            "",
+                            "11288",
+                            "11301",
+                            "11358",
+                            "11636",
+                            "-0.12",
+                            "-0.62"
+                        ],
+                        [
+                            "",
+                            "12143",
+                            "12196",
+                            "12308",
+                            "12350",
+                            "-0.43",
+                            "-1.34"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 4,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "16846",
+                        "16878",
+                        "16957",
+                        "13437",
+                        "-0.19",
+                        "-0.65"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "16846",
+                            "16878",
+                            "16957",
+                            "13437",
+                            "-0.19",
+                            "-0.65"
+                        ],
+                        [
+                            "",
+                            "14465",
+                            "14526",
+                            "14422",
+                            "11990",
+                            "-0.42",
+                            "0.30"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 5,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "3688",
+                        "3705",
+                        "3760",
+                        "3039",
+                        "-0.46",
+                        "-1.91"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "3688",
+                            "3705",
+                            "3760",
+                            "3039",
+                            "-0.46",
+                            "-1.91"
+                        ],
+                        [
+                            "",
+                            "2457",
+                            "2541",
+                            "2904",
+                            "2138",
+                            "-3.31",
+                            "-15.39"
+                        ],
+                        [
+                            "",
+                            "2233",
+                            "2306",
+                            "2763",
+                            "3029",
+                            "-3.17",
+                            "-19.18"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 10,
+                    "xref": 107,
+                    "image_name": "page_10_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_1.png",
+                    "width": 1068,
+                    "height": 456,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 10,
+                    "xref": 108,
+                    "image_name": "page_10_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_2.png",
+                    "width": 1002,
+                    "height": 435,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "keywords": [],
+            "multimodal_score": 12,
+            "quality": "small"
+        },
+        {
+            "chunk_id": "CWWG_00016",
+            "chunk_type": "table",
+            "heading": "7. PEST & DISEASE",
+            "page_start": 10,
+            "page_end": 14,
+            "table_id": 4,
+            "table_index": 5,
+            "caption": "",
+            "text": "16846 | 16878 | 16957 | 13437 | -0.19 | -0.65\n14465 | 14526 | 14422 | 11990 | -0.42 | 0.30",
+            "word_count": 22,
+            "row_count": 2,
+            "column_count": 7,
+            "table_count": 5,
+            "image_count": 2,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 2,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                        "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                        "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                        "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                        "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                            "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                            "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                            "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                            "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.72)",
+                            "682.89",
+                            "653.57",
+                            "458.69\n(92.55%)",
+                            "438.72"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "4294",
+                        "4315",
+                        "4278",
+                        "4450",
+                        "-0.49",
+                        "0.37"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "4294",
+                            "4315",
+                            "4278",
+                            "4450",
+                            "-0.49",
+                            "0.37"
+                        ],
+                        [
+                            "",
+                            "3279",
+                            "3275",
+                            "3290",
+                            "3102",
+                            "0.12",
+                            "-0.33"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 12,
+                    "rows_count": 5,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "13901",
+                        "14086",
+                        "14950",
+                        "15061",
+                        "-1.31",
+                        "-7.02"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "13901",
+                            "14086",
+                            "14950",
+                            "15061",
+                            "-1.31",
+                            "-7.02"
+                        ],
+                        [
+                            "",
+                            "9013",
+                            "9053",
+                            "9226",
+                            "8263",
+                            "-0.44",
+                            "-2.31"
+                        ],
+                        [
+                            "",
+                            "8896",
+                            "8913",
+                            "8900",
+                            "9357",
+                            "-0.19",
+                            "-0.04"
+                        ],
+                        [
+                            "",
+                            "11288",
+                            "11301",
+                            "11358",
+                            "11636",
+                            "-0.12",
+                            "-0.62"
+                        ],
+                        [
+                            "",
+                            "12143",
+                            "12196",
+                            "12308",
+                            "12350",
+                            "-0.43",
+                            "-1.34"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 4,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "16846",
+                        "16878",
+                        "16957",
+                        "13437",
+                        "-0.19",
+                        "-0.65"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "16846",
+                            "16878",
+                            "16957",
+                            "13437",
+                            "-0.19",
+                            "-0.65"
+                        ],
+                        [
+                            "",
+                            "14465",
+                            "14526",
+                            "14422",
+                            "11990",
+                            "-0.42",
+                            "0.30"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 5,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "3688",
+                        "3705",
+                        "3760",
+                        "3039",
+                        "-0.46",
+                        "-1.91"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "3688",
+                            "3705",
+                            "3760",
+                            "3039",
+                            "-0.46",
+                            "-1.91"
+                        ],
+                        [
+                            "",
+                            "2457",
+                            "2541",
+                            "2904",
+                            "2138",
+                            "-3.31",
+                            "-15.39"
+                        ],
+                        [
+                            "",
+                            "2233",
+                            "2306",
+                            "2763",
+                            "3029",
+                            "-3.17",
+                            "-19.18"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 10,
+                    "xref": 107,
+                    "image_name": "page_10_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_1.png",
+                    "width": 1068,
+                    "height": 456,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 10,
+                    "xref": 108,
+                    "image_name": "page_10_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_2.png",
+                    "width": 1002,
+                    "height": 435,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "keywords": [],
+            "multimodal_score": 12,
+            "quality": "small"
+        },
+        {
+            "chunk_id": "CWWG_00017",
+            "chunk_type": "table",
+            "heading": "7. PEST & DISEASE",
+            "page_start": 10,
+            "page_end": 14,
+            "table_id": 5,
+            "table_index": 6,
+            "caption": "",
+            "text": "3688 | 3705 | 3760 | 3039 | -0.46 | -1.91\n2457 | 2541 | 2904 | 2138 | -3.31 | -15.39\n2233 | 2306 | 2763 | 3029 | -3.17 | -19.18",
+            "word_count": 33,
+            "row_count": 3,
+            "column_count": 7,
+            "table_count": 5,
+            "image_count": 2,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 2,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                        "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                        "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                        "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                        "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                            "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                            "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                            "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                            "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.72)",
+                            "682.89",
+                            "653.57",
+                            "458.69\n(92.55%)",
+                            "438.72"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "4294",
+                        "4315",
+                        "4278",
+                        "4450",
+                        "-0.49",
+                        "0.37"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "4294",
+                            "4315",
+                            "4278",
+                            "4450",
+                            "-0.49",
+                            "0.37"
+                        ],
+                        [
+                            "",
+                            "3279",
+                            "3275",
+                            "3290",
+                            "3102",
+                            "0.12",
+                            "-0.33"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 12,
+                    "rows_count": 5,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "13901",
+                        "14086",
+                        "14950",
+                        "15061",
+                        "-1.31",
+                        "-7.02"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "13901",
+                            "14086",
+                            "14950",
+                            "15061",
+                            "-1.31",
+                            "-7.02"
+                        ],
+                        [
+                            "",
+                            "9013",
+                            "9053",
+                            "9226",
+                            "8263",
+                            "-0.44",
+                            "-2.31"
+                        ],
+                        [
+                            "",
+                            "8896",
+                            "8913",
+                            "8900",
+                            "9357",
+                            "-0.19",
+                            "-0.04"
+                        ],
+                        [
+                            "",
+                            "11288",
+                            "11301",
+                            "11358",
+                            "11636",
+                            "-0.12",
+                            "-0.62"
+                        ],
+                        [
+                            "",
+                            "12143",
+                            "12196",
+                            "12308",
+                            "12350",
+                            "-0.43",
+                            "-1.34"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 4,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "16846",
+                        "16878",
+                        "16957",
+                        "13437",
+                        "-0.19",
+                        "-0.65"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "16846",
+                            "16878",
+                            "16957",
+                            "13437",
+                            "-0.19",
+                            "-0.65"
+                        ],
+                        [
+                            "",
+                            "14465",
+                            "14526",
+                            "14422",
+                            "11990",
+                            "-0.42",
+                            "0.30"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 5,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "3688",
+                        "3705",
+                        "3760",
+                        "3039",
+                        "-0.46",
+                        "-1.91"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "3688",
+                            "3705",
+                            "3760",
+                            "3039",
+                            "-0.46",
+                            "-1.91"
+                        ],
+                        [
+                            "",
+                            "2457",
+                            "2541",
+                            "2904",
+                            "2138",
+                            "-3.31",
+                            "-15.39"
+                        ],
+                        [
+                            "",
+                            "2233",
+                            "2306",
+                            "2763",
+                            "3029",
+                            "-3.17",
+                            "-19.18"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 10,
+                    "xref": 107,
+                    "image_name": "page_10_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_1.png",
+                    "width": 1068,
+                    "height": 456,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 10,
+                    "xref": 108,
+                    "image_name": "page_10_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\03-03-2025_Minutes of the meeting of CWWG as on 03.03.2025\\page_10_image_2.png",
+                    "width": 1002,
+                    "height": 435,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "keywords": [],
+            "multimodal_score": 12,
+            "quality": "small"
+        }
+    ]
+}

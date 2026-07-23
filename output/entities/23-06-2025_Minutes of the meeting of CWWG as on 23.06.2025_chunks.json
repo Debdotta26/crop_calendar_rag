@@ -1,0 +1,3702 @@
+{
+    "metadata": {
+        "document_name": "23-06-2025_Minutes of the meeting of CWWG as on 23.06.2025.pdf",
+        "document_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\..\\downloads\\pdfs\\23-06-2025_Minutes of the meeting of CWWG as on 23.06.2025.pdf",
+        "title": "",
+        "author": "AYUSH RAJ",
+        "creator": "Microsoft® Word 2016",
+        "producer": "Microsoft® Word 2016",
+        "subject": "",
+        "keywords": "",
+        "creation_date": "D:20250627164630+05'30'",
+        "modification_date": "D:20250627164630+05'30'",
+        "total_pages": 12,
+        "file_size_bytes": 1595709,
+        "extraction_tool": "PyMuPDF",
+        "extraction_timestamp": "2026-07-19T02:11:43.495949"
+    },
+    "statistics": {
+        "pages": 12,
+        "sections": 13,
+        "merged_sections": 7,
+        "text_chunks": 11,
+        "table_chunks": 3,
+        "image_chunks": 3,
+        "total_chunks": 13
+    },
+    "chunks": [
+        {
+            "chunk_id": "CWWG_00001",
+            "chunk_type": "text",
+            "heading": "Introduction",
+            "page_start": 1,
+            "page_end": 3,
+            "text": "| 1 (as on 23.06.2025)\n\n\n\n\n| 2 b) Groundwater Levels: Approximately 66.6% of monitoring wells show water levels between 0-5 m, while 29.1% report levels between 5-10 m. Decadal analysis (2014–2023) indicates a rise in 64.9% of wells and a decline in 35.1% as of August 2024. c) Seeds and Fertilizers: For Kharif 2025, certified seed availability is 178.64 lakh quintals against a requirement of 164.05 lakh quintals, ensuring a surplus of 14.60 lakh quintals. The fertilizer supply remains stable across all products. 4. Pests & Diseases: Over all intensity of pests and disease remained below Economic Threshold Level (ETL) and no major pest incidence was recorded. 5. Crops whose Mandi Wholesale prices are below MSP: All India Mandi Wholesale Prices Commodities MSP (RS/Qtl) Price as on 20-06-2025 % Variation over MSP Rice (un milled) Arhar whole Masur whole Moong whole Urad whole Groundnut Soyabean 2300 7550 6700 8682 7400 6783 4892 2054 6492 6469 6869 6609 5567 4199 -10.70 -14.00 -3.40 -20.9 -10.7 -17.9 -14.2 Source: Agmarknet\n| 3",
+            "word_count": 170,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 1,
+                    "rows_count": 4,
+                    "columns_count": 1,
+                    "header": [
+                        "b) Rainfall Distribution: From June 01– 22 June, 2025, the All-India cumulative rainfall is 1% lower"
+                    ],
+                    "rows": [
+                        [
+                            "b) Rainfall Distribution: From June 01– 22 June, 2025, the All-India cumulative rainfall is 1% lower"
+                        ],
+                        [
+                            "than its Long Period Average (LPA), with regional variations: (i) East & Northeast India:"
+                        ],
+                        [
+                            "(-)15%; (ii) Northwest India: (+)26%; (iii) Central India: (+)8%; and South Peninsula: (-)"
+                        ],
+                        [
+                            "10%."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 1,
+                    "rows_count": 7,
+                    "columns_count": 1,
+                    "header": [
+                        "a) Water Reservoir Status: As on 19th June 2025, the total live water storage in 161 important"
+                    ],
+                    "rows": [
+                        [
+                            "a) Water Reservoir Status: As on 19th June 2025, the total live water storage in 161 important"
+                        ],
+                        [
+                            "reservoirs across the country (monitored by CWC) is 58.03 Billion Cubic Meter, which is 31.8% of"
+                        ],
+                        [
+                            "total live storage capacity (182.44 BCM). The current year's storage is nearly 151 percent of last"
+                        ],
+                        [
+                            "year's storage and 139 percent of the average storage of the last ten years during the"
+                        ],
+                        [
+                            "corresponding period. The overall storage position is better than the corresponding period of last"
+                        ],
+                        [
+                            "year in the country as a whole and is also better than the Normal storage during the"
+                        ],
+                        [
+                            "corresponding period."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 1,
+                    "xref": 13,
+                    "image_name": "page_1_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\23-06-2025_Minutes of the meeting of CWWG as on 23.06.2025\\page_1_image_1.png",
+                    "width": 1213,
+                    "height": 281,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 3,
+                    "xref": 61,
+                    "image_name": "page_3_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\23-06-2025_Minutes of the meeting of CWWG as on 23.06.2025\\page_3_image_2.png",
+                    "width": 709,
+                    "height": 701,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 3,
+                    "page": 3,
+                    "xref": 62,
+                    "image_name": "page_3_image_3.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\23-06-2025_Minutes of the meeting of CWWG as on 23.06.2025\\page_3_image_3.png",
+                    "width": 1193,
+                    "height": 193,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 3,
+            "multimodal_score": 7,
+            "keywords": [
+                "lakh quintals",
+                "groundwater",
+                "fertilizers",
+                "fertilizer",
+                "disease",
+                "kharif",
+                "water",
+                "seeds",
+                "crops",
+                "seed"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Rice",
+                    "label": "Crop",
+                    "score": 0.9699
+                },
+                {
+                    "text": "Moong",
+                    "label": "Crop",
+                    "score": 0.9588
+                },
+                {
+                    "text": "Soyabean",
+                    "label": "Crop",
+                    "score": 0.9568
+                },
+                {
+                    "text": "Urad",
+                    "label": "Crop",
+                    "score": 0.9412
+                },
+                {
+                    "text": "Arhar",
+                    "label": "Crop",
+                    "score": 0.9342
+                },
+                {
+                    "text": "Masur",
+                    "label": "Crop",
+                    "score": 0.9307
+                },
+                {
+                    "text": "Groundnut",
+                    "label": "Crop",
+                    "score": 0.9123
+                },
+                {
+                    "text": "August 2024",
+                    "label": "Month",
+                    "score": 0.7858
+                },
+                {
+                    "text": "Kharif 2025",
+                    "label": "Season",
+                    "score": 0.6795
+                },
+                {
+                    "text": "Pests & Diseases",
+                    "label": "Disease",
+                    "score": 0.586
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00002",
+            "chunk_type": "text",
+            "heading": "Details of each Segment",
+            "page_start": 3,
+            "page_end": 5,
+            "text": "- During the week (12th June – 18th June2025), higher rainfall was observed, as compared to Long Period Average (LPA) by 11%. However, cumulative seasonal rainfall (01st June to 18th June 2025) is lower than LPA by 11%. Rainfall Forecast: - Overall weekly rainfall is likely to be above normal over Central India, plains of Northwest India, Gujarat, Maharashtra and East India. Advance of Southwest Monsoon: - The Northern Limit of Monsoon continues to pass through 25.0°N/60.0°E, 25.0°N/65.0°E, 25.5°N/70.0°E, Jaipur, Agra, Rampur, Dehradun, Shimla, Manali and 33.5°N/79.0°E.\n| 4 - Conditions are favourable for further advance of Southwest monsoon over remaining parts of North Arabian Sea, some more parts of Rajasthan, remaining parts of West Uttar Pradesh, Uttarakhand, Himachal Pradesh and some parts of Jammu & Kashmir-Gilgit-Baltistan, Muzaffarabad, some more parts of Ladakh during next 2 days. Conditions are also becoming favourable for further advance of southwest monsoon over remaining parts of Jammu & Kashmir, Ladakh, some parts of Punjab & Haryana and Chandigarh & Delhi during subsequent 2 days.\n| 5",
+            "word_count": 172,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 4,
+                    "rows_count": 7,
+                    "columns_count": 1,
+                    "header": [
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            ""
+                        ],
+                        [
+                            ""
+                        ],
+                        [
+                            ""
+                        ],
+                        [
+                            ""
+                        ],
+                        [
+                            ""
+                        ],
+                        [
+                            ""
+                        ],
+                        [
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 3,
+                    "xref": 60,
+                    "image_name": "page_3_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\23-06-2025_Minutes of the meeting of CWWG as on 23.06.2025\\page_3_image_1.png",
+                    "width": 689,
+                    "height": 679,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 3,
+                    "xref": 61,
+                    "image_name": "page_3_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\23-06-2025_Minutes of the meeting of CWWG as on 23.06.2025\\page_3_image_2.png",
+                    "width": 709,
+                    "height": 701,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 3,
+                    "page": 3,
+                    "xref": 62,
+                    "image_name": "page_3_image_3.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\23-06-2025_Minutes of the meeting of CWWG as on 23.06.2025\\page_3_image_3.png",
+                    "width": 1193,
+                    "height": 193,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 3,
+            "multimodal_score": 5,
+            "keywords": [
+                "rainfall",
+                "monsoon",
+                "parts",
+                "advance southwest",
+                "southwest monsoon",
+                "remaining parts",
+                "forecast",
+                "favourable further",
+                "further advance",
+                "over remaining"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Himachal Pradesh",
+                    "label": "State",
+                    "score": 0.9785
+                },
+                {
+                    "text": "Gujarat",
+                    "label": "State",
+                    "score": 0.9709
+                },
+                {
+                    "text": "Maharashtra",
+                    "label": "State",
+                    "score": 0.9562
+                },
+                {
+                    "text": "Uttarakhand",
+                    "label": "State",
+                    "score": 0.9155
+                },
+                {
+                    "text": "Rajasthan",
+                    "label": "State",
+                    "score": 0.8933
+                },
+                {
+                    "text": "Southwest Monsoon",
+                    "label": "Weather Event",
+                    "score": 0.8481
+                },
+                {
+                    "text": "12th June",
+                    "label": "Date",
+                    "score": 0.7768
+                },
+                {
+                    "text": "01st June",
+                    "label": "Date",
+                    "score": 0.7723
+                },
+                {
+                    "text": "18th June2025",
+                    "label": "Date",
+                    "score": 0.7623
+                },
+                {
+                    "text": "Northern Limit of Monsoon",
+                    "label": "Weather Event",
+                    "score": 0.7204
+                },
+                {
+                    "text": "cumulative seasonal rainfall",
+                    "label": "Rainfall",
+                    "score": 0.5367
+                },
+                {
+                    "text": "higher rainfall",
+                    "label": "Rainfall",
+                    "score": 0.51
+                },
+                {
+                    "text": "25.5°N/70.0°E",
+                    "label": "Temperature",
+                    "score": 0.5057
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00003",
+            "chunk_type": "text",
+            "heading": "2. TEMPERATURE: MIN & MAX",
+            "page_start": 5,
+            "page_end": 7,
+            "text": "Temperature Week 1 (19th – 25th June 2025): - Maximum temperatures are likely to fall by 2-4°C over southwest Rajasthan during next 3 days and no significant change thereafter - No significant change in maximum temperatures likely over rest parts of the country. Week 2 ( 26th June – 02th July 2025): - Fall by 2-3°C in maximum temperatures likely over Northwest India. - No significant change in maximum temperatures likely over rest parts of the country.\n| 6 - These are likely to be below normal over most parts of the country outside parts of east and northeast India and Western Himalayan Region Where it is likely to be near normal to above normal.\n\n\nTable 1: For 161 major reservoirs of the country - 132 reservoirs having storage more than 80% of normal storage. - 20 reservoirs having storage 51% to 80%. - 9 reservoirs having storage upto 50%. Source: CWC Period Storage as % of FRL Storage as % of Last Year Storage as % of 10 Year's Average Level Current Week 32 151 139 Last Week 30 140 131\n| 7",
+            "word_count": 184,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 5,
+                    "rows_count": 3,
+                    "columns_count": 1,
+                    "header": [
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            ""
+                        ],
+                        [
+                            ""
+                        ],
+                        [
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 6,
+                    "rows_count": 2,
+                    "columns_count": 2,
+                    "header": [
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 5,
+                    "xref": 68,
+                    "image_name": "page_5_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\23-06-2025_Minutes of the meeting of CWWG as on 23.06.2025\\page_5_image_1.png",
+                    "width": 494,
+                    "height": 642,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 6,
+                    "xref": 77,
+                    "image_name": "page_6_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\23-06-2025_Minutes of the meeting of CWWG as on 23.06.2025\\page_6_image_2.png",
+                    "width": 727,
+                    "height": 549,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 2,
+            "multimodal_score": 6,
+            "keywords": [
+                "storage",
+                "maximum temperatures",
+                "temperatures likely",
+                "significant change",
+                "reservoirs having",
+                "having storage",
+                "parts country",
+                "temperature",
+                "likely over",
+                "likely"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Maximum temperatures",
+                    "label": "Temperature",
+                    "score": 0.9091
+                },
+                {
+                    "text": "26th June",
+                    "label": "Date",
+                    "score": 0.7787
+                },
+                {
+                    "text": "Last Year",
+                    "label": "Year",
+                    "score": 0.7551
+                },
+                {
+                    "text": "Rajasthan",
+                    "label": "State",
+                    "score": 0.6885
+                },
+                {
+                    "text": "2-4°C",
+                    "label": "Temperature",
+                    "score": 0.5852
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00004",
+            "chunk_type": "text",
+            "heading": "5. CROP SOWING STATUS FOR KHARIF SEASON",
+            "page_start": 7,
+            "page_end": 9,
+            "text": "Soil Moisture Observation - Soil moisture as on 20th June 2025 was similar/better than the average of the past 9 years in Gujarat, Rajasthan, M.P, Maharashtra, Karnataka, Haryana, Punjab, A.P., Tamil Nadu, Odisha, Jharkhand, Western U.P. and Southern West Bengal. - It was lower than average of past 9 years in Bihar, Eastern U.P., Chhattisgarh, Telangana and N.E. Regions. Kharif Crops - Area coverage - Sugarcane: About 55.07 lakh ha area coverage under Sugarcane has been reported as compared to 54.88 lakh ha during the corresponding period of last year. - Cotton: About 31.25 lakh ha area coverage has been reported compared to 29.12 lakh ha during the corresponding period of last year\n| 8 - Jute: There has been a decline in area sown under Jute on account of diversion towards Maize and Sesamum. Government of India Crops Division Progress of area coverage under Kharif crops as on 20.06.2025 Area: In lakh hectare S. No.",
+            "word_count": 156,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 8,
+                    "rows_count": 32,
+                    "columns_count": 6,
+                    "header": [
+                        "Government of India",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Government of India",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Crops Division",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Progress of area coverage under Kharif crops as on 20.06.2025",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area: In lakh hectare",
+                            ""
+                        ],
+                        [
+                            "S.\nNo.",
+                            "Crop",
+                            "Normal Area\n(DES)",
+                            "Area Sown",
+                            "",
+                            "Increase (+)/\nDecrease (-)\nover 2024"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "2025",
+                            "2024",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "403.09",
+                            "13.22",
+                            "8.37",
+                            "4.86"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "129.61",
+                            "9.44",
+                            "6.63",
+                            "2.80"
+                        ],
+                        [
+                            "a",
+                            "Arhar",
+                            "44.71",
+                            "2.48",
+                            "2.61",
+                            "-0.13"
+                        ],
+                        [
+                            "b",
+                            "Urdbean",
+                            "32.64",
+                            "1.39",
+                            "0.62",
+                            "0.77"
+                        ],
+                        [
+                            "c",
+                            "Moongbean",
+                            "35.69",
+                            "4.43",
+                            "2.67",
+                            "1.77"
+                        ],
+                        [
+                            "d",
+                            "Kulthi",
+                            "1.72",
+                            "0.08",
+                            "0.07",
+                            "0.01"
+                        ],
+                        [
+                            "e",
+                            "Mothbean",
+                            "9.70",
+                            "0.11",
+                            "0.00",
+                            "0.11"
+                        ],
+                        [
+                            "f",
+                            "Other pulses",
+                            "5.15",
+                            "0.94",
+                            "0.67",
+                            "0.27"
+                        ],
+                        [
+                            "",
+                            "Shri Anna cum\nCoarse cereals",
+                            "180.71",
+                            "18.03",
+                            "14.77",
+                            "3.25"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "15.07",
+                            "1.51",
+                            "0.90",
+                            "0.61"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "70.69",
+                            "3.70",
+                            "2.71",
+                            "1.00"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "11.52",
+                            "0.03",
+                            "0.32",
+                            "-0.29"
+                        ],
+                        [
+                            "d",
+                            "Small millets",
+                            "4.48",
+                            "0.47",
+                            "0.55",
+                            "-0.08"
+                        ],
+                        [
+                            "e",
+                            "Maize",
+                            "78.95",
+                            "12.32",
+                            "10.31",
+                            "2.01"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "194.63",
+                            "5.38",
+                            "5.49",
+                            "-0.11"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "45.10",
+                            "1.78",
+                            "1.91",
+                            "-0.13"
+                        ],
+                        [
+                            "b",
+                            "Soybean",
+                            "127.19",
+                            "3.07",
+                            "3.12",
+                            "-0.05"
+                        ],
+                        [
+                            "c",
+                            "Sunflower",
+                            "1.29",
+                            "0.27",
+                            "0.26",
+                            "0.02"
+                        ],
+                        [
+                            "d",
+                            "Sesamum",
+                            "10.32",
+                            "0.20",
+                            "0.14",
+                            "0.06"
+                        ],
+                        [
+                            "e",
+                            "Niger",
+                            "1.08",
+                            "0.00",
+                            "0.00",
+                            "0.00"
+                        ],
+                        [
+                            "f",
+                            "Castor",
+                            "9.65",
+                            "0.01",
+                            "0.02",
+                            "-0.01"
+                        ],
+                        [
+                            "g",
+                            "Other Oilseeds",
+                            "0.00",
+                            "0.03",
+                            "0.04",
+                            "0.00"
+                        ],
+                        [
+                            "",
+                            "Sugarcane",
+                            "52.51",
+                            "55.07",
+                            "54.88",
+                            "0.20"
+                        ],
+                        [
+                            "",
+                            "Jute & Mesta",
+                            "6.59",
+                            "5.46",
+                            "5.62",
+                            "-0.17"
+                        ],
+                        [
+                            "",
+                            "Cotton",
+                            "129.50",
+                            "31.25",
+                            "29.12",
+                            "2.14"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "1096.64",
+                            "137.84",
+                            "124.88",
+                            "12.97"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 7,
+                    "xref": 80,
+                    "image_name": "page_7_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\23-06-2025_Minutes of the meeting of CWWG as on 23.06.2025\\page_7_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 1,
+            "multimodal_score": 3,
+            "keywords": [
+                "area coverage",
+                "crops",
+                "moisture",
+                "kharif",
+                "cotton",
+                "maize",
+                "area",
+                "lakh",
+                "corresponding period",
+                "coverage sugarcane"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Sugarcane",
+                    "label": "Crop",
+                    "score": 0.987
+                },
+                {
+                    "text": "Jute",
+                    "label": "Crop",
+                    "score": 0.981
+                },
+                {
+                    "text": "Gujarat",
+                    "label": "State",
+                    "score": 0.978
+                },
+                {
+                    "text": "Rajasthan",
+                    "label": "State",
+                    "score": 0.9742
+                },
+                {
+                    "text": "Tamil Nadu",
+                    "label": "State",
+                    "score": 0.9703
+                },
+                {
+                    "text": "Maharashtra",
+                    "label": "State",
+                    "score": 0.9641
+                },
+                {
+                    "text": "Cotton",
+                    "label": "Crop",
+                    "score": 0.9614
+                },
+                {
+                    "text": "Bihar",
+                    "label": "State",
+                    "score": 0.9601
+                },
+                {
+                    "text": "Karnataka",
+                    "label": "State",
+                    "score": 0.9518
+                },
+                {
+                    "text": "Punjab",
+                    "label": "State",
+                    "score": 0.9497
+                },
+                {
+                    "text": "Telangana",
+                    "label": "State",
+                    "score": 0.9427
+                },
+                {
+                    "text": "Odisha",
+                    "label": "State",
+                    "score": 0.9426
+                },
+                {
+                    "text": "Western U.P.",
+                    "label": "State",
+                    "score": 0.9373
+                },
+                {
+                    "text": "Haryana",
+                    "label": "State",
+                    "score": 0.9319
+                },
+                {
+                    "text": "Eastern U.P.",
+                    "label": "State",
+                    "score": 0.9314
+                },
+                {
+                    "text": "Chhattisgarh",
+                    "label": "State",
+                    "score": 0.9313
+                },
+                {
+                    "text": "Jharkhand",
+                    "label": "State",
+                    "score": 0.9291
+                },
+                {
+                    "text": "Maize",
+                    "label": "Crop",
+                    "score": 0.921
+                },
+                {
+                    "text": "Sesamum",
+                    "label": "Crop",
+                    "score": 0.8933
+                },
+                {
+                    "text": "A.P.",
+                    "label": "State",
+                    "score": 0.893
+                },
+                {
+                    "text": "M.P",
+                    "label": "State",
+                    "score": 0.8731
+                },
+                {
+                    "text": "last year",
+                    "label": "Year",
+                    "score": 0.6688
+                },
+                {
+                    "text": "Southern West Bengal",
+                    "label": "State",
+                    "score": 0.6499
+                },
+                {
+                    "text": "Government of India",
+                    "label": "Organization",
+                    "score": 0.5829
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00005",
+            "chunk_type": "text",
+            "heading": "5. CROP SOWING STATUS FOR KHARIF SEASON",
+            "page_start": 7,
+            "page_end": 9,
+            "text": "Crop Normal Area (DES) Area Sown Increase (+)/ Decrease (-) over 2024 2025 2024 1 Rice 403.09 13.22 8.37 4.86 2 Pulses 129.61 9.44 6.63 2.80 a Arhar 44.71 2.48 2.61 -0.13 b Urdbean 32.64 1.39 0.62 0.77 c Moongbean 35.69 4.43 2.67 1.77 d Kulthi 1.72 0.08 0.07 0.01 e Mothbean 9.70 0.11 0.00 0.11 f Other pulses 5.15 0.94 0.67 0.27 3 Shri Anna cum Coarse cereals 180.71 18.03 14.77 3.25 a Jowar 15.07 1.51 0.90 0.61 b Bajra 70.69 3.70 2.71 1.00 c Ragi 11.52 0.03 0.32 -0.29 d Small millets 4.48 0.47 0.55 -0.08 e Maize 78.95 12.32 10.31 2.01 4 Oilseeds 194.63 5.38 5.49 -0.11 a Groundnut 45.10 1.78 1.91 -0.13 b Soybean 127.19 3.07 3.12 -0.05 c Sunflower 1.29 0.27 0.26 0.02 d Sesamum 10.32 0.20 0.14 0.06 e Niger 1.08 0.00 0.00 0.00 f Castor 9.65 0.01 0.02 -0.01 g Other Oilseeds 0.00 0.03 0.04 0.00 5 Sugarcane 52.51 55.07 54.88 0.20 6 Jute & Mesta 6.59 5.46 5.62 -0.17 7 Cotton 129.50 31.25 29.12 2.14 Total 1096.64 137.84 124.88 12.97 Disclaimer : For Kharif and Rabi crop-wise estimated area, please see advanced estimates released by Ministry of Agriculture and Farmers' Welfare available on UPAg (upag.gov.in)\n| 9",
+            "word_count": 205,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 8,
+                    "rows_count": 32,
+                    "columns_count": 6,
+                    "header": [
+                        "Government of India",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Government of India",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Crops Division",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Progress of area coverage under Kharif crops as on 20.06.2025",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area: In lakh hectare",
+                            ""
+                        ],
+                        [
+                            "S.\nNo.",
+                            "Crop",
+                            "Normal Area\n(DES)",
+                            "Area Sown",
+                            "",
+                            "Increase (+)/\nDecrease (-)\nover 2024"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "2025",
+                            "2024",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "403.09",
+                            "13.22",
+                            "8.37",
+                            "4.86"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "129.61",
+                            "9.44",
+                            "6.63",
+                            "2.80"
+                        ],
+                        [
+                            "a",
+                            "Arhar",
+                            "44.71",
+                            "2.48",
+                            "2.61",
+                            "-0.13"
+                        ],
+                        [
+                            "b",
+                            "Urdbean",
+                            "32.64",
+                            "1.39",
+                            "0.62",
+                            "0.77"
+                        ],
+                        [
+                            "c",
+                            "Moongbean",
+                            "35.69",
+                            "4.43",
+                            "2.67",
+                            "1.77"
+                        ],
+                        [
+                            "d",
+                            "Kulthi",
+                            "1.72",
+                            "0.08",
+                            "0.07",
+                            "0.01"
+                        ],
+                        [
+                            "e",
+                            "Mothbean",
+                            "9.70",
+                            "0.11",
+                            "0.00",
+                            "0.11"
+                        ],
+                        [
+                            "f",
+                            "Other pulses",
+                            "5.15",
+                            "0.94",
+                            "0.67",
+                            "0.27"
+                        ],
+                        [
+                            "",
+                            "Shri Anna cum\nCoarse cereals",
+                            "180.71",
+                            "18.03",
+                            "14.77",
+                            "3.25"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "15.07",
+                            "1.51",
+                            "0.90",
+                            "0.61"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "70.69",
+                            "3.70",
+                            "2.71",
+                            "1.00"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "11.52",
+                            "0.03",
+                            "0.32",
+                            "-0.29"
+                        ],
+                        [
+                            "d",
+                            "Small millets",
+                            "4.48",
+                            "0.47",
+                            "0.55",
+                            "-0.08"
+                        ],
+                        [
+                            "e",
+                            "Maize",
+                            "78.95",
+                            "12.32",
+                            "10.31",
+                            "2.01"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "194.63",
+                            "5.38",
+                            "5.49",
+                            "-0.11"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "45.10",
+                            "1.78",
+                            "1.91",
+                            "-0.13"
+                        ],
+                        [
+                            "b",
+                            "Soybean",
+                            "127.19",
+                            "3.07",
+                            "3.12",
+                            "-0.05"
+                        ],
+                        [
+                            "c",
+                            "Sunflower",
+                            "1.29",
+                            "0.27",
+                            "0.26",
+                            "0.02"
+                        ],
+                        [
+                            "d",
+                            "Sesamum",
+                            "10.32",
+                            "0.20",
+                            "0.14",
+                            "0.06"
+                        ],
+                        [
+                            "e",
+                            "Niger",
+                            "1.08",
+                            "0.00",
+                            "0.00",
+                            "0.00"
+                        ],
+                        [
+                            "f",
+                            "Castor",
+                            "9.65",
+                            "0.01",
+                            "0.02",
+                            "-0.01"
+                        ],
+                        [
+                            "g",
+                            "Other Oilseeds",
+                            "0.00",
+                            "0.03",
+                            "0.04",
+                            "0.00"
+                        ],
+                        [
+                            "",
+                            "Sugarcane",
+                            "52.51",
+                            "55.07",
+                            "54.88",
+                            "0.20"
+                        ],
+                        [
+                            "",
+                            "Jute & Mesta",
+                            "6.59",
+                            "5.46",
+                            "5.62",
+                            "-0.17"
+                        ],
+                        [
+                            "",
+                            "Cotton",
+                            "129.50",
+                            "31.25",
+                            "29.12",
+                            "2.14"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "1096.64",
+                            "137.84",
+                            "124.88",
+                            "12.97"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 7,
+                    "xref": 80,
+                    "image_name": "page_7_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\23-06-2025_Minutes of the meeting of CWWG as on 23.06.2025\\page_7_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 1,
+            "multimodal_score": 3,
+            "keywords": [
+                "pulses",
+                "crop",
+                "cotton",
+                "kharif",
+                "jowar",
+                "bajra",
+                "maize",
+                "rice",
+                "rabi",
+                "area"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Rice",
+                    "label": "Crop",
+                    "score": 0.9657
+                },
+                {
+                    "text": "Sugarcane",
+                    "label": "Crop",
+                    "score": 0.9634
+                },
+                {
+                    "text": "Maize",
+                    "label": "Crop",
+                    "score": 0.9607
+                },
+                {
+                    "text": "Soybean",
+                    "label": "Crop",
+                    "score": 0.9582
+                },
+                {
+                    "text": "Cotton",
+                    "label": "Crop",
+                    "score": 0.9456
+                },
+                {
+                    "text": "Oilseeds",
+                    "label": "Crop",
+                    "score": 0.9393
+                },
+                {
+                    "text": "Sunflower",
+                    "label": "Crop",
+                    "score": 0.9358
+                },
+                {
+                    "text": "Bajra",
+                    "label": "Crop",
+                    "score": 0.9258
+                },
+                {
+                    "text": "Pulses",
+                    "label": "Crop",
+                    "score": 0.8908
+                },
+                {
+                    "text": "Castor",
+                    "label": "Crop",
+                    "score": 0.8799
+                },
+                {
+                    "text": "Groundnut",
+                    "label": "Crop",
+                    "score": 0.8637
+                },
+                {
+                    "text": "Jowar",
+                    "label": "Crop",
+                    "score": 0.7901
+                },
+                {
+                    "text": "Moongbean",
+                    "label": "Crop",
+                    "score": 0.7735
+                },
+                {
+                    "text": "Sesamum",
+                    "label": "Crop",
+                    "score": 0.761
+                },
+                {
+                    "text": "Small millets",
+                    "label": "Crop",
+                    "score": 0.7143
+                },
+                {
+                    "text": "Arhar",
+                    "label": "Crop",
+                    "score": 0.7051
+                },
+                {
+                    "text": "Mothbean",
+                    "label": "Crop",
+                    "score": 0.662
+                },
+                {
+                    "text": "Ragi",
+                    "label": "Crop",
+                    "score": 0.6544
+                },
+                {
+                    "text": "Urdbean",
+                    "label": "Crop",
+                    "score": 0.6324
+                },
+                {
+                    "text": "Niger",
+                    "label": "Crop",
+                    "score": 0.6283
+                },
+                {
+                    "text": "Kulthi",
+                    "label": "Crop",
+                    "score": 0.6032
+                },
+                {
+                    "text": "Jute & Mesta",
+                    "label": "Crop",
+                    "score": 0.5979
+                },
+                {
+                    "text": "Coarse cereals",
+                    "label": "Crop",
+                    "score": 0.5198
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00006",
+            "chunk_type": "text",
+            "heading": "6. FERTILIZER POSITION: Availability of fertilizer has been found comfortable. Details of Requirement,",
+            "page_start": 9,
+            "page_end": 9,
+            "text": "Receipt, Availability, Sales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Rabi 2024-25 as on 20.06.2025 is given below: (Unit : in Lakh MT) Product Total Require ment Kharif 2025 Total Require ment Kharif 2024 Openi ng stock as on 1.4.25 Openin g stock as on 1.4.24 Requir ement during June, 2025 Require ment during June, 2024 (as on 20/6/25) (as on 18/6/24) Avail abilit y Sales Closi ng stock Availa bility Sales Clos ing stoc k UREA 185.40 177.13 55.96 79.83 31.72 31.83 85.30 20.09 65.21 119.15 16.08 103.07 DAP 56.99 59.87 9.15 17.75 10.62 11.70 17.66 4.97 12.69 26.50 5.81 20.69 MOP 11.13 10.26 8.83 6.36 2.03 1.91 9.40 3.65 5.75 7.35 2.45 4.90 NPK 76.51 74.19 34.04 40.16 15.05 15.20 54.30 11.04 43.26 56.42 7.16 49.26 SSP 32.57 36.12 21.58 18.70 6.95 7.28 28.38 4.18 24.20 25.04 3.19 21.85 TOTA L 362.60 357.56 129.55 162.79 66.38 67.92 195.03 43.93 151.10 234.46 34.69 199.76 .",
+            "word_count": 162,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 9,
+                    "rows_count": 8,
+                    "columns_count": 13,
+                    "header": [
+                        "Product",
+                        "Total\nRequire\nment\nKharif\n2025",
+                        "Total\nRequire\nment\nKharif\n2024",
+                        "Openi\nng\nstock\nas on\n1.4.25",
+                        "Openin\ng stock\nas on\n1.4.24",
+                        "Requir\nement\nduring\nJune,\n2025",
+                        "Require\nment\nduring\nJune,\n2024",
+                        "(as on 20/6/25)",
+                        "",
+                        "",
+                        "(as on 18/6/24)",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Product",
+                            "Total\nRequire\nment\nKharif\n2025",
+                            "Total\nRequire\nment\nKharif\n2024",
+                            "Openi\nng\nstock\nas on\n1.4.25",
+                            "Openin\ng stock\nas on\n1.4.24",
+                            "Requir\nement\nduring\nJune,\n2025",
+                            "Require\nment\nduring\nJune,\n2024",
+                            "(as on 20/6/25)",
+                            "",
+                            "",
+                            "(as on 18/6/24)",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Avail\nabilit\ny",
+                            "Sales",
+                            "Closi\nng\nstock",
+                            "Availa\nbility",
+                            "Sales",
+                            "Clos\ning\nstoc\nk"
+                        ],
+                        [
+                            "UREA",
+                            "185.40",
+                            "177.13",
+                            "55.96",
+                            "79.83",
+                            "31.72",
+                            "31.83",
+                            "85.30",
+                            "20.09",
+                            "65.21",
+                            "119.15",
+                            "16.08",
+                            "103.07"
+                        ],
+                        [
+                            "DAP",
+                            "56.99",
+                            "59.87",
+                            "9.15",
+                            "17.75",
+                            "10.62",
+                            "11.70",
+                            "17.66",
+                            "4.97",
+                            "12.69",
+                            "26.50",
+                            "5.81",
+                            "20.69"
+                        ],
+                        [
+                            "MOP",
+                            "11.13",
+                            "10.26",
+                            "8.83",
+                            "6.36",
+                            "2.03",
+                            "1.91",
+                            "9.40",
+                            "3.65",
+                            "5.75",
+                            "7.35",
+                            "2.45",
+                            "4.90"
+                        ],
+                        [
+                            "NPK",
+                            "76.51",
+                            "74.19",
+                            "34.04",
+                            "40.16",
+                            "15.05",
+                            "15.20",
+                            "54.30",
+                            "11.04",
+                            "43.26",
+                            "56.42",
+                            "7.16",
+                            "49.26"
+                        ],
+                        [
+                            "SSP",
+                            "32.57",
+                            "36.12",
+                            "21.58",
+                            "18.70",
+                            "6.95",
+                            "7.28",
+                            "28.38",
+                            "4.18",
+                            "24.20",
+                            "25.04",
+                            "3.19",
+                            "21.85"
+                        ],
+                        [
+                            "TOTA\nL",
+                            "362.60",
+                            "357.56",
+                            "129.55",
+                            "162.79",
+                            "66.38",
+                            "67.92",
+                            "195.03",
+                            "43.93",
+                            "151.10",
+                            "234.46",
+                            "34.69",
+                            "199.76"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 1,
+            "image_count": 0,
+            "multimodal_score": 2,
+            "keywords": [
+                "kharif",
+                "require ment",
+                "fertilizers",
+                "rabi",
+                "total require",
+                "ment kharif",
+                "urea dap",
+                "dap mop",
+                "stock",
+                "require"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "June",
+                    "label": "Month",
+                    "score": 0.9015
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00007",
+            "chunk_type": "text",
+            "heading": "7. PEST & DISEASE",
+            "page_start": 9,
+            "page_end": 11,
+            "text": "Over all intensity of pests and disease remained below Economic Threshold Level (ETL).\n| 10\n\n\nSource: Agmarknet (through UPAg) All India Weekly Average Retail Prices Increasing Trend Decreasing Trend Commodities % Variation over last Week Commodities % Variation over last Week Rice ` Mustard Oil Onion Potato Tomato 0.05 0.14 0.04 0.79 6.97 Wheat Arhar Gram Masur Moong Urad Soyabean Oil -0.29 -0.88 -0.61 -0.43 -0.41 -0.37 -0.03 Source: DoCA (through UPAg) Details are enclosed at Annexure All India Weekly Average Mandi Prices Increasing Trend Decreasing Trend Commodities % Variation over last Week Commodities % Variation over last Week Tur (Arhar) Gram Masur Moong Urad Groundnut Soybean Sesamum Onion Potato 4.42 2.79 1.06 4.36 2.77 3.38 1.38 2.30 4.45 0.99 Paddy (Rice un-milled) Wheat Mustard Sunflower Tomato -3.57 -0.28 -0.18 -0.03 -8.14\n| 11",
+            "word_count": 134,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 9,
+                    "rows_count": 8,
+                    "columns_count": 13,
+                    "header": [
+                        "Product",
+                        "Total\nRequire\nment\nKharif\n2025",
+                        "Total\nRequire\nment\nKharif\n2024",
+                        "Openi\nng\nstock\nas on\n1.4.25",
+                        "Openin\ng stock\nas on\n1.4.24",
+                        "Requir\nement\nduring\nJune,\n2025",
+                        "Require\nment\nduring\nJune,\n2024",
+                        "(as on 20/6/25)",
+                        "",
+                        "",
+                        "(as on 18/6/24)",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Product",
+                            "Total\nRequire\nment\nKharif\n2025",
+                            "Total\nRequire\nment\nKharif\n2024",
+                            "Openi\nng\nstock\nas on\n1.4.25",
+                            "Openin\ng stock\nas on\n1.4.24",
+                            "Requir\nement\nduring\nJune,\n2025",
+                            "Require\nment\nduring\nJune,\n2024",
+                            "(as on 20/6/25)",
+                            "",
+                            "",
+                            "(as on 18/6/24)",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Avail\nabilit\ny",
+                            "Sales",
+                            "Closi\nng\nstock",
+                            "Availa\nbility",
+                            "Sales",
+                            "Clos\ning\nstoc\nk"
+                        ],
+                        [
+                            "UREA",
+                            "185.40",
+                            "177.13",
+                            "55.96",
+                            "79.83",
+                            "31.72",
+                            "31.83",
+                            "85.30",
+                            "20.09",
+                            "65.21",
+                            "119.15",
+                            "16.08",
+                            "103.07"
+                        ],
+                        [
+                            "DAP",
+                            "56.99",
+                            "59.87",
+                            "9.15",
+                            "17.75",
+                            "10.62",
+                            "11.70",
+                            "17.66",
+                            "4.97",
+                            "12.69",
+                            "26.50",
+                            "5.81",
+                            "20.69"
+                        ],
+                        [
+                            "MOP",
+                            "11.13",
+                            "10.26",
+                            "8.83",
+                            "6.36",
+                            "2.03",
+                            "1.91",
+                            "9.40",
+                            "3.65",
+                            "5.75",
+                            "7.35",
+                            "2.45",
+                            "4.90"
+                        ],
+                        [
+                            "NPK",
+                            "76.51",
+                            "74.19",
+                            "34.04",
+                            "40.16",
+                            "15.05",
+                            "15.20",
+                            "54.30",
+                            "11.04",
+                            "43.26",
+                            "56.42",
+                            "7.16",
+                            "49.26"
+                        ],
+                        [
+                            "SSP",
+                            "32.57",
+                            "36.12",
+                            "21.58",
+                            "18.70",
+                            "6.95",
+                            "7.28",
+                            "28.38",
+                            "4.18",
+                            "24.20",
+                            "25.04",
+                            "3.19",
+                            "21.85"
+                        ],
+                        [
+                            "TOTA\nL",
+                            "362.60",
+                            "357.56",
+                            "129.55",
+                            "162.79",
+                            "66.38",
+                            "67.92",
+                            "195.03",
+                            "43.93",
+                            "151.10",
+                            "234.46",
+                            "34.69",
+                            "199.76"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 10,
+                    "rows_count": 7,
+                    "columns_count": 1,
+                    "header": [
+                        "Paddy (Rice un-milled)"
+                    ],
+                    "rows": [
+                        [
+                            "Paddy (Rice un-milled)"
+                        ],
+                        [
+                            "Wheat"
+                        ],
+                        [
+                            "Mustard"
+                        ],
+                        [
+                            "Sunflower"
+                        ],
+                        [
+                            "Tomato"
+                        ],
+                        [
+                            ""
+                        ],
+                        [
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 10,
+                    "rows_count": 11,
+                    "columns_count": 10,
+                    "header": [
+                        "All India Weekly Average Retail Prices",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Retail Prices",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Increasing Trend",
+                            "",
+                            "",
+                            "",
+                            "Decreasing Trend",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "",
+                            "% Variation over last\nWeek",
+                            "",
+                            "Commodities",
+                            "Commodities",
+                            "",
+                            "",
+                            "% Variation over last",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Week",
+                            ""
+                        ],
+                        [
+                            "Rice\n` Mustard Oil\nOnion\nPotato\nTomato",
+                            "",
+                            "0.05\n0.14\n0.04\n0.79\n6.97",
+                            "",
+                            "",
+                            "Wheat",
+                            "",
+                            "",
+                            "-0.29",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Arhar",
+                            "",
+                            "",
+                            "-0.88",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Gram",
+                            "",
+                            "",
+                            "-0.61",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Masur",
+                            "",
+                            "",
+                            "-0.43",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Moong",
+                            "",
+                            "",
+                            "-0.41",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Urad",
+                            "",
+                            "",
+                            "-0.37",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Soyabean Oil",
+                            "",
+                            "",
+                            "-0.03",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 3,
+            "image_count": 0,
+            "multimodal_score": 6,
+            "keywords": [
+                "commodities variation",
+                "variation over",
+                "over last",
+                "last week",
+                "mustard",
+                "potato",
+                "tomato",
+                "onion",
+                "wheat",
+                "rice"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Wheat",
+                    "label": "Crop",
+                    "score": 0.9333
+                },
+                {
+                    "text": "Rice",
+                    "label": "Crop",
+                    "score": 0.9206
+                },
+                {
+                    "text": "Soybean",
+                    "label": "Crop",
+                    "score": 0.8324
+                },
+                {
+                    "text": "Gram",
+                    "label": "Crop",
+                    "score": 0.7453
+                },
+                {
+                    "text": "Soyabean",
+                    "label": "Crop",
+                    "score": 0.7031
+                },
+                {
+                    "text": "DoCA",
+                    "label": "Organization",
+                    "score": 0.5688
+                },
+                {
+                    "text": "Paddy",
+                    "label": "Crop",
+                    "score": 0.509
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00008",
+            "chunk_type": "text",
+            "heading": "9. PROCUREMENT - Actual stock of Rice & Wheat together was 749.18 LMT against the buffer norm of",
+            "page_start": 11,
+            "page_end": 12,
+            "text": "All India Procurement of Paddy/Rice during KMS 2024-25 As on 22.06.2025 (Figures in LMT) Crop Rice Procurement Estimates during KMS 2024-25 (Estimates in terms of Paddy) KMS 2024-25 KMS 2023-24 Progressive Paddy procurement Progressive procurement in terms of Rice (Percentage of target achieved) Progressive Corresponding paddy Procurement Progressive Corresponding Procurement in terms of Rice Kharif 500.33 (746.76) 688.22 462.25 (92.39%) 694.11 466.10 Rabi 71.70 (107.07) 96.09 64.66 (90.18%) 64.89 43.55 Kharif+Rabi 572.03 (853.78) 784.31 526.91 (92.11%) 759.00 509.65 (Source: FCI Portal) All India Procurement of Wheat during RMS 2025-26 & RMS 2024-25 As on 22.06.2025 (Figures in LMT) (Source: FCI Portal) ********************* Wheat Procurement Estimates during RMS 2025-26 ( LMTs) Progressive Wheat Procurement during RMS 2025-26 Corresponding Wheat Procurement during RMS 2024-25 333.86 300.14 265.91 | 12 Annexure All India Mandi Wholesale prices (Rs/Quintal) Current MSP Prices as on 20.06.25 One Week Ago 13.06.25 1 Month Ago 20.05.25 1 Year Ago 20.06.24 Last Week Last Month 1 Year Ago Paddy (Rice unmilled) 2300 2054 2130 2194 2448 -3.57 -6.38 -16.09 Wheat 2425 2511 2518 2542 2473 -0.28 -1.22 1.54 Arhar whole 7550 6492 6217 6679 11012 4.42 -2.80 -41.05 Gram whole 5650 5668 5514 5601 6502 2.79 1.20 -12.83 Masur Whole 6700 6469 6401 6477 6096 1.06 -0.12 6.12 Moong Whole 8682 6869 6582 7957 7685 4.36 -13.67 -10.62 Urad",
+            "word_count": 220,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 5,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                        "KMS 2024-25",
+                        "",
+                        "KMS 2023-24",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                            "KMS 2024-25",
+                            "",
+                            "KMS 2023-24",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "Progressive\nPaddy\nprocurement",
+                            "Progressive\nprocurement\nin terms of\nRice\n(Percentage of\ntarget\nachieved)",
+                            "Progressive\nCorresponding\npaddy\nProcurement",
+                            "Progressive\nCorresponding\nProcurement\nin terms of\nRice"
+                        ],
+                        [
+                            "Kharif",
+                            "500.33\n(746.76)",
+                            "688.22",
+                            "462.25\n(92.39%)",
+                            "694.11",
+                            "466.10"
+                        ],
+                        [
+                            "Rabi",
+                            "71.70\n(107.07)",
+                            "96.09",
+                            "64.66\n(90.18%)",
+                            "64.89",
+                            "43.55"
+                        ],
+                        [
+                            "Kharif+Rabi",
+                            "572.03\n(853.78)",
+                            "784.31",
+                            "526.91\n(92.11%)",
+                            "759.00",
+                            "509.65"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 11,
+                    "rows_count": 2,
+                    "columns_count": 3,
+                    "header": [
+                        "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                        "Progressive Wheat Procurement\nduring RMS 2025-26",
+                        "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                    ],
+                    "rows": [
+                        [
+                            "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                            "Progressive Wheat Procurement\nduring RMS 2025-26",
+                            "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                        ],
+                        [
+                            "333.86",
+                            "300.14",
+                            "265.91"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 12,
+                    "rows_count": 5,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "122.49",
+                        "123.58",
+                        "126.56",
+                        "161.30",
+                        "-0.88",
+                        "-3.22"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "122.49",
+                            "123.58",
+                            "126.56",
+                            "161.30",
+                            "-0.88",
+                            "-3.22"
+                        ],
+                        [
+                            "",
+                            "86.01",
+                            "86.54",
+                            "86.82",
+                            "88.11",
+                            "-0.61",
+                            "-0.93"
+                        ],
+                        [
+                            "",
+                            "87.80",
+                            "88.18",
+                            "88.28",
+                            "94.14",
+                            "-0.43",
+                            "-0.54"
+                        ],
+                        [
+                            "",
+                            "110.87",
+                            "111.33",
+                            "111.43",
+                            "119.11",
+                            "-0.41",
+                            "-0.50"
+                        ],
+                        [
+                            "",
+                            "115.80",
+                            "116.23",
+                            "117.67",
+                            "126.74",
+                            "-0.37",
+                            "-1.59"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 4,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "171.73",
+                        "171.49",
+                        "170.66",
+                        "139.65",
+                        "0.14",
+                        "0.63"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "171.73",
+                            "171.49",
+                            "170.66",
+                            "139.65",
+                            "0.14",
+                            "0.63"
+                        ],
+                        [
+                            "",
+                            "146.61",
+                            "146.66",
+                            "147.04",
+                            "123.76",
+                            "-0.03",
+                            "-0.29"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 5,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "26.74",
+                        "26.73",
+                        "26.56",
+                        "38.24",
+                        "0.04",
+                        "0.68"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "26.74",
+                            "26.73",
+                            "26.56",
+                            "38.24",
+                            "0.04",
+                            "0.68"
+                        ],
+                        [
+                            "",
+                            "25.47",
+                            "25.27",
+                            "24.51",
+                            "32.33",
+                            "0.79",
+                            "3.92"
+                        ],
+                        [
+                            "",
+                            "34.09",
+                            "31.87",
+                            "23.83",
+                            "46.61",
+                            "6.97",
+                            "43.05"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 5,
+            "image_count": 0,
+            "multimodal_score": 10,
+            "keywords": [
+                "procurement",
+                "wheat",
+                "rice",
+                "kharif",
+                "rabi",
+                "wheat procurement",
+                "crop",
+                "progressive",
+                "paddy",
+                "rms"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Paddy",
+                    "label": "Crop",
+                    "score": 0.9408
+                },
+                {
+                    "text": "Wheat",
+                    "label": "Crop",
+                    "score": 0.9273
+                },
+                {
+                    "text": "Kharif",
+                    "label": "Crop",
+                    "score": 0.8379
+                },
+                {
+                    "text": "Rice",
+                    "label": "Crop",
+                    "score": 0.8375
+                },
+                {
+                    "text": "Moong",
+                    "label": "Crop",
+                    "score": 0.63
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00009",
+            "chunk_type": "text",
+            "heading": "9. PROCUREMENT - Actual stock of Rice & Wheat together was 749.18 LMT against the buffer norm of",
+            "page_start": 11,
+            "page_end": 12,
+            "text": "Whole 7400 6609 6431 7034 8738 2.77 -6.04 -24.36 Groundnut 6783 5567 5385 5180 5935 3.38 7.47 -6.20 Mustard 5950 6198 6209 6030 5533 -0.18 2.79 12.02 Soyabean 4892 4199 4142 4175 4405 1.38 0.57 -4.68 Sesamum 9267 9474 9261 9620 12884 2.30 -1.52 -26.47 Sunflower 7280 7278 7280 5432 6300 -0.03 33.98 15.52 Onion 1268 1214 951 2583 4.45 33.33 -50.91 Potato 1222 1210 1155 1951 0.99 5.80 -37.37 Tomato 1648 1794 1072 3645 -8.14 53.73 -54.79 Oil Seeds Source: Agmarknet (through UPAg) Pulses Commodities % Variation Over Cereals All India Retail Prices (Rs/Quintal) Prices as on 20.06.25 One Week Ago 13.06.25 1 Month Ago 20.05.25 1 Year Ago 20.06.24 Last Week Last Month 1 Year Ago Rice 42.86 42.84 42.63 44.99 0.05 0.54 -4.73 Wheat 31.15 31.24 31.24 30.99 -0.29 -0.29 0.52 Arhar/Tur Dal 122.49 123.58 126.56 161.30 -0.88 -3.22 -24.06 Gram Dal 86.01 86.54 86.82 88.11 -0.61 -0.93 -2.38 Masur Dal 87.80 88.18 88.28 94.14 -0.43 -0.54 -6.73 Moong Dal 110.87 111.33 111.43 119.11 -0.41 -0.50 -6.92 Urad Dal 115.80 116.23 117.67 126.74 -0.37 -1.59 -8.63 Mustard Oil 171.73 171.49 170.66 139.65 0.14 0.63 22.97 Soyabean Oil 146.61 146.66 147.04 123.76 -0.03 -0.29 18.46 Onion 26.74 26.73 26.56 38.24 0.04 0.68 -30.07 Potato 25.47 25.27 24.51 32.33 0.79 3.92 -21.22 Tomato 34.09 31.87 23.83 46.61 6.97 43.05",
+            "word_count": 220,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 5,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                        "KMS 2024-25",
+                        "",
+                        "KMS 2023-24",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                            "KMS 2024-25",
+                            "",
+                            "KMS 2023-24",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "Progressive\nPaddy\nprocurement",
+                            "Progressive\nprocurement\nin terms of\nRice\n(Percentage of\ntarget\nachieved)",
+                            "Progressive\nCorresponding\npaddy\nProcurement",
+                            "Progressive\nCorresponding\nProcurement\nin terms of\nRice"
+                        ],
+                        [
+                            "Kharif",
+                            "500.33\n(746.76)",
+                            "688.22",
+                            "462.25\n(92.39%)",
+                            "694.11",
+                            "466.10"
+                        ],
+                        [
+                            "Rabi",
+                            "71.70\n(107.07)",
+                            "96.09",
+                            "64.66\n(90.18%)",
+                            "64.89",
+                            "43.55"
+                        ],
+                        [
+                            "Kharif+Rabi",
+                            "572.03\n(853.78)",
+                            "784.31",
+                            "526.91\n(92.11%)",
+                            "759.00",
+                            "509.65"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 11,
+                    "rows_count": 2,
+                    "columns_count": 3,
+                    "header": [
+                        "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                        "Progressive Wheat Procurement\nduring RMS 2025-26",
+                        "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                    ],
+                    "rows": [
+                        [
+                            "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                            "Progressive Wheat Procurement\nduring RMS 2025-26",
+                            "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                        ],
+                        [
+                            "333.86",
+                            "300.14",
+                            "265.91"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 12,
+                    "rows_count": 5,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "122.49",
+                        "123.58",
+                        "126.56",
+                        "161.30",
+                        "-0.88",
+                        "-3.22"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "122.49",
+                            "123.58",
+                            "126.56",
+                            "161.30",
+                            "-0.88",
+                            "-3.22"
+                        ],
+                        [
+                            "",
+                            "86.01",
+                            "86.54",
+                            "86.82",
+                            "88.11",
+                            "-0.61",
+                            "-0.93"
+                        ],
+                        [
+                            "",
+                            "87.80",
+                            "88.18",
+                            "88.28",
+                            "94.14",
+                            "-0.43",
+                            "-0.54"
+                        ],
+                        [
+                            "",
+                            "110.87",
+                            "111.33",
+                            "111.43",
+                            "119.11",
+                            "-0.41",
+                            "-0.50"
+                        ],
+                        [
+                            "",
+                            "115.80",
+                            "116.23",
+                            "117.67",
+                            "126.74",
+                            "-0.37",
+                            "-1.59"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 4,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "171.73",
+                        "171.49",
+                        "170.66",
+                        "139.65",
+                        "0.14",
+                        "0.63"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "171.73",
+                            "171.49",
+                            "170.66",
+                            "139.65",
+                            "0.14",
+                            "0.63"
+                        ],
+                        [
+                            "",
+                            "146.61",
+                            "146.66",
+                            "147.04",
+                            "123.76",
+                            "-0.03",
+                            "-0.29"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 5,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "26.74",
+                        "26.73",
+                        "26.56",
+                        "38.24",
+                        "0.04",
+                        "0.68"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "26.74",
+                            "26.73",
+                            "26.56",
+                            "38.24",
+                            "0.04",
+                            "0.68"
+                        ],
+                        [
+                            "",
+                            "25.47",
+                            "25.27",
+                            "24.51",
+                            "32.33",
+                            "0.79",
+                            "3.92"
+                        ],
+                        [
+                            "",
+                            "34.09",
+                            "31.87",
+                            "23.83",
+                            "46.61",
+                            "6.97",
+                            "43.05"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 5,
+            "image_count": 0,
+            "multimodal_score": 10,
+            "keywords": [
+                "mustard",
+                "potato",
+                "tomato",
+                "onion",
+                "pulses",
+                "seeds",
+                "wheat",
+                "rice",
+                "dal",
+                "potato tomato"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Rice",
+                    "label": "Crop",
+                    "score": 0.9537
+                },
+                {
+                    "text": "Wheat",
+                    "label": "Crop",
+                    "score": 0.9384
+                },
+                {
+                    "text": "Potato",
+                    "label": "Crop",
+                    "score": 0.898
+                },
+                {
+                    "text": "Tomato",
+                    "label": "Crop",
+                    "score": 0.8805
+                },
+                {
+                    "text": "Sunflower",
+                    "label": "Crop",
+                    "score": 0.8735
+                },
+                {
+                    "text": "Onion",
+                    "label": "Crop",
+                    "score": 0.8295
+                },
+                {
+                    "text": "Mustard",
+                    "label": "Crop",
+                    "score": 0.7945
+                },
+                {
+                    "text": "Soyabean",
+                    "label": "Crop",
+                    "score": 0.7645
+                },
+                {
+                    "text": "Groundnut",
+                    "label": "Crop",
+                    "score": 0.6987
+                },
+                {
+                    "text": "Sesamum",
+                    "label": "Crop",
+                    "score": 0.6982
+                },
+                {
+                    "text": "1 Year Ago",
+                    "label": "Year",
+                    "score": 0.5253
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00010",
+            "chunk_type": "text",
+            "heading": "9. PROCUREMENT - Actual stock of Rice & Wheat together was 749.18 LMT against the buffer norm of",
+            "page_start": 11,
+            "page_end": 12,
+            "text": "-26.86 Cereals Pulses Edible Oils Horticulture Source: Department of Consumer Affairs (DOCA) Commodities All India Weekly Average Retail Prices (In Rs./Kg) % Variation Over",
+            "word_count": 24,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 5,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                        "KMS 2024-25",
+                        "",
+                        "KMS 2023-24",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                            "KMS 2024-25",
+                            "",
+                            "KMS 2023-24",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "Progressive\nPaddy\nprocurement",
+                            "Progressive\nprocurement\nin terms of\nRice\n(Percentage of\ntarget\nachieved)",
+                            "Progressive\nCorresponding\npaddy\nProcurement",
+                            "Progressive\nCorresponding\nProcurement\nin terms of\nRice"
+                        ],
+                        [
+                            "Kharif",
+                            "500.33\n(746.76)",
+                            "688.22",
+                            "462.25\n(92.39%)",
+                            "694.11",
+                            "466.10"
+                        ],
+                        [
+                            "Rabi",
+                            "71.70\n(107.07)",
+                            "96.09",
+                            "64.66\n(90.18%)",
+                            "64.89",
+                            "43.55"
+                        ],
+                        [
+                            "Kharif+Rabi",
+                            "572.03\n(853.78)",
+                            "784.31",
+                            "526.91\n(92.11%)",
+                            "759.00",
+                            "509.65"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 11,
+                    "rows_count": 2,
+                    "columns_count": 3,
+                    "header": [
+                        "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                        "Progressive Wheat Procurement\nduring RMS 2025-26",
+                        "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                    ],
+                    "rows": [
+                        [
+                            "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                            "Progressive Wheat Procurement\nduring RMS 2025-26",
+                            "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                        ],
+                        [
+                            "333.86",
+                            "300.14",
+                            "265.91"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 12,
+                    "rows_count": 5,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "122.49",
+                        "123.58",
+                        "126.56",
+                        "161.30",
+                        "-0.88",
+                        "-3.22"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "122.49",
+                            "123.58",
+                            "126.56",
+                            "161.30",
+                            "-0.88",
+                            "-3.22"
+                        ],
+                        [
+                            "",
+                            "86.01",
+                            "86.54",
+                            "86.82",
+                            "88.11",
+                            "-0.61",
+                            "-0.93"
+                        ],
+                        [
+                            "",
+                            "87.80",
+                            "88.18",
+                            "88.28",
+                            "94.14",
+                            "-0.43",
+                            "-0.54"
+                        ],
+                        [
+                            "",
+                            "110.87",
+                            "111.33",
+                            "111.43",
+                            "119.11",
+                            "-0.41",
+                            "-0.50"
+                        ],
+                        [
+                            "",
+                            "115.80",
+                            "116.23",
+                            "117.67",
+                            "126.74",
+                            "-0.37",
+                            "-1.59"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 4,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "171.73",
+                        "171.49",
+                        "170.66",
+                        "139.65",
+                        "0.14",
+                        "0.63"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "171.73",
+                            "171.49",
+                            "170.66",
+                            "139.65",
+                            "0.14",
+                            "0.63"
+                        ],
+                        [
+                            "",
+                            "146.61",
+                            "146.66",
+                            "147.04",
+                            "123.76",
+                            "-0.03",
+                            "-0.29"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 5,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "26.74",
+                        "26.73",
+                        "26.56",
+                        "38.24",
+                        "0.04",
+                        "0.68"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "26.74",
+                            "26.73",
+                            "26.56",
+                            "38.24",
+                            "0.04",
+                            "0.68"
+                        ],
+                        [
+                            "",
+                            "25.47",
+                            "25.27",
+                            "24.51",
+                            "32.33",
+                            "0.79",
+                            "3.92"
+                        ],
+                        [
+                            "",
+                            "34.09",
+                            "31.87",
+                            "23.83",
+                            "46.61",
+                            "6.97",
+                            "43.05"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 5,
+            "image_count": 0,
+            "multimodal_score": 10,
+            "keywords": [
+                "horticulture",
+                "pulses",
+                "horticulture source",
+                "department consumer",
+                "commodities weekly",
+                "oils horticulture",
+                "source department",
+                "consumer affairs",
+                "doca commodities",
+                "prices variation"
+            ],
+            "quality": "small",
+            "entities": [
+                {
+                    "text": "Department of Consumer Affairs",
+                    "label": "Organization",
+                    "score": 0.8529
+                },
+                {
+                    "text": "Cereals",
+                    "label": "Crop",
+                    "score": 0.8442
+                },
+                {
+                    "text": "Pulses",
+                    "label": "Crop",
+                    "score": 0.7556
+                },
+                {
+                    "text": "Horticulture",
+                    "label": "Crop",
+                    "score": 0.7365
+                },
+                {
+                    "text": "Edible Oils",
+                    "label": "Crop",
+                    "score": 0.7127
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00011",
+            "chunk_type": "table",
+            "heading": "7. PEST & DISEASE",
+            "page_start": 9,
+            "page_end": 11,
+            "table_id": 3,
+            "table_index": 4,
+            "caption": "",
+            "text": "All India Weekly Average Retail Prices\nIncreasing Trend | Decreasing Trend\nCommodities | % Variation over last\nWeek | Commodities | Commodities | % Variation over last\nWeek\nRice\n` Mustard Oil\nOnion\nPotato\nTomato | 0.05\n0.14\n0.04\n0.79\n6.97 | Wheat | -0.29\nArhar | -0.88\nGram | -0.61\nMasur | -0.43\nMoong | -0.41\nUrad | -0.37\nSoyabean Oil | -0.03",
+            "word_count": 64,
+            "row_count": 11,
+            "column_count": 10,
+            "table_count": 3,
+            "image_count": 0,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 9,
+                    "rows_count": 8,
+                    "columns_count": 13,
+                    "header": [
+                        "Product",
+                        "Total\nRequire\nment\nKharif\n2025",
+                        "Total\nRequire\nment\nKharif\n2024",
+                        "Openi\nng\nstock\nas on\n1.4.25",
+                        "Openin\ng stock\nas on\n1.4.24",
+                        "Requir\nement\nduring\nJune,\n2025",
+                        "Require\nment\nduring\nJune,\n2024",
+                        "(as on 20/6/25)",
+                        "",
+                        "",
+                        "(as on 18/6/24)",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Product",
+                            "Total\nRequire\nment\nKharif\n2025",
+                            "Total\nRequire\nment\nKharif\n2024",
+                            "Openi\nng\nstock\nas on\n1.4.25",
+                            "Openin\ng stock\nas on\n1.4.24",
+                            "Requir\nement\nduring\nJune,\n2025",
+                            "Require\nment\nduring\nJune,\n2024",
+                            "(as on 20/6/25)",
+                            "",
+                            "",
+                            "(as on 18/6/24)",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Avail\nabilit\ny",
+                            "Sales",
+                            "Closi\nng\nstock",
+                            "Availa\nbility",
+                            "Sales",
+                            "Clos\ning\nstoc\nk"
+                        ],
+                        [
+                            "UREA",
+                            "185.40",
+                            "177.13",
+                            "55.96",
+                            "79.83",
+                            "31.72",
+                            "31.83",
+                            "85.30",
+                            "20.09",
+                            "65.21",
+                            "119.15",
+                            "16.08",
+                            "103.07"
+                        ],
+                        [
+                            "DAP",
+                            "56.99",
+                            "59.87",
+                            "9.15",
+                            "17.75",
+                            "10.62",
+                            "11.70",
+                            "17.66",
+                            "4.97",
+                            "12.69",
+                            "26.50",
+                            "5.81",
+                            "20.69"
+                        ],
+                        [
+                            "MOP",
+                            "11.13",
+                            "10.26",
+                            "8.83",
+                            "6.36",
+                            "2.03",
+                            "1.91",
+                            "9.40",
+                            "3.65",
+                            "5.75",
+                            "7.35",
+                            "2.45",
+                            "4.90"
+                        ],
+                        [
+                            "NPK",
+                            "76.51",
+                            "74.19",
+                            "34.04",
+                            "40.16",
+                            "15.05",
+                            "15.20",
+                            "54.30",
+                            "11.04",
+                            "43.26",
+                            "56.42",
+                            "7.16",
+                            "49.26"
+                        ],
+                        [
+                            "SSP",
+                            "32.57",
+                            "36.12",
+                            "21.58",
+                            "18.70",
+                            "6.95",
+                            "7.28",
+                            "28.38",
+                            "4.18",
+                            "24.20",
+                            "25.04",
+                            "3.19",
+                            "21.85"
+                        ],
+                        [
+                            "TOTA\nL",
+                            "362.60",
+                            "357.56",
+                            "129.55",
+                            "162.79",
+                            "66.38",
+                            "67.92",
+                            "195.03",
+                            "43.93",
+                            "151.10",
+                            "234.46",
+                            "34.69",
+                            "199.76"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 10,
+                    "rows_count": 7,
+                    "columns_count": 1,
+                    "header": [
+                        "Paddy (Rice un-milled)"
+                    ],
+                    "rows": [
+                        [
+                            "Paddy (Rice un-milled)"
+                        ],
+                        [
+                            "Wheat"
+                        ],
+                        [
+                            "Mustard"
+                        ],
+                        [
+                            "Sunflower"
+                        ],
+                        [
+                            "Tomato"
+                        ],
+                        [
+                            ""
+                        ],
+                        [
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 10,
+                    "rows_count": 11,
+                    "columns_count": 10,
+                    "header": [
+                        "All India Weekly Average Retail Prices",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Retail Prices",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Increasing Trend",
+                            "",
+                            "",
+                            "",
+                            "Decreasing Trend",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "",
+                            "% Variation over last\nWeek",
+                            "",
+                            "Commodities",
+                            "Commodities",
+                            "",
+                            "",
+                            "% Variation over last",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Week",
+                            ""
+                        ],
+                        [
+                            "Rice\n` Mustard Oil\nOnion\nPotato\nTomato",
+                            "",
+                            "0.05\n0.14\n0.04\n0.79\n6.97",
+                            "",
+                            "",
+                            "Wheat",
+                            "",
+                            "",
+                            "-0.29",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Arhar",
+                            "",
+                            "",
+                            "-0.88",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Gram",
+                            "",
+                            "",
+                            "-0.61",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Masur",
+                            "",
+                            "",
+                            "-0.43",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Moong",
+                            "",
+                            "",
+                            "-0.41",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Urad",
+                            "",
+                            "",
+                            "-0.37",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Soyabean Oil",
+                            "",
+                            "",
+                            "-0.03",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "keywords": [
+                "mustard",
+                "potato",
+                "tomato",
+                "onion",
+                "wheat",
+                "rice",
+                "commodities variation",
+                "variation over",
+                "over last",
+                "last week"
+            ],
+            "multimodal_score": 6,
+            "quality": "small",
+            "entities": [
+                {
+                    "text": "Wheat",
+                    "label": "Crop",
+                    "score": 0.9707
+                },
+                {
+                    "text": "Moong",
+                    "label": "Crop",
+                    "score": 0.9509
+                },
+                {
+                    "text": "Rice",
+                    "label": "Crop",
+                    "score": 0.9477
+                },
+                {
+                    "text": "Masur",
+                    "label": "Crop",
+                    "score": 0.8595
+                },
+                {
+                    "text": "Arhar",
+                    "label": "Crop",
+                    "score": 0.8461
+                },
+                {
+                    "text": "Tomato",
+                    "label": "Crop",
+                    "score": 0.7911
+                },
+                {
+                    "text": "Urad",
+                    "label": "Crop",
+                    "score": 0.7597
+                },
+                {
+                    "text": "Soyabean Oil",
+                    "label": "Crop",
+                    "score": 0.7481
+                },
+                {
+                    "text": "Onion",
+                    "label": "Crop",
+                    "score": 0.5269
+                },
+                {
+                    "text": "Potato",
+                    "label": "Crop",
+                    "score": 0.5258
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00012",
+            "chunk_type": "table",
+            "heading": "9. PROCUREMENT - Actual stock of Rice & Wheat together was 749.18 LMT against the buffer norm of",
+            "page_start": 11,
+            "page_end": 12,
+            "table_id": 4,
+            "table_index": 6,
+            "caption": "",
+            "text": "171.73 | 171.49 | 170.66 | 139.65 | 0.14 | 0.63\n146.61 | 146.66 | 147.04 | 123.76 | -0.03 | -0.29",
+            "word_count": 22,
+            "row_count": 2,
+            "column_count": 7,
+            "table_count": 5,
+            "image_count": 0,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 5,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                        "KMS 2024-25",
+                        "",
+                        "KMS 2023-24",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                            "KMS 2024-25",
+                            "",
+                            "KMS 2023-24",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "Progressive\nPaddy\nprocurement",
+                            "Progressive\nprocurement\nin terms of\nRice\n(Percentage of\ntarget\nachieved)",
+                            "Progressive\nCorresponding\npaddy\nProcurement",
+                            "Progressive\nCorresponding\nProcurement\nin terms of\nRice"
+                        ],
+                        [
+                            "Kharif",
+                            "500.33\n(746.76)",
+                            "688.22",
+                            "462.25\n(92.39%)",
+                            "694.11",
+                            "466.10"
+                        ],
+                        [
+                            "Rabi",
+                            "71.70\n(107.07)",
+                            "96.09",
+                            "64.66\n(90.18%)",
+                            "64.89",
+                            "43.55"
+                        ],
+                        [
+                            "Kharif+Rabi",
+                            "572.03\n(853.78)",
+                            "784.31",
+                            "526.91\n(92.11%)",
+                            "759.00",
+                            "509.65"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 11,
+                    "rows_count": 2,
+                    "columns_count": 3,
+                    "header": [
+                        "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                        "Progressive Wheat Procurement\nduring RMS 2025-26",
+                        "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                    ],
+                    "rows": [
+                        [
+                            "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                            "Progressive Wheat Procurement\nduring RMS 2025-26",
+                            "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                        ],
+                        [
+                            "333.86",
+                            "300.14",
+                            "265.91"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 12,
+                    "rows_count": 5,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "122.49",
+                        "123.58",
+                        "126.56",
+                        "161.30",
+                        "-0.88",
+                        "-3.22"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "122.49",
+                            "123.58",
+                            "126.56",
+                            "161.30",
+                            "-0.88",
+                            "-3.22"
+                        ],
+                        [
+                            "",
+                            "86.01",
+                            "86.54",
+                            "86.82",
+                            "88.11",
+                            "-0.61",
+                            "-0.93"
+                        ],
+                        [
+                            "",
+                            "87.80",
+                            "88.18",
+                            "88.28",
+                            "94.14",
+                            "-0.43",
+                            "-0.54"
+                        ],
+                        [
+                            "",
+                            "110.87",
+                            "111.33",
+                            "111.43",
+                            "119.11",
+                            "-0.41",
+                            "-0.50"
+                        ],
+                        [
+                            "",
+                            "115.80",
+                            "116.23",
+                            "117.67",
+                            "126.74",
+                            "-0.37",
+                            "-1.59"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 4,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "171.73",
+                        "171.49",
+                        "170.66",
+                        "139.65",
+                        "0.14",
+                        "0.63"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "171.73",
+                            "171.49",
+                            "170.66",
+                            "139.65",
+                            "0.14",
+                            "0.63"
+                        ],
+                        [
+                            "",
+                            "146.61",
+                            "146.66",
+                            "147.04",
+                            "123.76",
+                            "-0.03",
+                            "-0.29"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 5,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "26.74",
+                        "26.73",
+                        "26.56",
+                        "38.24",
+                        "0.04",
+                        "0.68"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "26.74",
+                            "26.73",
+                            "26.56",
+                            "38.24",
+                            "0.04",
+                            "0.68"
+                        ],
+                        [
+                            "",
+                            "25.47",
+                            "25.27",
+                            "24.51",
+                            "32.33",
+                            "0.79",
+                            "3.92"
+                        ],
+                        [
+                            "",
+                            "34.09",
+                            "31.87",
+                            "23.83",
+                            "46.61",
+                            "6.97",
+                            "43.05"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "keywords": [],
+            "multimodal_score": 10,
+            "quality": "small",
+            "entities": []
+        },
+        {
+            "chunk_id": "CWWG_00013",
+            "chunk_type": "table",
+            "heading": "9. PROCUREMENT - Actual stock of Rice & Wheat together was 749.18 LMT against the buffer norm of",
+            "page_start": 11,
+            "page_end": 12,
+            "table_id": 5,
+            "table_index": 7,
+            "caption": "",
+            "text": "26.74 | 26.73 | 26.56 | 38.24 | 0.04 | 0.68\n25.47 | 25.27 | 24.51 | 32.33 | 0.79 | 3.92\n34.09 | 31.87 | 23.83 | 46.61 | 6.97 | 43.05",
+            "word_count": 33,
+            "row_count": 3,
+            "column_count": 7,
+            "table_count": 5,
+            "image_count": 0,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 5,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                        "KMS 2024-25",
+                        "",
+                        "KMS 2023-24",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice\nProcurement\nEstimates\nduring KMS\n2024-25\n(Estimates in\nterms of\nPaddy)",
+                            "KMS 2024-25",
+                            "",
+                            "KMS 2023-24",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "Progressive\nPaddy\nprocurement",
+                            "Progressive\nprocurement\nin terms of\nRice\n(Percentage of\ntarget\nachieved)",
+                            "Progressive\nCorresponding\npaddy\nProcurement",
+                            "Progressive\nCorresponding\nProcurement\nin terms of\nRice"
+                        ],
+                        [
+                            "Kharif",
+                            "500.33\n(746.76)",
+                            "688.22",
+                            "462.25\n(92.39%)",
+                            "694.11",
+                            "466.10"
+                        ],
+                        [
+                            "Rabi",
+                            "71.70\n(107.07)",
+                            "96.09",
+                            "64.66\n(90.18%)",
+                            "64.89",
+                            "43.55"
+                        ],
+                        [
+                            "Kharif+Rabi",
+                            "572.03\n(853.78)",
+                            "784.31",
+                            "526.91\n(92.11%)",
+                            "759.00",
+                            "509.65"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 11,
+                    "rows_count": 2,
+                    "columns_count": 3,
+                    "header": [
+                        "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                        "Progressive Wheat Procurement\nduring RMS 2025-26",
+                        "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                    ],
+                    "rows": [
+                        [
+                            "Wheat Procurement Estimates\nduring RMS 2025-26 ( LMTs)",
+                            "Progressive Wheat Procurement\nduring RMS 2025-26",
+                            "Corresponding Wheat\nProcurement during RMS\n2024-25"
+                        ],
+                        [
+                            "333.86",
+                            "300.14",
+                            "265.91"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 12,
+                    "rows_count": 5,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "122.49",
+                        "123.58",
+                        "126.56",
+                        "161.30",
+                        "-0.88",
+                        "-3.22"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "122.49",
+                            "123.58",
+                            "126.56",
+                            "161.30",
+                            "-0.88",
+                            "-3.22"
+                        ],
+                        [
+                            "",
+                            "86.01",
+                            "86.54",
+                            "86.82",
+                            "88.11",
+                            "-0.61",
+                            "-0.93"
+                        ],
+                        [
+                            "",
+                            "87.80",
+                            "88.18",
+                            "88.28",
+                            "94.14",
+                            "-0.43",
+                            "-0.54"
+                        ],
+                        [
+                            "",
+                            "110.87",
+                            "111.33",
+                            "111.43",
+                            "119.11",
+                            "-0.41",
+                            "-0.50"
+                        ],
+                        [
+                            "",
+                            "115.80",
+                            "116.23",
+                            "117.67",
+                            "126.74",
+                            "-0.37",
+                            "-1.59"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 4,
+                    "page": 12,
+                    "rows_count": 2,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "171.73",
+                        "171.49",
+                        "170.66",
+                        "139.65",
+                        "0.14",
+                        "0.63"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "171.73",
+                            "171.49",
+                            "170.66",
+                            "139.65",
+                            "0.14",
+                            "0.63"
+                        ],
+                        [
+                            "",
+                            "146.61",
+                            "146.66",
+                            "147.04",
+                            "123.76",
+                            "-0.03",
+                            "-0.29"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 5,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "",
+                        "26.74",
+                        "26.73",
+                        "26.56",
+                        "38.24",
+                        "0.04",
+                        "0.68"
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "26.74",
+                            "26.73",
+                            "26.56",
+                            "38.24",
+                            "0.04",
+                            "0.68"
+                        ],
+                        [
+                            "",
+                            "25.47",
+                            "25.27",
+                            "24.51",
+                            "32.33",
+                            "0.79",
+                            "3.92"
+                        ],
+                        [
+                            "",
+                            "34.09",
+                            "31.87",
+                            "23.83",
+                            "46.61",
+                            "6.97",
+                            "43.05"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "keywords": [],
+            "multimodal_score": 10,
+            "quality": "small",
+            "entities": []
+        }
+    ]
+}

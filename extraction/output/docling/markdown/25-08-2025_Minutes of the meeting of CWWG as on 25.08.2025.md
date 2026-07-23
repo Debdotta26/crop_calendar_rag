@@ -1,0 +1,374 @@
+<!-- image -->
+
+## Key Insights
+
+1. Kharif Sowing Status: As  on  22  August, 2025, the area sown under Kharif crops is 1073.98 lakh ha as compared to 1038.58 lakh ha during the corresponding period of last year. About 97.9 percent of the normal area has been sown under the Kharif season crops. The status of sowing under Rice, Pulses, Coarse Cereals and Sugarcane is better than in the same period of last year.
+
+## 2. Weather Update :
+
+- a) Temperature: Maximum temperatures is likely to be below normal in most of the country except some parts in South Karnataka.
+- b) Rainfall  Distribution: From June 01 -Aug 24 2025, the All-India cumulative rainfall is 4% higher than its Long Period Average (LPA), with regional variations: (i) East &amp; Northeast India:(-)17%; (ii) Northwest India: 15%; (iii) Central India: 9%; and South Peninsula: 6%.
+- Heavy to very heavy rainfall  very  likely  to  continue  over  Gujarat  till  30th  and  over Rajasthan till 26th August with isolated extremely heavy rainfall also likely over East Rajasthan on 24 th  August, 2025.
+- Isolated very heavy rainfall likely over Jammu &amp; Kashmir, Himachal Pradesh, Punjab, Haryana &amp; Chandigarh on 24th; Uttarakhand during 24 th -25 th  August, 2025.  Increase in rainfall activity likely along the west coast from 26th August, 2025.
+- Scattered  to  Fairly  widespread  rainfall  likely  over  northern,  western  India,  western peninsular and eastern India.
+- Fairly widespread to widespread rainfall likely over the most parts of the country.
+
+District-wise rainfall distribution of States is attached in Annexure I.
+
+## 3. Inputs Situation
+
+- a) Water  Reservoir  Status :  As  on  21 st   August  2025,  the  total  live  water  storage  in  161 important reservoirs across the country (monitored by CWC) is 142.01 billion cubic meter, which is 78% of total live storage capacity (182.496 BCM). The current year's storage is nearly 107.6 percent of last year's storage and 119.6 percent of the average storage of the last ten years during the corresponding period. The overall storage position is better than the corresponding period of last year in the country as a whole and is also better than the Normal storage during the corresponding period.
+- b) Groundwater Levels : About 43.1% of the total monitoring wells show depth to water level in the range of 0 to 5 m below ground level and 37.6% show depth to water level in the range of 5 to 10 m below ground level. About 19.2% of the total monitoring wells show
+
+<!-- image -->
+
+## Agricultural StatisticsDivision
+
+## Department of Agriculture&amp;FarmersWelfare Ministry of Agriculture &amp; Farmers Welfare
+
+Governmentof India
+
+## CROP WEATHER WATCH GROUP (CWWG) WEEKLYREPORT
+
+(as on 25.08.2025)
+
+<!-- image -->
+
+water  level  deeper  than  10  m  below  ground  level.  The  groundwater  level  fluctuation analysis of Pre-monsoon 2025 with decadal mean of Pre-monsoon (2015-2024) indicates that 67.7% of analysed wells are showing rise and 33.0% are showing fall in water level. Remaining 0.3% stations analysed do not show any change in water level.
+
+As  per  the  Ground  Water  Drought  Indices  (GWDI),  in  pre-monsoon  2025,  90%  of  the analysed  wells  are  in  the  normal  category,  while  10%  of  the  analysed  wells  are  in  the drought category.
+
+<!-- image -->
+
+- c) Seeds  and  Fertilizers :  For  Kharif  2025,  certified  seed  availability  is  178.64  lakh  quintals against a requirement of 164.05 lakh quintals, ensuring a surplus of 14.60 lakh quintals. The fertilizer supply remains stable across all products.
+4. Pests &amp; Diseases : Intensity of pests and diseases at some fields has been reported to be above Economic Threshold Level for Rice (Varieties: PR 114, PR 126 &amp; PR 131) (Southern Rice Black Streaked  Dwarf  Virus  (SRBSDV))  in  Haryana,  (Swarming  Caterpillar  and  Leaf  folder)  in Assam,  (Yellow  stem  borer,  Leaf  folder,  Bacterial  leaf  blight,  Brown  plant  hopper)  in Chhattisgarh &amp; (Armyworm (Ear Cut Worm)) in Meghalaya, for Maize (Downey Mildew) in Karnataka, for  Cotton  (Pink  ball  worm,  Angular  leaf  spot/Bacterial  leaf  blight)  in  Haryana and for Green Gram (White Grub) in Rajasthan. The Advisory has been issued by the survey team to the farms and regular monitoring is being carried out. The overall intensity of pests and diseases remained below the Economic Threshold Level.
+
+## 5. Crops whose Mandi Wholesale prices are below MSP:
+
+| All India Mandi Wholesale Prices   | All India Mandi Wholesale Prices   | All India Mandi Wholesale Prices   | All India Mandi Wholesale Prices   |
+|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
+| Commodities                        | MSP (RS/Qtl)                       | Price as on 22.08-2025             | % Variation over MSP               |
+| Rice (un milled)                   | 2300                               | 2165                               | -5.87                              |
+| Arhar whole                        | 7550                               | 6855                               | -9.21                              |
+| Moong whole                        | 8682                               | 8073                               | -7.01                              |
+| Groundnut                          | 6783                               | 6019                               | -11.26                             |
+| Soyabean                           | 4892                               | 4533                               | -7.34                              |
+
+## 1. RAINFALL
+
+- During the week (14 Aug - 20 Aug 2025), higher rainfall was observed, as compared to Long Period Average (LPA) by 20%. Cumulative seasonal rainfall (01 st June  to  20 th Aug 2025) is higher than LPA by 2%.
+
+<!-- image -->
+
+## Rainfall Forecast:
+
+- The monsoon trough at mean sea level now passes through Bikaner, Jaipur, centre of lowpressure area over central parts of south Uttar Pradesh &amp; adjoining north Madhya Pradesh, Prayagraj,  Daltonganj,  Bankura,  Digha  and  thence  southeastwards  to  northeast  Bay  of Bengal.
+- Overall, rainfall activity is likely to be above normal over most parts of northwest &amp; central India;  normal  to  above  normal  over  many  parts  of  east  &amp;  northeast;  below  normal  over many parts of south Peninsular India during the week.
+
+## Details of each Segment
+
+## 2. TEMPERATURE: MIN &amp; MAX
+
+<!-- image -->
+
+<!-- image -->
+
+## Temerature
+
+## Week 1 (22 Aug -28 August 2025):
+
+- Maximum  temperatures  are  likely  to  be  below  normal  by  2-3°C  over  most  parts  of  the country during the week.
+
+## Week 2 (29 Aug -04 September 2025):
+
+- Maximum  temperatures  are  likely  to  be  below  normal  by  1-3°C  over  most  parts  of  the country except northeast India and Bihar, where these are likely to be above normal by 1-3°C during the week.
+
+## 3. RESERVOIR STORAGE (as on 21 st  August, 2025)
+
+Current live storage in 161 reservoirs was 142.01 BCM (78%) of total live capacity of 182.496 BCM.
+
+Table 1: For 161 major reservoirs of the country
+
+| Period       |   Storage as % of FRL |   Storage as % of Last Year |   Storage as % of 10 Year's Average Level |
+|--------------|-----------------------|-----------------------------|-------------------------------------------|
+| Current Week |                    78 |                         108 |                                       120 |
+| Last Week    |                    74 |                         107 |                                       124 |
+
+- 142 reservoirs having storage more than 80% of normal storage.
+- 18 reservoirs having storage 51% to 80%.
+- 01 reservoirs having storage upto 50%.
+
+<!-- image -->
+
+<!-- image -->
+
+Source: CWC
+
+## 4. REMOTE SENSING BASED SOIL MOISTURE OBSERVATION
+
+## Soil Moisture Observation
+
+- Soil moisture as on 22 August 2025 was similar/better than the average of the past 9 years in major parts of M.P, eastern parts of Rajasthan, Uttar Pradesh, Chhattisgarh, Jharkhand, West  Bengal,  major  parts  of  Odisha,  Haryana,  Punjab,  Kerala,  Karnataka,  Maharashtra, Telangana, A.P., Tamil Nadu and southern parts of Bihar.
+- It was lower than average of past 9 years in northern parts of Bihar, in parts of Assam, in parts  of  Saurashtra  region  of  Gujarat,  in  pockets  of  Rajasthan  and  in  southern  parts  of Odisha.
+
+<!-- image -->
+
+## 5.   CROP SOWING STATUS FOR KHARIF SEASON
+
+## Kharif Crops - Area coverage
+
+- Rice : About 420.41 lakh ha (104.3% of Normal) area coverage under Kharif Rice as compared to 390.80 lakh ha during the corresponding period of last year.
+- Moong :  About 33.95 lakh ha (95.1% of Normal) area coverage under Moong as compared to 33.50 lakh ha during the corresponding period of last year.
+- Soybean :  About  120.11  lakh  ha  (94.4%  of  Normal)  area  coverage  under  Soyabean  has  been reported as compared to 124.88 lakh ha during the corresponding period of last year.
+- Sugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.
+- Cotton : About 108.47 lakh ha (83.8% of Normal) area coverage has been reported compared to 111.39 lakh ha during the corresponding period of last year.
+
+## Ministry of Agriculture &amp; Farmers Welfare Department of Agriculture &amp; Farmers Welfare (DA&amp;FW)
+
+All India: Progressive Crop Area Sown Report - Kharif Weekly area coverage as on 22.08.2025
+
+Source: CWWG (via API)
+
+Area in Lakh Ha
+
+|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |
+|----------------------|------------------|-------------|-------------|------------------------------------|
+| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |
+| Rice                 |           403.09 | 420.41      | 390.80      | 29.60                              |
+| Total Pulses         |           129.61 | 112.77      | 111.42      | 1.34                               |
+| Tur                  |            44.71 | 43.98       | 44.77       | -0.78                              |
+| Kulthi               |             1.72 | 0.26        | 0.23        | 0.04                               |
+| Urad                 |            32.64 | 21.71       | 20.31       | 1.39                               |
+| Moong                |            35.69 | 33.95       | 33.50       | 0.45                               |
+| Other Pulses         |             5.15 | 3.70        | 3.50        | 0.19                               |
+| Moth Bean            |             9.70 | 9.17        | 9.11        | 0.05                               |
+| Total Coarse Cereals |           180.71 | 187.12      | 175.93      | 11.18                              |
+| Jowar                |            15.07 | 13.90       | 13.98       | -0.08                              |
+| Bajra                |            70.69 | 67.20       | 66.90       | 0.30                               |
+| Ragi                 |            11.52 | 7.99        | 7.27        | 0.72                               |
+| Maize                |            78.95 | 93.34       | 83.58       | 9.76                               |
+| Other Small Millets  |             4.48 | 4.68        | 4.20        | 0.49                               |
+| Total Oilseeds       |           194.63 | 182.38      | 187.64      | -5.26                              |
+| Groundnut            |            45.10 | 45.30       | 46.56       | -1.25                              |
+| Sesamum              |            10.32 | 9.83        | 10.46       | -0.63                              |
+| Sunflower            |             1.29 | 0.63        | 0.69        | -0.06                              |
+| Soybean              |           127.19 | 120.11      | 124.88      | -4.77                              |
+
+Disclaimer  :  For  Kharif  and  Rabi  crop-wise  estimated  area,  please  see  advanced  estimates  released  by Ministry of Agriculture and Farmers' Welfare available on UPAg (upag.gov.in)
+
+| Nigerseed      |    1.08 |    0.36 |    0.31 |   0.06 |
+|----------------|---------|---------|---------|--------|
+| Castorseed     |    9.65 |    6.09 |    4.68 |   1.41 |
+| Other Oilseeds |         |    0.06 |    0.07 |  -0.01 |
+| Sugarcane      |   52.51 |   57.31 |   55.68 |   1.64 |
+| Jute and Mesta |    6.60 |    5.54 |    5.72 |  -0.19 |
+| Cotton         |  129.50 |  108.47 |  111.39 |  -2.92 |
+| Grand Total    | 1096.65 | 1073.98 | 1038.58 |  35.40 |
+
+## 6.   FERTILIZER POSITION:
+
+Availability  of  fertilizer  has  been  found  comfortable.  Details  of  Requirement,  Receipt, Availability, Sales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Rabi 2024-25 as on 22.08.2025 is given below:
+
+(Unit : in Lakh MT)
+
+| Produ ct   | Total Require ment Kharif 2025   | Total Require ment Kharif 2024   | Open ing stock as on 1.4.25   | Openi ng stock as on 1.4.24   | Require ment during August, 2025   | Require ment during August, 2024   | (as on 22/08/25)   | (as on 22/08/25)   | (as on 22/08/25)   | (upto 22/08/24)   | (upto 22/08/24)   | (upto 22/08/24)   |
+|------------|----------------------------------|----------------------------------|-------------------------------|-------------------------------|------------------------------------|------------------------------------|--------------------|--------------------|--------------------|-------------------|-------------------|-------------------|
+| Produ ct   | Total Require ment Kharif 2025   | Total Require ment Kharif 2024   | Open ing stock as on 1.4.25   | Openi ng stock as on 1.4.24   | Require ment during August, 2025   | Require ment during August, 2024   | Availab ility      | Sal es             | Closi ng stock     | Availabi lity     | Sal es            | Closi ng stock    |
+| UREA       | 185.40                           | 177.13                           | 55.96                         | 79.83                         | 36.44                              | 35.17                              | 60.00              | 32.39              | 27.61              | 105.71            | 36.09             | 69.62             |
+| DAP        | 56.99                            | 59.87                            | 9.15                          | 17.75                         | 9.19                               | 9.69                               | 22.74              | 6.67               | 16.07              | 20.11             | 6.33              | 13.78             |
+| MOP        | 11.13                            | 10.26                            | 8.83                          | 6.36                          | 1.95                               | 1.81                               | 7.15               | 1.46               | 5.69               | 9.07              | 1.41              | 7.66              |
+| NPK        | 76.51                            | 74.19                            | 34.04                         | 40.16                         | 13.99                              | 13.58                              | 45.27              | 12.86              | 32.41              | 56.08             | 12.69             | 43.39             |
+| SSP        | 32.57                            | 36.12                            | 21.58                         | 18.70                         | 5.32                               | 6.01                               | 23.61              | 4.17               | 19.44              | 22.37             | 3.23              | 19.15             |
+| TOT AL     | 362.60                           | 357.56                           | 129.55                        | 162.79                        | 66.88                              | 66.26                              | 158.77             | 57.55              | 101.22             | 213.34            | 59.75             | 153.59            |
+
+- The  above  data  indicates  that  the  availability  of  Urea,  MOP,  Complexes  and  SSP  is comfortable.
+- In case of DAP, the opening stock of Kharif 2025 as compared to the opening stock of Kharif 2024 is less by 8.6 LMT
+- As on 22 nd  August, 2025 the availability of DAP is 22.74 LMT against the requirement of 9.19 LMT during the ongoing Kharif 2025 season.
+
+## 7. PEST &amp; DISEASE
+
+- Over all intensity of pests and disease remained below Economic Threshold Level (ETL) except:
+
+| फसल Crop                                   | राज्य State   | जिला / उपजि ला / गाांव Distr ict / Sub District/ Village            | स्रोत / Source                                  | कीट / रोग Pest/ Disease                           | राज्यमेंफ सलक े अांत गगतक ु लक्षे त्रफल ( हेक्टेयर ) Total area under the crop in the state (ha) तीव्रता Intensity संक्रमित / प्रभावि तक्षेत्र * ETL ( हेक्टेयर ) सेऊपर / Area infested/Infecte d above *ETL (ha)   | की गई कारगवाई / जटप्पणी Action Taken/ Remark                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|--------------------------------------------|---------------|---------------------------------------------------------------------|-------------------------------------------------|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Rice (Varieti es: PR 114, PR 126 & PR 131) | Haryana       | Sonepat, Panipat, Karnal, Kurukshetra, Ambala, Yamunanagar, Kaithal | Special joint survey (DPPQ&S+ICA R- NRIIPM+SDA) | Southern Rice Black Streaked Dwarf Virus (SRBSDV) | Total cropped area- 1397000 Surveyed area- 1640 250 ha. out of surveyed area- 1640 ha (5-90%)                                                                                                                       | • Pest incidence was reported on 25.07.2025 • Farmers have been advised to closely monitor the fields for the presence of WBPH and if present spray recommended insecticides as per label claim. • RCIPMC and SDA are continuously creating awareness among farmers regarding identification of disease, its vector and management strategies. • In majority of surveyed fields vector WBPH population was not traceable, therefore where incidence is below 5%, farmers have been advised to uproot the infected plant and bury them away from field to prevent further spread. • Farmers were informed to maintain good sanitation in the field and to avoid waterlogging conditions and unnecessary spray of insecticides if vectors are not present in the field. • They were also advised to install light traps to monitor WBPH population and where less than 5 % incidence was observed, farmers were advised to spray neem oil as per label claim. • Print media advisories were published/circulated to create awareness among farmers. • Diseased Samples were taken from various rice growing districts and ICAR- NRIIPM will confirm and provide the report after identification/confirmation in |
+
+|            |                                                                      |                              |                                                                        |        |                     | lab                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------|----------------------------------------------------------------------|------------------------------|------------------------------------------------------------------------|--------|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Rice       | Assam Nalbari, Baksa, Lakhimpur, Chirang, Jorhat, Biswanath& Dhemaji | CIPMC/ SAD/ NPSS             | Swarming Caterpillar                                                   |        | 16260.97            | • Pest incidence was reported on 30.07.2025 & 07.08.2025 & 21.08.2025 • Advisory issued through State WhatsApp group. • Regular monitoring is being carried out by all field functionaries as follow up action . • Officials from District Agriculture office are creating awareness programme among the farmers. • Total 14686 ha area treated and 14229.5 ha area controlled till date. |
+| Rice       | Tamulpur                                                             | CIPMC/ SAD/ NPSS             | Leaf folder                                                            |        | 19                  | • Pest incidence was reported on 21.08.2025 • Advisory issued through State WhatsApp group. • Regular monitoring is being carried out by all field functionaries as follow up action .                                                                                                                                                                                                    |
+| Maize      | Karnataka Hassan Channaraya patna, Holenarasip ura                   | State Agriculture Department | Downey Mildew                                                          |        | 98                  | • Pest incidence was reported on 04.08.2025 • Advisory issued through State WhatsApp group. • Regular monitoring is being carried out by all field functionaries as follow up action . • As per discussed with state agricultural officials the disease is under recovery                                                                                                                 |
+| Rice       | Chhattisgarh Raigarh/ Gharghoda/ Teram Bhilaigarh/S arangarh/Go dam  | Survey/ NPSS                 | Yellow stem borer Leaf folder Bacterial leaf blight Brown plant hopper |        | 07                  | • Pest incidence was reported on 04.08.2025 • Advisory issued through State WhatsApp group. • Regular monitoring is being carried out by all field functionaries as follow up action .                                                                                                                                                                                                    |
+| Cotton     | Haryana Mahendragarh                                                 | SDA & NPSS                   | Pink ballworm Angular leaf spot/ Bacterial leaf blight                 |  11050 | 20                  | • Pest incidence was reported on 18.08.2025 • Advisory issued through State WhatsApp group. • Regular monitoring is being carried out by all field functionaries as follow up action .                                                                                                                                                                                                    |
+| Green Gram | Rajasthan Churu/ Rajgarh Sidmukh Taranagar                           | LCIPMC & SDA                 | White Grub                                                             | 250000 | 104 (Total surveyed | • Pest incidence was reported on 19.08.2025 & 22.08.2025. • As per direction of DA & FW, LCIPMC Sriganganagar,                                                                                                                                                                                                                                                                            |
+
+|      |                              |              |                         |    |   area-1180 ha Total infected area-104 ha) | LCIPMC Jaipur conducted joint survey along with the State Agricultural Department in Churu district from 20.08.2025 to 22.08.2025. • The advisory on white grub management issued to JD Agriculture (Extension) Churu for further distribution and circulation to the farmers. • White grub infestation in green gram crop fields was observed in scattered fields with patches • Farmers were apprised about IPM practices i.e. Crop rotation, Deep ploughing, light traps, bio-control agents & other common cultural, mechanical and biological practices to keep the pest population below ETL. • Regular monitoring is being carried out by all field functionaries as follow up action . A detailed survey report is attached herewith   |
+|------|------------------------------|--------------|-------------------------|----|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Rice | Ri-Bhoi/ Bhoirymbon g/ Tyrso | CIPMC Survey | Armyworm (Ear Cut Worm) | 80 |                                          8 | • Pest incidence was reported on 19.08.2025 • Advisory issued through State WhatsApp group. • CIPMC Shillong conducted joint survey along with the State Agricultural Department in Ri-Bhoi district from 15.08.2025. • Regular monitoring is being carried out by all field functionaries as follow up action .                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+<!-- image -->
+
+| All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   |
+|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
+| Increasing Trend                        | Increasing Trend                        | Decreasing Trend                        | Decreasing Trend                        |
+| Commodities                             | % Variation over last Week              | Commodities                             | % Variation over last Week              |
+| Paddy (Rice un-milled)                  | 2.75                                    | Gram                                    | -5.07                                   |
+| Wheat                                   | 1.53                                    | Masur                                   | -2.48                                   |
+| Tur (Arhar)                             | 0.63                                    | Moong                                   | -4.77                                   |
+| Soybean                                 | 2.48                                    | Urad                                    | -9.04                                   |
+| Sesamum                                 | 56.52                                   | Groundnut                               | -0.28                                   |
+| Potato                                  | 4.89                                    | Mustard                                 | -1.68                                   |
+| Tomato                                  | 2.11                                    | Onion                                   | -21.39                                  |
+
+Source: Agmarknet (through UPAg)
+
+| All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   |
+|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
+| Increasing Trend                         | Increasing Trend                         | Decreasing Trend                         | Decreasing Trend                         |
+| Commodities                              | % Variation over last Week               | Commodities                              | % Variation over last Week               |
+| Rice                                     | 1.78                                     | Urad                                     | -0.64                                    |
+| Wheat                                    | 0.29                                     |                                          |                                          |
+| Arhar                                    | 0.22                                     |                                          |                                          |
+| Gram                                     | 1.17                                     |                                          |                                          |
+| Masur                                    | 0.55                                     |                                          |                                          |
+| Moong                                    | 0.25                                     |                                          |                                          |
+| Mustard Oil                              | 0.12                                     |                                          |                                          |
+| Soyabean Oil                             | 0.39                                     |                                          |                                          |
+| Onion                                    | 4.27                                     |                                          |                                          |
+| Potato                                   | 1.42                                     |                                          |                                          |
+| Tomato                                   | 2.72                                     |                                          |                                          |
+
+Source: DoCA (through UPAg)
+
+Details are enclosed at Annexure -II
+
+## 9.   PROCUREMENT
+
+- As on 17.08.2025, Actual stock of Rice &amp; Wheat together was 726.33 LMT against the buffer norm of 411.20 LMT.
+
+## All India Procurement of Paddy/Rice during KMS 2024-25
+
+As on 24.08.2025 (Figures in LMT)
+
+| Crop        | Rice Procurement Estimates during KMS 2024-25 (Estimates in terms of Paddy)   | KMS 2024-25                   | KMS 2024-25                                                               | KMS 2023-24                                 | KMS 2023-24                                            |
+|-------------|-------------------------------------------------------------------------------|-------------------------------|---------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------|
+|             |                                                                               | Progressive Paddy procurement | Progressive procuremen t in terms of Rice (Percentage of target achieved) | Progressive Corresponding paddy Procurement | Progressive Corresponding Procurement in terms of Rice |
+| Kharif      | 511.57 (763.54)                                                               | 705.52                        | 473.89 (92.63%)                                                           | 694.78                                      | 466.56                                                 |
+| Rabi        | 73.23 (109.30)                                                                | 105.80                        | 71.21 (97.25%)                                                            | 86.73                                       | 58.36                                                  |
+| Kharif+Rabi | 584.80 (872.84)                                                               | 811.32                        | 545.10 (93.21%)                                                           | 781.51                                      | 524.92                                                 |
+
+(
+
+Source: FCI Portal)
+
+## All India Procurement of Wheat during RMS 2025-26 &amp; RMS 2024-25
+
+As on 24.08.2025  (Figures in LMT)
+
+|   Wheat Procurement Estimates during RMS 2025-26 ( LMTs) |   Progressive Wheat Procurement during RMS 2025-26 |   Corresponding Wheat Procurement during RMS 2024-25 |
+|----------------------------------------------------------|----------------------------------------------------|------------------------------------------------------|
+|                                                   334.10 |                                             300.35 |                                               265.95 |
+
+(
+
+Source: FCI Portal)
+
+**********************
+
+## STATEWISE DISTRIBUTION OF NO. OF DISTRICTS
+
+## WITH LARGE EXCESS (LE), EXCESS(E), NORMAL(N), DEFICIENT(D), LARGE DEFICIENT(LD), NO RAINFALL(NR) AND NO DATA(ND) CATEGORY
+
+| S.                        | STATES                                    | PERIOD :   | PERIOD :   | PERIOD :   | 01.06.2025   | TO   | TO   | 24.08.2025   | 24.08.2025   |
+|---------------------------|-------------------------------------------|------------|------------|------------|--------------|------|------|--------------|--------------|
+| NO.                       | STATES                                    | LE         | E          | N          | D            | LD   | NR   | ND           | TOTAL        |
+| 1                         | A & N ISLAND (UT)                         | 0          | 1          | 2          | 0            | 0    | 0    | 0            | 3            |
+| 2.                        | ARUNACHAL PRADESH                         | 0          | 0          | 6          | 6            | 3    | 0    | 1            | 16           |
+| 3.                        | ASSAM                                     | 0          | 1          | 7          | 26           | 1    | 0    | 0            | 35           |
+| 4.                        | MEGHALAYA                                 | 1          | 0          | 2          | 6            | 2    | 0    | 0            | 11           |
+| 5.                        | NAGALAND                                  | 0          | 0          | 5          | 1            | 0    | 0    | 5            | 11           |
+| 6.                        | MANIPUR                                   | 0          | 1          | 5          | 3            | 0    | 0    | 0            | 9            |
+| 7.                        | MIZORAM                                   | 0          | 0          | 5          | 1            | 0    | 0    | 2            | 8            |
+| 8.                        | TRIPURA                                   | 0          | 2          | 5          | 1            | 0    | 0    | 0            | 8            |
+| 9.                        | SIKKIM                                    | 0          | 1          | 3          | 2            | 0    | 0    | 0            | 6            |
+| 10.                       | WEST BENGAL                               | 1          | 6          | 11         | 5            | 0    | 0    | 0            | 23           |
+| 11.                       | ODISHA                                    | 0          | 5          | 19         | 6            | 0    | 0    | 0            | 30           |
+| 12.                       | JHARKHAND                                 | 4          | 11         | 9          | 0            | 0    | 0    | 0            | 24           |
+| 13.                       | BIHAR                                     | 0          | 1          | 14         | 23           | 0    | 0    | 0            | 38           |
+| 14.                       | UTTAR PRADESH                             | 4          | 16         | 27         | 24           | 4    | 0    | 0            | 75           |
+| 15.                       | UTTARAKHAND                               | 2          | 4          | 5          | 2            | 0    | 0    | 0            | 13           |
+| 16.                       | HARYANA                                   | 2          | 7          | 9          | 4            | 0    | 0    | 0            | 22           |
+| 17.                       | CHANDIGARH (UT)                           | 0          | 0          | 1          | 0            | 0    | 0    | 0            | 1            |
+| 18.                       | DELHI                                     | 0          | 5          | 3          | 0            | 0    | 0    | 2            | 10           |
+| 19.                       | PUNJAB                                    | 1          | 6          | 5          | 9            | 1    | 0    | 0            | 22           |
+| 20.                       | HIMACHAL PRADESH                          | 2          | 6          | 3          | 0            | 1    | 0    | 0            | 12           |
+| 21.                       | JAMMU & KASHMIR(UT)                       | 1          | 3          | 11         | 3            | 2    | 0    | 0            | 20           |
+| 22.                       | LADAKH(UT)                                | 1          | 0          | 0          | 1            | 0    | 0    | 0            | 2            |
+| 23.                       | RAJASTHAN                                 | 16         | 9          | 8          | 0            | 0    | 0    | 0            | 33           |
+| 24.                       | MADHYA PRADESH                            | 10         | 15         | 24         | 3            | 0    | 0    | 0            | 52           |
+| 25.                       | GUJARAT                                   | 2          | 6          | 23         | 2            | 0    | 0    | 0            | 33           |
+| 26.                       | DADRA & NAGAR HAVELI AND DAMAN & DIU (UT) | 0          | 0          | 3          | 0            | 0    | 0    | 0            | 3            |
+| 27.                       | GOA                                       | 0          | 0          | 2          | 0            | 0    | 0    | 0            | 2            |
+| 28.                       | MAHARASHTRA                               | 0          | 5          | 29         | 2            | 0    | 0    | 0            | 36           |
+| 29.                       | CHHATISGARH                               | 1          | 2          | 27         | 3            | 0    | 0    | 0            | 33           |
+| 30.                       | ANDHRA PRADESH                            | 0          | 5          | 20         | 1            | 0    | 0    | 0            | 26           |
+| 31.                       | TELANGANA                                 | 4          | 8          | 19         | 2            | 0    | 0    | 0            | 33           |
+| 32.                       | TAMILNADU                                 | 2          | 9          | 15         | 11           | 1    | 0    | 0            | 38           |
+| 33.                       | PUDUCHERRY (UT)                           | 0          | 2          | 2          | 0            | 0    | 0    | 0            | 4            |
+| 34.                       | KARNATAKA                                 | 8          | 11         | 9          | 3            | 0    | 0    | 0            | 31           |
+| 35.                       | KERALA                                    | 0          | 0          | 10         | 4            | 0    | 0    | 0            | 14           |
+| 36.                       | LAKSHADWEEP (UT)                          | 0          | 0          | 1          | 0            | 0    | 0    | 0            | 1            |
+|                           | TOTAL                                     | 62         | 148        | 349        | 154          | 15   | 0    | 10           | 738          |
+| CATEGORYWISE DISTRIBUTION | CATEGORYWISE DISTRIBUTION                 | 9%         | 20%        | 48%        | 21%          | 2%   | 0%   | 0%           | 0%           |
+
+## Annexure I
+
+## All India Mandi Wholesale prices (Rs/Quintal)
+
+|                                  |                                  |                                  |                                  |                                  |                                  | % Variation Over                 | % Variation Over                 | % Variation Over                 |
+|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| Commodities                      | Current MSP                      | Prices as on22.08.25             | One Week Ago 15.08.25            | 1 Month Ago 22.07.25             | 1 Year Ago 22.08.24              | LastWeek                         |                                  | Last Month1 Year Ago             |
+| Cereals                          |                                  |                                  |                                  |                                  |                                  |                                  |                                  |                                  |
+| Paddy (Rice unmille d)           | 2300                             | 2165                             | 2107                             | 2170                             | 2339                             | 2.75                             | -0.23                            | -7.44                            |
+| W he at                          | 2425                             | 2585                             | 2546                             | 2575                             | 2584                             | 1.53                             | 0.39                             | 0.04                             |
+| Pulses                           |                                  |                                  |                                  |                                  |                                  |                                  |                                  |                                  |
+| Arhar whole                      | 7550                             | 6855                             | 6812                             | 6376                             | 10418                            | 0.63                             | 7.51                             | -34.20                           |
+| Gram whole                       | 5650                             | 6118                             | 6445                             | 5971                             | 6956                             | -5.07                            | 2.46                             | -12.05                           |
+| Masur Whole                      | 6700                             | 6988                             | 7166                             | 6850                             | 6349                             | -2.48                            | 2.01                             | 10.06                            |
+| Moong Whole                      | 8682                             | 8073                             | 8477                             | 6996                             | 7028                             | -4.77                            | 15.39                            | 14.87                            |
+| Urad Whole                       | 7400                             | 7540                             | 8289                             | 6521                             | 8240                             | -9.04                            | 15.63                            | -8.50                            |
+| Oil Seeds                        |                                  |                                  |                                  |                                  |                                  |                                  |                                  |                                  |
+| Groundnut                        | 6783                             | 6019                             | 6035                             | 5248                             | 5370                             | -0.28                            | 14.69                            | 12.08                            |
+| Mustard                          | 5950                             | 6784                             | 6899                             | 6655                             | 5485                             | -1.68                            | 1.93                             | 23.67                            |
+| Soyabe an                        | 4892                             | 4533                             | 4423                             | 4243                             | 4162                             | 2.48                             | 6.84                             | 8.92                             |
+| Sesamum                          | 9267                             | 10330                            | 6599                             | 9463                             | 12280                            | 56.52                            | 9.16                             | -15.88                           |
+| Sunflower                        | 7280                             |                                  |                                  | 4703                             | 4506                             | -                                |                                  |                                  |
+| Onion                            |                                  | 1225                             | 1559                             | 1208                             | 3484                             | -21.39                           | 1.44                             | -64.83                           |
+| Potato                           |                                  | 1068                             | 1018                             | 1156                             | 2231                             | 4.89                             | -7.68                            | -52.15                           |
+| Tomato                           |                                  | 3301                             | 3233                             | 2697                             | 1981                             | 2.11                             | 22.42                            | 66.63                            |
+| Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) |
+
+## All India Retail Prices (Rs/Quintal)
+
+|                                                | AllIndia Weekly Average Retail Prices (In R s./K g)   | AllIndia Weekly Average Retail Prices (In R s./K g)   | AllIndia Weekly Average Retail Prices (In R s./K g)   | AllIndia Weekly Average Retail Prices (In R s./K g)   | AllIndia Weekly Average Retail Prices (In R s./K g)   | % Variation Over                               | % Variation Over                               | % Variation Over                               |
+|------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| Commodities                                    |                                                       | Prices as on 22.08.25                                 | One Week Ago 15.08.25                                 | 1 Month Ago 22.07.25                                  | 1 Year Ago 22.08.24                                   |                                                | Last Week Last Month1 Year Ago                 |                                                |
+| Cereals                                        |                                                       |                                                       |                                                       |                                                       |                                                       |                                                |                                                |                                                |
+| Rice                                           |                                                       | 42.96                                                 | 42.21                                                 | 42.61                                                 | 43.72                                                 | 1.78                                           | 0.82                                           | -1.74                                          |
+| Whe at                                         |                                                       | 31.60                                                 | 31.51                                                 | 31.34                                                 | 30.77                                                 | 0.29                                           | 0.83                                           | 2.70                                           |
+| Puls es                                        |                                                       |                                                       |                                                       |                                                       |                                                       |                                                |                                                |                                                |
+| Arhar/Tur Dal                                  |                                                       | 117.19                                                | 116.93                                                | 119.66                                                | 164.97                                                | 0.22                                           | -2.06                                          | -28.96                                         |
+| Gram Dal                                       |                                                       | 87.30                                                 | 86.29                                                 | 85.93                                                 | 90.23                                                 | 1.17                                           | 1.59                                           | -3.25                                          |
+| Masur Dal                                      |                                                       | 89.24                                                 | 88.75                                                 | 88.19                                                 | 89.89                                                 | 0.55                                           | 1.19                                           | -0.72                                          |
+| Moong Dal                                      |                                                       | 110.38                                                | 110.10                                                | 110.14                                                | 116.13                                                | 0.25                                           | 0.22                                           | -4.95                                          |
+| Urad Dal                                       |                                                       | 114.07                                                | 114.80                                                | 114.79                                                | 124.89                                                | -0.64                                          | 59'0-                                          | -8.66                                          |
+| Edible Oils                                    |                                                       |                                                       |                                                       |                                                       |                                                       |                                                |                                                |                                                |
+| Mustard Oil                                    |                                                       | 188.42                                                | 188.20                                                | 181.05                                                | 139.96                                                | 0.12                                           | 4.07                                           | 34.62                                          |
+| Soyabe an Oil                                  |                                                       | 147.70                                                | 147.13                                                | 146.84                                                | 119.56                                                | 0.39                                           | 0.59                                           | 23.54                                          |
+| Horticulture                                   |                                                       |                                                       |                                                       |                                                       |                                                       |                                                |                                                |                                                |
+| Onion                                          |                                                       | 28.58                                                 | 27.41                                                 | 28.29                                                 | 45.85                                                 | 4.27                                           | 1.03                                           | -37.67                                         |
+| Potato                                         |                                                       | 25.76                                                 | 25.40                                                 | 25.44                                                 | 37.14                                                 | 1.42                                           | 1.26                                           | -30.64                                         |
+| Tomato                                         |                                                       | 55.20                                                 | 53.74                                                 | 42.58                                                 | 47.78                                                 | 2.72                                           | 29.64                                          | 15.53                                          |
+| Source: Department of Cons umer Affairs (DOCA) | Source: Department of Cons umer Affairs (DOCA)        | Source: Department of Cons umer Affairs (DOCA)        | Source: Department of Cons umer Affairs (DOCA)        | Source: Department of Cons umer Affairs (DOCA)        | Source: Department of Cons umer Affairs (DOCA)        | Source: Department of Cons umer Affairs (DOCA) | Source: Department of Cons umer Affairs (DOCA) | Source: Department of Cons umer Affairs (DOCA) |
+
+## Annexure -II

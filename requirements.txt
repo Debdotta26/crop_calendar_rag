@@ -1,0 +1,29 @@
+# PDF Processing
+PyMuPDF
+pdfplumber
+docling
+
+# Table Extraction Dependencies
+pdfminer.six
+pypdfium2
+
+# Data Processing
+pandas
+numpy
+
+# Image Processing
+Pillow
+
+# HTTP & Web Scraping (for downloading CWWG reports)
+requests
+beautifulsoup4
+lxml
+selenium
+webdriver-manager
+
+# Utilities
+tqdm
+python-dateutil
+
+# JSON Schema Validation (optional but useful)
+jsonschema

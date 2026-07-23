@@ -1,0 +1,2610 @@
+{
+    "metadata": {
+        "document_name": "18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025.pdf",
+        "document_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\..\\downloads\\pdfs\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025.pdf",
+        "title": "",
+        "author": "AYUSH RAJ",
+        "creator": "Microsoft® Word 2016",
+        "producer": "Microsoft® Word 2016",
+        "subject": "",
+        "keywords": "",
+        "creation_date": "D:20250218145908+05'30'",
+        "modification_date": "D:20250218145908+05'30'",
+        "total_pages": 14,
+        "file_size_bytes": 2082164,
+        "extraction_tool": "PyMuPDF",
+        "extraction_timestamp": "2026-07-19T02:11:17.681269"
+    },
+    "statistics": {
+        "pages": 14,
+        "sections": 14,
+        "merged_sections": 7,
+        "text_chunks": 14,
+        "table_chunks": 0,
+        "image_chunks": 2,
+        "total_chunks": 14
+    },
+    "chunks": [
+        {
+            "chunk_id": "CWWG_00001",
+            "chunk_type": "text",
+            "heading": "Introduction",
+            "page_start": 1,
+            "page_end": 4,
+            "text": "| 1\n\n\n\n\n| 2 6. Crops whose Mandi Wholesale prices are below MSP:\n| 3\n\n\n\n\nRainfall Forecast: 06th Feb – 12th Feb 2025 a) Isolated to scattered light rainfall/snowfall activity likely over Western Himalayan Region during 08th-12thFebruary, 2025. b) Isolated to scattered light rainfall/snowfall activity likely over Sub-Himalayan West Bengal & Sikkim during 10th-14th; northeast Assam during 10th-14th; Nagaland, Manipur, Mizoram & Tripura during 10th-12th February. c) Overall rainfall is expected to be below normal across India during the week. 13th Feb – 19th Feb, 2025 a) No active western disturbance is likely to influence northwest India during the week. However, due to feeble Western disturbances, light/moderate isolated to scattered rainfall/snowfall likely over Western Himalayan Region during some/many days of the week. b) Light/moderate isolated to scattered rainfall is also likely over northeast India during some days of the week. c) Overall, rainfall is likely to be below normal over all the homogeneous regions of the country during the week.\n| 4",
+            "word_count": 162,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 1,
+                    "rows_count": 4,
+                    "columns_count": 1,
+                    "header": [
+                        "a) Water Reservoir Status: As of February 06, 2025, the live storage in 155 major reservoirs is 110.204"
+                    ],
+                    "rows": [
+                        [
+                            "a) Water Reservoir Status: As of February 06, 2025, the live storage in 155 major reservoirs is 110.204"
+                        ],
+                        [
+                            "BCM (61% of total capacity). Storage is at 123% of last year’s level and 119 % of the 10-year"
+                        ],
+                        [
+                            "average. The overall storage position is better than the corresponding period of last year in the"
+                        ],
+                        [
+                            "country as a whole and is also better than the Normal storage during the corresponding period."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 2,
+                    "page": 1,
+                    "xref": 42,
+                    "image_name": "page_1_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_1_image_2.png",
+                    "width": 2000,
+                    "height": 329,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 3,
+                    "page": 3,
+                    "xref": 57,
+                    "image_name": "page_3_image_3.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_3_image_3.png",
+                    "width": 1193,
+                    "height": 193,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "rainfall",
+                "isolated scattered",
+                "likely over",
+                "rainfall snowfall",
+                "forecast",
+                "likely",
+                "crops",
+                "over",
+                "week",
+                "scattered rainfall"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00002",
+            "chunk_type": "text",
+            "heading": "2. TEMPERATURE: MIN & MAX",
+            "page_start": 4,
+            "page_end": 5,
+            "text": "Temperature Forecast 06th Feb – 12th Feb 2025 a) Minimum temperatures in Central India are expected to gradually drop by 2-3°C in the first half of the week, with no significant change afterward. b) In East India, a decline of 3-5°C is likely over the next two days, followed by stable conditions. c) Maharashtra will see no major temperature change in the next 24 hours, but a gradual rise of 2- 3°C is expected later in the week. Maximum temperatures will remain 3-5°C above normal across North Peninsular and East India for most of the week. 13th Feb – 19th Feb , 2025: d) Minimum temperatures are likely to be between 8-12°C over most parts of plains of northwest India, central & east India during the week. e) Minimum temperatures are likely to be below normal by 2-4°C over most parts of east and adjoining central & north Peninsular India during the week.\n| 5",
+            "word_count": 155,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 5,
+                    "rows_count": 4,
+                    "columns_count": 4,
+                    "header": [
+                        "Period",
+                        "Storage\nas % of\nFRL",
+                        "Storage\nas % of\nLast Year",
+                        "Storage as %\nof 10 Year’s\nAverage Level"
+                    ],
+                    "rows": [
+                        [
+                            "Period",
+                            "Storage\nas % of\nFRL",
+                            "Storage\nas % of\nLast Year",
+                            "Storage as %\nof 10 Year’s\nAverage Level"
+                        ],
+                        [
+                            "Current\nWeek",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Last\nWeek",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "The percentage to live capacity at FRL was 49%\non 06.02.2024, 61% on 06.02.2023, 64%\n06.02.2022 and 63% on 06.02.2021.",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 4,
+                    "xref": 61,
+                    "image_name": "page_4_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_4_image_1.png",
+                    "width": 764,
+                    "height": 897,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 4,
+                    "xref": 63,
+                    "image_name": "page_4_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_4_image_2.png",
+                    "width": 758,
+                    "height": 889,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "temperature",
+                "minimum temperatures",
+                "forecast",
+                "week",
+                "temperatures likely",
+                "north peninsular",
+                "temperatures",
+                "feb minimum",
+                "most parts",
+                "over most"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00003",
+            "chunk_type": "text",
+            "heading": "3. RESERVOIR STORAGE (as on 06th February, 2025)",
+            "page_start": 5,
+            "page_end": 6,
+            "text": "Current live storage in 155 reservoirs was 110.204 BCM (61%) of total live capacity of 180.85 BCM. Table 1: For 155 major reservoirs of the country - 141 reservoirs having storage more than 80% of normal storage. - 08 reservoirs having storage 51% to 80%. - 05 reservoirs having storage 31% to 50%. - 01 reservoir having storage up to 30 %. Source: CWC Period Storage as % of FRL Storage as % of Last Year Storage as % of 10 Year’s Average Level Current Week 61 123 119 Last Week 64 121 116 The percentage to live capacity at FRL was 49% on 06.02.2024, 61% on 06.02.2023, 64% 06.02.2022 and 63% on 06.02.2021.\n| 6\n\n\nSoil Moisture Observation - Soil moisture during 31 Jan- 06 Feb 2025 is better/similar to the average of the past 9 years in A.P, Karnataka, Telangana, Tamil Nadu, Gujarat, Rajasthan, M.P, Punjab, Haryana, Western UP and Maharashtra. - Whereas lower than average of past 9 years avg. in Northern parts of Bihar, Northern W.B. and in parts of Chhattisgarh & Odisha.",
+            "word_count": 177,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 5,
+                    "rows_count": 4,
+                    "columns_count": 4,
+                    "header": [
+                        "Period",
+                        "Storage\nas % of\nFRL",
+                        "Storage\nas % of\nLast Year",
+                        "Storage as %\nof 10 Year’s\nAverage Level"
+                    ],
+                    "rows": [
+                        [
+                            "Period",
+                            "Storage\nas % of\nFRL",
+                            "Storage\nas % of\nLast Year",
+                            "Storage as %\nof 10 Year’s\nAverage Level"
+                        ],
+                        [
+                            "Current\nWeek",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Last\nWeek",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "The percentage to live capacity at FRL was 49%\non 06.02.2024, 61% on 06.02.2023, 64%\n06.02.2022 and 63% on 06.02.2021.",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 5,
+                    "xref": 71,
+                    "image_name": "page_5_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_5_image_1.png",
+                    "width": 681,
+                    "height": 511,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 5,
+                    "xref": 80,
+                    "image_name": "page_5_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_5_image_2.png",
+                    "width": 1155,
+                    "height": 867,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "storage",
+                "having storage",
+                "moisture",
+                "storage reservoirs",
+                "reservoirs having",
+                "reservoir",
+                "reservoirs",
+                "northern parts",
+                "live capacity",
+                "soil moisture"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00004",
+            "chunk_type": "text",
+            "heading": "5. CROP SOWING STATUS FOR RABI SEASON Preliminary area coverage of Summer Crops",
+            "page_start": 6,
+            "page_end": 10,
+            "text": "- Rice: About 8.708 lakh ha area coverage under Summer Rice has been reported as compared to 8.044 lakh ha during the corresponding period of last year. - Pulses: About 0.299 lakh ha area coverage has been reported compared to 0.283 lakh ha during the corresponding period of last year. - Oilseeds: About 0.200 lakh ha area coverage has been reported compared to 0.177 lakh ha during the corresponding period of last year. | 7 Area coverage under Summer crops as on 07.02.2025 Area: In lakh hectare Sl. No.",
+            "word_count": 89,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 7,
+                    "rows_count": 20,
+                    "columns_count": 10,
+                    "header": [
+                        "Area coverage under Summer crops as on 07.02.2025",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Area coverage under Summer crops as on 07.02.2025",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area: In lakh hectare",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal\nSummer\nArea (DES)",
+                            "Area Sown",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Increase/\nDecrease\nover Last\nyear"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current\nYear 2024",
+                            "",
+                            "",
+                            "Last Year\n2023",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "",
+                            "8.708",
+                            "",
+                            "",
+                            "8.044",
+                            "",
+                            "0.663"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.640",
+                            "0.299",
+                            "",
+                            "",
+                            "0.283",
+                            "",
+                            "",
+                            "0.015"
+                        ],
+                        [
+                            "a",
+                            "Greengram",
+                            "18.945",
+                            "0.284",
+                            "",
+                            "",
+                            "0.273",
+                            "",
+                            "",
+                            "0.011"
+                        ],
+                        [
+                            "b",
+                            "Blackgram",
+                            "2.695",
+                            "0.011",
+                            "",
+                            "",
+                            "0.010",
+                            "",
+                            "",
+                            "0.001"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.004",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.004"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum\nCoarse Cereals",
+                            "10.725",
+                            "0.000",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "d",
+                            "Maize",
+                            "6.290",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "7.855",
+                            "0.200",
+                            "",
+                            "",
+                            "0.177",
+                            "",
+                            "",
+                            "0.023"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "2.995",
+                            "0.158",
+                            "",
+                            "",
+                            "0.133",
+                            "",
+                            "",
+                            "0.026"
+                        ],
+                        [
+                            "b",
+                            "Sunflower",
+                            "0.340",
+                            "0.029",
+                            "",
+                            "",
+                            "0.027",
+                            "",
+                            "",
+                            "0.002"
+                        ],
+                        [
+                            "c",
+                            "Sesamum",
+                            "4.520",
+                            "0.012",
+                            "",
+                            "",
+                            "0.013",
+                            "",
+                            "",
+                            "-0.001"
+                        ],
+                        [
+                            "d",
+                            "Other Oilseeds",
+                            "0.000",
+                            "0.001",
+                            "",
+                            "",
+                            "0.004",
+                            "",
+                            "",
+                            "-0.004"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "71.015",
+                            "9.207",
+                            "",
+                            "",
+                            "8.505",
+                            "",
+                            "",
+                            "0.702"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 6,
+                    "xref": 84,
+                    "image_name": "page_6_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_6_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 1,
+            "multimodal_score": 3,
+            "keywords": [
+                "area coverage",
+                "summer",
+                "rice",
+                "lakh",
+                "corresponding period",
+                "lakh corresponding",
+                "reported compared",
+                "compared lakh",
+                "has reported",
+                "period last"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00005",
+            "chunk_type": "text",
+            "heading": "5. CROP SOWING STATUS FOR RABI SEASON Preliminary area coverage of Summer Crops",
+            "page_start": 6,
+            "page_end": 10,
+            "text": "Crops Normal Summer Area (DES) Area Sown Increase/ Decrease over Last year Current Year 2024 Last Year 2023 1 Rice 30.795 8.708 8.044 0.663 2 Pulses 21.640 0.299 0.283 0.015 a Greengram 18.945 0.284 0.273 0.011 b Blackgram 2.695 0.011 0.010 0.001 c Other Pulses 0.000 0.004 0.000 0.004 3 Shree Anna cum Coarse Cereals 10.725 0.000 0.000 0.000 a Jowar 0.335 0.000 b Bajra 4.100 0.000 c Ragi 0.000 d Maize 6.290 0.000 4 Oilseeds 7.855 0.200 0.177 0.023 a Groundnut 2.995 0.158 0.133 0.026 b Sunflower 0.340 0.029 0.027 0.002 c Sesamum 4.520 0.012 0.013 -0.001 d Other Oilseeds 0.000 0.001 0.004 -0.004 Total 71.015 9.207 8.505 0.702 Rabi Crops - As on 31.01.2025 area sown under Rabi crops is 661.03 lakh ha as compared to 651.42 lakh ha during the corresponding period of last year. - Sowing Status of Wheat: As on 31.01.2025, area of 324.88 lakh ha has been sown under wheat this year against the previous year area of 318.33 lakh ha while the normal area of wheat is 312.35 lakh ha. - Sowing status of Rapeseed & Mustard: As on 31.01.2025, an area of 89.30 lakh ha area has been sown under mustard against the previous year area of 91.83 lakh ha while the normal area under Mustard is 79.16 lakh ha.",
+            "word_count": 218,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 7,
+                    "rows_count": 20,
+                    "columns_count": 10,
+                    "header": [
+                        "Area coverage under Summer crops as on 07.02.2025",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Area coverage under Summer crops as on 07.02.2025",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area: In lakh hectare",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal\nSummer\nArea (DES)",
+                            "Area Sown",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Increase/\nDecrease\nover Last\nyear"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current\nYear 2024",
+                            "",
+                            "",
+                            "Last Year\n2023",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "",
+                            "8.708",
+                            "",
+                            "",
+                            "8.044",
+                            "",
+                            "0.663"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.640",
+                            "0.299",
+                            "",
+                            "",
+                            "0.283",
+                            "",
+                            "",
+                            "0.015"
+                        ],
+                        [
+                            "a",
+                            "Greengram",
+                            "18.945",
+                            "0.284",
+                            "",
+                            "",
+                            "0.273",
+                            "",
+                            "",
+                            "0.011"
+                        ],
+                        [
+                            "b",
+                            "Blackgram",
+                            "2.695",
+                            "0.011",
+                            "",
+                            "",
+                            "0.010",
+                            "",
+                            "",
+                            "0.001"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.004",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.004"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum\nCoarse Cereals",
+                            "10.725",
+                            "0.000",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "d",
+                            "Maize",
+                            "6.290",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "7.855",
+                            "0.200",
+                            "",
+                            "",
+                            "0.177",
+                            "",
+                            "",
+                            "0.023"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "2.995",
+                            "0.158",
+                            "",
+                            "",
+                            "0.133",
+                            "",
+                            "",
+                            "0.026"
+                        ],
+                        [
+                            "b",
+                            "Sunflower",
+                            "0.340",
+                            "0.029",
+                            "",
+                            "",
+                            "0.027",
+                            "",
+                            "",
+                            "0.002"
+                        ],
+                        [
+                            "c",
+                            "Sesamum",
+                            "4.520",
+                            "0.012",
+                            "",
+                            "",
+                            "0.013",
+                            "",
+                            "",
+                            "-0.001"
+                        ],
+                        [
+                            "d",
+                            "Other Oilseeds",
+                            "0.000",
+                            "0.001",
+                            "",
+                            "",
+                            "0.004",
+                            "",
+                            "",
+                            "-0.004"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "71.015",
+                            "9.207",
+                            "",
+                            "",
+                            "8.505",
+                            "",
+                            "",
+                            "0.702"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 6,
+                    "xref": 84,
+                    "image_name": "page_6_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_6_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 1,
+            "multimodal_score": 3,
+            "keywords": [
+                "area",
+                "area lakh",
+                "mustard",
+                "crops",
+                "wheat",
+                "lakh",
+                "pulses",
+                "year",
+                "rabi",
+                "last year"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00006",
+            "chunk_type": "text",
+            "heading": "5. CROP SOWING STATUS FOR RABI SEASON Preliminary area coverage of Summer Crops",
+            "page_start": 6,
+            "page_end": 10,
+            "text": "- Sowing status of Jowar: As on 31.01.2025, the area covered under Rabi Jowar is 24.35 lakh ha. against the previous year area of 27.36 lakh ha. while the normal area is 24.37 lakh ha. | 8 Progress of area coverage under Rabi crops as on 31.01.2025 (Area in lakh hactare) S. No.",
+            "word_count": 53,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 7,
+                    "rows_count": 20,
+                    "columns_count": 10,
+                    "header": [
+                        "Area coverage under Summer crops as on 07.02.2025",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Area coverage under Summer crops as on 07.02.2025",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area: In lakh hectare",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal\nSummer\nArea (DES)",
+                            "Area Sown",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Increase/\nDecrease\nover Last\nyear"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current\nYear 2024",
+                            "",
+                            "",
+                            "Last Year\n2023",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "",
+                            "8.708",
+                            "",
+                            "",
+                            "8.044",
+                            "",
+                            "0.663"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.640",
+                            "0.299",
+                            "",
+                            "",
+                            "0.283",
+                            "",
+                            "",
+                            "0.015"
+                        ],
+                        [
+                            "a",
+                            "Greengram",
+                            "18.945",
+                            "0.284",
+                            "",
+                            "",
+                            "0.273",
+                            "",
+                            "",
+                            "0.011"
+                        ],
+                        [
+                            "b",
+                            "Blackgram",
+                            "2.695",
+                            "0.011",
+                            "",
+                            "",
+                            "0.010",
+                            "",
+                            "",
+                            "0.001"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.004",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.004"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum\nCoarse Cereals",
+                            "10.725",
+                            "0.000",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "d",
+                            "Maize",
+                            "6.290",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "7.855",
+                            "0.200",
+                            "",
+                            "",
+                            "0.177",
+                            "",
+                            "",
+                            "0.023"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "2.995",
+                            "0.158",
+                            "",
+                            "",
+                            "0.133",
+                            "",
+                            "",
+                            "0.026"
+                        ],
+                        [
+                            "b",
+                            "Sunflower",
+                            "0.340",
+                            "0.029",
+                            "",
+                            "",
+                            "0.027",
+                            "",
+                            "",
+                            "0.002"
+                        ],
+                        [
+                            "c",
+                            "Sesamum",
+                            "4.520",
+                            "0.012",
+                            "",
+                            "",
+                            "0.013",
+                            "",
+                            "",
+                            "-0.001"
+                        ],
+                        [
+                            "d",
+                            "Other Oilseeds",
+                            "0.000",
+                            "0.001",
+                            "",
+                            "",
+                            "0.004",
+                            "",
+                            "",
+                            "-0.004"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "71.015",
+                            "9.207",
+                            "",
+                            "",
+                            "8.505",
+                            "",
+                            "",
+                            "0.702"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 6,
+                    "xref": 84,
+                    "image_name": "page_6_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_6_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 1,
+            "multimodal_score": 3,
+            "keywords": [
+                "jowar",
+                "rabi",
+                "area lakh",
+                "crops",
+                "area",
+                "lakh",
+                "sowing status",
+                "lakh previous",
+                "previous year",
+                "lakh progress"
+            ],
+            "quality": "small"
+        },
+        {
+            "chunk_id": "CWWG_00007",
+            "chunk_type": "text",
+            "heading": "5. CROP SOWING STATUS FOR RABI SEASON Preliminary area coverage of Summer Crops",
+            "page_start": 6,
+            "page_end": 10,
+            "text": "Crops Normal Rabi Area (DES) Area Sown Increase (+) / Decrease (-) over 2023-24 2024-25 2023-24 1 Wheat 312.35 324.88 318.33 6.55 2 Rice * 42.02 42.54 40.59 1.95 3 Pulses 140.44 140.89 137.80 3.09 a Gram 100.99 98.55 95.87 2.68 b Lentil 15.13 17.43 17.43 0.00 c Fieldpea $ 6.50 7.94 7.90 0.04 d Kulthi $ 1.98 2.00 1.98 0.02 e Urdbean * 6.15 6.12 5.89 0.23 f Moongbean * 1.44 1.40 1.38 0.02 g Lathyrus $ 2.79 2.80 2.75 0.05 h Other Pulses $ 5.46 4.65 4.60 0.05 4 Shri Anna & Coarse cereals 53.46 55.25 55.46 -0.21 a Jowar * 24.37 24.35 27.36 -3.01 b Bajra # 0.37 0.14 0.17 -0.03 c Ragi # 0.74 0.73 0.68 0.06 d Small Millets # 0.15 0.16 0.00 0.16 e Maize * 22.11 23.67 21.75 1.92 f Barley 5.72 6.20 5.51 0.69 5 Oilseeds 87.02 97.47 99.23 -1.76 a Rapeseed & Mustard 79.16 89.30 91.83 -2.53 b Groundnut * 3.82 3.65 3.42 0.23 c Safflower 0.72 0.72 0.65 0.07 d Sunflower * 0.81 0.74 0.53 0.21 e Sesamum * 0.58 0.42 0.49 -0.07 f Linseed 1.93 2.26 1.92 0.33 g Other Oilseeds 0.00 0.39 0.39 0.01 Total Crops 635.30 661.03 651.42 9.62 Note: *Average of 2022-23 and 2023-24, $ average (2016-17 to 2020-21) as per DES, #Average of (2018-19 to 2022-23) as per CWWG report.",
+            "word_count": 225,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 7,
+                    "rows_count": 20,
+                    "columns_count": 10,
+                    "header": [
+                        "Area coverage under Summer crops as on 07.02.2025",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Area coverage under Summer crops as on 07.02.2025",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area: In lakh hectare",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal\nSummer\nArea (DES)",
+                            "Area Sown",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Increase/\nDecrease\nover Last\nyear"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current\nYear 2024",
+                            "",
+                            "",
+                            "Last Year\n2023",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "",
+                            "8.708",
+                            "",
+                            "",
+                            "8.044",
+                            "",
+                            "0.663"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.640",
+                            "0.299",
+                            "",
+                            "",
+                            "0.283",
+                            "",
+                            "",
+                            "0.015"
+                        ],
+                        [
+                            "a",
+                            "Greengram",
+                            "18.945",
+                            "0.284",
+                            "",
+                            "",
+                            "0.273",
+                            "",
+                            "",
+                            "0.011"
+                        ],
+                        [
+                            "b",
+                            "Blackgram",
+                            "2.695",
+                            "0.011",
+                            "",
+                            "",
+                            "0.010",
+                            "",
+                            "",
+                            "0.001"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.004",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.004"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum\nCoarse Cereals",
+                            "10.725",
+                            "0.000",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "d",
+                            "Maize",
+                            "6.290",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "7.855",
+                            "0.200",
+                            "",
+                            "",
+                            "0.177",
+                            "",
+                            "",
+                            "0.023"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "2.995",
+                            "0.158",
+                            "",
+                            "",
+                            "0.133",
+                            "",
+                            "",
+                            "0.026"
+                        ],
+                        [
+                            "b",
+                            "Sunflower",
+                            "0.340",
+                            "0.029",
+                            "",
+                            "",
+                            "0.027",
+                            "",
+                            "",
+                            "0.002"
+                        ],
+                        [
+                            "c",
+                            "Sesamum",
+                            "4.520",
+                            "0.012",
+                            "",
+                            "",
+                            "0.013",
+                            "",
+                            "",
+                            "-0.001"
+                        ],
+                        [
+                            "d",
+                            "Other Oilseeds",
+                            "0.000",
+                            "0.001",
+                            "",
+                            "",
+                            "0.004",
+                            "",
+                            "",
+                            "-0.004"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "71.015",
+                            "9.207",
+                            "",
+                            "",
+                            "8.505",
+                            "",
+                            "",
+                            "0.702"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 6,
+                    "xref": 84,
+                    "image_name": "page_6_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_6_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 1,
+            "multimodal_score": 3,
+            "keywords": [
+                "pulses",
+                "crops",
+                "mustard",
+                "wheat",
+                "jowar",
+                "bajra",
+                "maize",
+                "rabi",
+                "rice",
+                "average per"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00008",
+            "chunk_type": "text",
+            "heading": "5. CROP SOWING STATUS FOR RABI SEASON Preliminary area coverage of Summer Crops",
+            "page_start": 6,
+            "page_end": 10,
+            "text": "Sowing Status: The Rabi sowing is almost completed. Therefore, the corresponding sowing figures (2023-24) are adjusted to final achievement of 2023-24. Disclaimer : For Kharif crop wise estimated area, please see advanced estimates released by Ministry of Agriculture and Farmers' Welfare available on UPAg (upag.gov.in)\n| 9 Rabi Horticulture Crops Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi Season as on 7th Feb., 2025 Area in Lakh Hectare Crop Normal Rabi Area Sown in major producing States Area Sown** during 2024-25 Area Sown in the corresponding period of 2023-24 Increase/Decrease in 2024-25 over 2023-24 (1) (2) (3) (4) (5) Onion 10.29 9.67 8.40 1.27 Potato 18.23 19.81 19.50 0.31 Tomato 3.24 2.18 2.39 -0.21 - Normal Area is the average sown area in last 5 years (2019-20 to 2023-24). - The share of major producing States1 is nearly 85% in case of Rabi Potato and Tomato and 90% in case of Rabi onion. - The total normal Rabi sown area in the Country (including minor producing States) was 11.37 LHA for Onion, 21.47 LHA for Potato and 5.83 LHA for Tomato. - Sowing of Tomato and Onion crops for the ongoing Rabi season is progressing smoothly. - The sowing window is still available for all the three crops.",
+            "word_count": 214,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 7,
+                    "rows_count": 20,
+                    "columns_count": 10,
+                    "header": [
+                        "Area coverage under Summer crops as on 07.02.2025",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Area coverage under Summer crops as on 07.02.2025",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area: In lakh hectare",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal\nSummer\nArea (DES)",
+                            "Area Sown",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Increase/\nDecrease\nover Last\nyear"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current\nYear 2024",
+                            "",
+                            "",
+                            "Last Year\n2023",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "",
+                            "8.708",
+                            "",
+                            "",
+                            "8.044",
+                            "",
+                            "0.663"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.640",
+                            "0.299",
+                            "",
+                            "",
+                            "0.283",
+                            "",
+                            "",
+                            "0.015"
+                        ],
+                        [
+                            "a",
+                            "Greengram",
+                            "18.945",
+                            "0.284",
+                            "",
+                            "",
+                            "0.273",
+                            "",
+                            "",
+                            "0.011"
+                        ],
+                        [
+                            "b",
+                            "Blackgram",
+                            "2.695",
+                            "0.011",
+                            "",
+                            "",
+                            "0.010",
+                            "",
+                            "",
+                            "0.001"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.004",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.004"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum\nCoarse Cereals",
+                            "10.725",
+                            "0.000",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "d",
+                            "Maize",
+                            "6.290",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "7.855",
+                            "0.200",
+                            "",
+                            "",
+                            "0.177",
+                            "",
+                            "",
+                            "0.023"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "2.995",
+                            "0.158",
+                            "",
+                            "",
+                            "0.133",
+                            "",
+                            "",
+                            "0.026"
+                        ],
+                        [
+                            "b",
+                            "Sunflower",
+                            "0.340",
+                            "0.029",
+                            "",
+                            "",
+                            "0.027",
+                            "",
+                            "",
+                            "0.002"
+                        ],
+                        [
+                            "c",
+                            "Sesamum",
+                            "4.520",
+                            "0.012",
+                            "",
+                            "",
+                            "0.013",
+                            "",
+                            "",
+                            "-0.001"
+                        ],
+                        [
+                            "d",
+                            "Other Oilseeds",
+                            "0.000",
+                            "0.001",
+                            "",
+                            "",
+                            "0.004",
+                            "",
+                            "",
+                            "-0.004"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "71.015",
+                            "9.207",
+                            "",
+                            "",
+                            "8.505",
+                            "",
+                            "",
+                            "0.702"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 6,
+                    "xref": 84,
+                    "image_name": "page_6_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_6_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 1,
+            "multimodal_score": 3,
+            "keywords": [
+                "rabi",
+                "tomato",
+                "onion",
+                "potato",
+                "producing states",
+                "crops",
+                "area",
+                "crop",
+                "major producing",
+                "potato tomato"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00009",
+            "chunk_type": "text",
+            "heading": "5. CROP SOWING STATUS FOR RABI SEASON Preliminary area coverage of Summer Crops",
+            "page_start": 6,
+            "page_end": 10,
+            "text": "Given the good prices prevailing in the market, it is expected to achieve the normal area. ** In case of Onion and Tomato, transplanted area is reported. 1 1Major Producing States for Rabi Onion are: Maharashtra, Madhya Pradesh, Karnataka, Bihar, Rajasthan, Gujarat, Andhra Pradesh, Haryana, Uttar Pradesh, Telangana and Tamil Nadu Major Producing States for Rabi Potato are: Uttar Pradesh, West Bengal, Bihar, Gujarat, Madhya Pradesh, Punjab and Haryana Major Producing States for Rabi Tomato are: Andhra Pradesh, Madhya Pradesh, Karnataka, Gujarat, Maharashtra, and Telangana\n| 10",
+            "word_count": 87,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 7,
+                    "rows_count": 20,
+                    "columns_count": 10,
+                    "header": [
+                        "Area coverage under Summer crops as on 07.02.2025",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Area coverage under Summer crops as on 07.02.2025",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area: In lakh hectare",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal\nSummer\nArea (DES)",
+                            "Area Sown",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Increase/\nDecrease\nover Last\nyear"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current\nYear 2024",
+                            "",
+                            "",
+                            "Last Year\n2023",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "",
+                            "8.708",
+                            "",
+                            "",
+                            "8.044",
+                            "",
+                            "0.663"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.640",
+                            "0.299",
+                            "",
+                            "",
+                            "0.283",
+                            "",
+                            "",
+                            "0.015"
+                        ],
+                        [
+                            "a",
+                            "Greengram",
+                            "18.945",
+                            "0.284",
+                            "",
+                            "",
+                            "0.273",
+                            "",
+                            "",
+                            "0.011"
+                        ],
+                        [
+                            "b",
+                            "Blackgram",
+                            "2.695",
+                            "0.011",
+                            "",
+                            "",
+                            "0.010",
+                            "",
+                            "",
+                            "0.001"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.004",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.004"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum\nCoarse Cereals",
+                            "10.725",
+                            "0.000",
+                            "",
+                            "",
+                            "0.000",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "c",
+                            "Ragi",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "d",
+                            "Maize",
+                            "6.290",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "0.000"
+                        ],
+                        [
+                            "",
+                            "Oilseeds",
+                            "7.855",
+                            "0.200",
+                            "",
+                            "",
+                            "0.177",
+                            "",
+                            "",
+                            "0.023"
+                        ],
+                        [
+                            "a",
+                            "Groundnut",
+                            "2.995",
+                            "0.158",
+                            "",
+                            "",
+                            "0.133",
+                            "",
+                            "",
+                            "0.026"
+                        ],
+                        [
+                            "b",
+                            "Sunflower",
+                            "0.340",
+                            "0.029",
+                            "",
+                            "",
+                            "0.027",
+                            "",
+                            "",
+                            "0.002"
+                        ],
+                        [
+                            "c",
+                            "Sesamum",
+                            "4.520",
+                            "0.012",
+                            "",
+                            "",
+                            "0.013",
+                            "",
+                            "",
+                            "-0.001"
+                        ],
+                        [
+                            "d",
+                            "Other Oilseeds",
+                            "0.000",
+                            "0.001",
+                            "",
+                            "",
+                            "0.004",
+                            "",
+                            "",
+                            "-0.004"
+                        ],
+                        [
+                            "Total",
+                            "",
+                            "71.015",
+                            "9.207",
+                            "",
+                            "",
+                            "8.505",
+                            "",
+                            "",
+                            "0.702"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 6,
+                    "xref": 84,
+                    "image_name": "page_6_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_6_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 1,
+            "multimodal_score": 3,
+            "keywords": [
+                "rabi",
+                "pradesh",
+                "tomato",
+                "onion",
+                "producing states",
+                "major producing",
+                "madhya pradesh",
+                "states rabi",
+                "potato",
+                "pradesh karnataka"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00010",
+            "chunk_type": "text",
+            "heading": "6. FERTILIZER POSITION: Availability of fertilizer has been found comfortable. Details of Requirement, Receipt, Availability,",
+            "page_start": 10,
+            "page_end": 11,
+            "text": "Sales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Rabi 2024- 25 as on 31.1.2025 is given below: Produc t Total Requir ement Rabi 2024- 25 Total Require ment Rabi 2023-24 Openi ng stock as on 1.10.2 4 Openi ng stock as on 1.10. 23 Require ment during January, 2025 Require ment during January, 2024 (Upto 31/1/25) (upto 31/1/24) Availabi lity Sales Closi ng stock Availabi lity Sales Closin g stock UREA 186.89 185.41 63.02 45.02 31.63 31.82 88.25 45.59 42.66 98.78 35.43 63.36 DAP 52.05 54.99 12.23 21.76 4.20 4.75 13.38 4.07 9.32 18.39 4.23 14.17 MOP 11.95 12.60 7.33 5.06 1.66 1.72 11.23 1.97 9.26 8.37 1.20 7.18 NPK 77.10 63.60 35.94 33.25 10.32 8.61 35.72 12.07 23.65 41.76 8.81 32.95 SSP 36.48 31.24 21.76 16.47 4.41 4.22 20.83 3.46 17.37 17.09 1.98 15.11 TOTAL 364.47 347.84 140.29 121.55 52.22 51.11 169.41 67.16 102.255 184.40 51.64 132.77 - The above data indicates that the availability of Urea, MOP, Complexes and SSP is comfortable. - In case of DAP, the opening stock of Rabi 2024-25 as compared to the opening stock of Rabi 2023-24 is less by 9.53 LMT - Up to 31st January, 2025the availability of DAP is 13.38 LMT against the requirement of 4.20 LMT during the ongoing Rabi 2024-25 season.\n| 11",
+            "word_count": 221,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 10,
+                    "rows_count": 8,
+                    "columns_count": 13,
+                    "header": [
+                        "Produc\nt",
+                        "Total\nRequir\nement\nRabi\n2024-",
+                        "Total\nRequire\nment\nRabi\n2023-24",
+                        "Openi\nng\nstock\nas on\n1.10.2",
+                        "Openi\nng\nstock\nas on\n1.10.",
+                        "Require\nment\nduring\nJanuary,\n2025",
+                        "Require\nment\nduring\nJanuary,\n2024",
+                        "(Upto 31/1/25)",
+                        "",
+                        "",
+                        "(upto 31/1/24)",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Produc\nt",
+                            "Total\nRequir\nement\nRabi\n2024-",
+                            "Total\nRequire\nment\nRabi\n2023-24",
+                            "Openi\nng\nstock\nas on\n1.10.2",
+                            "Openi\nng\nstock\nas on\n1.10.",
+                            "Require\nment\nduring\nJanuary,\n2025",
+                            "Require\nment\nduring\nJanuary,\n2024",
+                            "(Upto 31/1/25)",
+                            "",
+                            "",
+                            "(upto 31/1/24)",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Availabi\nlity",
+                            "Sales",
+                            "Closi\nng\nstock",
+                            "Availabi\nlity",
+                            "Sales",
+                            "Closin\ng\nstock"
+                        ],
+                        [
+                            "UREA",
+                            "186.89",
+                            "185.41",
+                            "63.02",
+                            "45.02",
+                            "31.63",
+                            "31.82",
+                            "88.25",
+                            "45.59",
+                            "42.66",
+                            "98.78",
+                            "35.43",
+                            "63.36"
+                        ],
+                        [
+                            "DAP",
+                            "52.05",
+                            "54.99",
+                            "12.23",
+                            "21.76",
+                            "4.20",
+                            "4.75",
+                            "13.38",
+                            "4.07",
+                            "9.32",
+                            "18.39",
+                            "4.23",
+                            "14.17"
+                        ],
+                        [
+                            "MOP",
+                            "11.95",
+                            "12.60",
+                            "7.33",
+                            "5.06",
+                            "1.66",
+                            "1.72",
+                            "11.23",
+                            "1.97",
+                            "9.26",
+                            "8.37",
+                            "1.20",
+                            "7.18"
+                        ],
+                        [
+                            "NPK",
+                            "77.10",
+                            "63.60",
+                            "35.94",
+                            "33.25",
+                            "10.32",
+                            "8.61",
+                            "35.72",
+                            "12.07",
+                            "23.65",
+                            "41.76",
+                            "8.81",
+                            "32.95"
+                        ],
+                        [
+                            "SSP",
+                            "36.48",
+                            "31.24",
+                            "21.76",
+                            "16.47",
+                            "4.41",
+                            "4.22",
+                            "20.83",
+                            "3.46",
+                            "17.37",
+                            "17.09",
+                            "1.98",
+                            "15.11"
+                        ],
+                        [
+                            "TOTAL",
+                            "364.47",
+                            "347.84",
+                            "140.29",
+                            "121.55",
+                            "52.22",
+                            "51.11",
+                            "169.41",
+                            "67.16",
+                            "102.255",
+                            "184.40",
+                            "51.64",
+                            "132.77"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 1,
+            "image_count": 0,
+            "multimodal_score": 2,
+            "keywords": [
+                "rabi",
+                "stock",
+                "require ment",
+                "fertilizers",
+                "availabi lity",
+                "opening stock",
+                "ment january",
+                "openi stock",
+                "lity sales",
+                "stock rabi"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00011",
+            "chunk_type": "text",
+            "heading": "7. PEST & DISEASE",
+            "page_start": 11,
+            "page_end": 12,
+            "text": "Over all intensity of pests and disease remained below Economic Threshold Level (ETL). Except: Crop State District/ Sub District/ Village Source Pest/ Disease Intensity Action Taken Area infested/I nfected above *ETL (ha) Chilli Andhra Pradesh NTR/ Veerulapadu/ Laxmipuram,Vellank i, Jujjuru/ Pallampalli,Nandiga ma/ Magallu,Ramireddip alli ,Jonnalagadda,Pe nuganchiprolu/ Sivapuram ,Anigand alapadu ,Penuganchi prolu,Kollikulla,Ven katapuram, Sanagapadu, Kanchikacherla/ Vemulapalle CIPMC Survey Black Thrips: Thrips parvispinu s 32 - Pest incidence was reported on 06.02.2025 - CIPMC Vijayawada conducted extensive survey in NTR district of Andhra Pradesh on 05.02.2025. - Advisory issued through State WhatsApp group. - Regular monitoring is being carried out by all field functionaries as follow up action. - The pest information shared to The Commissioner of Horticulture, Andhra Pradesh for necessary alerting the field level extension functionaries.\n| 12",
+            "word_count": 128,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "Crop",
+                        "State",
+                        "District/ Sub District/\nVillage",
+                        "Source",
+                        "Pest/\nDisease",
+                        "Intensity",
+                        "Action Taken"
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "State",
+                            "District/ Sub District/\nVillage",
+                            "Source",
+                            "Pest/\nDisease",
+                            "Intensity",
+                            "Action Taken"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area\ninfested/I\nnfected\nabove\n*ETL\n(ha)",
+                            ""
+                        ],
+                        [
+                            "Chilli",
+                            "Andhra\nPradesh",
+                            "NTR/ Veerulapadu/\nLaxmipuram,Vellank\ni, Jujjuru/\nPallampalli,Nandiga\nma/\nMagallu,Ramireddip\nalli ,Jonnalagadda,Pe\nnuganchiprolu/\nSivapuram ,Anigand\nalapadu ,Penuganchi\nprolu,Kollikulla,Ven\nkatapuram,\nSanagapadu,\nKanchikacherla/\nVemulapalle",
+                            "CIPMC\nSurvey",
+                            "Black\nThrips:\nThrips\nparvispinu\ns",
+                            "",
+                            "- Pest incidence was\nreported on\n06.02.2025\n- CIPMC Vijayawada\nconducted extensive\nsurvey in NTR\ndistrict of Andhra\nPradesh on\n05.02.2025.\n- Advisory issued\nthrough State\nWhatsApp group.\n- Regular monitoring\nis being carried out\nby all field\nfunctionaries as\nfollow up action.\n- The pest information\nshared to The\nCommissioner of\nHorticulture, Andhra\nPradesh for necessary\nalerting the field level\nextension\nfunctionaries."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 12,
+                    "xref": 113,
+                    "image_name": "page_12_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_12_image_1.png",
+                    "width": 779,
+                    "height": 333,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 12,
+                    "xref": 114,
+                    "image_name": "page_12_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_12_image_2.png",
+                    "width": 780,
+                    "height": 299,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "pest",
+                "disease",
+                "andhra pradesh",
+                "horticulture",
+                "crop",
+                "district",
+                "pradesh",
+                "andhra",
+                "jonnalagadda nuganchiprolu",
+                "kanchikacherla vemulapalle"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00012",
+            "chunk_type": "text",
+            "heading": "8. PRICES",
+            "page_start": 12,
+            "page_end": 14,
+            "text": "states and upto 09.02.2025, a quantity of 430.90 LMT of paddy in terms of Rice has been procured against previous season’s corresponding procurement of 419.17LMT. - Wheat: Procurement period in Rabi Marketing Season (RMS) 2024-25 is over in all procuring states and a quantity of 266.05 LMT of wheat has been procured whereas procurement in the previous marketing season (RMS 2023-24) was 261.97 LMT. - Actual stock of Rice & Wheat together was 489.74 LMT against buffer norm of 307.70 LMT.",
+            "word_count": 81,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 13,
+                    "rows_count": 2,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                        "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                        "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                        "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                        "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                            "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                            "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                            "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                            "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.72)",
+                            "641.82",
+                            "624.64",
+                            "430.90\n(86.94%)",
+                            "419.17"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 12,
+                    "xref": 113,
+                    "image_name": "page_12_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_12_image_1.png",
+                    "width": 779,
+                    "height": 333,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 12,
+                    "xref": 114,
+                    "image_name": "page_12_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_12_image_2.png",
+                    "width": 780,
+                    "height": 299,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "wheat",
+                "rice",
+                "rabi",
+                "lmt",
+                "marketing season",
+                "quantity lmt",
+                "has procured",
+                "season rms",
+                "lmt wheat",
+                "procurement"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00013",
+            "chunk_type": "text",
+            "heading": "8. PRICES",
+            "page_start": 12,
+            "page_end": 14,
+            "text": "| 13 All India Procurement of Paddy/Rice during KMS 2024-25 vis-a-vis KMS 2023-24 As on 09.02.2025 (Figures in LMT) Crop Rice Procurement Estimates during KMS 2024-25 (Estimates in terms of Paddy) Cumulative Paddy procurement during KMS 2024-25 Cumulative Corresponding Paddy procurement in KMS 2023-24 Cumulative procurement in terms of Rice during KMS 2024-25 (Percentage of target achieved) Cumulative Corresponding procurement in terms of Rice in KMS 2023-24 Kharif 495.61 (739.72) 641.82 624.64 430.90 (86.94%) 419.17 (Source: FCI Daily Bulletin) ********************** | 14 Annexure All India Mandi Wholesale prices (Rs/Quintal) All India Retail Prices (Rs/Quintal) Current MSP Prices as on 05.02.25 One Week Ago 29.01.25 1 Month Ago 05.01.25 1 Year Ago 05.02.24 Last Week Last Month 1 Year Ago Paddy (Rice unmilled) 2300 2427 2508 2496 2617 -3.22 -2.73 -7.25 Wheat 2275 2896 2931 2807 2501 -1.20 3.17 15.79 Arhar whole 7550 6890 6866 7773 9807 0.35 -11.36 -29.74 Gram whole 5440 5998 6078 6595 6007 -1.32 -9.05 -0.15 Masur Whole 6425 6320 6542 6537 6095 -3.39 -3.32 3.70 Moong Whole 8682 7624 7732 6665 8099 -1.40 14.38 -5.87 Urad Whole 7400 6802 7311 7196 9222 -6.96 -5.48 -26.24 Groundnut 6783 4791 4760 4598 6379 0.65 4.20 -24.89 Mustard 5650 5627 5642 5984 4875 -0.27 -5.97 15.42 Soyabean 4892 4014 4025 4038 4303 -0.29 -0.59 -6.72 Sesamum 9267 9744 9858",
+            "word_count": 220,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 13,
+                    "rows_count": 2,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                        "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                        "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                        "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                        "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                            "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                            "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                            "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                            "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.72)",
+                            "641.82",
+                            "624.64",
+                            "430.90\n(86.94%)",
+                            "419.17"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 12,
+                    "xref": 113,
+                    "image_name": "page_12_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_12_image_1.png",
+                    "width": 779,
+                    "height": 333,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 12,
+                    "xref": 114,
+                    "image_name": "page_12_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_12_image_2.png",
+                    "width": 780,
+                    "height": 299,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "rice",
+                "kms",
+                "procurement",
+                "rice kms",
+                "mustard",
+                "kharif",
+                "wheat",
+                "crop",
+                "paddy",
+                "whole"
+            ],
+            "quality": "good"
+        },
+        {
+            "chunk_id": "CWWG_00014",
+            "chunk_type": "text",
+            "heading": "8. PRICES",
+            "page_start": 12,
+            "page_end": 14,
+            "text": "10438 12954 -1.15 -6.65 -24.78 Sunflower 7280 5372 4911 - 4204 9.38 - 27.77 Onion 2028 1966 2524 1249 3.15 -19.66 62.33 Potato 1032 1143 1525 736 -9.70 -32.30 40.30 Tomato 952 1233 1048 2065 -22.80 -9.18 -53.89 % Variation Over Source: Agmarknet (through UPAg) Pulses Oil Seeds Commodities Cereals Prices as on 05.02.25 One Week Ago 29.01.25 1 Month Ago 05.01.25 1 Year Ago 05.02.24 Last Week Last Month 1 Year Ago Rice 4311 4300 4276 4402 0.26 0.82 -2.07 Wheat 3291 3282 3285 3108 0.27 0.18 5.89 Arhar/Tur Dal 14469 14845 15390 14868 -2.53 -5.98 -2.68 Gram Dal 9115 9195 9262 8262 -0.87 -1.59 10.32 Masur Dal 8910 8908 8819 9349 0.02 1.03 -4.70 Moong Dal 11335 11346 11248 11620 -0.10 0.77 -2.45 Urad Dal 12227 12273 12313 12274 -0.37 -0.70 -0.38 Mustard Oil 16850 16830 17107 13581 0.12 -1.50 24.07 Soyabean Oil 14448 14392 14463 12286 0.39 -0.10 17.60 Onion 3621 3698 3989 3378 -2.08 -9.23 7.19 Potato 2680 2810 3167 2219 -4.63 -15.38 20.78 Tomato 2432 2578 3238 3424 -5.66 -24.89 -28.97 % Variation Over Commodities All India Weekly Average Retail Prices (In Rs./Quintal) Cereals Pulses Edible Oils Horticulture Source: DoCA ( through UPAg)",
+            "word_count": 198,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 13,
+                    "rows_count": 2,
+                    "columns_count": 6,
+                    "header": [
+                        "Crop",
+                        "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                        "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                        "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                        "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                        "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "Rice Procurement\nEstimates during\nKMS 2024-25\n(Estimates in terms\nof Paddy)",
+                            "Cumulative\nPaddy\nprocurement\nduring KMS\n2024-25",
+                            "Cumulative\nCorresponding\nPaddy\nprocurement in\nKMS 2023-24",
+                            "Cumulative\nprocurement in\nterms of Rice\nduring KMS\n2024-25\n(Percentage of\ntarget achieved)",
+                            "Cumulative\nCorresponding\nprocurement in terms\nof Rice in KMS\n2023-24"
+                        ],
+                        [
+                            "Kharif",
+                            "495.61\n(739.72)",
+                            "641.82",
+                            "624.64",
+                            "430.90\n(86.94%)",
+                            "419.17"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 12,
+                    "xref": 113,
+                    "image_name": "page_12_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_12_image_1.png",
+                    "width": 779,
+                    "height": 333,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 12,
+                    "xref": 114,
+                    "image_name": "page_12_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\18-02-2025_Minutes of the meeting of CWWG as on 10.02.2025\\page_12_image_2.png",
+                    "width": 780,
+                    "height": 299,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "potato",
+                "tomato",
+                "pulses",
+                "onion",
+                "horticulture",
+                "mustard",
+                "seeds",
+                "wheat",
+                "rice",
+                "dal"
+            ],
+            "quality": "good"
+        }
+    ]
+}

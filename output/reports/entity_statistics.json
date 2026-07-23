@@ -1,0 +1,107 @@
+{
+    "documents_processed": 52,
+    "chunks_processed": 725,
+    "total_entities": 8311,
+    "average_entities_per_chunk": 11.46,
+    "entity_type_distribution": {
+        "Crop": 3211,
+        "State": 3045,
+        "Date": 477,
+        "Organization": 245,
+        "Season": 207,
+        "Rainfall": 202,
+        "Year": 177,
+        "Temperature": 174,
+        "Weather Event": 153,
+        "Month": 121,
+        "Disease": 105,
+        "Pest": 77,
+        "Reservoir": 60,
+        "District": 50,
+        "Government Scheme": 7
+    },
+    "top_entities": [
+        {
+            "entity": "Rice",
+            "count": 252
+        },
+        {
+            "entity": "Maharashtra",
+            "count": 178
+        },
+        {
+            "entity": "Rajasthan",
+            "count": 178
+        },
+        {
+            "entity": "Gujarat",
+            "count": 168
+        },
+        {
+            "entity": "Haryana",
+            "count": 165
+        },
+        {
+            "entity": "Tamil Nadu",
+            "count": 162
+        },
+        {
+            "entity": "Karnataka",
+            "count": 159
+        },
+        {
+            "entity": "Groundnut",
+            "count": 152
+        },
+        {
+            "entity": "Telangana",
+            "count": 150
+        },
+        {
+            "entity": "Wheat",
+            "count": 150
+        },
+        {
+            "entity": "Punjab",
+            "count": 139
+        },
+        {
+            "entity": "Bihar",
+            "count": 135
+        },
+        {
+            "entity": "Sunflower",
+            "count": 133
+        },
+        {
+            "entity": "Odisha",
+            "count": 126
+        },
+        {
+            "entity": "Maize",
+            "count": 121
+        },
+        {
+            "entity": "Uttar Pradesh",
+            "count": 121
+        },
+        {
+            "entity": "Chhattisgarh",
+            "count": 120
+        },
+        {
+            "entity": "Moong",
+            "count": 109
+        },
+        {
+            "entity": "Madhya Pradesh",
+            "count": 107
+        },
+        {
+            "entity": "Soyabean",
+            "count": 105
+        }
+    ],
+    "empty_chunks": 27,
+    "processing_time_seconds": 1082.92
+}

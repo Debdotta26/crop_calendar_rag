@@ -1,0 +1,3851 @@
+{
+    "metadata": {
+        "document_name": "28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025.pdf",
+        "document_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\..\\downloads\\pdfs\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025.pdf",
+        "title": "",
+        "author": "",
+        "creator": "wkhtmltopdf 0.12.4",
+        "producer": "Qt 4.8.7",
+        "subject": "",
+        "keywords": "",
+        "creation_date": "D:20250429173501+05'30'",
+        "modification_date": "",
+        "total_pages": 19,
+        "file_size_bytes": 1110713,
+        "extraction_tool": "PyMuPDF",
+        "extraction_timestamp": "2026-07-19T02:12:08.668968"
+    },
+    "statistics": {
+        "pages": 19,
+        "sections": 13,
+        "merged_sections": 8,
+        "text_chunks": 16,
+        "table_chunks": 2,
+        "image_chunks": 2,
+        "total_chunks": 18
+    },
+    "chunks": [
+        {
+            "chunk_id": "CWWG_00001",
+            "chunk_type": "text",
+            "heading": "Introduction",
+            "page_start": 1,
+            "page_end": 2,
+            "text": "(as on 28.04.2025)\n\n\n\n\nKerala & Mahe on 28th-30thApril Jharkhand on 29th April & 01st may and Odisha during 29th April-01st may. Isolated to scattered light rainfall with thunderstorm, lightning & strong winds likely over Western Himalayan region and plains of northwest India during 30th April to 03rd May. Inputs Situation a. Water Reservoir Status: As on 24th April 2025, the total live water storage in 161 important reservoirs across the country (monitored by CWC) is 664.82 Billion Cubic Meter, which is 36% of total live storage capacity (182.37 BCM).The current year's storage is nearly 118 percent of last year's storage and 119 percent of the average storage of the last ten years during the corresponding period. The overall storage position is better than the corresponding period of last year in the country as a whole and is also better than the Normal storage during the corresponding period. b. Groundwater Levels: Approximately 66.6% of monitoring wells show water levels between 0-5 m, while 29.1% report levels between 5-10 m. Decadal analysis (2014– 2023) indicates a rise in 64.9% of wells and a decline in 35.1% as of August 2024. c. Seeds and Fertilizers: For Rabi 2024-25, certified seed availability is 337.98 lakh quintals against a requirement of 307.07 lakh quintals, ensuring a surplus of 30.90 lakh quintals.",
+            "word_count": 216,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 2,
+                    "rows_count": 3,
+                    "columns_count": 4,
+                    "header": [
+                        "All India Mandi Wholesale Prices",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Mandi Wholesale Prices",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "MSP\n(RS/Qtl)",
+                            "Price as on 25-04-\n2025",
+                            "% Variation over\nMSP"
+                        ],
+                        [
+                            "Arhar whole\nGram whole\nMasur whole\nMoong whole\nUrad whole\nGroundnut\nMustard\nSoyabean\nSunflower\nSesamum",
+                            "7550\n5650\n6700\n8682\n7400\n6783\n5950\n4892\n7280\n9267",
+                            "7030\n5631\n6293\n8279\n7061\n5017\n5849\n4250\n4897\n8934",
+                            "-6.89\n-0.34\n-6.07\n-4.64\n-4.58\n-26.04\n-1.70\n-13.12\n-32.73\n-3.59"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 1,
+                    "xref": 9,
+                    "image_name": "page_1_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_1_image_1.png",
+                    "width": 1213,
+                    "height": 281,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 1,
+            "multimodal_score": 3,
+            "keywords": [
+                "storage",
+                "water",
+                "corresponding period",
+                "lakh quintals",
+                "groundwater",
+                "fertilizers",
+                "reservoir",
+                "april may",
+                "rainfall",
+                "seeds"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Odisha",
+                    "label": "State",
+                    "score": 0.9861
+                },
+                {
+                    "text": "Jharkhand",
+                    "label": "State",
+                    "score": 0.968
+                },
+                {
+                    "text": "Kerala",
+                    "label": "State",
+                    "score": 0.9008
+                },
+                {
+                    "text": "scattered light rainfall",
+                    "label": "Rainfall",
+                    "score": 0.8963
+                },
+                {
+                    "text": "CWC",
+                    "label": "Organization",
+                    "score": 0.8023
+                },
+                {
+                    "text": "Seeds and Fertilizers",
+                    "label": "Crop",
+                    "score": 0.6636
+                },
+                {
+                    "text": "24th April 2025",
+                    "label": "Date",
+                    "score": 0.6334
+                },
+                {
+                    "text": "30th April",
+                    "label": "Date",
+                    "score": 0.6278
+                },
+                {
+                    "text": "thunderstorm",
+                    "label": "Weather Event",
+                    "score": 0.6127
+                },
+                {
+                    "text": "lightning",
+                    "label": "Weather Event",
+                    "score": 0.5886
+                },
+                {
+                    "text": "161 important reservoirs",
+                    "label": "Reservoir",
+                    "score": 0.5783
+                },
+                {
+                    "text": "29th April-01st may",
+                    "label": "Date",
+                    "score": 0.5744
+                },
+                {
+                    "text": "Rabi 2024-25",
+                    "label": "Season",
+                    "score": 0.5728
+                },
+                {
+                    "text": "strong winds",
+                    "label": "Weather Event",
+                    "score": 0.5556
+                },
+                {
+                    "text": "August 2024",
+                    "label": "Date",
+                    "score": 0.5294
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00002",
+            "chunk_type": "text",
+            "heading": "Introduction",
+            "page_start": 1,
+            "page_end": 2,
+            "text": "The fertilizer supply remains stable across all products. 6. Pests & Diseases: Intensity of pests and diseases, at some fields, has been reported to be above Economic Threshold Level for Coconut (Stem bleeding, Ganoderma wilt, Rugose spiraling whitefly, Leaf blight ) in Karnataka and (Rugose Spiralling Whitefly) in Kerala. The Advisory has been issued by the survey team to the farms and regular monitoring is being carried out. The overall intensity of pests and diseases remained below the Economic Threshold Level. 7. Crops whose Mandi Wholesale prices are below MSP: All India Mandi Wholesale Prices Commodities MSP (RS/Qtl) Price as on 25-04- 2025 % Variation over MSP Arhar whole Gram whole Masur whole Moong whole Urad whole Groundnut Mustard Soyabean Sunflower Sesamum 7550 5650 6700 8682 7400 6783 5950 4892 7280 9267 7030 5631 6293 8279 7061 5017 5849 4250 4897 8934 -6.89 -0.34 -6.07 -4.64 -4.58 -26.04 -1.70 -13.12 -32.73 -3.59",
+            "word_count": 152,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 2,
+                    "rows_count": 3,
+                    "columns_count": 4,
+                    "header": [
+                        "All India Mandi Wholesale Prices",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Mandi Wholesale Prices",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "MSP\n(RS/Qtl)",
+                            "Price as on 25-04-\n2025",
+                            "% Variation over\nMSP"
+                        ],
+                        [
+                            "Arhar whole\nGram whole\nMasur whole\nMoong whole\nUrad whole\nGroundnut\nMustard\nSoyabean\nSunflower\nSesamum",
+                            "7550\n5650\n6700\n8682\n7400\n6783\n5950\n4892\n7280\n9267",
+                            "7030\n5631\n6293\n8279\n7061\n5017\n5849\n4250\n4897\n8934",
+                            "-6.89\n-0.34\n-6.07\n-4.64\n-4.58\n-26.04\n-1.70\n-13.12\n-32.73\n-3.59"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 1,
+                    "xref": 9,
+                    "image_name": "page_1_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_1_image_1.png",
+                    "width": 1213,
+                    "height": 281,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 1,
+            "multimodal_score": 3,
+            "keywords": [
+                "pests diseases",
+                "fertilizer",
+                "mustard",
+                "crops",
+                "whole",
+                "economic threshold",
+                "wholesale prices",
+                "intensity pests",
+                "threshold level",
+                "mandi wholesale"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Leaf blight",
+                    "label": "Disease",
+                    "score": 0.9829
+                },
+                {
+                    "text": "Ganoderma wilt",
+                    "label": "Disease",
+                    "score": 0.9809
+                },
+                {
+                    "text": "Karnataka",
+                    "label": "State",
+                    "score": 0.977
+                },
+                {
+                    "text": "Stem bleeding",
+                    "label": "Disease",
+                    "score": 0.9721
+                },
+                {
+                    "text": "Kerala",
+                    "label": "State",
+                    "score": 0.9591
+                },
+                {
+                    "text": "Rugose Spiralling Whitefly",
+                    "label": "Pest",
+                    "score": 0.9486
+                },
+                {
+                    "text": "Rugose spiraling whitefly",
+                    "label": "Disease",
+                    "score": 0.9351
+                },
+                {
+                    "text": "Coconut",
+                    "label": "Crop",
+                    "score": 0.9274
+                },
+                {
+                    "text": "Sunflower",
+                    "label": "Crop",
+                    "score": 0.8873
+                },
+                {
+                    "text": "Moong",
+                    "label": "Crop",
+                    "score": 0.8797
+                },
+                {
+                    "text": "Urad",
+                    "label": "Crop",
+                    "score": 0.8546
+                },
+                {
+                    "text": "Sesamum",
+                    "label": "Crop",
+                    "score": 0.8527
+                },
+                {
+                    "text": "Soyabean",
+                    "label": "Crop",
+                    "score": 0.8493
+                },
+                {
+                    "text": "Groundnut",
+                    "label": "Crop",
+                    "score": 0.837
+                },
+                {
+                    "text": "Arhar",
+                    "label": "Crop",
+                    "score": 0.8095
+                },
+                {
+                    "text": "Mustard",
+                    "label": "Crop",
+                    "score": 0.8068
+                },
+                {
+                    "text": "Masur",
+                    "label": "Crop",
+                    "score": 0.8019
+                },
+                {
+                    "text": "Gram",
+                    "label": "Crop",
+                    "score": 0.7534
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00003",
+            "chunk_type": "text",
+            "heading": "Details of each Segment",
+            "page_start": 3,
+            "page_end": 5,
+            "text": "During the week (17th – 23rd April 2025), higher rainfall was observed, as compared to Long Period Average (LPA) by 25%. Cumulative seasonal rainfall (01th Mar to 24th April 2025) is lower than LPA by 15%.\nRainfall Forecast: 24 April – 30 April 2025 An upper air cyclonic circulation lies over north Bangladesh and another over northeast Assam in lower tropospheric levels. A north-south trough runs from central Chhattisgarh to Gulf of Mannar in lower tropospheric levels. A fresh Western Disturbance seen as a trough in middle tropospheric westerlies: Isolated to scattered light rainfall with thunderstorm & lightning likely over Western Himalayan Region during 24th -26th April. No significant weather likely over rest parts of the country during the week. 01 May – 07 May 2025 Under the influence of western disturbances, isolated to scattered rainfall is likely over Western Himalayan Region during some days of the week. Due to trough/cyclonic circulations over East India, light/moderate scattered to fairly widespread rainfall along with thunderstorm & lightening are likely overeast & northeast India during some/many days of the week. Isolated heavy rainfall is also likely over northeast India during some days of the week. Due to trough/cyclonic circulations over Central & Peninsular India, Light/moderate rainfall along with thunderstorm & lightening also likely over central & south Peninsular\nIndia during many days of the week. Overall, normal to above normal rainfall along with thunderstorm & lightening are likely over many parts of plains of northwest India, Central, East & northeast and South Peninsular India; below normal over Western Himalayan Region during the week.",
+            "word_count": 261,
+            "tables": [],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 3,
+                    "xref": 24,
+                    "image_name": "page_3_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_3_image_1.png",
+                    "width": 557,
+                    "height": 573,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 4,
+                    "xref": 33,
+                    "image_name": "page_4_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_4_image_2.png",
+                    "width": 1193,
+                    "height": 193,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 0,
+            "image_count": 2,
+            "multimodal_score": 2,
+            "keywords": [
+                "rainfall",
+                "likely over",
+                "over",
+                "days week",
+                "cyclonic",
+                "likely",
+                "week",
+                "thunderstorm lightening",
+                "along thunderstorm",
+                "western himalayan"
+            ],
+            "quality": "excellent",
+            "entities": [
+                {
+                    "text": "24 April",
+                    "label": "Date",
+                    "score": 0.7531
+                },
+                {
+                    "text": "24th -26th April",
+                    "label": "Date",
+                    "score": 0.664
+                },
+                {
+                    "text": "Light/moderate rainfall",
+                    "label": "Rainfall",
+                    "score": 0.6628
+                },
+                {
+                    "text": "western disturbances",
+                    "label": "Weather Event",
+                    "score": 0.6455
+                },
+                {
+                    "text": "Cumulative seasonal rainfall",
+                    "label": "Rainfall",
+                    "score": 0.6431
+                },
+                {
+                    "text": "light/moderate scattered to fairly widespread rainfall",
+                    "label": "Rainfall",
+                    "score": 0.6221
+                },
+                {
+                    "text": "higher rainfall",
+                    "label": "Rainfall",
+                    "score": 0.6144
+                },
+                {
+                    "text": "01th Mar",
+                    "label": "Date",
+                    "score": 0.5575
+                },
+                {
+                    "text": "light rainfall",
+                    "label": "Rainfall",
+                    "score": 0.5234
+                },
+                {
+                    "text": "central Chhattisgarh",
+                    "label": "State",
+                    "score": 0.5205
+                },
+                {
+                    "text": "normal to above normal rainfall",
+                    "label": "Rainfall",
+                    "score": 0.5118
+                },
+                {
+                    "text": "isolated to scattered rainfall",
+                    "label": "Rainfall",
+                    "score": 0.5072
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00004",
+            "chunk_type": "text",
+            "heading": "2. TEMPERATURE: MIN & MAX",
+            "page_start": 5,
+            "page_end": 7,
+            "text": "Temperature Forecast : Maximum Temperature Week 1 (25.04.2025 to 01.05.2025): Maximum temperature is likely to be above normal over North West India, Gujarat, Konkan-Goa, Odisha and coastal regions of Tamil Nadu. However, it is likely to be below\nnormal over rest of the country. Week 2 (02.05.2025 to 08.05.2025): Maximum temperature is likely to be below normal over most parts of the country. However, it is likely to be above normal over Konkan-Goa, Gujarat, West Rajasthan, Jammu & Kashmir, Himachal Pradesh, coastal regions of Tamil Nadu and some parts of Odisha and Assam. Minimum Temperature Week 1 (25.04.2025 to 01.05.2025): Minimum temperature is likely to be below normal over most parts of the county. However, it is likely to be above normal over Karnataka. Week 2 (02.05.2025 to 08.05.2025): Minimum temperature is likely to be below normal over many parts of the county. However, it is likely to be above normal over Rajasthan, Gujarat, Madhya Maharashtra and Karnataka. Heat Wave forecast : Heat wave conditions very likely in isolated pockets over Jammu-Kashmir-Ladakh-Gilgit- Baltistan-Muzaffarabad on 28th & 29th; Haryana on 29th -30th; Himachal Pradesh during 28th -30th; Punjab during 29th- 01st May, West Rajasthan during 28thApril-01st May; East Rajasthan on 29th & 30th April; West Madhya Pradesh during 29th April-01st May.\nPeriod Storage as % of FRL Storage as % of Last Year Storage as % of 10 Year’s Average Level Current Week 36 118 119 Last Week 37 115 117",
+            "word_count": 240,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 7,
+                    "rows_count": 3,
+                    "columns_count": 4,
+                    "header": [
+                        "Period",
+                        "Storage as %\nof FRL",
+                        "Storage as % of\nLast Year",
+                        "Storage as % of 10 Year’s\nAverage Level"
+                    ],
+                    "rows": [
+                        [
+                            "Period",
+                            "Storage as %\nof FRL",
+                            "Storage as % of\nLast Year",
+                            "Storage as % of 10 Year’s\nAverage Level"
+                        ],
+                        [
+                            "Current\nWeek",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Last\nWeek",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 5,
+                    "xref": 40,
+                    "image_name": "page_5_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_5_image_1.png",
+                    "width": 460,
+                    "height": 319,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 5,
+                    "xref": 42,
+                    "image_name": "page_5_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_5_image_2.png",
+                    "width": 467,
+                    "height": 323,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "normal over",
+                "temperature",
+                "likely",
+                "over",
+                "temperature likely",
+                "however likely",
+                "likely above",
+                "above normal",
+                "likely below",
+                "below normal"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Gujarat",
+                    "label": "State",
+                    "score": 0.9881
+                },
+                {
+                    "text": "Himachal Pradesh",
+                    "label": "State",
+                    "score": 0.9863
+                },
+                {
+                    "text": "Odisha",
+                    "label": "State",
+                    "score": 0.9838
+                },
+                {
+                    "text": "Tamil Nadu",
+                    "label": "State",
+                    "score": 0.9801
+                },
+                {
+                    "text": "Karnataka",
+                    "label": "State",
+                    "score": 0.9781
+                },
+                {
+                    "text": "Rajasthan",
+                    "label": "State",
+                    "score": 0.9508
+                },
+                {
+                    "text": "Punjab",
+                    "label": "State",
+                    "score": 0.9384
+                },
+                {
+                    "text": "Konkan-Goa",
+                    "label": "State",
+                    "score": 0.9361
+                },
+                {
+                    "text": "Haryana",
+                    "label": "State",
+                    "score": 0.9352
+                },
+                {
+                    "text": "Madhya Maharashtra",
+                    "label": "State",
+                    "score": 0.925
+                },
+                {
+                    "text": "Assam",
+                    "label": "State",
+                    "score": 0.9161
+                },
+                {
+                    "text": "Jammu & Kashmir",
+                    "label": "State",
+                    "score": 0.8774
+                },
+                {
+                    "text": "Maximum Temperature",
+                    "label": "Temperature",
+                    "score": 0.8349
+                },
+                {
+                    "text": "Minimum Temperature",
+                    "label": "Temperature",
+                    "score": 0.7992
+                },
+                {
+                    "text": "Madhya Pradesh",
+                    "label": "State",
+                    "score": 0.765
+                },
+                {
+                    "text": "Heat Wave forecast",
+                    "label": "Weather Event",
+                    "score": 0.6259
+                },
+                {
+                    "text": "29th April-01st May",
+                    "label": "Date",
+                    "score": 0.5321
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00005",
+            "chunk_type": "text",
+            "heading": "3. RESERVOIR STORAGE (as on 24th April, 2025)",
+            "page_start": 7,
+            "page_end": 8,
+            "text": "Current live storage in 161 reservoirs was 64.82 BCM (36%) of total live capacity of 182.37 BCM. Table 1: For 161 major reservoirs of the country 123 reservoirs having storage more than 80% of normal storage. 25 reservoirs having storage 51% to 80%. 13 reservoirs having storage upto 50%.\nSource: CWC\n\n\n(a) Soil Moisture Observation Soil moisture during 18 – 22 April 2025 is better/similar to the average of the past 9 years in A.P, Karnataka, Telangana, Tamil Nadu, Gujarat, Bihar, Jharkhand, W.B., U.P., Rajasthan, M.P, Haryana and Maharashtra. Whereas it is lower than average of past 9 years avg. in parts of Chhattisgarh, in parts of southern & western Odisha and in N.E. part of the country. (b) Temperature Observation",
+            "word_count": 121,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 7,
+                    "rows_count": 3,
+                    "columns_count": 4,
+                    "header": [
+                        "Period",
+                        "Storage as %\nof FRL",
+                        "Storage as % of\nLast Year",
+                        "Storage as % of 10 Year’s\nAverage Level"
+                    ],
+                    "rows": [
+                        [
+                            "Period",
+                            "Storage as %\nof FRL",
+                            "Storage as % of\nLast Year",
+                            "Storage as % of 10 Year’s\nAverage Level"
+                        ],
+                        [
+                            "Current\nWeek",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Last\nWeek",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 7,
+                    "xref": 56,
+                    "image_name": "page_7_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_7_image_1.png",
+                    "width": 480,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                },
+                {
+                    "image_id": 2,
+                    "page": 8,
+                    "xref": 65,
+                    "image_name": "page_8_image_2.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_8_image_2.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 1,
+            "image_count": 2,
+            "multimodal_score": 4,
+            "keywords": [
+                "storage",
+                "moisture",
+                "storage reservoirs",
+                "reservoirs having",
+                "having storage",
+                "temperature",
+                "reservoirs",
+                "soil moisture",
+                "average past",
+                "past years"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Maharashtra",
+                    "label": "State",
+                    "score": 0.9823
+                },
+                {
+                    "text": "Karnataka",
+                    "label": "State",
+                    "score": 0.9786
+                },
+                {
+                    "text": "Haryana",
+                    "label": "State",
+                    "score": 0.9748
+                },
+                {
+                    "text": "Tamil Nadu",
+                    "label": "State",
+                    "score": 0.9714
+                },
+                {
+                    "text": "Telangana",
+                    "label": "State",
+                    "score": 0.9695
+                },
+                {
+                    "text": "Rajasthan",
+                    "label": "State",
+                    "score": 0.9682
+                },
+                {
+                    "text": "Gujarat",
+                    "label": "State",
+                    "score": 0.9606
+                },
+                {
+                    "text": "U.P.",
+                    "label": "State",
+                    "score": 0.9517
+                },
+                {
+                    "text": "Bihar",
+                    "label": "State",
+                    "score": 0.9445
+                },
+                {
+                    "text": "Jharkhand",
+                    "label": "State",
+                    "score": 0.9412
+                },
+                {
+                    "text": "M.P",
+                    "label": "State",
+                    "score": 0.9161
+                },
+                {
+                    "text": "Chhattisgarh",
+                    "label": "State",
+                    "score": 0.8575
+                },
+                {
+                    "text": "W.B.",
+                    "label": "State",
+                    "score": 0.8511
+                },
+                {
+                    "text": "CWC",
+                    "label": "Organization",
+                    "score": 0.7799
+                },
+                {
+                    "text": "A.P",
+                    "label": "State",
+                    "score": 0.7646
+                },
+                {
+                    "text": "Temperature",
+                    "label": "Temperature",
+                    "score": 0.6163
+                },
+                {
+                    "text": "18 – 22 April 2025",
+                    "label": "Date",
+                    "score": 0.5882
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00006",
+            "chunk_type": "text",
+            "heading": "CROP SOWING STATUS FOR RABI SEASON",
+            "page_start": 9,
+            "page_end": 11,
+            "text": "Summer Crops - Area coverage As on 25.04.2025, about 102.4 percent of the normal area has been sown under the Summer season crops. Rice: About 31.67 lakh ha area coverage under Summer Rice has been reported as compared to 27.64 lakh ha during the corresponding period of last year. Pulses: About 19.80 lakh ha area coverage has been reported compared to 16.24 lakh ha during the corresponding period of last year. Oilseeds: About 9.23 lakh ha area coverage has been reported compared to 8.83 lakh ha during the corresponding period of last year. Government of India Crops Division Progress of Area coverage under Summer crops as on 25.04.2025 Area: In lakh hectare Sl. No.",
+            "word_count": 114,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 9,
+                    "rows_count": 11,
+                    "columns_count": 6,
+                    "header": [
+                        "Sl.\nNo.",
+                        "Crops",
+                        "Normal Summer\nArea (DES)",
+                        "Area Sown",
+                        "",
+                        "Increase/\nDecrease over\nLast year"
+                    ],
+                    "rows": [
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal Summer\nArea (DES)",
+                            "Area Sown",
+                            "",
+                            "Increase/\nDecrease over\nLast year"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current Year\n2025",
+                            "Last Year\n2024",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "31.67",
+                            "27.64",
+                            "4.03"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.645",
+                            "19.80",
+                            "16.24",
+                            "3.56"
+                        ],
+                        [
+                            "a",
+                            "Green gram",
+                            "18.950",
+                            "16.55",
+                            "13.42",
+                            "3.13"
+                        ],
+                        [
+                            "b",
+                            "Black gram",
+                            "2.695",
+                            "3.07",
+                            "2.65",
+                            "0.43"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.18",
+                            "0.18",
+                            "0.00"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum Coarse\nCereals",
+                            "11.048",
+                            "12.37",
+                            "10.62",
+                            "1.74"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "0.46",
+                            "0.46",
+                            "0.00"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "4.22",
+                            "4.10",
+                            "0.12"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 10,
+                    "rows_count": 8,
+                    "columns_count": 5,
+                    "header": [
+                        "Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi\nSeason as on 25th April, 2025",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi\nSeason as on 25th April, 2025",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Area in Lakh Hectare",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Crop",
+                            "Normal Rabi Area\nSown in major\nproducing States",
+                            "Area\nSown**\nduring\n2024-25",
+                            "Area Sown in the\ncorresponding\nperiod of 2023-24",
+                            "Increase/Decrease\nin 2024-25 over\n2023-24"
+                        ],
+                        [
+                            "(1)",
+                            "(2)",
+                            "(3)",
+                            "(4)",
+                            "(5)"
+                        ],
+                        [
+                            "Onion",
+                            "10.29",
+                            "12.58",
+                            "9.76",
+                            "2.82"
+                        ],
+                        [
+                            "Potato",
+                            "18.23",
+                            "20.03",
+                            "19.56",
+                            "0.47"
+                        ],
+                        [
+                            "Tomato",
+                            "3.83",
+                            "3.25",
+                            "3.14",
+                            "0.11"
+                        ],
+                        [
+                            "Note - 1: The figures for major producing States in Onion and Tomato have been\nrevised by including area sown of West Bengal.\n2. The Figures for Maharashtra in Rabi Onion area sown is provisional.\nDistrict-wise details regarding the over-achievement of 1.5 LHA (6.52 LHA\nachievement where target was 5 LHA) in Maharashtra, is yet to be received. The\nRabi onion area figures will be re-assessed through filed visit by the end of April,\n2025.\nNormal Area is the average sown area in last 5 years (2019-20 to 2023-\n24).\nThe share of major producing States is nearly 85% in case of Rabi\nPotato and Tomato and 90% in case of Rabi onion.",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 9,
+                    "xref": 72,
+                    "image_name": "page_9_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_9_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 1,
+            "multimodal_score": 5,
+            "keywords": [
+                "area coverage",
+                "summer",
+                "crops",
+                "area",
+                "rice",
+                "lakh",
+                "corresponding period",
+                "lakh corresponding",
+                "reported compared",
+                "compared lakh"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Rice",
+                    "label": "Crop",
+                    "score": 0.978
+                },
+                {
+                    "text": "Oilseeds",
+                    "label": "Crop",
+                    "score": 0.953
+                },
+                {
+                    "text": "Pulses",
+                    "label": "Crop",
+                    "score": 0.9321
+                },
+                {
+                    "text": "last year",
+                    "label": "Year",
+                    "score": 0.9017
+                },
+                {
+                    "text": "Summer season",
+                    "label": "Season",
+                    "score": 0.6881
+                },
+                {
+                    "text": "Summer crops",
+                    "label": "Crop",
+                    "score": 0.6366
+                },
+                {
+                    "text": "Government of India",
+                    "label": "Organization",
+                    "score": 0.6238
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00007",
+            "chunk_type": "text",
+            "heading": "CROP SOWING STATUS FOR RABI SEASON",
+            "page_start": 9,
+            "page_end": 11,
+            "text": "Crops Normal Summer Area (DES) Area Sown Increase/ Decrease over Last year Current Year 2025 Last Year 2024 1 Rice 30.795 31.67 27.64 4.03 2 Pulses 21.645 19.80 16.24 3.56 a Green gram 18.950 16.55 13.42 3.13 b Black gram 2.695 3.07 2.65 0.43 c Other Pulses 0.000 0.18 0.18 0.00 3 Shree Anna cum Coarse Cereals 11.048 12.37 10.62 1.74 a Jowar 0.335 0.46 0.46 0.00 b Bajra 4.100 4.22 4.10 0.12\nc Ragi 0.306 0.16 0.13 0.03 d Small Millets 0.017 0.02 0.02 0.00 e Maize 6.290 7.50 5.90 1.60 4 Oilseeds 7.855 9.23 8.83 0.40 a Groundnut 2.995 4.31 4.11 0.20 b Sunflower 0.340 0.36 0.31 0.06 c Sesamum 4.520 4.49 4.33 0.16 d Other Oilseeds 0.000 0.07 0.08 -0.01 Total 71.343 73.08 63.34 9.74 The Summer Sowing is going on smoothly. Expected to achieve normal area.",
+            "word_count": 140,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 9,
+                    "rows_count": 11,
+                    "columns_count": 6,
+                    "header": [
+                        "Sl.\nNo.",
+                        "Crops",
+                        "Normal Summer\nArea (DES)",
+                        "Area Sown",
+                        "",
+                        "Increase/\nDecrease over\nLast year"
+                    ],
+                    "rows": [
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal Summer\nArea (DES)",
+                            "Area Sown",
+                            "",
+                            "Increase/\nDecrease over\nLast year"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current Year\n2025",
+                            "Last Year\n2024",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "31.67",
+                            "27.64",
+                            "4.03"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.645",
+                            "19.80",
+                            "16.24",
+                            "3.56"
+                        ],
+                        [
+                            "a",
+                            "Green gram",
+                            "18.950",
+                            "16.55",
+                            "13.42",
+                            "3.13"
+                        ],
+                        [
+                            "b",
+                            "Black gram",
+                            "2.695",
+                            "3.07",
+                            "2.65",
+                            "0.43"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.18",
+                            "0.18",
+                            "0.00"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum Coarse\nCereals",
+                            "11.048",
+                            "12.37",
+                            "10.62",
+                            "1.74"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "0.46",
+                            "0.46",
+                            "0.00"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "4.22",
+                            "4.10",
+                            "0.12"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 10,
+                    "rows_count": 8,
+                    "columns_count": 5,
+                    "header": [
+                        "Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi\nSeason as on 25th April, 2025",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi\nSeason as on 25th April, 2025",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Area in Lakh Hectare",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Crop",
+                            "Normal Rabi Area\nSown in major\nproducing States",
+                            "Area\nSown**\nduring\n2024-25",
+                            "Area Sown in the\ncorresponding\nperiod of 2023-24",
+                            "Increase/Decrease\nin 2024-25 over\n2023-24"
+                        ],
+                        [
+                            "(1)",
+                            "(2)",
+                            "(3)",
+                            "(4)",
+                            "(5)"
+                        ],
+                        [
+                            "Onion",
+                            "10.29",
+                            "12.58",
+                            "9.76",
+                            "2.82"
+                        ],
+                        [
+                            "Potato",
+                            "18.23",
+                            "20.03",
+                            "19.56",
+                            "0.47"
+                        ],
+                        [
+                            "Tomato",
+                            "3.83",
+                            "3.25",
+                            "3.14",
+                            "0.11"
+                        ],
+                        [
+                            "Note - 1: The figures for major producing States in Onion and Tomato have been\nrevised by including area sown of West Bengal.\n2. The Figures for Maharashtra in Rabi Onion area sown is provisional.\nDistrict-wise details regarding the over-achievement of 1.5 LHA (6.52 LHA\nachievement where target was 5 LHA) in Maharashtra, is yet to be received. The\nRabi onion area figures will be re-assessed through filed visit by the end of April,\n2025.\nNormal Area is the average sown area in last 5 years (2019-20 to 2023-\n24).\nThe share of major producing States is nearly 85% in case of Rabi\nPotato and Tomato and 90% in case of Rabi onion.",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 9,
+                    "xref": 72,
+                    "image_name": "page_9_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_9_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 1,
+            "multimodal_score": 5,
+            "keywords": [
+                "summer",
+                "pulses",
+                "crops",
+                "jowar",
+                "bajra",
+                "maize",
+                "rice",
+                "last year",
+                "area",
+                "year"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Maize",
+                    "label": "Crop",
+                    "score": 0.9356
+                },
+                {
+                    "text": "Rice",
+                    "label": "Crop",
+                    "score": 0.9296
+                },
+                {
+                    "text": "Sunflower",
+                    "label": "Crop",
+                    "score": 0.9244
+                },
+                {
+                    "text": "Summer",
+                    "label": "Season",
+                    "score": 0.9238
+                },
+                {
+                    "text": "Oilseeds",
+                    "label": "Crop",
+                    "score": 0.9173
+                },
+                {
+                    "text": "Bajra",
+                    "label": "Crop",
+                    "score": 0.9119
+                },
+                {
+                    "text": "Sesamum",
+                    "label": "Crop",
+                    "score": 0.8789
+                },
+                {
+                    "text": "Groundnut",
+                    "label": "Crop",
+                    "score": 0.872
+                },
+                {
+                    "text": "Pulses",
+                    "label": "Crop",
+                    "score": 0.8648
+                },
+                {
+                    "text": "Jowar",
+                    "label": "Crop",
+                    "score": 0.8459
+                },
+                {
+                    "text": "Green gram",
+                    "label": "Crop",
+                    "score": 0.8367
+                },
+                {
+                    "text": "Black gram",
+                    "label": "Crop",
+                    "score": 0.8062
+                },
+                {
+                    "text": "Small Millets",
+                    "label": "Crop",
+                    "score": 0.7728
+                },
+                {
+                    "text": "Ragi",
+                    "label": "Crop",
+                    "score": 0.7221
+                },
+                {
+                    "text": "Shree Anna cum Coarse Cereals",
+                    "label": "Crop",
+                    "score": 0.6028
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00008",
+            "chunk_type": "text",
+            "heading": "CROP SOWING STATUS FOR RABI SEASON",
+            "page_start": 9,
+            "page_end": 11,
+            "text": "Disclaimer : For Kharif crop wise estimated area, please see advanced estimates released by Ministry of Agriculture and Farmers' Welfare available on UPAg (upag.gov.in) Rabi Horticulture Crops Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi Season as on 25th April, 2025 Area in Lakh Hectare Crop Normal Rabi Area Sown in major producing States Area Sown** during 2024-25 Area Sown in the corresponding period of 2023-24 Increase/Decrease in 2024-25 over 2023-24 (1) (2) (3) (4) (5) Onion 10.29 12.58 9.76 2.82 Potato 18.23 20.03 19.56 0.47 Tomato 3.83 3.25 3.14 0.11 Note - 1: The ﬁgures for major producing States in Onion and Tomato have been revised by including area sown of West Bengal. 2. The Figures for Maharashtra in Rabi Onion area sown is provisional. District-wise details regarding the over-achievement of 1.5 LHA (6.52 LHA achievement where target was 5 LHA) in Maharashtra, is yet to be received. The Rabi onion area ﬁgures will be re-assessed through ﬁled visit by the end of April, 2025. Normal Area is the average sown area in last 5 years (2019-20 to 2023- 24). The share of major producing States is nearly 85% in case of Rabi Potato and Tomato and 90% in case of Rabi onion.",
+            "word_count": 210,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 9,
+                    "rows_count": 11,
+                    "columns_count": 6,
+                    "header": [
+                        "Sl.\nNo.",
+                        "Crops",
+                        "Normal Summer\nArea (DES)",
+                        "Area Sown",
+                        "",
+                        "Increase/\nDecrease over\nLast year"
+                    ],
+                    "rows": [
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal Summer\nArea (DES)",
+                            "Area Sown",
+                            "",
+                            "Increase/\nDecrease over\nLast year"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current Year\n2025",
+                            "Last Year\n2024",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "31.67",
+                            "27.64",
+                            "4.03"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.645",
+                            "19.80",
+                            "16.24",
+                            "3.56"
+                        ],
+                        [
+                            "a",
+                            "Green gram",
+                            "18.950",
+                            "16.55",
+                            "13.42",
+                            "3.13"
+                        ],
+                        [
+                            "b",
+                            "Black gram",
+                            "2.695",
+                            "3.07",
+                            "2.65",
+                            "0.43"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.18",
+                            "0.18",
+                            "0.00"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum Coarse\nCereals",
+                            "11.048",
+                            "12.37",
+                            "10.62",
+                            "1.74"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "0.46",
+                            "0.46",
+                            "0.00"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "4.22",
+                            "4.10",
+                            "0.12"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 10,
+                    "rows_count": 8,
+                    "columns_count": 5,
+                    "header": [
+                        "Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi\nSeason as on 25th April, 2025",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi\nSeason as on 25th April, 2025",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Area in Lakh Hectare",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Crop",
+                            "Normal Rabi Area\nSown in major\nproducing States",
+                            "Area\nSown**\nduring\n2024-25",
+                            "Area Sown in the\ncorresponding\nperiod of 2023-24",
+                            "Increase/Decrease\nin 2024-25 over\n2023-24"
+                        ],
+                        [
+                            "(1)",
+                            "(2)",
+                            "(3)",
+                            "(4)",
+                            "(5)"
+                        ],
+                        [
+                            "Onion",
+                            "10.29",
+                            "12.58",
+                            "9.76",
+                            "2.82"
+                        ],
+                        [
+                            "Potato",
+                            "18.23",
+                            "20.03",
+                            "19.56",
+                            "0.47"
+                        ],
+                        [
+                            "Tomato",
+                            "3.83",
+                            "3.25",
+                            "3.14",
+                            "0.11"
+                        ],
+                        [
+                            "Note - 1: The figures for major producing States in Onion and Tomato have been\nrevised by including area sown of West Bengal.\n2. The Figures for Maharashtra in Rabi Onion area sown is provisional.\nDistrict-wise details regarding the over-achievement of 1.5 LHA (6.52 LHA\nachievement where target was 5 LHA) in Maharashtra, is yet to be received. The\nRabi onion area figures will be re-assessed through filed visit by the end of April,\n2025.\nNormal Area is the average sown area in last 5 years (2019-20 to 2023-\n24).\nThe share of major producing States is nearly 85% in case of Rabi\nPotato and Tomato and 90% in case of Rabi onion.",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 9,
+                    "xref": 72,
+                    "image_name": "page_9_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_9_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 1,
+            "multimodal_score": 5,
+            "keywords": [
+                "rabi",
+                "onion",
+                "area sown",
+                "area",
+                "tomato",
+                "producing states",
+                "major producing",
+                "potato",
+                "crop",
+                "potato tomato"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Onion",
+                    "label": "Crop",
+                    "score": 0.9897
+                },
+                {
+                    "text": "Potato",
+                    "label": "Crop",
+                    "score": 0.9776
+                },
+                {
+                    "text": "Tomato",
+                    "label": "Crop",
+                    "score": 0.9748
+                },
+                {
+                    "text": "Maharashtra",
+                    "label": "State",
+                    "score": 0.9642
+                },
+                {
+                    "text": "Rabi Season",
+                    "label": "Season",
+                    "score": 0.9319
+                },
+                {
+                    "text": "West Bengal",
+                    "label": "State",
+                    "score": 0.8584
+                },
+                {
+                    "text": "Kharif",
+                    "label": "Season",
+                    "score": 0.6891
+                },
+                {
+                    "text": "25th April",
+                    "label": "Date",
+                    "score": 0.666
+                },
+                {
+                    "text": "Ministry of Agriculture and Farmers' Welfare",
+                    "label": "Organization",
+                    "score": 0.6545
+                },
+                {
+                    "text": "2023- 24",
+                    "label": "Year",
+                    "score": 0.6467
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00009",
+            "chunk_type": "text",
+            "heading": "CROP SOWING STATUS FOR RABI SEASON",
+            "page_start": 9,
+            "page_end": 11,
+            "text": "The total normal Rabi sown area in the Country (including minor producing States) was 11.37 LHA for Onion, 21.47 LHA for Potato and 5.80 LHA for Tomato. Transplanting of Tomato crop for the ongoing Rabi season is progressing smoothly. The sowing window is still available for Tomato crop. Given the good prices prevailing in the market, it is expected to achieve the normal area. ** In case of Onion and Tomato, transplanted area is reported. [1]",
+            "word_count": 76,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 9,
+                    "rows_count": 11,
+                    "columns_count": 6,
+                    "header": [
+                        "Sl.\nNo.",
+                        "Crops",
+                        "Normal Summer\nArea (DES)",
+                        "Area Sown",
+                        "",
+                        "Increase/\nDecrease over\nLast year"
+                    ],
+                    "rows": [
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal Summer\nArea (DES)",
+                            "Area Sown",
+                            "",
+                            "Increase/\nDecrease over\nLast year"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current Year\n2025",
+                            "Last Year\n2024",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "31.67",
+                            "27.64",
+                            "4.03"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.645",
+                            "19.80",
+                            "16.24",
+                            "3.56"
+                        ],
+                        [
+                            "a",
+                            "Green gram",
+                            "18.950",
+                            "16.55",
+                            "13.42",
+                            "3.13"
+                        ],
+                        [
+                            "b",
+                            "Black gram",
+                            "2.695",
+                            "3.07",
+                            "2.65",
+                            "0.43"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.18",
+                            "0.18",
+                            "0.00"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum Coarse\nCereals",
+                            "11.048",
+                            "12.37",
+                            "10.62",
+                            "1.74"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "0.46",
+                            "0.46",
+                            "0.00"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "4.22",
+                            "4.10",
+                            "0.12"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 10,
+                    "rows_count": 8,
+                    "columns_count": 5,
+                    "header": [
+                        "Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi\nSeason as on 25th April, 2025",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi\nSeason as on 25th April, 2025",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Area in Lakh Hectare",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Crop",
+                            "Normal Rabi Area\nSown in major\nproducing States",
+                            "Area\nSown**\nduring\n2024-25",
+                            "Area Sown in the\ncorresponding\nperiod of 2023-24",
+                            "Increase/Decrease\nin 2024-25 over\n2023-24"
+                        ],
+                        [
+                            "(1)",
+                            "(2)",
+                            "(3)",
+                            "(4)",
+                            "(5)"
+                        ],
+                        [
+                            "Onion",
+                            "10.29",
+                            "12.58",
+                            "9.76",
+                            "2.82"
+                        ],
+                        [
+                            "Potato",
+                            "18.23",
+                            "20.03",
+                            "19.56",
+                            "0.47"
+                        ],
+                        [
+                            "Tomato",
+                            "3.83",
+                            "3.25",
+                            "3.14",
+                            "0.11"
+                        ],
+                        [
+                            "Note - 1: The figures for major producing States in Onion and Tomato have been\nrevised by including area sown of West Bengal.\n2. The Figures for Maharashtra in Rabi Onion area sown is provisional.\nDistrict-wise details regarding the over-achievement of 1.5 LHA (6.52 LHA\nachievement where target was 5 LHA) in Maharashtra, is yet to be received. The\nRabi onion area figures will be re-assessed through filed visit by the end of April,\n2025.\nNormal Area is the average sown area in last 5 years (2019-20 to 2023-\n24).\nThe share of major producing States is nearly 85% in case of Rabi\nPotato and Tomato and 90% in case of Rabi onion.",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 9,
+                    "xref": 72,
+                    "image_name": "page_9_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_9_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 2,
+            "image_count": 1,
+            "multimodal_score": 5,
+            "keywords": [
+                "tomato",
+                "onion",
+                "rabi",
+                "crop",
+                "potato",
+                "tomato crop",
+                "area",
+                "lha",
+                "tomato transplanting",
+                "transplanting tomato"
+            ],
+            "quality": "small",
+            "entities": [
+                {
+                    "text": "Tomato crop",
+                    "label": "Crop",
+                    "score": 0.9631
+                },
+                {
+                    "text": "Onion",
+                    "label": "Crop",
+                    "score": 0.9623
+                },
+                {
+                    "text": "Rabi season",
+                    "label": "Season",
+                    "score": 0.9346
+                },
+                {
+                    "text": "Potato",
+                    "label": "Crop",
+                    "score": 0.8157
+                },
+                {
+                    "text": "minor producing States",
+                    "label": "State",
+                    "score": 0.5989
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00010",
+            "chunk_type": "text",
+            "heading": "5. FERTILIZER POSITION: Availability of fertilizer has been found comfortable. Details of Requirement, Receipt, Availability, Sales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Rabi 2024-25 as on 28.04.2025 is given below:",
+            "page_start": 11,
+            "page_end": 12,
+            "text": "(Unit : in Lakh MT) Pr od uc t Total Requ irement K harif 2025 Total Requ irement K harif 2024 Opening stock as on 1.4.25 Opening stock as on 1.4.24 Requireme nt during April, 2025 Requireme nt during April, 2024 (as 28/4/25) (as on 29/4/ 24) Ava ilab ility S al e s Clos ing s tock Ava ilab ility S al e s Clos ing s tock U R E A 185.40 177.13 55.96 79.83 21.96 20.24 76. 86 1 0 . 6 7 66.1 9 10 3.8 1 9. 4 6 94.3 5 D A P 56.99 59.87 9.15 17.75 7.81 7.66 12. 57 1 . 8 5 10.7 2 21. 52 2. 0 1 19.5 2 M O P 11.13 10.26 8.83 6.36 1.53 1.34 9.6 4 0 . 8 3 8.81 6.7 9 0. 5 4 6.25 3 2.\nCrop State District/ Sub District/ Village Source Pest/ Disease Intensity Action Taken/ Remark Area infested/ Infected above *ETL (ha) Pest incidence was reported on 04.04.2025 RCIPMC, N P K 76.51 74.19 34.04 40.16 8.53 7.68 42. 11 . 1 8 38.9 3 46. 78 4 7 44.3 1 S S P 32.57 36.12 21.58 18.70 3.95 4.37 24. 36 1 . 4 1 22.9 5 20. 89 1. 0 0 19.8 8 T O T A L 362.60 357.56 129.55 162.79 43.79 41.28 16 5.5 3 1 7 . 9 3 147. 59 19 9.7 9 1 5. 4 8 184. 30 The above data indicates that the availability of Urea, MOP, Complexes and SSP is comfortable. In case of DAP, The opening stock of Kharif 2025 as compared to the opening stock of Kharif 2024 is less by 11.94 LMT As on 28th April, 2025the availability of DAP is 12.57 LMT against the requirement of 7.81 LMT during the ongoing Kharif 2025 season.",
+            "word_count": 308,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 11,
+                    "rows_count": 6,
+                    "columns_count": 13,
+                    "header": [
+                        "Pr\nod\nuc\nt",
+                        "Total Requ\nirement K\nharif 2025",
+                        "Total Requ\nirement K\nharif 2024",
+                        "Opening\nstock as\non 1.4.25",
+                        "Opening\nstock as\non 1.4.24",
+                        "Requireme\nnt during\nApril, 2025",
+                        "Requireme\nnt during\nApril, 2024",
+                        "(as 28/4/25)",
+                        "",
+                        "",
+                        "(as on 29/4/\n24)",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Pr\nod\nuc\nt",
+                            "Total Requ\nirement K\nharif 2025",
+                            "Total Requ\nirement K\nharif 2024",
+                            "Opening\nstock as\non 1.4.25",
+                            "Opening\nstock as\non 1.4.24",
+                            "Requireme\nnt during\nApril, 2025",
+                            "Requireme\nnt during\nApril, 2024",
+                            "(as 28/4/25)",
+                            "",
+                            "",
+                            "(as on 29/4/\n24)",
+                            "",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Ava\nilab\nility",
+                            "S\nal\ne\ns",
+                            "Clos\ning s\ntock",
+                            "Ava\nilab\nility",
+                            "S\nal\ne\ns",
+                            "Clos\ning s\ntock"
+                        ],
+                        [
+                            "U\nR\nE\nA",
+                            "185.40",
+                            "177.13",
+                            "55.96",
+                            "79.83",
+                            "21.96",
+                            "20.24",
+                            "76.",
+                            ".",
+                            "66.1",
+                            "3.8",
+                            "9.",
+                            "94.3"
+                        ],
+                        [
+                            "D\nA\nP",
+                            "56.99",
+                            "59.87",
+                            "9.15",
+                            "17.75",
+                            "7.81",
+                            "7.66",
+                            "12.",
+                            ".",
+                            "10.7",
+                            "21.",
+                            "2.",
+                            "19.5"
+                        ],
+                        [
+                            "M\nO\nP",
+                            "11.13",
+                            "10.26",
+                            "8.83",
+                            "6.36",
+                            "1.53",
+                            "1.34",
+                            "9.6",
+                            ".",
+                            "8.81",
+                            "6.7",
+                            "0.",
+                            "6.25"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "2.",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "Crop",
+                        "State",
+                        "District/ Sub\nDistrict/ Village",
+                        "Source",
+                        "Pest/\nDisease",
+                        "Intensity",
+                        "Action Taken/ Remark"
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "State",
+                            "District/ Sub\nDistrict/ Village",
+                            "Source",
+                            "Pest/\nDisease",
+                            "Intensity",
+                            "Action Taken/ Remark"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area\ninfested/\nInfected\nabove\n*ETL\n(ha)",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Pest incidence\nwas reported on\n04.04.2025\nRCIPMC,"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 2,
+            "image_count": 0,
+            "multimodal_score": 4,
+            "keywords": [
+                "opening stock",
+                "kharif",
+                "pest",
+                "disease",
+                "crop",
+                "requireme april",
+                "irement harif",
+                "requ irement",
+                "stock kharif",
+                "total requ"
+            ],
+            "quality": "excellent",
+            "entities": [
+                {
+                    "text": "April",
+                    "label": "Month",
+                    "score": 0.9822
+                },
+                {
+                    "text": "29/4/ 24",
+                    "label": "Date",
+                    "score": 0.6245
+                },
+                {
+                    "text": "State",
+                    "label": "State",
+                    "score": 0.569
+                },
+                {
+                    "text": "Pest",
+                    "label": "Pest",
+                    "score": 0.514
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00011",
+            "chunk_type": "text",
+            "heading": "6. PEST & DISEASE",
+            "page_start": 12,
+            "page_end": 14,
+            "text": "Over all intensity of pests and disease remained below Economic Threshold Level (ETL) except:\nCoconut Karnataka Tumakuru, Hassan, Chikkamanagaluru and Chitradurga Survey by RCIPMC Bengaluru Stem bleeding, Ganoderma wilt, Rugose spiraling whitefly, Leaf blight 138 Bengaluru conducted survey in Tumakuru, Hassan, Chikkamanagaluru and Chitradurga districts from 03.04.2025 to 05.04.2025. Advisory issued through State WhatsApp group. Survey team distributed pest management leaflets to the farmers and issued on farm advisory Regular monitoring is being carried out by all field functionaries as follow up action. Coconut/ West Coast Tall/ All stages Kerala Palakkad/ Chitoor/ Nalleppilly, Kolinjampara, Kozhipathy, Vannamada, Gopalapuram Survey by CIPMC Ernakulam Rugose Spiralling Whitefly 6 Pest incidence was reported on 25.04.2025 Advisory issued through State WhatsApp group. Survey team distributed pest management leaflets to the farmers and issued on farm advisory Regular monitoring is being carried out by all field functionaries as follow up action.\nAll India Weekly Average Mandi Prices Increasing Trend Decreasing Trend Commodities % Variation over last Week Commodities % Variation over last Week Wheat Gram Mustard Sesamum Onion 0.40 1.62 0.07 2.18 5.74 Paddy (Rice un-milled) Tur (Arhar) Masur Moong Urad Groundnut Soyabean Potato Tomato -3.31 -4.77 -5.42 -2.24 -12.66 -1.30 -0.62 --0.80 -4.93",
+            "word_count": 198,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 13,
+                    "header": [
+                        "N\nP\nK",
+                        "76.51",
+                        "74.19",
+                        "34.04",
+                        "40.16",
+                        "8.53",
+                        "7.68",
+                        "42.",
+                        ".",
+                        "38.9",
+                        "46.",
+                        "",
+                        "44.3"
+                    ],
+                    "rows": [
+                        [
+                            "N\nP\nK",
+                            "76.51",
+                            "74.19",
+                            "34.04",
+                            "40.16",
+                            "8.53",
+                            "7.68",
+                            "42.",
+                            ".",
+                            "38.9",
+                            "46.",
+                            "",
+                            "44.3"
+                        ],
+                        [
+                            "S\nS\nP",
+                            "32.57",
+                            "36.12",
+                            "21.58",
+                            "18.70",
+                            "3.95",
+                            "4.37",
+                            "24.",
+                            ".",
+                            "22.9",
+                            "20.",
+                            "1.",
+                            "19.8"
+                        ],
+                        [
+                            "T\nO\nT\nA\nL",
+                            "362.60",
+                            "357.56",
+                            "129.55",
+                            "162.79",
+                            "43.79",
+                            "41.28",
+                            "5.5",
+                            ".",
+                            "147.",
+                            "9.7",
+                            "5.",
+                            "184."
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 12,
+                    "rows_count": 3,
+                    "columns_count": 7,
+                    "header": [
+                        "Crop",
+                        "State",
+                        "District/ Sub\nDistrict/ Village",
+                        "Source",
+                        "Pest/\nDisease",
+                        "Intensity",
+                        "Action Taken/ Remark"
+                    ],
+                    "rows": [
+                        [
+                            "Crop",
+                            "State",
+                            "District/ Sub\nDistrict/ Village",
+                            "Source",
+                            "Pest/\nDisease",
+                            "Intensity",
+                            "Action Taken/ Remark"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Area\ninfested/\nInfected\nabove\n*ETL\n(ha)",
+                            ""
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "Pest incidence\nwas reported on\n04.04.2025\nRCIPMC,"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [],
+            "table_count": 2,
+            "image_count": 0,
+            "multimodal_score": 4,
+            "keywords": [
+                "pest",
+                "disease",
+                "mustard",
+                "potato",
+                "tomato",
+                "wheat",
+                "onion",
+                "rice",
+                "survey",
+                "chikkamanagaluru chitradurga"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Rugose spiraling whitefly",
+                    "label": "Pest",
+                    "score": 0.9632
+                },
+                {
+                    "text": "Coconut",
+                    "label": "Crop",
+                    "score": 0.9461
+                },
+                {
+                    "text": "Karnataka",
+                    "label": "State",
+                    "score": 0.9351
+                },
+                {
+                    "text": "Rugose Spiralling Whitefly",
+                    "label": "Pest",
+                    "score": 0.933
+                },
+                {
+                    "text": "Ganoderma wilt",
+                    "label": "Disease",
+                    "score": 0.929
+                },
+                {
+                    "text": "Kerala",
+                    "label": "State",
+                    "score": 0.8958
+                },
+                {
+                    "text": "Leaf blight",
+                    "label": "Disease",
+                    "score": 0.8939
+                },
+                {
+                    "text": "Stem bleeding",
+                    "label": "Disease",
+                    "score": 0.8254
+                },
+                {
+                    "text": "Tomato",
+                    "label": "Crop",
+                    "score": 0.7599
+                },
+                {
+                    "text": "Sesamum Onion",
+                    "label": "Crop",
+                    "score": 0.7262
+                },
+                {
+                    "text": "Mustard",
+                    "label": "Crop",
+                    "score": 0.718
+                },
+                {
+                    "text": "Survey team",
+                    "label": "Organization",
+                    "score": 0.6924
+                },
+                {
+                    "text": "RCIPMC",
+                    "label": "Organization",
+                    "score": 0.672
+                },
+                {
+                    "text": "Wheat Gram",
+                    "label": "Crop",
+                    "score": 0.6511
+                },
+                {
+                    "text": "Chitradurga",
+                    "label": "District",
+                    "score": 0.6314
+                },
+                {
+                    "text": "Soyabean",
+                    "label": "Crop",
+                    "score": 0.6072
+                },
+                {
+                    "text": "Chikkamanagaluru",
+                    "label": "District",
+                    "score": 0.5638
+                },
+                {
+                    "text": "Groundnut",
+                    "label": "Crop",
+                    "score": 0.5547
+                },
+                {
+                    "text": "Tumakuru",
+                    "label": "District",
+                    "score": 0.5496
+                },
+                {
+                    "text": "Paddy",
+                    "label": "Crop",
+                    "score": 0.5153
+                },
+                {
+                    "text": "Potato",
+                    "label": "Crop",
+                    "score": 0.5063
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00012",
+            "chunk_type": "text",
+            "heading": "7. PRICES",
+            "page_start": 14,
+            "page_end": 19,
+            "text": "Source: DoCA (through UPAg) All India Weekly Average Retail Prices Increasing Trend Decreasing Trend Commodities % Variation over last Week Commodities % Variation over last Week Rice Arhar Gram Masur Moong Dal 1.66 0.13 0.25 0.09 0.32 Wheat Mustard Oil Soyabean Oil Onion -0.76 -0.34 -0.60 -3.06\nUrad Potato Tomato 0.01 3.21 0.60 Source: DoCA (through UPAg) Details are enclosed at Annexure\n\n\nActual stock of Rice & Wheat together was 500.03 LMT against the buffer norm of 210.40 LMT.",
+            "word_count": 79,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 4,
+                    "header": [
+                        "All India Weekly Average Mandi Prices",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Mandi Prices",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Increasing Trend",
+                            "",
+                            "Decreasing Trend",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "% Variation over\nlast Week",
+                            "Commodities",
+                            "% Variation over\nlast Week"
+                        ],
+                        [
+                            "Wheat\nGram\nMustard\nSesamum\nOnion",
+                            "0.40\n1.62\n0.07\n2.18\n5.74",
+                            "Paddy (Rice un-milled)\nTur (Arhar)\nMasur\nMoong\nUrad\nGroundnut\nSoyabean\nPotato\nTomato",
+                            "-3.31\n-4.77\n-5.42\n-2.24\n-12.66\n-1.30\n-0.62\n--0.80\n-4.93"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 4,
+                    "header": [
+                        "All India Weekly Average Retail Prices",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Retail Prices",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Increasing Trend",
+                            "",
+                            "Decreasing Trend",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "% Variation over last\nWeek",
+                            "Commodities",
+                            "% Variation over last\nWeek"
+                        ],
+                        [
+                            "Rice\nArhar\nGram\nMasur\nMoong Dal",
+                            "1.66\n0.13\n0.25\n0.09\n0.32",
+                            "Wheat\nMustard Oil\nSoyabean Oil\nOnion",
+                            "-0.76\n-0.34\n-0.60\n-3.06"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 15,
+                    "rows_count": 1,
+                    "columns_count": 3,
+                    "header": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 16,
+                    "xref": 111,
+                    "image_name": "page_16_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_16_image_1.png",
+                    "width": 1143,
+                    "height": 750,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 3,
+            "image_count": 1,
+            "multimodal_score": 7,
+            "keywords": [
+                "wheat",
+                "rice",
+                "mustard",
+                "potato",
+                "tomato",
+                "onion",
+                "commodities variation",
+                "variation over",
+                "doca through",
+                "through upag"
+            ],
+            "quality": "small",
+            "entities": [
+                {
+                    "text": "Rice",
+                    "label": "Crop",
+                    "score": 0.9857
+                },
+                {
+                    "text": "Wheat",
+                    "label": "Crop",
+                    "score": 0.9717
+                },
+                {
+                    "text": "Onion",
+                    "label": "Crop",
+                    "score": 0.7901
+                },
+                {
+                    "text": "Gram",
+                    "label": "Crop",
+                    "score": 0.7282
+                },
+                {
+                    "text": "Tomato",
+                    "label": "Crop",
+                    "score": 0.6969
+                },
+                {
+                    "text": "Moong Dal",
+                    "label": "Crop",
+                    "score": 0.5676
+                },
+                {
+                    "text": "Soyabean Oil",
+                    "label": "Crop",
+                    "score": 0.5385
+                },
+                {
+                    "text": "DoCA",
+                    "label": "Organization",
+                    "score": 0.5358
+                },
+                {
+                    "text": "Mustard Oil",
+                    "label": "Crop",
+                    "score": 0.5034
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00013",
+            "chunk_type": "text",
+            "heading": "7. PRICES",
+            "page_start": 14,
+            "page_end": 19,
+            "text": "All India Procurement of Paddy/Rice during KMS 2024-25 As on 27.04.2025 (Figures in LMT) Crop Rice Procurement Estimates during KMS 2024-25 (Estimates in terms of Paddy) KMS 2024-25 KMS 2023-24 Progressive Paddy procurement Progressive procurement in terms of Rice (Percentage of target achieved) Progressive Corresponding paddy Procurement Progressive Corresponding Procurement in terms of Rice Kharif 495.61 (739.69) 764.82 512.43 (103.39%) 718.09 481.12 Rabi 71.70 (107.07) 18.96 12.71 (17.72%) 21.32 14.28 (Source: CFPP Portal) All India Procurement of Wheat during RMS 2025-26 & RMS 2024-25 As on 27.04.2025 (Figures in LMT)\nWheat Procurement Estimates during RMS 2025-26 ( LMTs) Progressive Wheat Procurement during RMS 2025-26 Corresponding Wheat Procurement during RMS 2024-25 312.70 156.60 195.74 (Source: CFPP Portal) ********************** Annexure All India Mandi Wholesale prices (Rs/Quintal) All India Retail Prices (Rs/Quintal)\nAnnexure Government of India Crops Division SOWING AND HARVESTING STATUS OF RABI CROPS AS ON 25.4.2025 (Area in lakh ha) S. No. Crop Normal Area (DES) Area as per 2nd A.E. % Area Harvested Crop condition/Remark 1 Wheat 312.35 326.06 92.00 Harvesting is completed in Chhattisgarh, Madhya Pradesh, Rajasthan, Gujarat, Karnataka and Maharashtra it is going on in Uttar Pradesh (88%), Punjab (80%), Haryana( 92%), Bihar (88%) etc. 2 Rice * 42.02 43.12 61.40 100% harvested in Karnataka and Kerala.",
+            "word_count": 209,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 4,
+                    "header": [
+                        "All India Weekly Average Mandi Prices",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Mandi Prices",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Increasing Trend",
+                            "",
+                            "Decreasing Trend",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "% Variation over\nlast Week",
+                            "Commodities",
+                            "% Variation over\nlast Week"
+                        ],
+                        [
+                            "Wheat\nGram\nMustard\nSesamum\nOnion",
+                            "0.40\n1.62\n0.07\n2.18\n5.74",
+                            "Paddy (Rice un-milled)\nTur (Arhar)\nMasur\nMoong\nUrad\nGroundnut\nSoyabean\nPotato\nTomato",
+                            "-3.31\n-4.77\n-5.42\n-2.24\n-12.66\n-1.30\n-0.62\n--0.80\n-4.93"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 4,
+                    "header": [
+                        "All India Weekly Average Retail Prices",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Retail Prices",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Increasing Trend",
+                            "",
+                            "Decreasing Trend",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "% Variation over last\nWeek",
+                            "Commodities",
+                            "% Variation over last\nWeek"
+                        ],
+                        [
+                            "Rice\nArhar\nGram\nMasur\nMoong Dal",
+                            "1.66\n0.13\n0.25\n0.09\n0.32",
+                            "Wheat\nMustard Oil\nSoyabean Oil\nOnion",
+                            "-0.76\n-0.34\n-0.60\n-3.06"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 15,
+                    "rows_count": 1,
+                    "columns_count": 3,
+                    "header": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 16,
+                    "xref": 111,
+                    "image_name": "page_16_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_16_image_1.png",
+                    "width": 1143,
+                    "height": 750,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 3,
+            "image_count": 1,
+            "multimodal_score": 7,
+            "keywords": [
+                "procurement",
+                "wheat",
+                "rice",
+                "crop",
+                "harvesting",
+                "crops",
+                "rabi",
+                "wheat procurement",
+                "kharif",
+                "progressive"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Madhya Pradesh",
+                    "label": "State",
+                    "score": 0.9841
+                },
+                {
+                    "text": "Haryana",
+                    "label": "State",
+                    "score": 0.9829
+                },
+                {
+                    "text": "Karnataka",
+                    "label": "State",
+                    "score": 0.9789
+                },
+                {
+                    "text": "Uttar Pradesh",
+                    "label": "State",
+                    "score": 0.9757
+                },
+                {
+                    "text": "Maharashtra",
+                    "label": "State",
+                    "score": 0.9717
+                },
+                {
+                    "text": "Chhattisgarh",
+                    "label": "State",
+                    "score": 0.9714
+                },
+                {
+                    "text": "Bihar",
+                    "label": "State",
+                    "score": 0.9699
+                },
+                {
+                    "text": "Rajasthan",
+                    "label": "State",
+                    "score": 0.9673
+                },
+                {
+                    "text": "Punjab",
+                    "label": "State",
+                    "score": 0.9665
+                },
+                {
+                    "text": "Gujarat",
+                    "label": "State",
+                    "score": 0.9617
+                },
+                {
+                    "text": "Wheat",
+                    "label": "Crop",
+                    "score": 0.9249
+                },
+                {
+                    "text": "Rice",
+                    "label": "Crop",
+                    "score": 0.9214
+                },
+                {
+                    "text": "Kerala",
+                    "label": "State",
+                    "score": 0.8991
+                },
+                {
+                    "text": "Kharif",
+                    "label": "Season",
+                    "score": 0.8216
+                },
+                {
+                    "text": "Rabi",
+                    "label": "Season",
+                    "score": 0.7853
+                },
+                {
+                    "text": "Paddy",
+                    "label": "Crop",
+                    "score": 0.7385
+                },
+                {
+                    "text": "CFPP Portal",
+                    "label": "Organization",
+                    "score": 0.5209
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00014",
+            "chunk_type": "text",
+            "heading": "7. PRICES",
+            "page_start": 14,
+            "page_end": 19,
+            "text": "Harvesting is going on in a full swing in\nTamil Nadu (91%), Telangana (45%), Andhra Pradesh (52)%, etc. 3 Pulses 140.44 142.43 99.00 Harvesting has been almost completed. a Gram 100.99 99.41 99.00 Harvesting has been completed in Gujarat, Assam, Madhya Pradesh, Chhattisgarh ,Maharashtra, Odisha, West Bengal, Uttar Pradesh and Telangana harvesting is going on in , Andhra Pradesh (98%), Bihar (95%), Karnataka (98%), Jharkhand (98%), Rajasthan (95%) etc. b Lentil 15.13 17.38 99.00 100% harvested in almost all states expect Bihar (95%), Jharkhand (98%), Rajasthan (95%), and Uttrakhand (80%). c Fieldpea $ 6.50 7.94 100.00 100% Harvesting stage. d Kulthi $ 1.98 2.00 100.00 100% Harvesting stage. e Urdbean * 6.15 6.08 99.00 100% harvested in Tamil Nadu, Telangana and Assam. Harvesting is going on in Andhra Pradesh (98%), Chhattisgarh (95%), Bihar (80%), and West Bengal (53%). f Moongbean * 1.44 1.34 98.00 Harvesting has been completed in almost all states except Andhra Pradesh (95%), and Bihar (90%). g Lathyrus $ 2.79 2.80 100.00 100% Harvesting stage. h Other Pulses $ 5.46 5.47 100.00 100% Harvesting stage. 4 Shri Anna & Coarse cereals 52.20 53.86 87.99 Crop is at Maturity to harvesting stage. a Jowar * 24.37 24.77 98.378 Harvesting has been completed in almost all states except Andhra Pradesh (95%), Telangana (35%).",
+            "word_count": 214,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 4,
+                    "header": [
+                        "All India Weekly Average Mandi Prices",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Mandi Prices",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Increasing Trend",
+                            "",
+                            "Decreasing Trend",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "% Variation over\nlast Week",
+                            "Commodities",
+                            "% Variation over\nlast Week"
+                        ],
+                        [
+                            "Wheat\nGram\nMustard\nSesamum\nOnion",
+                            "0.40\n1.62\n0.07\n2.18\n5.74",
+                            "Paddy (Rice un-milled)\nTur (Arhar)\nMasur\nMoong\nUrad\nGroundnut\nSoyabean\nPotato\nTomato",
+                            "-3.31\n-4.77\n-5.42\n-2.24\n-12.66\n-1.30\n-0.62\n--0.80\n-4.93"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 4,
+                    "header": [
+                        "All India Weekly Average Retail Prices",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Retail Prices",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Increasing Trend",
+                            "",
+                            "Decreasing Trend",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "% Variation over last\nWeek",
+                            "Commodities",
+                            "% Variation over last\nWeek"
+                        ],
+                        [
+                            "Rice\nArhar\nGram\nMasur\nMoong Dal",
+                            "1.66\n0.13\n0.25\n0.09\n0.32",
+                            "Wheat\nMustard Oil\nSoyabean Oil\nOnion",
+                            "-0.76\n-0.34\n-0.60\n-3.06"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 15,
+                    "rows_count": 1,
+                    "columns_count": 3,
+                    "header": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 16,
+                    "xref": 111,
+                    "image_name": "page_16_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_16_image_1.png",
+                    "width": 1143,
+                    "height": 750,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 3,
+            "image_count": 1,
+            "multimodal_score": 7,
+            "keywords": [
+                "harvesting",
+                "harvesting stage",
+                "andhra pradesh",
+                "harvesting has",
+                "pradesh",
+                "pulses",
+                "harvesting going",
+                "has completed",
+                "almost states",
+                "jowar"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Andhra Pradesh",
+                    "label": "State",
+                    "score": 0.9939
+                },
+                {
+                    "text": "Telangana",
+                    "label": "State",
+                    "score": 0.9859
+                },
+                {
+                    "text": "West Bengal",
+                    "label": "State",
+                    "score": 0.9853
+                },
+                {
+                    "text": "Chhattisgarh",
+                    "label": "State",
+                    "score": 0.9841
+                },
+                {
+                    "text": "Bihar",
+                    "label": "State",
+                    "score": 0.9833
+                },
+                {
+                    "text": "Tamil Nadu",
+                    "label": "State",
+                    "score": 0.9827
+                },
+                {
+                    "text": "Rajasthan",
+                    "label": "State",
+                    "score": 0.9825
+                },
+                {
+                    "text": "Karnataka",
+                    "label": "State",
+                    "score": 0.9769
+                },
+                {
+                    "text": "Assam",
+                    "label": "State",
+                    "score": 0.972
+                },
+                {
+                    "text": "Uttar Pradesh",
+                    "label": "State",
+                    "score": 0.9651
+                },
+                {
+                    "text": "Jharkhand",
+                    "label": "State",
+                    "score": 0.9632
+                },
+                {
+                    "text": "Madhya Pradesh",
+                    "label": "State",
+                    "score": 0.9617
+                },
+                {
+                    "text": "Maharashtra",
+                    "label": "State",
+                    "score": 0.9465
+                },
+                {
+                    "text": "Gujarat",
+                    "label": "State",
+                    "score": 0.9445
+                },
+                {
+                    "text": "Odisha",
+                    "label": "State",
+                    "score": 0.9093
+                },
+                {
+                    "text": "Lentil",
+                    "label": "Crop",
+                    "score": 0.9073
+                },
+                {
+                    "text": "Uttrakhand",
+                    "label": "State",
+                    "score": 0.882
+                },
+                {
+                    "text": "Gram",
+                    "label": "Crop",
+                    "score": 0.8732
+                },
+                {
+                    "text": "Fieldpea",
+                    "label": "Crop",
+                    "score": 0.862
+                },
+                {
+                    "text": "Moongbean",
+                    "label": "Crop",
+                    "score": 0.8484
+                },
+                {
+                    "text": "Pulses",
+                    "label": "Crop",
+                    "score": 0.8466
+                },
+                {
+                    "text": "Lathyrus",
+                    "label": "Crop",
+                    "score": 0.8248
+                },
+                {
+                    "text": "Kulthi",
+                    "label": "Crop",
+                    "score": 0.815
+                },
+                {
+                    "text": "Jowar",
+                    "label": "Crop",
+                    "score": 0.8092
+                },
+                {
+                    "text": "Urdbean",
+                    "label": "Crop",
+                    "score": 0.8006
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00015",
+            "chunk_type": "text",
+            "heading": "7. PRICES",
+            "page_start": 14,
+            "page_end": 19,
+            "text": "b Maize * 22.11 22.92 78.51 Harvesting is completed in Maharashtra, Karnataka and Gujarat. Harvesting is going on in Andhra Pradesh 65%, Bihar 60%,Tamil Nadu 80%, Telangana 90% Uttar Pradesh 90% and West Bengal 85%. c Barley 5.72 6.17 83.45 Harvesting is going on in full swing in Madhya Pradesh 95%, Rajasthan 90%,Uttar Pradesh 70%, etc. 5 Oilseeds 86.44 95.18 99.52 Almost harvesting completed. a Rapeseed & Mustard 79.16 87.58 99.85 Harvesting has been completed in almost all states except Haryana (99%), Punjab (90%) , etc. Groundnut Harvesting has been completed in almost all states except Andhra Pradesh (85%), Bihar\nb * 3.82 4.03 94.39 (75%), West Bengal (75%) and Tamil Nadu (81%) , etc. c Safflower 0.72 0.64 99.26 Harvesting has been completed in almost all states except Telangana(80%) , etc. d Sunflower * 0.81 0.63 95.21 Harvesting has been completed in almost all states except Telangana (90%) , Tamil Nadu (86%), etc. e Linseed 1.93 1.88 95.55 Harvesting has been completed in almost all states except Jharkhand (90%) , West Bengal 90%), etc.",
+            "word_count": 175,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 4,
+                    "header": [
+                        "All India Weekly Average Mandi Prices",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Mandi Prices",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Increasing Trend",
+                            "",
+                            "Decreasing Trend",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "% Variation over\nlast Week",
+                            "Commodities",
+                            "% Variation over\nlast Week"
+                        ],
+                        [
+                            "Wheat\nGram\nMustard\nSesamum\nOnion",
+                            "0.40\n1.62\n0.07\n2.18\n5.74",
+                            "Paddy (Rice un-milled)\nTur (Arhar)\nMasur\nMoong\nUrad\nGroundnut\nSoyabean\nPotato\nTomato",
+                            "-3.31\n-4.77\n-5.42\n-2.24\n-12.66\n-1.30\n-0.62\n--0.80\n-4.93"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 4,
+                    "header": [
+                        "All India Weekly Average Retail Prices",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Retail Prices",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Increasing Trend",
+                            "",
+                            "Decreasing Trend",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "% Variation over last\nWeek",
+                            "Commodities",
+                            "% Variation over last\nWeek"
+                        ],
+                        [
+                            "Rice\nArhar\nGram\nMasur\nMoong Dal",
+                            "1.66\n0.13\n0.25\n0.09\n0.32",
+                            "Wheat\nMustard Oil\nSoyabean Oil\nOnion",
+                            "-0.76\n-0.34\n-0.60\n-3.06"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 15,
+                    "rows_count": 1,
+                    "columns_count": 3,
+                    "header": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 16,
+                    "xref": 111,
+                    "image_name": "page_16_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_16_image_1.png",
+                    "width": 1143,
+                    "height": 750,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 3,
+            "image_count": 1,
+            "multimodal_score": 7,
+            "keywords": [
+                "harvesting",
+                "completed almost",
+                "harvesting has",
+                "has completed",
+                "almost states",
+                "states except",
+                "completed",
+                "west bengal",
+                "tamil nadu",
+                "mustard"
+            ],
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Andhra Pradesh",
+                    "label": "State",
+                    "score": 0.9941
+                },
+                {
+                    "text": "Tamil Nadu",
+                    "label": "State",
+                    "score": 0.9928
+                },
+                {
+                    "text": "Telangana",
+                    "label": "State",
+                    "score": 0.9917
+                },
+                {
+                    "text": "Bihar",
+                    "label": "State",
+                    "score": 0.9888
+                },
+                {
+                    "text": "Uttar Pradesh",
+                    "label": "State",
+                    "score": 0.9873
+                },
+                {
+                    "text": "West Bengal",
+                    "label": "State",
+                    "score": 0.9857
+                },
+                {
+                    "text": "Madhya Pradesh",
+                    "label": "State",
+                    "score": 0.9777
+                },
+                {
+                    "text": "Rajasthan",
+                    "label": "State",
+                    "score": 0.9733
+                },
+                {
+                    "text": "Maharashtra",
+                    "label": "State",
+                    "score": 0.9693
+                },
+                {
+                    "text": "Karnataka",
+                    "label": "State",
+                    "score": 0.9644
+                },
+                {
+                    "text": "Punjab",
+                    "label": "State",
+                    "score": 0.9513
+                },
+                {
+                    "text": "Gujarat",
+                    "label": "State",
+                    "score": 0.9377
+                },
+                {
+                    "text": "Haryana",
+                    "label": "State",
+                    "score": 0.9367
+                },
+                {
+                    "text": "Barley",
+                    "label": "Crop",
+                    "score": 0.9185
+                },
+                {
+                    "text": "Sunflower",
+                    "label": "Crop",
+                    "score": 0.9051
+                },
+                {
+                    "text": "Jharkhand",
+                    "label": "State",
+                    "score": 0.9048
+                },
+                {
+                    "text": "Maize",
+                    "label": "Crop",
+                    "score": 0.9044
+                },
+                {
+                    "text": "Linseed",
+                    "label": "Crop",
+                    "score": 0.8613
+                },
+                {
+                    "text": "Safflower",
+                    "label": "Crop",
+                    "score": 0.8537
+                },
+                {
+                    "text": "Oilseeds",
+                    "label": "Crop",
+                    "score": 0.797
+                },
+                {
+                    "text": "Groundnut",
+                    "label": "Crop",
+                    "score": 0.6404
+                },
+                {
+                    "text": "Rapeseed & Mustard",
+                    "label": "Crop",
+                    "score": 0.6019
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00016",
+            "chunk_type": "text",
+            "heading": "7. PRICES",
+            "page_start": 14,
+            "page_end": 19,
+            "text": "Total Crops 633.46 660.65 92.19 [1]Major Producing States for Rabi Onion are: Maharashtra, Madhya Pradesh, Karnataka, Bihar, Rajasthan, Gujarat, Andhra Pradesh, Haryana, Uttar Pradesh, Telangana and Tamil Nadu Major Producing States for Rabi Potato are: Uttar Pradesh, West Bengal, Bihar, Gujarat, Madhya Pradesh, Punjab and Haryana Major Producing States for Rabi Tomato are: Andhra Pradesh, Madhya Pradesh, Karnataka, Gujarat, Maharashtra, and Telangana",
+            "word_count": 62,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 4,
+                    "header": [
+                        "All India Weekly Average Mandi Prices",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Mandi Prices",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Increasing Trend",
+                            "",
+                            "Decreasing Trend",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "% Variation over\nlast Week",
+                            "Commodities",
+                            "% Variation over\nlast Week"
+                        ],
+                        [
+                            "Wheat\nGram\nMustard\nSesamum\nOnion",
+                            "0.40\n1.62\n0.07\n2.18\n5.74",
+                            "Paddy (Rice un-milled)\nTur (Arhar)\nMasur\nMoong\nUrad\nGroundnut\nSoyabean\nPotato\nTomato",
+                            "-3.31\n-4.77\n-5.42\n-2.24\n-12.66\n-1.30\n-0.62\n--0.80\n-4.93"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 14,
+                    "rows_count": 4,
+                    "columns_count": 4,
+                    "header": [
+                        "All India Weekly Average Retail Prices",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Weekly Average Retail Prices",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Increasing Trend",
+                            "",
+                            "Decreasing Trend",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "% Variation over last\nWeek",
+                            "Commodities",
+                            "% Variation over last\nWeek"
+                        ],
+                        [
+                            "Rice\nArhar\nGram\nMasur\nMoong Dal",
+                            "1.66\n0.13\n0.25\n0.09\n0.32",
+                            "Wheat\nMustard Oil\nSoyabean Oil\nOnion",
+                            "-0.76\n-0.34\n-0.60\n-3.06"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 3,
+                    "page": 15,
+                    "rows_count": 1,
+                    "columns_count": 3,
+                    "header": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 16,
+                    "xref": 111,
+                    "image_name": "page_16_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_16_image_1.png",
+                    "width": 1143,
+                    "height": 750,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "table_count": 3,
+            "image_count": 1,
+            "multimodal_score": 7,
+            "keywords": [
+                "rabi",
+                "pradesh",
+                "producing states",
+                "major producing",
+                "madhya pradesh",
+                "states rabi",
+                "potato",
+                "tomato",
+                "crops",
+                "onion"
+            ],
+            "quality": "small",
+            "entities": [
+                {
+                    "text": "Madhya Pradesh",
+                    "label": "State",
+                    "score": 0.9958
+                },
+                {
+                    "text": "Andhra Pradesh",
+                    "label": "State",
+                    "score": 0.9955
+                },
+                {
+                    "text": "Maharashtra",
+                    "label": "State",
+                    "score": 0.9941
+                },
+                {
+                    "text": "Gujarat",
+                    "label": "State",
+                    "score": 0.9928
+                },
+                {
+                    "text": "Telangana",
+                    "label": "State",
+                    "score": 0.9919
+                },
+                {
+                    "text": "Haryana",
+                    "label": "State",
+                    "score": 0.9904
+                },
+                {
+                    "text": "Uttar Pradesh",
+                    "label": "State",
+                    "score": 0.9896
+                },
+                {
+                    "text": "Bihar",
+                    "label": "State",
+                    "score": 0.9895
+                },
+                {
+                    "text": "Karnataka",
+                    "label": "State",
+                    "score": 0.9883
+                },
+                {
+                    "text": "Punjab",
+                    "label": "State",
+                    "score": 0.9713
+                },
+                {
+                    "text": "Rajasthan",
+                    "label": "State",
+                    "score": 0.9586
+                },
+                {
+                    "text": "West Bengal",
+                    "label": "State",
+                    "score": 0.9472
+                },
+                {
+                    "text": "Tamil Nadu",
+                    "label": "State",
+                    "score": 0.9439
+                },
+                {
+                    "text": "Rabi Tomato",
+                    "label": "Crop",
+                    "score": 0.9106
+                },
+                {
+                    "text": "Rabi Potato",
+                    "label": "Crop",
+                    "score": 0.9097
+                },
+                {
+                    "text": "Rabi Onion",
+                    "label": "Crop",
+                    "score": 0.9012
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00017",
+            "chunk_type": "table",
+            "heading": "Introduction",
+            "page_start": 1,
+            "page_end": 2,
+            "table_id": 1,
+            "table_index": 1,
+            "caption": "",
+            "text": "All India Mandi Wholesale Prices\nCommodities | MSP\n(RS/Qtl) | Price as on 25-04-\n2025 | % Variation over\nMSP\nArhar whole\nGram whole\nMasur whole\nMoong whole\nUrad whole\nGroundnut\nMustard\nSoyabean\nSunflower\nSesamum | 7550\n5650\n6700\n8682\n7400\n6783\n5950\n4892\n7280\n9267 | 7030\n5631\n6293\n8279\n7061\n5017\n5849\n4250\n4897\n8934 | -6.89\n-0.34\n-6.07\n-4.64\n-4.58\n-26.04\n-1.70\n-13.12\n-32.73\n-3.59",
+            "word_count": 68,
+            "row_count": 3,
+            "column_count": 4,
+            "table_count": 1,
+            "image_count": 1,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 2,
+                    "rows_count": 3,
+                    "columns_count": 4,
+                    "header": [
+                        "All India Mandi Wholesale Prices",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "All India Mandi Wholesale Prices",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Commodities",
+                            "MSP\n(RS/Qtl)",
+                            "Price as on 25-04-\n2025",
+                            "% Variation over\nMSP"
+                        ],
+                        [
+                            "Arhar whole\nGram whole\nMasur whole\nMoong whole\nUrad whole\nGroundnut\nMustard\nSoyabean\nSunflower\nSesamum",
+                            "7550\n5650\n6700\n8682\n7400\n6783\n5950\n4892\n7280\n9267",
+                            "7030\n5631\n6293\n8279\n7061\n5017\n5849\n4250\n4897\n8934",
+                            "-6.89\n-0.34\n-6.07\n-4.64\n-4.58\n-26.04\n-1.70\n-13.12\n-32.73\n-3.59"
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 1,
+                    "xref": 9,
+                    "image_name": "page_1_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_1_image_1.png",
+                    "width": 1213,
+                    "height": 281,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "keywords": [
+                "mustard",
+                "whole",
+                "prices commodities",
+                "soyabean sunflower",
+                "groundnut mustard",
+                "sunflower sesamum",
+                "wholesale prices",
+                "mustard soyabean",
+                "mandi wholesale",
+                "commodities msp"
+            ],
+            "multimodal_score": 3,
+            "quality": "small",
+            "entities": [
+                {
+                    "text": "Sesamum",
+                    "label": "Crop",
+                    "score": 0.9244
+                },
+                {
+                    "text": "Sunflower",
+                    "label": "Crop",
+                    "score": 0.8991
+                },
+                {
+                    "text": "Moong",
+                    "label": "Crop",
+                    "score": 0.8886
+                },
+                {
+                    "text": "Arhar",
+                    "label": "Crop",
+                    "score": 0.8717
+                },
+                {
+                    "text": "Masur",
+                    "label": "Crop",
+                    "score": 0.8645
+                },
+                {
+                    "text": "Soyabean",
+                    "label": "Crop",
+                    "score": 0.8366
+                },
+                {
+                    "text": "Urad",
+                    "label": "Crop",
+                    "score": 0.7624
+                },
+                {
+                    "text": "Mustard",
+                    "label": "Crop",
+                    "score": 0.7491
+                },
+                {
+                    "text": "Gram",
+                    "label": "Crop",
+                    "score": 0.7223
+                },
+                {
+                    "text": "Groundnut",
+                    "label": "Crop",
+                    "score": 0.6072
+                }
+            ]
+        },
+        {
+            "chunk_id": "CWWG_00018",
+            "chunk_type": "table",
+            "heading": "CROP SOWING STATUS FOR RABI SEASON",
+            "page_start": 9,
+            "page_end": 11,
+            "table_id": 2,
+            "table_index": 3,
+            "caption": "",
+            "text": "Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi\nSeason as on 25th April, 2025\nArea in Lakh Hectare\nCrop | Normal Rabi Area\nSown in major\nproducing States | Area\nSown**\nduring\n2024-25 | Area Sown in the\ncorresponding\nperiod of 2023-24 | Increase/Decrease\nin 2024-25 over\n2023-24\n(1) | (2) | (3) | (4) | (5)\nOnion | 10.29 | 12.58 | 9.76 | 2.82\nPotato | 18.23 | 20.03 | 19.56 | 0.47\nTomato | 3.83 | 3.25 | 3.14 | 0.11\nNote - 1: The figures for major producing States in Onion and Tomato have been\nrevised by including area sown of West Bengal.\n2. The Figures for Maharashtra in Rabi Onion area sown is provisional.\nDistrict-wise details regarding the over-achievement of 1.5 LHA (6.52 LHA\nachievement where target was 5 LHA) in Maharashtra, is yet to be received. The\nRabi onion area figures will be re-assessed through filed visit by the end of April,\n2025.\nNormal Area is the average sown area in last 5 years (2019-20 to 2023-\n24).\nThe share of major producing States is nearly 85% in case of Rabi\nPotato and Tomato and 90% in case of Rabi onion.",
+            "word_count": 203,
+            "row_count": 8,
+            "column_count": 5,
+            "table_count": 2,
+            "image_count": 1,
+            "tables": [
+                {
+                    "table_id": 1,
+                    "page": 9,
+                    "rows_count": 11,
+                    "columns_count": 6,
+                    "header": [
+                        "Sl.\nNo.",
+                        "Crops",
+                        "Normal Summer\nArea (DES)",
+                        "Area Sown",
+                        "",
+                        "Increase/\nDecrease over\nLast year"
+                    ],
+                    "rows": [
+                        [
+                            "Sl.\nNo.",
+                            "Crops",
+                            "Normal Summer\nArea (DES)",
+                            "Area Sown",
+                            "",
+                            "Increase/\nDecrease over\nLast year"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "Current Year\n2025",
+                            "Last Year\n2024",
+                            ""
+                        ],
+                        [
+                            "",
+                            "Rice",
+                            "30.795",
+                            "31.67",
+                            "27.64",
+                            "4.03"
+                        ],
+                        [
+                            "",
+                            "Pulses",
+                            "21.645",
+                            "19.80",
+                            "16.24",
+                            "3.56"
+                        ],
+                        [
+                            "a",
+                            "Green gram",
+                            "18.950",
+                            "16.55",
+                            "13.42",
+                            "3.13"
+                        ],
+                        [
+                            "b",
+                            "Black gram",
+                            "2.695",
+                            "3.07",
+                            "2.65",
+                            "0.43"
+                        ],
+                        [
+                            "c",
+                            "Other Pulses",
+                            "0.000",
+                            "0.18",
+                            "0.18",
+                            "0.00"
+                        ],
+                        [
+                            "",
+                            "Shree Anna cum Coarse\nCereals",
+                            "11.048",
+                            "12.37",
+                            "10.62",
+                            "1.74"
+                        ],
+                        [
+                            "a",
+                            "Jowar",
+                            "0.335",
+                            "0.46",
+                            "0.46",
+                            "0.00"
+                        ],
+                        [
+                            "b",
+                            "Bajra",
+                            "4.100",
+                            "4.22",
+                            "4.10",
+                            "0.12"
+                        ],
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                },
+                {
+                    "table_id": 2,
+                    "page": 10,
+                    "rows_count": 8,
+                    "columns_count": 5,
+                    "header": [
+                        "Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi\nSeason as on 25th April, 2025",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "rows": [
+                        [
+                            "Status of Sowing of Onion, Potato and Tomato in major producing States for Rabi\nSeason as on 25th April, 2025",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Area in Lakh Hectare",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Crop",
+                            "Normal Rabi Area\nSown in major\nproducing States",
+                            "Area\nSown**\nduring\n2024-25",
+                            "Area Sown in the\ncorresponding\nperiod of 2023-24",
+                            "Increase/Decrease\nin 2024-25 over\n2023-24"
+                        ],
+                        [
+                            "(1)",
+                            "(2)",
+                            "(3)",
+                            "(4)",
+                            "(5)"
+                        ],
+                        [
+                            "Onion",
+                            "10.29",
+                            "12.58",
+                            "9.76",
+                            "2.82"
+                        ],
+                        [
+                            "Potato",
+                            "18.23",
+                            "20.03",
+                            "19.56",
+                            "0.47"
+                        ],
+                        [
+                            "Tomato",
+                            "3.83",
+                            "3.25",
+                            "3.14",
+                            "0.11"
+                        ],
+                        [
+                            "Note - 1: The figures for major producing States in Onion and Tomato have been\nrevised by including area sown of West Bengal.\n2. The Figures for Maharashtra in Rabi Onion area sown is provisional.\nDistrict-wise details regarding the over-achievement of 1.5 LHA (6.52 LHA\nachievement where target was 5 LHA) in Maharashtra, is yet to be received. The\nRabi onion area figures will be re-assessed through filed visit by the end of April,\n2025.\nNormal Area is the average sown area in last 5 years (2019-20 to 2023-\n24).\nThe share of major producing States is nearly 85% in case of Rabi\nPotato and Tomato and 90% in case of Rabi onion.",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    "extraction_tool": "pdfplumber"
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 1,
+                    "page": 9,
+                    "xref": 72,
+                    "image_name": "page_9_image_1.png",
+                    "image_path": "C:\\Users\\ariji\\Desktop\\calender_crop\\extraction\\output\\images\\28-04-2025_Minutes of the meeting of CWWG as on 28.04.2025\\page_9_image_1.png",
+                    "width": 640,
+                    "height": 360,
+                    "format": "PNG",
+                    "extraction_tool": "PyMuPDF"
+                }
+            ],
+            "keywords": [
+                "onion",
+                "rabi",
+                "area sown",
+                "tomato",
+                "area",
+                "producing states",
+                "major producing",
+                "potato",
+                "potato tomato",
+                "rabi onion"
+            ],
+            "multimodal_score": 5,
+            "quality": "good",
+            "entities": [
+                {
+                    "text": "Onion",
+                    "label": "Crop",
+                    "score": 0.9876
+                },
+                {
+                    "text": "Maharashtra",
+                    "label": "State",
+                    "score": 0.9753
+                },
+                {
+                    "text": "Potato",
+                    "label": "Crop",
+                    "score": 0.972
+                },
+                {
+                    "text": "Rabi Season",
+                    "label": "Season",
+                    "score": 0.9678
+                },
+                {
+                    "text": "Tomato",
+                    "label": "Crop",
+                    "score": 0.9649
+                },
+                {
+                    "text": "West Bengal",
+                    "label": "State",
+                    "score": 0.8267
+                },
+                {
+                    "text": "April",
+                    "label": "Month",
+                    "score": 0.7004
+                },
+                {
+                    "text": "2023- 24",
+                    "label": "Year",
+                    "score": 0.607
+                }
+            ]
+        }
+    ]
+}

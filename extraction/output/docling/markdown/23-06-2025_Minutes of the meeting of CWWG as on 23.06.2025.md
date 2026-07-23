@@ -1,0 +1,323 @@
+<!-- image -->
+
+## Key Insights
+
+1. Kharif Sowing Status: Kharif sowing data collection has started from 06 th  June, 2025 and the sowing is in preliminary stage.  As on 20 th  June,  2025,  the  area  sown  under  Kharif  crops  is 137.84 lakh ha (including 55.07 lakh ha (105% of normal area) in Sugarcane) as compared to 124.88 lakh ha during the corresponding period of last year. (The normal area coverage during Kharif is estimated to be more than 1100 lakh ha.)
+
+## 2. Weather Update:
+
+- a) Temperature: Maximum Temperatures likely to fall by 2-4°C over southwest Rajasthan during next 3 days and no significant change thereafter. Maximum Temperatures likely to fall by 23°C over Northwest India. No significant change in maximum temperatures likely over rest parts of the country. Hot &amp; Humid conditions very likely in isolated pockets of Tamil Nadu, Coastal Andhra Pradesh &amp; Yanam, Rayalaseema during 19th-21st June.
+- b) Rainfall Distribution: From June 01- 22 June, 2025, the All-India cumulative rainfall is 1% lower than its Long Period Average (LPA), with regional variations: (i) East &amp; Northeast India: (-)15%; (ii) Northwest India: (+)26%; (iii) Central India: (+)8%; and South Peninsula: (-) 10%.
+3.  Heavy to very heavy rainfall likely over Northwest India, Madhya  Pradesh, Gujarat and Konkan &amp; Goa during 21st - 26th June, 2025 with isolated extremely heavy rainfall over Gujarat Region and Madhya Pradesh on 21st &amp; 23rd June respectively.
+4.  Heavy to very heavy rainfall likely to continue over Northeast India during next 3 days and isolated heavy rainfall thereafter for subsequent 4 days.
+5.  Scattered to fairly widespread rainfall very likely over central India, ghat area of western coast, eastern India &amp; northwest India.
+6.  Isolated to scattered rainfall very likely over the south peninsula India &amp; western India. India. It is likely to be normal to below normal over the remaining parts of the country.
+
+## 3. Inputs Situation:
+
+- a) Water  Reservoir  Status :  As  on  19 th   June  2025,  the  total  live  water  storage  in  161  important reservoirs across the country (monitored by CWC) is 58.03 Billion Cubic Meter, which is 31.8% of total live storage capacity (182.44 BCM). The current year's storage is nearly 151 percent of last year's  storage  and  139  percent  of  the  average  storage  of  the  last  ten  years  during  the corresponding period. The overall storage position is better than the corresponding period of last year  in  the  country  as  a  whole  and  is  also  better  than  the  Normal  storage  during  the corresponding period.
+
+<!-- image -->
+
+## Agricultural StatisticsDivision Department of Agriculture&amp;FarmersWelfare Ministry of Agriculture &amp; Farmers Welfare Government of India
+
+## CROP WEATHER WATCH GROUP (CWWG) WEEKLYREPORT
+
+(as on 23.06.2025)
+
+<!-- image -->
+
+- b) Groundwater Levels :  Approximately 66.6% of monitoring wells show water levels between 0-5 m, while 29.1% report levels between 5-10 m. Decadal analysis (2014-2023) indicates a rise in 64.9% of wells and a decline in 35.1% as of August 2024.
+- c) Seeds and Fertilizers : For Kharif 2025, certified seed availability is 178.64 lakh quintals against a requirement of 164.05 lakh quintals, ensuring a surplus of 14.60 lakh quintals. The fertilizer supply remains stable across all products.
+4. Pests &amp; Diseases: Over all intensity of pests and disease remained below Economic Threshold Level (ETL) and no major pest incidence was recorded.
+5. Crops whose Mandi Wholesale prices are below MSP:
+
+| All India Mandi Wholesale Prices                                                   | All India Mandi Wholesale Prices   | All India Mandi Wholesale Prices   | All India Mandi Wholesale Prices            |
+|------------------------------------------------------------------------------------|------------------------------------|------------------------------------|---------------------------------------------|
+| Commodities                                                                        | MSP (RS/Qtl)                       | Price as on 20-06-2025             | % Variation over MSP                        |
+| Rice (un milled) Arhar whole Masur whole Moong whole Urad whole Groundnut Soyabean | 2300 7550 6700 8682 7400 6783 4892 | 2054 6492 6469 6869 6609 5567 4199 | -10.70 -14.00 -3.40 -20.9 -10.7 -17.9 -14.2 |
+
+Source: Agmarknet
+
+## 1. RAINFALL
+
+-  During the week (12 th June - 18 th June2025), higher rainfall was observed, as compared to Long Period Average (LPA) by 11%. However, cumulative seasonal rainfall (01 st June to 18 th June 2025) is lower than LPA by 11%.
+
+<!-- image -->
+
+## Legend
+
+LargeExcess[60%ormore]
+
+Excess[20%to59%]
+
+<!-- image -->
+
+## NOTES:
+
+- a)RainFallfiguresarebasedonoperationdata.
+
+c)PercentageDeparturesofrainfallareshowninbrackets.
+
+- b)Smallfiguresindicateactualrainfal(mm),whileboldfiguresindicateNormalrainfall(mm).
+
+## Rainfall Forecast:
+
+-  Overall  weekly  rainfall  is  likely  to  be  above  normal  over  Central  India,  plains  of Northwest India, Gujarat, Maharashtra and East India.
+
+## Advance of Southwest Monsoon:
+
+-  The Northern Limit of Monsoon  continues to pass through 25.0°N/60.0°E, 25.0°N/65.0°E, 25.5°N/70.0°E, Jaipur, Agra, Rampur, Dehradun, Shimla, Manali and 33.5°N/79.0°E.
+
+<!-- image -->
+
+Normal[-19%to19%]Deficient[-59%to-20%]
+
+Large Deficient[-99%to-60%]NoRain[-100%]NoData
+
+## Details of each Segment
+
+-  Conditions are favourable for further advance of Southwest monsoon  over remaining  parts  of  North  Arabian  Sea,  some  more  parts  of  Rajasthan,  remaining parts  of  West  Uttar  Pradesh,  Uttarakhand,  Himachal  Pradesh  and  some  parts  of Jammu  &amp;  Kashmir-Gilgit-Baltistan,  Muzaffarabad,  some  more  parts  of  Ladakh during next 2 days. Conditions are also becoming favourable for further advance of southwest monsoon over remaining parts of Jammu &amp; Kashmir, Ladakh, some parts of Punjab &amp; Haryana and Chandigarh &amp; Delhi during subsequent 2 days.
+
+<!-- image -->
+
+## 2. TEMPERATURE: MIN &amp; MAX
+
+## MME Bias corrected forecast Tmax (Deg C)
+
+<!-- image -->
+
+## Temperature
+
+## Week 1 (19 th  - 25 th   June 2025):
+
+-  Maximum temperatures are likely  to  fall  by  2-4°C  over  southwest  Rajasthan  during  next  3 days and no significant change thereafter
+-  No significant change in maximum temperatures likely over rest parts of the country.
+
+## Week 2 ( 26 th  June - 02 th   July 2025):
+
+-  Fall by 2-3°C in maximum temperatures likely over Northwest India.
+-  No significant change in maximum temperatures likely over rest parts of the country.
+
+Agricultural Statistics Division| Department of Agriculture &amp; Farmers Welfare |Ministry of Agriculture &amp; Farmers Welfare
+
+-  These are likely to be below normal over most parts of the country outside parts of east and northeast  India  and  Western  Himalayan  Region  Where  it  is  likely  to  be  near  normal  to  above normal.
+
+## 3. RESERVOIR STORAGE (as on 19 th  June, 2025)
+
+Current live storage in 161 reservoirs was  58.03 BCM (31.8%) of total live capacity of 182.44 BCM.
+
+Table 1: For 161 major reservoirs of the country
+
+-  132  reservoirs  having  storage  more  than 80% of normal storage.
+-  20 reservoirs having storage 51% to 80%.
+-  9 reservoirs having storage upto 50%.
+
+| Period       |   Storage as % of FRL |   Storage as % of Last Year |   Storage as % of 10 Year's Average Level |
+|--------------|-----------------------|-----------------------------|-------------------------------------------|
+| Current Week |                    32 |                         151 |                                       139 |
+| Last Week    |                    30 |                         140 |                                       131 |
+
+<!-- image -->
+
+Source: CWC
+
+Agricultural Statistics Division| Department of Agriculture &amp; Farmers Welfare |Ministry of Agriculture &amp; Farmers Welfare
+
+## 4. REMOTE SENSING BASED SOIL MOISTURE OBSERVATION
+
+## Soil Moisture Observation
+
+-  Soil moisture as on 20 th  June 2025 was similar/better than the average of the past 9  years  in  Gujarat,  Rajasthan,  M.P,  Maharashtra,  Karnataka,  Haryana,  Punjab, A.P., Tamil Nadu, Odisha, Jharkhand, Western U.P. and Southern West Bengal.
+-  It  was lower than average of past 9 years in Bihar, Eastern U.P., Chhattisgarh, Telangana and N.E. Regions.
+
+<!-- image -->
+
+## 5. CROP SOWING STATUS FOR KHARIF SEASON
+
+## Kharif Crops - Area coverage
+
+-  Sugarcane: About 55.07 lakh ha area coverage under Sugarcane has been reported as compared to 54.88 lakh ha during the corresponding period of last year.
+-  Cotton: About 31.25 lakh ha area coverage has been reported compared to 29.12 lakh ha during the corresponding period of last year
+
+Agricultural Statistics Division| Department of Agriculture &amp; Farmers Welfare |Ministry of Agriculture &amp; Farmers Welfare
+
+-  Jute:  There  has  been  a  decline  in  area  sown  under  Jute  on  account  of diversion towards Maize and Sesamum.
+
+## Government of India Ministry of Agriculture &amp; Farmers Welfare Department of Agriculture &amp; Farmers Welfare
+
+## Crops Division
+
+| Progress of area coverage under Kharif crops as on 20.06.2025   | Progress of area coverage under Kharif crops as on 20.06.2025   | Progress of area coverage under Kharif crops as on 20.06.2025   | Progress of area coverage under Kharif crops as on 20.06.2025   | Progress of area coverage under Kharif crops as on 20.06.2025   | Progress of area coverage under Kharif crops as on 20.06.2025   |
+|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
+|                                                                 |                                                                 |                                                                 | Area:                                                           | Area:                                                           | In lakh hectare Increase (+)/ Decrease (-)                      |
+| S. No.                                                          |                                                                 | Normal Area                                                     | Area Sown                                                       | Area Sown                                                       | over 2024                                                       |
+|                                                                 | Crop                                                            | (DES)                                                           | 2025                                                            | 2024                                                            |                                                                 |
+| 1                                                               | Rice                                                            | 403.09                                                          | 13.22                                                           | 8.37                                                            | 4.86                                                            |
+| 2                                                               | Pulses                                                          | 129.61                                                          | 9.44                                                            | 6.63                                                            | 2.80                                                            |
+| a                                                               | Arhar                                                           | 44.71                                                           | 2.48                                                            | 2.61                                                            | -0.13                                                           |
+| b                                                               | Urdbean                                                         | 32.64                                                           | 1.39                                                            | 0.62                                                            | 0.77                                                            |
+| c                                                               | Moongbean                                                       | 35.69                                                           | 4.43                                                            | 2.67                                                            | 1.77                                                            |
+| d                                                               | Kulthi                                                          | 1.72                                                            | 0.08                                                            | 0.07                                                            | 0.01                                                            |
+| e                                                               | Mothbean                                                        | 9.70                                                            | 0.11                                                            | 0.00                                                            | 0.11                                                            |
+| f                                                               | Other pulses                                                    | 5.15                                                            | 0.94                                                            | 0.67                                                            | 0.27                                                            |
+| 3                                                               | Shri Anna cum Coarse cereals                                    | 180.71                                                          | 18.03                                                           | 14.77                                                           | 3.25                                                            |
+| a                                                               | Jowar                                                           | 15.07                                                           | 1.51                                                            | 0.90                                                            | 0.61                                                            |
+| b                                                               | Bajra                                                           | 70.69                                                           | 3.70                                                            | 2.71                                                            | 1.00                                                            |
+| c                                                               | Ragi                                                            | 11.52                                                           | 0.03                                                            | 0.32                                                            | -0.29                                                           |
+| d                                                               | Small millets                                                   | 4.48                                                            | 0.47                                                            | 0.55                                                            | -0.08                                                           |
+| e                                                               | Maize                                                           | 78.95                                                           | 12.32                                                           | 10.31                                                           | 2.01                                                            |
+| 4                                                               | Oilseeds                                                        | 194.63                                                          | 5.38                                                            | 5.49                                                            | -0.11                                                           |
+| a                                                               | Groundnut                                                       | 45.10                                                           | 1.78                                                            | 1.91                                                            | -0.13                                                           |
+| b                                                               | Soybean                                                         | 127.19                                                          | 3.07                                                            | 3.12                                                            | -0.05                                                           |
+| c                                                               | Sunflower                                                       | 1.29                                                            | 0.27                                                            | 0.26                                                            | 0.02                                                            |
+| d                                                               | Sesamum                                                         | 10.32                                                           | 0.20                                                            | 0.14                                                            | 0.06                                                            |
+| e                                                               | Niger                                                           | 1.08                                                            | 0.00                                                            | 0.00                                                            | 0.00                                                            |
+| f                                                               | Castor                                                          | 9.65                                                            | 0.01                                                            | 0.02                                                            | -0.01                                                           |
+| g                                                               | Other Oilseeds                                                  | 0.00                                                            | 0.03                                                            | 0.04                                                            | 0.00                                                            |
+| 5                                                               | Sugarcane                                                       | 52.51                                                           | 55.07                                                           | 54.88                                                           | 0.20                                                            |
+| 6                                                               | Jute & Mesta                                                    | 6.59                                                            | 5.46                                                            | 5.62                                                            | -0.17                                                           |
+| 7                                                               | Cotton                                                          | 129.50                                                          | 31.25                                                           | 29.12                                                           | 2.14                                                            |
+| Total                                                           | Total                                                           | 1096.64                                                         | 137.84                                                          | 124.88                                                          | 12.97                                                           |
+
+Disclaimer  :  For  Kharif  and  Rabi  crop-wise  estimated  area,  please  see  advanced  estimates released by Ministry of Agriculture and Farmers' Welfare available on UPAg (upag.gov.in)
+
+## 6. FERTILIZER POSITION:
+
+Availability  of  fertilizer  has  been  found  comfortable.  Details  of  Requirement, Receipt,  Availability,  Sales  and  Stock  position  of  Major  Fertilizers  (Urea,  DAP, MOP, Complex and SSP) during Rabi 2024-25 as on 20.06.2025 is given below:
+
+(Unit : in Lakh MT)
+
+| Product   | Total Require ment Kharif 2025   | Total Require ment   | Openi ng stock as on 1.4.25   | Openin g stock as on 1.4.24   | Requir ement during June, 2025   | Require ment during June, 2024   | (as on 20/6/25)   | (as on 20/6/25)   | (as on 20/6/25)   | (as on 18/6/24)   | (as on 18/6/24)   | (as on 18/6/24)   |
+|-----------|----------------------------------|----------------------|-------------------------------|-------------------------------|----------------------------------|----------------------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
+| Product   | Total Require ment Kharif 2025   | Kharif 2024          | Openi ng stock as on 1.4.25   | Openin g stock as on 1.4.24   | Requir ement during June, 2025   | Require ment during June, 2024   | Avail abilit y    | Sales             | Closi ng stock    | Availa bility     | Sales             | Clos ing stoc k   |
+| UREA      | 185.40                           | 177.13               | 55.96                         | 79.83                         | 31.72                            | 31.83                            | 85.30             | 20.09             | 65.21             | 119.15            | 16.08             | 103.07            |
+| DAP       | 56.99                            | 59.87                | 9.15 17.75                    |                               | 10.62                            | 11.70                            | 17.66             | 4.97              | 12.69             | 26.50             | 5.81              | 20.69             |
+| MOP       | 11.13                            | 10.26                | 8.83 6.36                     |                               | 2.03                             | 1.91                             | 9.40              | 3.65              | 5.75              | 7.35              | 2.45              | 4.90              |
+| NPK       | 76.51                            | 74.19                | 34.04 40.16                   |                               | 15.05                            | 15.20                            | 54.30             | 11.04             | 43.26             | 56.42             | 7.16              | 49.26             |
+| SSP       | 32.57                            | 36.12                | 21.58                         | 18.70                         | 6.95                             | 7.28                             | 28.38             | 4.18              | 24.20             | 25.04             | 3.19              | 21.85             |
+| TOTA L    | 362.60                           | 357.56               | 129.55                        | 162.79                        | 66.38                            | 67.92                            | 195.03            | 43.93             | 151.10            | 234.46            | 34.69             | 199.76            |
+
+.
+
+## 7. PEST &amp; DISEASE
+
+Over all intensity of pests and disease remained below Economic Threshold Level (ETL).
+
+<!-- image -->
+
+| All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   |
+|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
+| Increasing Trend                        | Increasing Trend                        | Decreasing Trend                        | Decreasing Trend                        |
+| Commodities                             | % Variation over last Week              | Commodities                             | % Variation over last Week              |
+| Tur (Arhar)                             | 4.42                                    | Paddy (Rice un-milled)                  | -3.57                                   |
+| Gram                                    | 2.79                                    | Wheat                                   | -0.28                                   |
+| Masur                                   | 1.06                                    | Mustard                                 | -0.18                                   |
+| Moong                                   | 4.36                                    | Sunflower                               | -0.03                                   |
+| Urad                                    | 2.77                                    | Tomato                                  | -8.14                                   |
+| Groundnut                               | 3.38                                    |                                         |                                         |
+| Soybean                                 | 1.38                                    |                                         |                                         |
+| Sesamum                                 | 2.30                                    |                                         |                                         |
+| Onion                                   | 4.45                                    |                                         |                                         |
+| Potato                                  | 0.99                                    |                                         |                                         |
+
+Source: Agmarknet (through UPAg)
+
+| All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   |
+|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
+| Increasing Trend                         | Increasing Trend                         | Decreasing Trend                         | Decreasing Trend                         |
+| Commodities                              | % Variation over last Week               | Commodities                              | % Variation over last Week               |
+| Rice ` Mustard Oil Onion Potato Tomato   | 0.05                                     | Wheat Arhar Gram Masur Moong Urad        | -0.29                                    |
+|                                          | 0.14                                     |                                          | -0.88                                    |
+|                                          | 0.04                                     |                                          | -0.61                                    |
+|                                          | 0.79                                     |                                          | -0.43                                    |
+|                                          | 6.97                                     |                                          | -0.41                                    |
+|                                          |                                          |                                          | -0.37                                    |
+|                                          |                                          | Soyabean Oil                             | -0.03                                    |
+
+Source: DoCA (through UPAg)
+
+Details are enclosed at Annexure
+
+## 9. PROCUREMENT
+
+-  Actual stock of Rice &amp; Wheat together was 749.18 LMT against the buffer norm of 210.40 LMT.
+
+## All India Procurement of Paddy/Rice during KMS 2024-25
+
+As on 22.06.2025 (Figures in LMT)
+
+| Crop        | Rice Procurement Estimates during KMS 2024-25 (Estimates in terms of Paddy)   | KMS 2024-25                   | KMS 2024-25                                                              | KMS 2023-24                                 | KMS 2023-24                                            |
+|-------------|-------------------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------|
+|             |                                                                               | Progressive Paddy procurement | Progressive procurement in terms of Rice (Percentage of target achieved) | Progressive Corresponding paddy Procurement | Progressive Corresponding Procurement in terms of Rice |
+| Kharif      | 500.33 (746.76)                                                               | 688.22                        | 462.25 (92.39%)                                                          | 694.11                                      | 466.10                                                 |
+| Rabi        | 71.70 (107.07)                                                                | 96.09                         | 64.66 (90.18%)                                                           | 64.89                                       | 43.55                                                  |
+| Kharif+Rabi | 572.03 (853.78)                                                               | 784.31                        | 526.91 (92.11%)                                                          | 759.00                                      | 509.65                                                 |
+
+(
+
+Source: FCI Portal)
+
+## All India Procurement of Wheat during RMS 2025-26 &amp; RMS 2024-25
+
+As on 22.06.2025  (Figures in LMT)
+
+|   Wheat Procurement Estimates during RMS 2025-26 ( LMTs) |   Progressive Wheat Procurement during RMS 2025-26 |   Corresponding Wheat Procurement during RMS 2024-25 |
+|----------------------------------------------------------|----------------------------------------------------|------------------------------------------------------|
+|                                                   333.86 |                                             300.14 |                                               265.91 |
+
+(
+
+Source: FCI Portal)
+
+*********************
+
+## All India Mandi Wholesale prices (Rs/Quintal)
+
+|                                  |                                  |                                  |                                  |                                  |                                  | % Variation Over                 | % Variation Over                 | % Variation Over                 |
+|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| Commodities                      | Current MSP                      | Prices as on 20.06.25            | One Week Ago 13.06.25            | 1 Month Ago 20.05.25             | 1 Year Ago 20.06.24              | Last Week                        | Last Month                       | 1 Year Ago                       |
+| Cereals                          |                                  |                                  |                                  |                                  |                                  |                                  |                                  |                                  |
+| Paddy (Rice unmilled)            | 2300                             | 2054                             | 2130                             | 2194                             | 2448                             | -3.57                            | -6.38                            | -16.09                           |
+| Wheat                            | 2425                             | 2511                             | 2518                             | 2542                             | 2473                             | -0.28                            | -1.22                            | 1.54                             |
+| Pulses                           |                                  |                                  |                                  |                                  |                                  |                                  |                                  |                                  |
+| Arhar whole                      | 7550                             | 6492                             | 6217                             | 6679                             | 11012                            | 4.42                             | -2.80                            | -41.05                           |
+| Gram whole                       | 5650                             | 5668                             | 5514                             | 5601                             | 6502                             | 2.79                             | 1.20                             | -12.83                           |
+| Masur Whole                      | 6700                             | 6469                             | 6401                             | 6477                             | 6096                             | 1.06                             | -0.12                            | 6.12                             |
+| Moong Whole                      | 8682                             | 6869                             | 6582                             | 7957                             | 7685                             | 4.36                             | -13.67                           | -10.62                           |
+| Urad Whole                       | 7400                             | 6609                             | 6431                             | 7034                             | 8738                             | 2.77                             | -6.04                            | -24.36                           |
+| Oil Seeds                        |                                  |                                  |                                  |                                  |                                  |                                  |                                  |                                  |
+| Groundnut                        | 6783                             | 5567                             | 5385                             | 5180                             | 5935                             | 3.38                             | 7.47                             | -6.20                            |
+| Mustard                          | 5950                             | 6198                             | 6209                             | 6030                             | 5533                             | -0.18                            | 2.79                             | 12.02                            |
+| Soyabean                         | 4892                             | 4199                             | 4142                             | 4175                             | 4405                             | 1.38                             | 0.57                             | -4.68                            |
+| Sesamum                          | 9267                             | 9474                             | 9261                             | 9620                             | 12884                            | 2.30                             | -1.52                            | -26.47                           |
+| Sunflower                        | 7280                             | 7278                             | 7280                             | 5432                             | 6300                             | -0.03                            | 33.98                            | 15.52                            |
+| Onion                            |                                  | 1268                             | 1214                             | 951                              | 2583                             | 4.45                             | 33.33                            | -50.91                           |
+| Potato                           |                                  | 1222                             | 1210                             | 1155                             | 1951                             | 0.99                             | 5.80                             | -37.37                           |
+| Tomato                           |                                  | 1648                             | 1794                             | 1072                             | 3645                             | -8.14                            | 53.73                            | -54.79                           |
+| Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) |
+
+## All India Retail Prices (Rs/Quintal)
+
+| Commodities                                   | All India Weekly Average Retail Prices (In Rs./Kg)   | All India Weekly Average Retail Prices (In Rs./Kg)   | All India Weekly Average Retail Prices (In Rs./Kg)   | All India Weekly Average Retail Prices (In Rs./Kg)   | All India Weekly Average Retail Prices (In Rs./Kg)   | % Variation Over                              | % Variation Over                              | % Variation Over                              |
+|-----------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| Commodities                                   |                                                      | Prices as on 20.06.25                                | One Week Ago 13.06.25                                | 1 Month Ago 20.05.25                                 | 1 Year Ago 20.06.24                                  | Last Week                                     | Last Month                                    | 1 Year Ago                                    |
+| Cereals                                       |                                                      |                                                      |                                                      |                                                      |                                                      |                                               |                                               |                                               |
+| Rice                                          |                                                      | 42.86                                                | 42.84                                                | 42.63                                                | 44.99                                                | 0.05                                          | 0.54                                          | -4.73                                         |
+| Wheat                                         |                                                      | 31.15                                                | 31.24                                                | 31.24                                                | 30.99                                                | -0.29                                         | -0.29                                         | 0.52                                          |
+| Pulses                                        |                                                      |                                                      |                                                      |                                                      |                                                      |                                               |                                               |                                               |
+| Arhar/Tur Dal                                 |                                                      | 122.49                                               | 123.58                                               | 126.56                                               | 161.30                                               | -0.88                                         | -3.22                                         | -24.06                                        |
+| Gram Dal                                      |                                                      | 86.01                                                | 86.54                                                | 86.82                                                | 88.11                                                | -0.61                                         | -0.93                                         | -2.38                                         |
+| Masur Dal                                     |                                                      | 87.80                                                | 88.18                                                | 88.28                                                | 94.14                                                | -0.43                                         | -0.54                                         | -6.73                                         |
+| Moong Dal                                     |                                                      | 110.87                                               | 111.33                                               | 111.43                                               | 119.11                                               | -0.41                                         | -0.50                                         | -6.92                                         |
+| Urad Dal                                      |                                                      | 115.80                                               | 116.23                                               | 117.67                                               | 126.74                                               | -0.37                                         | -1.59                                         | -8.63                                         |
+| Edible Oils                                   |                                                      |                                                      |                                                      |                                                      |                                                      |                                               |                                               |                                               |
+| Mustard Oil                                   |                                                      | 171.73                                               | 171.49                                               | 170.66                                               | 139.65                                               | 0.14                                          | 0.63                                          | 22.97                                         |
+| Soyabean Oil                                  |                                                      | 146.61                                               | 146.66                                               | 147.04                                               | 123.76                                               | -0.03                                         | -0.29                                         | 18.46                                         |
+| Horticulture                                  |                                                      |                                                      |                                                      |                                                      |                                                      |                                               |                                               |                                               |
+| Onion                                         |                                                      | 26.74                                                | 26.73                                                | 26.56                                                | 38.24                                                | 0.04                                          | 0.68                                          | -30.07                                        |
+| Potato                                        |                                                      | 25.47                                                | 25.27                                                | 24.51                                                | 32.33                                                | 0.79                                          | 3.92                                          | -21.22                                        |
+| Tomato                                        |                                                      | 34.09                                                | 31.87                                                | 23.83                                                | 46.61                                                | 6.97                                          | 43.05                                         | -26.86                                        |
+| Source: Department of Consumer Affairs (DOCA) | Source: Department of Consumer Affairs (DOCA)        | Source: Department of Consumer Affairs (DOCA)        | Source: Department of Consumer Affairs (DOCA)        | Source: Department of Consumer Affairs (DOCA)        | Source: Department of Consumer Affairs (DOCA)        | Source: Department of Consumer Affairs (DOCA) | Source: Department of Consumer Affairs (DOCA) | Source: Department of Consumer Affairs (DOCA) |
+
+## Annexure

@@ -1,0 +1,364 @@
+<!-- image -->
+
+## Key Insights
+
+1. Rabi Sowing Status: As on November 28, 2025, the area sown under Rabi crops is 393.07 lakh ha (including 77.06 lakh ha in Rapeseed &amp; Mustard &amp; 62.49 lakh ha in Gram) as compared to 357.73 lakh ha during the corresponding period of last year.
+2.  As  on  28.11.2025,  64.40%  of  area  has  been  harvested  for  Kharif  crops  all  over  India. Approximately, 60% area of Pulses mainly in Uradbean (95%), Moongbean (99%) &amp; Mothbean (100%);  94.46%  area  of  Oilseeds  majorly  in  Groundnut  (94.83%),    Soyabean  (99.99%)&amp; Sesamum (92.28%); 89.92% area of Shri Anna cum Coarse Cereals, majorly in Jowar (91.04%) &amp; Bajra (97.77%) and 65% area of Rice has been harvested for crops of Kharif 2025-26.
+
+## 2. Weather Update :
+
+- a) Temperature: Minimum temperatures are likely to be below normal 2-4°C over most parts of  the  country  except  northeast India  and  Western  Himalayan  Region, where these are likely to be above normal by 1-3°C during the week .
+- b) Rainfall  Distribution: From  October  01-  November  30  2025,  the  All-India  cumulative rainfall  is  23%  higher  than  its  Long  Period  Average (LPA), with regional variations:  (i) East &amp; Northeast India: 7%; (ii) Northwest India: 75%; (iii) Central India: 44%; and South Peninsula: 9%.
+3.  The Cyclonic Storm Ditwah over coastal Sri Lanka and adjoining southwest Bay of Bengal, heavy rainfall likely over north Tamil Nadu &amp; Odisha on 01 st  December; Coastal Andhra Pradesh,  Yanam  &amp;  Rayalaseema  on  01 st   &amp;  02 nd   December;  over  Telangana  on  01 st December 2025.
+4.  The  Western  disturbance  as  an  upper  air  cyclonic  circulation  over  North  Haryana  &amp; neighbourhood.
+5.  Thunderstorm with lightning very likely over Tamil Nadu, North Coastal Andhra Pradesh &amp; Yanam and Rayalaseema during 01 st -03 rd  December; over South Interior Karnataka on 01 st     December;  over  Kerala  &amp;  Mahe  during  02 nd   &amp;  03 rd   December;  North  interior Karnataka 01 st   December, 2025 .
+6.  Overall rainfall activity is likely to below normal over most parts of India.
+7.  Dense fog conditions very likely to prevail during early morning hours in isolated pockets of Himachal Pradesh on 01 st  &amp; 02 nd  December, 2025.
+8.  Cold wave conditions very likely to prevail in isolated pockets of Punjab on 01 st  &amp; 02 nd December, 2025.
+
+<!-- image -->
+
+## Agricultural Statistics Division Department of Agriculture &amp; Farmers Welfare Ministry of Agriculture &amp; Farmers Welfare Government of India
+
+## CROP WEATHER WATCH GROUP (CWWG) WEEKLY REPORT
+
+## (as on 01.12.2025)
+
+<!-- image -->
+
+## 3. Inputs Situation
+
+- a) Water  Reservoir  Status :  As  on  27  November  2025,  the  total  live  water  storage  in  166 important  reservoirs  across  the  country  (monitored  by  CWC)  is  161.218  billion  cubic meter,  which  is  87.8%  of  total  live  storage  capacity  (183.565  BCM).  The  current  year's storage is  nearly 107.27 percent of last  year's storage  and 121.44 percent of the average storage of the last ten years during the corresponding period. The overall storage position is better than the corresponding period of last year in the country as a whole and is also better than the Normal storage during the corresponding period.
+- b) Groundwater  Levels :  In  August  2025,  around  89%  of  the  country's  monitoring  stations exhibited a depth to water level within 10 meters below ground level. Deeper water levels of more than 20 m are observed in around 5% of stations of the country covering mainly the western states, especially Western Rajasthan, Punjab, Haryana and Chandigarh.
+3.  The deeper groundwater level in the states like Western Rajasthan, Punjab, Haryana and Chandigarh during August 2025 has been significantly influenced by the over extraction of groundwater compared to the recharge during the monsoon period.
+4.  Annual water level comparison with the previous year August 2024 to August 2025 has shown  that  about  56.5%  of  total  analyzed  stations  of  the  country  experienced  rise  in annual water level fluctuation because of the higher rainfall in 2025 compared to 2024 in Monsoon period.
+5.  About 70% of the analyzed stations of the unconfined aquifer experienced a rise of water level  in  the  decadal  mean  water  level  fluctuation  of  2015-2024  with  respect  to  August 2025.
+- c) Seeds  and  Fertilizers :  For  Kharif  2025,  certified  seed  availability  is  178.64  lakh  quintals against  a  requirement  of  164.05  lakh  quintals, ensuring  a  surplus of  14.60  lakh  quintals. The fertilizer supply remains stable across all products.
+4. Pests  &amp;  Diseases :  There  is  no  major  pest  incidence  that  has  been  reported.  The  overall intensity of pests and diseases remained below the Economic Threshold Level.
+
+<!-- image -->
+
+## 5. Crops whose Mandi Wholesale prices are below MSP:
+
+| All India Mandi Wholesale Prices   | All India Mandi Wholesale Prices   | All India Mandi Wholesale Prices   | All India Mandi Wholesale Prices   |
+|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
+| Commodities                        | MSP (RS/Qtl)                       | Price as on 27-11-2025             | % Variation over MSP               |
+| Maize                              | 2400                               | 1549                               | -35.46                             |
+| Arhar whole                        | 8000                               | 6452                               | -19.35                             |
+| Gram whole                         | 5650                               | 5485                               | -2.92                              |
+| Masur Whole                        | 6700                               | 6518                               | -2.72                              |
+| Moong whole                        | 8768                               | 6968                               | -20.53                             |
+| Urad                               | 7800                               | 6162                               | -21.00                             |
+| Bajra                              | 2775                               | 2520                               | -9.19                              |
+| Ragi                               | 4886                               | 3649                               | -25.32                             |
+| Groundnut                          | 7263                               | 5842                               | -19.56                             |
+| Soyabean                           | 5328                               | 4259                               | -20.06                             |
+
+## 1. RAINFALL
+
+-  During the week (20 Nov - 26 Nov 2025), lower rainfall was observed, as compared to Long Period Average (LPA) by 23%. Cumulative seasonal rainfall (01 st Oct to 26 Nov 2025) is higher than LPA by 25%.
+
+<!-- image -->
+
+## Rainfall Forecast:
+
+-  Overall, rainfall activity is likely to be below over the country except Western Himalayan Region east &amp; northeast India, where it is likely to be near normal.
+
+## 2. TEMPERATURE: MIN &amp; MAX
+
+## Temerature
+
+## Week 1 (28 Nov - 04 Dec 2025):
+
+-  Minimum temperatures are likely to be below normal 2-4°C over most parts of the country except northeast India and Western Himalayan Region, where these are likely to be above normal by 1-3°C during the week .
+
+4
+
+## Details of each Segment
+
+-  Cold  wave  conditions very  likely  to  prevail  in  isolated  pockets  of  Punjab  on  28 th  &amp;  29 th November; over Rajasthan on 03 rd  -04 th  December, 2025.
+-  No large change in minimum temperature over most parts of India.
+
+## Week 2 (05 Dec - 11 Dec 2025):
+
+-  Minimum temperatures are likely to be below normal 2-4°C over most parts of the country except northeast India and Western Himalayan Region, where these are likely to be above normal by 1-3°C during the week.
+-  Cold  wave  conditions  likely  to  occur  at  isolated  pockets  of  north  Rajasthan,  Punjab  &amp; Haryana during some days of the week.
+-  Dense fog conditions  likely  to  prevail  during  early  morning  hours  in  isolated  pockets  of Himachal Pradesh, Punjab, Haryana Chandigarh &amp; Delhi and Rajasthan during some days of the week.
+
+<!-- image -->
+
+<!-- image -->
+
+## 3. Crops
+
+## Rabi Crops - Area coverage
+
+-  Wheat: About 187.37 lakh ha area coverage under Wheat has been reported as compared to 160.26 lakh ha during the corresponding period of last year.
+-  Rapeseed &amp; Mustard :  About 77.06 lakh ha area coverage under Rapeseed &amp; Mustard has been reported as compared to 72.92 lakh ha during the corresponding period of last year.
+-  Gram: About 62.49 lakh ha area coverage under Gram has been reported as compared to 60.13 lakh ha during the corresponding period of last year.
+
+## Government of India Ministry of Agriculture &amp; Farmers Welfare Department of Agriculture &amp; Farmers Welfare
+
+## Progress of area coverage under Rabi crops as on 28.11.2025
+
+## (Area in lakh hactare)
+
+| S. No.   | Crops                      | Normal Rabi Area (DES)   | Area Sown   | Area Sown   | Increase (+) / Decrease (-) over 2024-25   |
+|----------|----------------------------|--------------------------|-------------|-------------|--------------------------------------------|
+| S. No.   | Crops                      | Normal Rabi Area (DES)   | 2025-26     | 2024-25     | Increase (+) / Decrease (-) over 2024-25   |
+| 1        | Wheat                      | 312.35                   | 187.37      | 160.26      | 27.11                                      |
+| 2        | Rice *                     | 42.93                    | 9.10        | 8.45        | 0.65                                       |
+| 3        | Pulses                     | 140.42                   | 87.01       | 85.06       | 1.95                                       |
+| a        | Gram                       | 100.99                   | 62.49       | 60.13       | 2.36                                       |
+| b        | Lentil                     | 15.13                    | 11.42       | 10.44       | 0.98                                       |
+| c        | Fieldpea $                 | 6.50                     | 6.57        | 6.77        | -0.21                                      |
+| d        | Kulthi $                   | 1.98                     | 1.28        | 1.94        | -0.66                                      |
+| e        | Urdbean *                  | 6.16                     | 1.41        | 1.41        | 0.01                                       |
+| f        | Moongbean *                | 1.41                     | 0.16        | 0.14        | 0.02                                       |
+| g        | Lathyrus $                 | 2.79                     | 1.89        | 2.20        | -0.31                                      |
+| h        | Other Pulses $             | 5.46                     | 1.79        | 2.03        | -0.24                                      |
+| 4        | Shri Anna & Coarse cereals | 55.33                    | 29.06       | 26.58       | 2.48                                       |
+| a        | Jowar *                    | 24.62                    | 14.98       | 14.43       | 0.55                                       |
+| b        | Bajra #                    | 0.59                     | 0.05        | 0.05        | 0.00                                       |
+| c        | Ragi #                     | 0.72                     | 0.56        | 0.53        | 0.03                                       |
+| d        | Small Millets #            | 0.16                     | 0.11        | 0.05        | 0.06                                       |
+| e        | Maize *                    | 23.61                    | 8.76        | 7.25        | 1.51                                       |
+| f        | Barley                     | 5.63                     | 4.60        | 4.27        | 0.33                                       |
+| 5        | Oilseeds                   | 86.78                    | 80.53       | 77.38       | 3.14                                       |
+| a        | Rapeseed & Mustard         | 79.17                    | 77.06       | 72.92       | 4.14                                       |
+| b        | Groundnut *                | 3.69                     | 1.35        | 1.94        | -0.59                                      |
+| c        | Safflower                  | 0.72                     | 0.62        | 0.39        | 0.22                                       |
+| d        | Sunflower *                | 0.79                     | 0.21        | 0.19        | 0.02                                       |
+| e        | Sesamum *                  | 0.48                     | 0.03        | 0.03        | 0.00                                       |
+
+| f   | Linseed        |   1.93 |   1.15 |   1.79 |   -0.64 |
+|-----|----------------|--------|--------|--------|---------|
+| g   | Other Oilseeds |   0.00 |   0.11 |   0.12 |   -0.01 |
+|     | Total Crops    | 637.81 | 393.07 | 357.73 |   35.33 |
+
+Note: *Average of 2022-23 to 2024-25, $ average (2016-17 to 2020-21) as per DES, # Average of (2018-19 to 2022-23) as per CWWG report.
+
+## 4. RESERVOIR STORAGE (as on 27 th  November, 2025)
+
+Current  live  storage  in  166  reservoirs  was  161.218  BCM  (87.8%)  of  total  live  capacity  of 183.565 BCM.
+
+-  161 reservoirs having storage more than 80% of normal storage.
+-  05 reservoirs having storage 51% to 80%.
+-  00 reservoirs having storage upto 50%.
+
+Table 1: For 161 major reservoirs of the country
+
+| Period       |   Storage as % of FRL |   Storage as % of Last Year |   Storage as % of 10 Year's Average Level |
+|--------------|-----------------------|-----------------------------|-------------------------------------------|
+| Current Week |                    88 |                         107 |                                       121 |
+| Last Week    |                    89 |                         106 |                                       120 |
+
+7
+
+<!-- image -->
+
+Source: CWC
+
+## 5. REMOTE SENSING BASED SOIL MOISTURE OBSERVATION
+
+## Soil Moisture Observation
+
+-  Soil moisture during 20 Nov - 26 Nov is similar/better than the average of the past 9 years in major parts of M.P, Rajasthan, Uttar Pradesh, Chhattisgarh, Gujarat, Jharkhand, Haryana, Punjab, Karnataka, Kerala, Tamil Nadu, Maharashtra, Telangana, A.P. and Bihar.
+-  It  was lower than average of past 9 years in pockets of eastern part of U.P, in pockets of Odisha, West Bengal and Assam.
+
+<!-- image -->
+
+## 6.   FERTILIZER POSITION:
+
+Availability  of  fertilizer  has  been  found  comfortable.  Details  of  Requirement,  Receipt, Availability, Sales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Rabi 2025-26 as on 28.11.2025 is given below:
+
+(Unit : in Lakh MT)
+
+| Produ ct     | Total Requirem ent Rabi 2025-26   | Total Requirem ent Rabi 2024-25   | Openi ng stock as on 1.10.2 5   | Openi ng stock as on 1.10.2 4   | Requirem ent during November , 2025   | Requirem ent during November , 2024   | (as on 28/11/25)   | (as on 28/11/25)   | (as on 28/11/25)   | (upto28/11/24)   | (upto28/11/24)   | (upto28/11/24)   |
+|--------------|-----------------------------------|-----------------------------------|---------------------------------|---------------------------------|---------------------------------------|---------------------------------------|--------------------|--------------------|--------------------|------------------|------------------|------------------|
+| Produ ct     | Total Requirem ent Rabi 2025-26   | Total Requirem ent Rabi 2024-25   | Openi ng stock as on 1.10.2 5   | Openi ng stock as on 1.10.2 4   | Requirem ent during November , 2025   | Requirem ent during November , 2024   | Availabil ity      | Sale s             | Closi ng stock     | Availabil ity    | Sale s           | Closi ng stock   |
+| UREA         | 196.06 186.89                     | 37.33                             | 63.02                           | 43.54                           |                                       | 40.78                                 | 83.10              | 33.24              | 49.87              | 93.64            | 27.68            | 65.96            |
+| DAP 53.43    | 52.05                             | 20.07                             | 12.23                           | 17.19                           | 16.14                                 | 31.62                                 |                    | 14.24              | 17.38              | 23.14            | 13.41            | 9.73             |
+| MOP 15.69    | 11.95                             | 7.14                              | 7.33                            | 3.35                            |                                       | 2.66                                  | 8.67               | 2.20               | 6.48               | 9.83             | 2.14             | 7.68             |
+| NPK 82.38    | 77.10                             | 35.59                             | 35.94                           | 18.85                           |                                       | 17.28                                 | 49.07              | 14.12              | 34.95              | 39.76            | 14.25            | 25.52            |
+| SSP 31.19    | 36.48                             | 22.45                             | 21.76                           |                                 | 7.92                                  | 9.33                                  | 25.97              | 6.20               | 19.78              | 25.05            | 5.51             | 19.54            |
+| TOTAL 378.75 | 364.47                            | 122.57                            | 140.29                          | 90.85                           |                                       | 86.18                                 | 198.44             | 69.99              | 128.45             | 191.42           | 62.99            | 128.43           |
+
+-  The  above  data  indicates  that  the  availability  of  Urea,  MOP,  Complexes  and  SSP  is comfortable.
+-  In case of DAP, The opening stock of Rabi 2025-26 as compared to the opening stock of Rabi 2024-25 is more by 7.84 LMT
+-  As on 28th November, 2025 the availability of DAP is 31.62 LMT against the requirement of 17.19 LMT during the ongoing Rabi 2025-26 season.
+
+## 7.      PEST &amp; DISEASE
+
+-  Over all intensity of pests and disease remained below Economic Threshold Level (ETL).
+
+## 8.    PRICES:
+
+| All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   |
+|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
+| Increasing Trend                        | Increasing Trend                        | Decreasing Trend                        | Decreasing Trend                        |
+| Commodities                             | % Variation over last Week              | Commodities                             | % Variation over last Week              |
+| Paddy (Rice un-                         | 3.15                                    | Wheat                                   | -0.59                                   |
+| milled)                                 | 10.94                                   | Maize                                   | -4.03                                   |
+| Moong                                   | 0.39                                    | Tur (Arhar)                             | -6.33                                   |
+| Urad                                    | 0.44                                    | Gram                                    | -0.94                                   |
+| Jowar                                   | 0.16                                    | Masur                                   | -1.48                                   |
+| Bajra                                   | 3.36                                    | Mustard                                 | -0.51                                   |
+
+| Ragi      |   3.97 | Soyabean   |   -1.46 |
+|-----------|--------|------------|---------|
+| Groundnut |   5.42 | Sesamum    |   -4.35 |
+| Tomato    |        | Onion      |   -4.19 |
+|           |        | Potato     |   -7.10 |
+
+Source: Agmarknet (through UPAg)
+
+| All India Weekly Average Retail Prices                                                            | All India Weekly Average Retail Prices                            | All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   |
+|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------|------------------------------------------|
+| Increasing Trend                                                                                  | Increasing Trend                                                  | Decreasing Trend                         | Decreasing Trend                         |
+| Commodities                                                                                       | % Variation over last Week                                        | Commodities                              | % Variation over last Week               |
+| Wheat Arhar/Tur Dal Gram Masur Moong Urad Bajra Ragi Mustard Oil Soyabean Oil Onion Potato Tomato | 0.19 0.27 0.05 0.02 0.05 0.02 0.29 0.22 0.06 0.35 0.30 0.19 12.56 | Rice Jowar                               | -0.16 -0.46                              |
+
+Source: DoCA (through UPAg)
+
+Details are enclosed at Annexure -I
+
+## 9.   PROCUREMENT
+
+-  As on 16.11.2025, Actual stock of Rice &amp; Wheat together was 631.33 LMT against the buffer norm of 307.70 LMT.
+
+## All India Procurement of Paddy/Rice during KMS 2024-25
+
+As on 30.11.2025 (Figures in LMT)
+
+|               | Rice Procurement Estimates during KMS 2025-26 (Estimates in   | KMS 2025-26                   | KMS 2025-26                                                              | KMS 2024-25                                 | KMS 2024-25                                            |
+|---------------|---------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------|
+| Crop          | terms of Paddy)                                               | Progressive Paddy procurement | Progressive procurement in terms of Rice (Percentage of target achieved) | Progressive Corresponding paddy Procurement | Progressive Corresponding Procurement in terms of Rice |
+| Kharif        | 463.49 (691.78)                                               | 289.47                        | 194.14 (41.89%)                                                          | 257.01                                      | 172.24                                                 |
+| Rabi          | -                                                             | -                             | -                                                                        | -                                           | -                                                      |
+| Kharif + Rabi | 463.49 (691.78)                                               | 289.47                        | 194.14 (41.89%)                                                          | 257.01                                      | 172.24                                                 |
+
+(
+
+Source: FCI Portal)
+
+## All India Procurement of Wheat during RMS 2025-26 &amp; RMS 2024-25
+
+As on 30.11.2025  (Figures in LMT)
+
+|   Wheat Procurement Estimates during RMS 2025-26 ( LMTs) |   Progressive Wheat Procurement during RMS 2025-26 |   Corresponding Wheat Procurement during RMS 2024-25 |
+|----------------------------------------------------------|----------------------------------------------------|------------------------------------------------------|
+|                                                   334.10 |                                             300.35 |                                               265.95 |
+
+(
+
+Source: FCI Portal)
+
+**********************
+
+## All India Mandi Wholesale prices (Rs/Quintal)
+
+|                                  |                                  |                                  |                                  |                                  |                                  | % Variation Over                 | % Variation Over                     | % Variation Over                 |
+|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|--------------------------------------|----------------------------------|
+| Commodities                      | Current MSP                      | Prices as on27.11.25             | One Week Ago 20.11.25            | 1 Month Ago 27.10.25             | 1 Year Ago 27.11.24              |                                  | Last Week Last Month&#124;1 Year Ago |                                  |
+| Cereals                          |                                  |                                  |                                  |                                  |                                  |                                  |                                      |                                  |
+| Paddy (Rice unmilled)            | 2369                             | 2554                             | 2476                             | 2345                             | 2408                             | 3.15                             | 8.91                                 | 6.06                             |
+| Wheat                            | 2425                             | 2532                             | 2547                             | 2562                             | 2813                             | -0.59                            | -1.17                                | -9.99                            |
+| Maize                            | 2400                             | 1549                             | 1614                             | 1820                             | 2225                             | -4.03                            | -14.89                               | -30.38                           |
+| Pulses                           |                                  |                                  |                                  |                                  |                                  |                                  |                                      |                                  |
+| Arhar whole                      | 8000                             | 6452                             | 6888                             | 7183                             | 9385                             | -6.33                            | -10.18                               | -31.25                           |
+| Gram whole                       | 5650                             | 5485                             | 5537                             | 5682                             | 6608                             | -0.94                            | -3.47                                | -16.99                           |
+| Masur Whole                      | 6700                             | 6518                             | 6616                             | 6945                             | 6008                             | -1.48                            | -6.15                                | 8.49                             |
+| Moong Whole                      | 8768                             | 6968                             | 6281                             | 6380                             | 6741                             | 10.94                            | 9.22                                 | 3.37                             |
+| Urad Whole                       | 7800                             | 6162                             | 6138                             | 6245                             | 7017                             | 0.39                             | -1.33                                | -12.18                           |
+| Millets                          |                                  |                                  |                                  |                                  |                                  |                                  |                                      |                                  |
+| Jowar                            | 3699                             | 3673                             | 3657                             | 3877                             | 2995                             | 0.44                             | -5.26                                | 22.64                            |
+| Bajra                            | 2775                             | 2520                             | 2516                             | 2122                             | 2519                             | 0.16                             | 18.76                                | 0.04                             |
+| Ragi                             | 4886                             | 3649                             | 3530                             | 3832                             | 3140                             | 3.36                             | -4.78                                | 16.22                            |
+| Oil Seeds                        |                                  |                                  |                                  |                                  |                                  |                                  |                                      |                                  |
+| Groundnut                        | 7263                             | 5842                             | 5619                             | 5224                             | 5081                             | 3.97                             | 11.83                                | 14.98                            |
+| Mustard                          | 5950                             | 6666                             | 6700                             | 6656                             | 5949                             | -0.51                            | 0.15                                 | 12.05                            |
+| Soyabean                         | 5328                             | 4259                             | 4322                             | 3950                             | 4115                             | -1.46                            | 7.82                                 | 3.50                             |
+| Sesamum                          | 9846                             | 10401                            | 10874                            | 9053                             | 11480                            | -4.35                            | 14.89                                | -9.40                            |
+| Sunflower                        | 7721                             |                                  |                                  |                                  |                                  |                                  |                                      |                                  |
+| Horticulture                     |                                  |                                  |                                  |                                  |                                  |                                  |                                      |                                  |
+| Onion                            |                                  | 1006                             | 1050                             | 1123                             | 3676                             | -4.19                            | -10.42                               | -72.63                           |
+| Potato                           |                                  | 1256                             | 1352                             | 1206                             | 2126                             | -7.10                            | 4.15                                 | -40.92                           |
+| Tomato                           |                                  | 3539                             | 3357                             | 1711                             | 2579                             | 5.42                             | 106.84                               | 37.22                            |
+| Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg) | Source: Agmarknet (through UPAg)     | Source: Agmarknet (through UPAg) |
+
+## Annexure -I
+
+## All India Retail Prices (Rs/Quintal)
+
+|                                               | All Ilndia Weekly Average RetailPrices (In Rs./Kg)   | All Ilndia Weekly Average RetailPrices (In Rs./Kg)   | All Ilndia Weekly Average RetailPrices (In Rs./Kg)   | All Ilndia Weekly Average RetailPrices (In Rs./Kg)   | All Ilndia Weekly Average RetailPrices (In Rs./Kg)   | % Variation Over                              | % Variation Over                              | % Variation Over                              |
+|-----------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| Commodities                                   |                                                      | Prices as on 27.11.25                                | One Week Ago 20.11.25                                | 1 Month Ago 27.10.25                                 | 1 Year Ago 27.11.24                                  |                                               | Last Week &#124;Last Month 1 Year Ago         |                                               |
+| Cereals                                       |                                                      |                                                      |                                                      |                                                      |                                                      |                                               |                                               |                                               |
+| Rice                                          |                                                      | 43.15                                                | 43.22                                                | 43.39                                                | 43.60                                                | -0.16                                         | -0.55                                         | -1.03                                         |
+| Wheat                                         |                                                      | 31.72                                                | 31.66                                                | 31.93                                                | 31.98                                                | 0.19                                          | -0.66                                         | -0.81                                         |
+| Pulses                                        |                                                      |                                                      |                                                      |                                                      |                                                      |                                               |                                               |                                               |
+| Arhar/Tur Dal                                 |                                                      | 116.24                                               | 115.93                                               | 115.61                                               | 160.76                                               | 0.27                                          | 0.54                                          | -27.69                                        |
+| Gram Dal                                      |                                                      | 86.97                                                | 86.93                                                | 87.01                                                | 94.88                                                | 0.05                                          | -0.05                                         | -8.34                                         |
+| Masur Dal                                     |                                                      | 89.61                                                | 89.59                                                | 89.66                                                | 90.31                                                | 0.02                                          | -0.06                                         | -0.78                                         |
+| Moong Dal                                     |                                                      | 110.56                                               | 110.51                                               | 110.76                                               | 115.59                                               | 0.05                                          | -0.18                                         | -4.35                                         |
+| Urad Dal                                      |                                                      | 113.89                                               | 113.87                                               | 114.03                                               | 124.52                                               | 0.02                                          | -0.12                                         | -8.54                                         |
+| Millets                                       |                                                      |                                                      |                                                      |                                                      |                                                      |                                               |                                               |                                               |
+| Jowar                                         |                                                      | 43.17                                                | 43.37                                                | 42.97                                                | 44.17                                                | -0.46                                         | 0.47                                          | -2.26                                         |
+| Bajra                                         |                                                      | 37.89                                                | 37.78                                                | 37.48                                                | 37.42                                                | 0.29                                          | 1.09                                          | 1.26                                          |
+| Ragi                                          |                                                      | 53.85                                                | 53.73                                                | 53.53                                                | 53.93                                                | 0.22                                          | 0.60                                          | -0.15                                         |
+| Edible Oils                                   |                                                      |                                                      |                                                      |                                                      |                                                      |                                               |                                               |                                               |
+| Mustard Oil                                   |                                                      | 186.30                                               | 186.18                                               | 187.95                                               | 168.72                                               | 0.06                                          | -0.88                                         | 10.42                                         |
+| Soyabean Oil                                  |                                                      | 147.12                                               | 146.60                                               | 146.45                                               | 143.08                                               | 0.35                                          | 0.46                                          | 2.82                                          |
+| Horticulture                                  |                                                      |                                                      |                                                      |                                                      |                                                      |                                               |                                               |                                               |
+| Onion                                         |                                                      | 26.88                                                | 26.80                                                | 26.89                                                | 55.12                                                | 0.30                                          | -0.04                                         | -51.23                                        |
+| Potato                                        |                                                      | 27.00                                                | 26.95                                                | 26.68                                                | 37.62                                                | 0.19                                          | 1.20                                          | -28.23                                        |
+| Tomato                                        |                                                      | 52.78                                                | 46.89                                                | 39.40                                                | 51.48                                                | 12.56                                         | 33.96                                         | 2.53                                          |
+| Source: Department of Consumer Affairs (DOCA) | Source: Department of Consumer Affairs (DOCA)        | Source: Department of Consumer Affairs (DOCA)        | Source: Department of Consumer Affairs (DOCA)        | Source: Department of Consumer Affairs (DOCA)        | Source: Department of Consumer Affairs (DOCA)        | Source: Department of Consumer Affairs (DOCA) | Source: Department of Consumer Affairs (DOCA) | Source: Department of Consumer Affairs (DOCA) |
+
+## Government of India
+
+## Ministry of Agriculture &amp; Farmers Welfare Department of Agriculture &amp; Farmers Welfare Crops Division
+
+## SOWING AND HARVESTING STATUS OF  KHARIF CROPS AS ON 28.11.2025
+
+(Area in lakh ha.)
+
+| S. No.   | Crop                         |   Normal Area (DES) |   Area Coverage as on 03.10.2025 |   % Area Harvested | Crop condition/Remark                                                                                                                                                                                                                                                                                                                                                                 |
+|----------|------------------------------|---------------------|----------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1        | Rice                         |              403.09 |                           441.58 |              65.00 | 100% harvested in Uttarakhand, Punjab and Rajasthan. Andhra Pradesh (30%), Assam (25%), Bihar (48%), Chhattisgarh (70%), Gujarat (96%), Haryana (98%), J&K (60%), Jharkhand (34%), Karnataka (35%), Madhya Pradesh (60%), Maharashtra (90%), Nagaland (90%), Odisha (30%), Tamil Nadu (55%), Telangana (55%), Uttar Pradesh (95%), West Bengal (60%), etc has already been harvested. |
+| 2        | Pulses                       |              129.61 |                           120.41 |              60.00 | Around 60.00% area of Pulses has been harvested mainly in Urdbean (95%), Moongbean (99%) & Kulthi (52%).                                                                                                                                                                                                                                                                              |
+| a        | Arhar                        |               44.71 |                            46.60 |                    |                                                                                                                                                                                                                                                                                                                                                                                       |
+| b        | Urdbean                      |               32.64 |                            24.37 |              95.00 | 100% harvested in Chhattisgarh, Karnataka, Gujarat, Madhya Pradesh, Maharashtra, Rajasthan & Uttarakhand. Assam (25%), Tamil Nadu (90%), Uttar Pradesh (90%), etc. has already been harvested                                                                                                                                                                                         |
+| c        | Moongbean                    |               35.69 |                            34.87 |              99.00 | 100% harvested in Chhattisgarh, Gujarat, Haryana, Karnataka, Madhya Pradesh, Jharkhand, Maharashtra, Rajasthan & Telangana. Odisha (90%), Uttar Pradesh (90%), etc. has already been harvested                                                                                                                                                                                        |
+| d        | Kulthi                       |                1.72 |                             0.72 |              52.00 | 100% harvested in Jharkhand & Uttarakhand, Chhatisgarh (50%), etc has already been harvested.                                                                                                                                                                                                                                                                                         |
+| e        | Mothbean                     |                9.70 |                             9.24 |             100.00 | 100% harvested in Rajasthan and Gujarat.                                                                                                                                                                                                                                                                                                                                              |
+| f        | Other pulses*                |                5.15 |                             4.62 |             100.00 | Harvesting completed in all the states.                                                                                                                                                                                                                                                                                                                                               |
+| 3        | Shri Anna cum Coarse cereals |              180.71 |                           194.67 |              89.92 | Overall around 89.92% area has been harvested mainly in Jowar (91.04%), Bajra (97.77%), Ragi (55.53%) & Maize (89.56%).                                                                                                                                                                                                                                                               |
+| a        | Jowar                        |               15.07 |                            14.07 |              91.04 | 100% harvested in Haryana, Madhya Pradesh and Rajasthan. Bihar (75%), Gujarat (75%), Karnataka (65%), Maharashtra (95%), Tamil Nadu (60%), Telangana (65%), Uttar Pradesh (87%), etc has been harvested.                                                                                                                                                                              |
+| b        | Bajra**                      |               70.69 |                            68.44 |              97.77 | 100% hravested in Haryana, Karnataka, Madhya Pradesh, Maharashtra and Rajasthan. Andhra Pradesh (75%), Bihar (75%), Gujarat (85%), Tamil Nadu (55%), Telangana (58%), Uttar Pradesh (92%), etc has been harvested.                                                                                                                                                                    |
+| c        | Ragi                         |               11.52 |                            11.81 |              55.53 | 100% harvested in Gujarat and Haryana. Andhra Pradesh (45%), Karnataka (55%), Maharashtra (60%), Odisha (57%), Tamil Nadu (55%), Uttarakhand (65%), etc has been harvested.                                                                                                                                                                                                           |
+| d        | Small millets                |                4.48 |                             5.39 |              69.03 | 100% harvested in Rajasthan. Madhya Pradesh (85%), Maharashtra (90%), Chhattisgarh (70%), Uttarakhand (52%), etc has been harvested.                                                                                                                                                                                                                                                  |
+
+Annexure -II
+
+| e                                                                     | Maize                                                                 | 78.95                                                                 | 94.95                                                                 | 89.56                                                                                                                                 | 100% harvested in Harayana, Gujarat, Madhya Pradesh & Rajasthan. Andhra Pradesh (70%), Bihar (92%), Chhattisgarh (95%), Himachal Pradesh (55%), J&K (52%), Jharkhand (65%), Karnataka (91%), Maharashtra (90%), Odisha (62%), Tamil Nadu (65%), Telangana (80%), Uttar Pradesh (91%), etc has been harvested.   |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 4                                                                     | Oilseeds                                                              | 194.63                                                                | 190.13                                                                | 94.46                                                                                                                                 | Overall around 94.46% area of Oilseeds has been harvested majorly in Groundnut (94.83%), Soybean (99.99%), Sunflower (77.80%), Sesame (92.28%), Niger (52.22%) & Castor (27.21%).                                                                                                                               |
+| a                                                                     | Groundnut                                                             | 45.10                                                                 | 48.36                                                                 | 94.83                                                                                                                                 | 100% harvested in Gujarat, Rajasthan, Madhya Pradesh, Jharkhand & Telangana. Andhra Pradesh (70%), Karnataka (54.47%), Maharashtra (85.38%), Tamil Nadu (87.14%), Uttar Pradeh (90.00%), etc has been harvested.                                                                                                |
+| b                                                                     | Soybean                                                               | 127.19                                                                | 120.45                                                                | 99.99                                                                                                                                 | 100% harvested in Madhya Pradesh, Maharashtra, Rajasthan, Karnataka, Telangana, Gujarat, Chhattisgarh, Uttarakhand & Others. Uttar Pradesh (97%) has been harvested.                                                                                                                                            |
+| c                                                                     | Sunflower                                                             | 1.29                                                                  | 0.71                                                                  | 77.80                                                                                                                                 | 100% harvested in Andhra Pradesh and Bihar. Karnataka (75%), Maharashtra (90%), etc has already been harvested.                                                                                                                                                                                                 |
+| d                                                                     | Sesamum                                                               | 10.32                                                                 | 10.51                                                                 | 92.28                                                                                                                                 | 100% harvested in Andhra Pradesh, Rajasthan, Karnataka & Gujarat. Uttar Pradesh (95%), Madhya Pradesh (85%), etc has been harvested.                                                                                                                                                                            |
+| e                                                                     | Niger                                                                 | 1.08                                                                  | 1.04                                                                  | 52.22                                                                                                                                 | 100% harvested in Madhya Pradesh, Jharkhand & Karnataka. Chhattisgarh (5%), Odisha (50%), Maharashtra (94%), etc has been harvested                                                                                                                                                                             |
+| f                                                                     | Castor                                                                | 9.65                                                                  | 8.98                                                                  | 27.21                                                                                                                                 | 100% harvested in Telangana & Karnataka. Andhra Pradesh (30%), Tamil Nadu (25.27%), etc has been harvested                                                                                                                                                                                                      |
+| 5                                                                     | Sugarcane                                                             | 52.51                                                                 | 59.07                                                                 | 3.94                                                                                                                                  | Hravesting ha just started in West Bengal (28.64%), Uttar Pradesh (4.44%), Maharashtra (2.92%), Karnataka (4.08%), Tamil Nadu (4.71%), etc.                                                                                                                                                                     |
+| 6                                                                     | Jute & Mesta                                                          | 6.60                                                                  | 5.56                                                                  | 100.00                                                                                                                                | Harvesting has been completed                                                                                                                                                                                                                                                                                   |
+| 7                                                                     | Cotton                                                                | 129.50                                                                | 110.03                                                                |                                                                                                                                       | Harvesting given as under                                                                                                                                                                                                                                                                                       |
+| Total                                                                 |                                                                       | 1096.65                                                               | 1121.45                                                               | 64.40                                                                                                                                 |                                                                                                                                                                                                                                                                                                                 |
+| States                                                                | States                                                                | States                                                                | States                                                                | Harvesting Status of Cotton                                                                                                           | Harvesting Status of Cotton                                                                                                                                                                                                                                                                                     |
+| North Zone                                                            | North Zone                                                            | North Zone                                                            | North Zone                                                            | 2nd & 3rd picking has been completed in Punjab, Haryana &                                                                             | 2nd & 3rd picking has been completed in Punjab, Haryana &                                                                                                                                                                                                                                                       |
+| (Punjab, Haryana and Rajasthan)                                       | (Punjab, Haryana and Rajasthan)                                       | (Punjab, Haryana and Rajasthan)                                       | (Punjab, Haryana and Rajasthan)                                       | Rajasthan.                                                                                                                            | Rajasthan.                                                                                                                                                                                                                                                                                                      |
+|                                                                       |                                                                       |                                                                       |                                                                       | 1st & 2nd picking has been completed in Madhya Pradesh, 1st picking has been completed in Gujarat & Maharastra. 90% of 2nd            | 1st & 2nd picking has been completed in Madhya Pradesh, 1st picking has been completed in Gujarat & Maharastra. 90% of 2nd                                                                                                                                                                                      |
+| (Gujarat, Madhya Pradesh and Maharashtra)                             | (Gujarat, Madhya Pradesh and Maharashtra)                             | (Gujarat, Madhya Pradesh and Maharashtra)                             | (Gujarat, Madhya Pradesh and Maharashtra)                             | picking in Gujarat & 60% of 2nd picking has been completed in                                                                         | picking in Gujarat & 60% of 2nd picking has been completed in                                                                                                                                                                                                                                                   |
+| South Zone                                                            | South Zone                                                            | South Zone                                                            | South Zone                                                            | Maharashtra. 1st picking has been completed in Andhra Pradesh. 90% of 1st picking & 28% of 2nd picking in Telangana, 50% in Karnataka | Maharashtra. 1st picking has been completed in Andhra Pradesh. 90% of 1st picking & 28% of 2nd picking in Telangana, 50% in Karnataka                                                                                                                                                                           |
+| (Telangana, Andhra Pradesh, Karnataka and Tamil Nadu) Odisha & Others | (Telangana, Andhra Pradesh, Karnataka and Tamil Nadu) Odisha & Others | (Telangana, Andhra Pradesh, Karnataka and Tamil Nadu) Odisha & Others | (Telangana, Andhra Pradesh, Karnataka and Tamil Nadu) Odisha & Others | has been completed. 1st picking is completed in others. 20% of 1st picking in Odisha has                                              | has been completed. 1st picking is completed in others. 20% of 1st picking in Odisha has                                                                                                                                                                                                                        |
