@@ -21,28 +21,21 @@ from stage_mapper import (
 # --------------------------------------------------
 
 def first_entity(entities, label):
-
     """
     Returns first entity of requested label.
     """
-
     for entity in entities:
-
         if entity.get("label") == label:
-
             return entity.get("text", "")
-
     return ""
 
 
 def all_entities(entities, label):
-
     """
     Returns all entities of requested label.
     """
 
     values = []
-
     seen = set()
 
     for entity in entities:
@@ -74,31 +67,22 @@ def all_entities(entities, label):
 ADVISORY_PATTERNS = [
 
     r"recommended.*?\.",
-
     r"advised.*?\.",
-
     r"should.*?\.",
-
     r"apply.*?\.",
-
     r"avoid.*?\.",
-
     r"maintain.*?\.",
-
     r"irrigat.*?\.",
-
     r"spray.*?\.",
-
     r"monitor.*?\.",
-
     r"store.*?\."
+
 ]
 
 
 def extract_advisory(text):
 
     if not text:
-
         return "No Advisory"
 
     for pattern in ADVISORY_PATTERNS:
@@ -116,6 +100,40 @@ def extract_advisory(text):
             )
 
     return "No Advisory"
+
+
+# --------------------------------------------------
+# Report Date Extraction
+# --------------------------------------------------
+
+def extract_report_date(text):
+
+    if not text:
+        return ""
+
+    patterns = [
+
+        r"as\s+on\s+(\d{2}[./-]\d{2}[./-]\d{4})",
+
+        r"\(as\s+on\s+(\d{2}[./-]\d{2}[./-]\d{4})\)",
+
+        r"(\d{2}[./-]\d{2}[./-]\d{4})"
+
+    ]
+
+    for pattern in patterns:
+
+        match = re.search(
+            pattern,
+            text,
+            re.IGNORECASE
+        )
+
+        if match:
+            return match.group(1)
+
+    return ""
+
 # --------------------------------------------------
 # Build Calendar Records
 # --------------------------------------------------
@@ -126,12 +144,6 @@ def build_calendar(entity_document):
     Convert one entity JSON into calendar records.
     """
 
-    metadata = entity_document.get("metadata", {})
-
-    document_name = metadata.get(
-        "document_name",
-        "Unknown"
-    )
 
     chunks = entity_document.get(
         "chunks",
@@ -154,6 +166,10 @@ def build_calendar(entity_document):
             ""
         )
 
+        document_name = chunk.get(
+            "source_document",
+            "Unknown"
+        )
         crops = all_entities(
             entities,
             "Crop"
@@ -194,6 +210,26 @@ def build_calendar(entity_document):
             "Date"
         )
 
+        if not dates:
+
+            report_date = extract_report_date(text)
+
+            if report_date:
+
+                dates = [report_date]
+
+        # ------------------------------------------
+        # If Date entity is missing,
+        # extract from chunk text
+        # ------------------------------------------
+
+        if not dates:
+
+            report_date = extract_report_date(text)
+
+            if report_date:
+                dates = [report_date]
+
         seasons = all_entities(
             entities,
             "Season"
@@ -208,9 +244,9 @@ def build_calendar(entity_document):
             )
         )
 
-        # ---------------------------------------------
-# Clean Missing Values
-# ---------------------------------------------
+        # ------------------------------------------
+        # Missing Values
+        # ------------------------------------------
 
         if not crops:
             continue
@@ -248,9 +284,10 @@ def build_calendar(entity_document):
             "chunk_id",
             ""
         )
-                # ---------------------------------------------
-        # Build Calendar Records
-        # ---------------------------------------------
+
+        # ------------------------------------------
+        # Build Records
+        # ------------------------------------------
 
         for crop in crops:
 
