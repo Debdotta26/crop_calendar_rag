@@ -12,20 +12,53 @@
         .chunk-container { background: white; border-radius: 8px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 20px; }
         .chunk-highlight { background: #fff3cd; border-left: 4px solid #ffc107; padding: 15px; border-radius: 4px; margin: 10px 0; }
         .chunk-meta { display: flex; flex-wrap: wrap; gap: 20px; padding: 10px; background: #e3f2fd; border-radius: 4px; margin-bottom: 15px; }
-        .chunk-text { white-space: pre-wrap; word-wrap: break-word; line-height: 1.6; padding: 10px; background: #fafafa; border-radius: 4px; }
+        .chunk-meta-item { background: white; padding: 5px 10px; border-radius: 4px; }
+        .chunk-text { 
+            white-space: pre-wrap; 
+            word-wrap: break-word; 
+            line-height: 1.8; 
+            padding: 20px; 
+            background: #fafafa; 
+            border-radius: 4px;
+            font-size: 1rem;
+            max-height: none;
+            overflow-y: visible;
+            border: 1px solid #e0e0e0;
+        }
         .other-chunk { background: #f5f5f5; padding: 10px; margin: 5px 0; border-radius: 4px; border-left: 3px solid #ccc; cursor: pointer; transition: all 0.3s ease; }
         .other-chunk:hover { background: #e8e8e8; transform: translateX(5px); }
         .badge-highlight { background: #ffc107; color: #333; padding: 2px 10px; border-radius: 12px; font-size: 0.7rem; margin-left: 10px; }
         .btn { background: #1976d2; color: white; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; font-size: 0.9rem; }
         .btn:hover { background: #0d47a1; }
+        .btn-success { background: #28a745; }
+        .btn-success:hover { background: #1e7e34; }
         .error-box { background: #ffebee; padding: 20px; border-radius: 8px; border-left: 4px solid #dc3545; margin: 10px 0; }
         .loading { text-align: center; padding: 40px; color: #666; }
+        .word-count { color: #666; font-size: 0.9rem; margin-left: 10px; }
+        .expand-btn { background: #6c757d; color: white; border: none; padding: 4px 12px; border-radius: 4px; cursor: pointer; font-size: 0.8rem; }
+        .expand-btn:hover { background: #5a6268; }
+        .full-content { display: block; }
+        .chunk-text pre { 
+            white-space: pre-wrap; 
+            word-wrap: break-word; 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            font-size: 1rem;
+            line-height: 1.8;
+        }
+        .json-download { margin-top: 10px; }
+        .json-download a { color: #1976d2; text-decoration: none; }
+        .json-download a:hover { text-decoration: underline; }
+        .source-link { color: #1976d2; text-decoration: none; }
+        .source-link:hover { text-decoration: underline; }
+        .chunk-stats { display: flex; gap: 20px; flex-wrap: wrap; margin: 10px 0; }
+        .stat-badge { background: #e9ecef; padding: 4px 12px; border-radius: 12px; font-size: 0.8rem; }
     </style>
 </head>
 <body>
     <div class="header">
         <h1>🌱 Crop Calendar AI - Chunk Viewer</h1>
-        <p>View specific chunks from CWWG reports</p>
+        <p>View complete chunk content from CWWG reports</p>
     </div>
 
     <div id="app">
@@ -71,7 +104,7 @@
 
             const fileName = getChunkFileName(source);
             const fileUrl = CHUNK_BASE + encodeURIComponent(fileName);
-            document.getElementById('reportName').textContent = `📄 ${source}`;
+            document.getElementById('reportName').innerHTML = `📄 <a href="${fileUrl}" target="_blank" class="source-link">${source}</a>`;
 
             fetch(fileUrl)
                 .then(response => {
@@ -115,15 +148,37 @@
                 return;
             }
 
+            // Get full chunk text - ensure we show everything
+            let chunkText = targetChunk.text || 'No text content';
+            
+            // Count words and characters
+            const wordCount = chunkText.split(/\s+/).length;
+            const charCount = chunkText.length;
+
             let html = `
                 <div class="chunk-container" style="border: 2px solid #ffc107;">
-                    <div class="chunk-highlight"><h3 style="margin: 0; color: #856404;">🎯 Target Chunk: ${targetChunkId}</h3></div>
+                    <div class="chunk-highlight">
+                        <h3 style="margin: 0; color: #856404;">🎯 Target Chunk: ${targetChunkId}</h3>
+                    </div>
                     <div class="chunk-meta">
                         <span class="chunk-meta-item"><strong>Chunk ID:</strong> ${targetChunk.chunk_id}</span>
                         <span class="chunk-meta-item"><strong>Heading:</strong> ${targetChunk.heading || 'N/A'}</span>
                         <span class="chunk-meta-item"><strong>Pages:</strong> ${targetChunk.page_start || 'N/A'} ${targetChunk.page_end ? `- ${targetChunk.page_end}` : ''}</span>
+                        <span class="chunk-meta-item"><strong>Words:</strong> ${wordCount}</span>
+                        <span class="chunk-meta-item"><strong>Characters:</strong> ${charCount}</span>
                     </div>
-                    <div class="chunk-text">${targetChunk.text || 'No text content'}</div>
+                    <div class="chunk-stats">
+                        <span class="stat-badge">📊 Content Length: ${charCount} characters</span>
+                        <span class="stat-badge">📝 ${wordCount} words</span>
+                    </div>
+                    <div class="chunk-text" id="chunkContent">
+                        <pre>${chunkText}</pre>
+                    </div>
+                    <div class="json-download">
+                        <a href="${CHUNK_BASE + encodeURIComponent(getChunkFileName(source))}" target="_blank">
+                            📥 Download Full JSON File
+                        </a>
+                    </div>
                 </div>
             `;
 
@@ -132,18 +187,26 @@
                 html += `
                     <div style="margin-top: 20px;">
                         <details>
-                            <summary style="cursor: pointer; font-weight: bold; color: #1976d2; font-size: 1.1rem;">
+                            <summary style="cursor: pointer; font-weight: bold; color: #1976d2; font-size: 1.1rem; padding: 10px; background: #e3f2fd; border-radius: 4px;">
                                 📋 Other Chunks in this Report (${otherChunks.length})
                             </summary>
                             <div style="margin-top: 10px;">
                 `;
                 otherChunks.forEach(chunk => {
+                    const preview = chunk.text ? chunk.text.substring(0, 150) + (chunk.text.length > 150 ? '...' : '') : 'No preview';
                     html += `
                         <div class="other-chunk" onclick="window.location.href='?source=${encodeURIComponent(source)}&chunk=${chunk.chunk_id}'">
-                            <strong>${chunk.chunk_id}</strong>
-                            ${chunk.heading ? `- ${chunk.heading}` : ''}
-                            ${chunk.page_start ? `(Page ${chunk.page_start})` : ''}
-                            <span style="float: right; color: #1976d2; font-size: 0.8rem;">click to view →</span>
+                            <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+                                <div>
+                                    <strong>${chunk.chunk_id}</strong>
+                                    ${chunk.heading ? `- ${chunk.heading}` : ''}
+                                    ${chunk.page_start ? `(Page ${chunk.page_start})` : ''}
+                                </div>
+                                <span style="color: #1976d2; font-size: 0.8rem;">click to view →</span>
+                            </div>
+                            <div style="font-size: 0.85rem; color: #666; margin-top: 5px; white-space: pre-wrap; word-wrap: break-word;">
+                                ${preview}
+                            </div>
                         </div>
                     `;
                 });
@@ -156,23 +219,29 @@
         function showAllChunks() {
             if (allChunks.length === 0) { alert('No chunks loaded yet.'); return; }
             const container = document.getElementById('chunkList');
-            let html = `<div style="background: #e3f2fd; padding: 10px; border-radius: 4px; margin-bottom: 15px;"><h3>📋 All Chunks (${allChunks.length})</h3></div>`;
+            let html = `<div style="background: #e3f2fd; padding: 10px; border-radius: 4px; margin-bottom: 15px;">
+                <h3>📋 All Chunks (${allChunks.length})</h3>
+                <p style="margin: 0; color: #666; font-size: 0.9rem;">Click on any chunk to view its full content</p>
+            </div>`;
             allChunks.forEach(chunk => {
                 const isTarget = chunk.chunk_id === chunkId;
+                const textPreview = chunk.text ? chunk.text.substring(0, 300) + (chunk.text.length > 300 ? '...' : '') : 'No text content';
                 html += `
                     <div class="chunk-container" style="${isTarget ? 'border: 2px solid #ffc107;' : ''}">
                         <div class="chunk-meta" style="${isTarget ? 'background: #fff3cd;' : ''}">
                             <span class="chunk-meta-item"><strong>Chunk ID:</strong> ${chunk.chunk_id} ${isTarget ? '<span class="badge-highlight">🎯 TARGET</span>' : ''}</span>
                             <span class="chunk-meta-item"><strong>Heading:</strong> ${chunk.heading || 'N/A'}</span>
                             <span class="chunk-meta-item"><strong>Pages:</strong> ${chunk.page_start || 'N/A'} ${chunk.page_end ? `- ${chunk.page_end}` : ''}</span>
+                            <span class="chunk-meta-item"><strong>Words:</strong> ${chunk.text ? chunk.text.split(/\s+/).length : 0}</span>
                         </div>
                         <div class="chunk-text" style="${isTarget ? 'background: #fffde7; border: 1px solid #ffc107;' : ''}">
-                            ${chunk.text ? chunk.text.substring(0, 500) + (chunk.text.length > 500 ? '...' : '') : 'No text content'}
+                            <pre style="white-space: pre-wrap; word-wrap: break-word; font-family: inherit; margin: 0; line-height: 1.6;">${textPreview}</pre>
                         </div>
-                        <div style="margin-top: 10px;">
+                        <div style="margin-top: 10px; display: flex; gap: 10px; flex-wrap: wrap;">
                             <button onclick="window.location.href='?source=${encodeURIComponent(source)}&chunk=${chunk.chunk_id}'" class="btn" style="font-size: 0.8rem; padding: 4px 12px;">
-                                🔍 View this chunk
+                                🔍 View Full Chunk
                             </button>
+                            ${isTarget ? '<span style="color: #856404; font-size: 0.9rem;">🎯 Currently viewing this chunk</span>' : ''}
                         </div>
                     </div>
                 `;
