@@ -1,4 +1,4 @@
-# app.py - Complete Enhanced India Crop Calendar Interface with Proper Chunk Loading
+# app.py - Complete Enhanced India Crop Calendar Interface with Fixed Chunk Viewer
 import streamlit as st
 import pandas as pd
 import json
@@ -8,6 +8,77 @@ import io
 from pathlib import Path
 import os
 import re
+import urllib.parse
+
+# ============================================
+# GITHUB RAW CDN CONFIGURATION
+# ============================================
+
+# Your GitHub details
+GITHUB_USERNAME = "Debdotta26"
+GITHUB_REPO = "crop_calendar_rag"
+GITHUB_BRANCH = "main"
+PDF_FOLDER = "downloads/pdfs"
+CHUNK_FOLDER = "output/chunks"
+
+# Construct the base URLs for GitHub Raw CDN
+GITHUB_RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{GITHUB_REPO}/{GITHUB_BRANCH}/"
+PDF_BASE = GITHUB_RAW_BASE + PDF_FOLDER + "/"
+CHUNK_BASE = GITHUB_RAW_BASE + CHUNK_FOLDER + "/"
+
+def create_pdf_download_link(source_name):
+    """Create a GitHub Raw CDN download link for the PDF source document"""
+    if pd.isna(source_name) or source_name == '' or source_name is None:
+        return None
+    
+    source_clean = source_name.replace('.pdf', '').strip()
+    pdf_filename = f"{source_clean}.pdf"
+    encoded_filename = urllib.parse.quote(pdf_filename)
+    pdf_url = PDF_BASE + encoded_filename
+    
+    return {
+        'filename': pdf_filename,
+        'url': pdf_url,
+        'display_name': source_clean
+    }
+
+def create_chunk_json_link(source_name, chunk_id):
+    """Create a link to the JSON file with the specific chunk"""
+    if pd.isna(source_name) or source_name == '' or source_name is None:
+        return None
+    
+    if pd.isna(chunk_id) or chunk_id == '' or chunk_id is None:
+        return None
+    
+    source_clean = source_name.replace('.pdf', '').strip()
+    chunk_filename = f"{source_clean}_chunks.json"
+    encoded_filename = urllib.parse.quote(chunk_filename)
+    
+    json_url = CHUNK_BASE + encoded_filename
+    
+    return {
+        'json_url': json_url,
+        'filename': chunk_filename,
+        'chunk_id': chunk_id
+    }
+
+def create_chunk_id_html(chunk_id, source):
+    """Create clickable HTML for Chunk ID that opens the JSON file"""
+    if pd.isna(chunk_id) or chunk_id == '' or chunk_id is None:
+        return f"<code>N/A</code>"
+    
+    chunk_info = create_chunk_json_link(source, chunk_id)
+    if not chunk_info:
+        return f"<code>{chunk_id}</code>"
+    
+    return f"""
+    <a href="{chunk_info['json_url']}" 
+       target="_blank" 
+       style="color: #dc3545; text-decoration: underline; cursor: pointer; font-weight: 600; font-family: monospace;">
+       {chunk_id}
+    </a>
+    <span style="font-size: 0.7rem; color: #6c757d; margin-left: 0.2rem;">(JSON)</span>
+    """
 
 # Page Configuration
 st.set_page_config(
@@ -75,12 +146,6 @@ st.markdown("""
         word-wrap: break-word;
         border: 1px solid #e0e0e0;
     }
-    .chunk-box code {
-        background: #e8f5e9;
-        padding: 0.2rem 0.4rem;
-        border-radius: 3px;
-        font-size: 0.85rem;
-    }
     .report-link {
         background: #e3f2fd;
         padding: 0.8rem 1rem;
@@ -89,19 +154,6 @@ st.markdown("""
         margin: 0.5rem 0;
         border-left: 4px solid #1976d2;
         transition: all 0.3s;
-    }
-    .report-link:hover {
-        background: #bbdefb;
-        transform: translateX(5px);
-        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    }
-    .chunk-ref {
-        background: #fff8e1;
-        padding: 0.5rem 1rem;
-        border-radius: 5px;
-        border-left: 3px solid #ffa000;
-        margin: 0.3rem 0;
-        font-size: 0.85rem;
     }
     .entity-tag {
         display: inline-block;
@@ -124,41 +176,6 @@ st.markdown("""
         border-left: 4px solid #28a745;
         margin: 1rem 0;
     }
-    .month-timeline {
-        display: flex;
-        gap: 0.5rem;
-        flex-wrap: wrap;
-        margin: 0.5rem 0;
-    }
-    .month-box {
-        background: #e8f5e9;
-        padding: 0.3rem 0.8rem;
-        border-radius: 15px;
-        font-size: 0.8rem;
-        border: 1px solid #a5d6a7;
-    }
-    .month-box.active {
-        background: #28a745;
-        color: white;
-        border-color: #28a745;
-    }
-    .stage-badge {
-        display: inline-block;
-        background: #e3f2fd;
-        padding: 0.2rem 0.6rem;
-        border-radius: 12px;
-        font-size: 0.75rem;
-        margin: 0.2rem;
-        border: 1px solid #90caf9;
-    }
-    .report-name-box {
-        background: #e8f5e9;
-        padding: 0.5rem 1rem;
-        border-radius: 5px;
-        border-left: 4px solid #28a745;
-        margin: 0.3rem 0;
-        font-size: 0.9rem;
-    }
     .chunk-heading {
         background: #e3f2fd;
         padding: 0.3rem 0.8rem;
@@ -175,6 +192,19 @@ st.markdown("""
         border-radius: 3px;
         font-size: 0.75rem;
         margin-left: 0.3rem;
+    }
+    .chunk-clickable {
+        color: #dc3545;
+        text-decoration: underline;
+        cursor: pointer;
+        font-weight: 600;
+        font-family: monospace;
+        transition: all 0.3s ease;
+    }
+    .chunk-clickable:hover {
+        background-color: #fce4ec;
+        padding: 0.1rem 0.3rem;
+        border-radius: 3px;
     }
     </style>
 """, unsafe_allow_html=True)
@@ -525,43 +555,49 @@ def create_pie_chart(data, labels, title):
     return fig
 
 # ============================================
-# DISPLAY CHUNK CONTENT
+# DISPLAY FUNCTIONS
 # ============================================
 
 def display_chunk_content(chunk_text, report_name, heading, pages, chunk_id, report_date):
+    """Display chunk content with PDF download and Chunk JSON link"""
+    
     st.markdown("### 📄 Original Chunk Content")
     
-    st.markdown(f"""
-    <div style="background: #e3f2fd; padding: 0.8rem; border-radius: 8px; margin-bottom: 0.5rem;">
-        <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-            <div>
-                <b>📁 Source:</b> {report_name}
-            </div>
-            <div>
-                <b>📄 Pages:</b> {pages if pages else 'N/A'}
-            </div>
-            <div>
-                <b>🧩 Chunk ID:</b> <code>{chunk_id}</code>
-            </div>
-            <div>
-                <b>📅 Date:</b> {report_date if report_date else 'N/A'}
-            </div>
-        </div>
-        {f'<div style="margin-top: 0.3rem;"><b>📌 Heading:</b> {heading}</div>' if heading else ''}
-    </div>
-    """, unsafe_allow_html=True)
+    # Create PDF download link
+    pdf_info = create_pdf_download_link(report_name)
     
+    if pdf_info:
+        st.markdown(f"""
+        **📁 Source:** [{report_name}]({pdf_info['url']}) 📥 Click to download PDF  
+        **📄 Pages:** {pages if pages else 'N/A'}  
+        **🧩 Chunk ID:** {create_chunk_id_html(chunk_id, report_name)}  
+        **📅 Date:** {report_date if report_date else 'N/A'}  
+        {f'**📌 Heading:** {heading}' if heading else ''}  
+        """, unsafe_allow_html=True)
+    else:
+        st.markdown(f"""
+        **📁 Source:** {report_name}  
+        **📄 Pages:** {pages if pages else 'N/A'}  
+        **🧩 Chunk ID:** {create_chunk_id_html(chunk_id, report_name)}  
+        **📅 Date:** {report_date if report_date else 'N/A'}  
+        {f'**📌 Heading:** {heading}' if heading else ''}  
+        """, unsafe_allow_html=True)
+    
+    # Display the full chunk text
     st.markdown(f"""
     <div class="chunk-box">
         {chunk_text}
     </div>
     """, unsafe_allow_html=True)
-
-# ============================================
-# DISPLAY CHUNK WITH ENTITIES
-# ============================================
+    
+    # JSON link
+    chunk_info = create_chunk_json_link(report_name, chunk_id)
+    if chunk_info:
+        st.markdown(f"**🔗 Download JSON:** [{chunk_info['filename']}]({chunk_info['json_url']})")
 
 def display_chunk_with_entities(row):
+    """Display chunk text with entities, report links, and chunk viewer"""
+    
     chunk_id = row.get('Chunk ID', None)
     source = row.get('Source', None)
     
@@ -571,6 +607,29 @@ def display_chunk_with_entities(row):
         chunk_text = row.get('Recommendation', 'No chunk text available')
         heading = ''
         pages = row.get('Page', '')
+    
+    st.markdown("### 📁 Source Report")
+    
+    pdf_info = create_pdf_download_link(source)
+    
+    if pdf_info:
+        st.markdown(f"""
+        **📄 [{source}]({pdf_info['url']})** 📥 Click to download PDF  
+        **Pages:** {pages if pages else row.get('Page', 'N/A')}  
+        **Chunk ID:** {create_chunk_id_html(chunk_id, source)}  
+        **📅 Date:** {row.get('Report Date', 'Date N/A')}  
+        **🌾 Crop:** {row.get('Crop', 'N/A')} | **📍 State:** {row.get('State', 'N/A')} | **📅 Season:** {row.get('Season', 'N/A')}  
+        {f'**📌 Heading:** {heading}' if heading else ''}  
+        """, unsafe_allow_html=True)
+    else:
+        st.markdown(f"""
+        **📄 {source}**  
+        **Pages:** {pages if pages else row.get('Page', 'N/A')}  
+        **Chunk ID:** {create_chunk_id_html(chunk_id, source)}  
+        **📅 Date:** {row.get('Report Date', 'Date N/A')}  
+        **🌾 Crop:** {row.get('Crop', 'N/A')} | **📍 State:** {row.get('State', 'N/A')} | **📅 Season:** {row.get('Season', 'N/A')}  
+        {f'**📌 Heading:** {heading}' if heading else ''}  
+        """, unsafe_allow_html=True)
     
     display_chunk_content(
         chunk_text, 
@@ -834,17 +893,18 @@ elif page == "📋 Evidence Logs":
         
         st.info(f"Showing {len(display_df)} evidence logs out of {len(df)} total records.")
         
-        display_cols = ['Record ID', 'Crop', 'State', 'District', 'Season', 'Report Date', 'Chunk ID']
-        available_cols = [col for col in display_cols if col in display_df.columns]
-        
-        if not available_cols:
-            available_cols = display_df.columns.tolist()[:7]
-        
-        st.dataframe(
-            display_df[available_cols],
-            width=1200,
-            height=400
+        # Create a copy with HTML-formatted Chunk IDs
+        display_df_html = display_df.copy()
+        display_df_html['Chunk ID'] = display_df.apply(
+            lambda row: create_chunk_id_html(row.get('Chunk ID'), row.get('Source')), 
+            axis=1
         )
+        
+        # Display as HTML table with clickable Chunk IDs
+        st.markdown("### 📊 Evidence Table (Click on Chunk ID to view JSON)")
+        
+        # Display table with clickable Chunk IDs
+        st.markdown(display_df_html[['Record ID', 'Crop', 'State', 'District', 'Season', 'Report Date', 'Chunk ID']].to_html(escape=False, index=False), unsafe_allow_html=True)
         
         st.markdown("### 📋 Detail Insights with Chunk View")
         st.caption("Select a record from the table above to view the original chunk and extracted entities")
@@ -962,25 +1022,24 @@ elif page == "🔍 Smart Search":
                         
                         with col1:
                             st.markdown(f"""
-                            <div class="search-result">
-                                <p><b>🌾 Crop:</b> {row.get('Crop', 'N/A')}</p>
-                                <p><b>📍 Location:</b> {row.get('State', 'N/A')} {f"- {row.get('District', '')}" if pd.notna(row.get('District', '')) else ''}</p>
-                                <p><b>📅 Season:</b> {row.get('Season', 'N/A')}</p>
-                                <p><b>📅 Report Date:</b> {row.get('Report Date', 'N/A')}</p>
-                            </div>
-                            """, unsafe_allow_html=True)
+                            **🌾 Crop:** {row.get('Crop', 'N/A')}  
+                            **📍 Location:** {row.get('State', 'N/A')} {f"- {row.get('District', '')}" if pd.notna(row.get('District', '')) else ''}  
+                            **📅 Season:** {row.get('Season', 'N/A')}  
+                            **📅 Report Date:** {row.get('Report Date', 'N/A')}  
+                            """)
                         
                         with col2:
                             chunk_id = row.get('Chunk ID', None)
                             source = row.get('Source')
                             chunk_text, heading, pages = get_chunk_text(source, chunk_id)
+                            pdf_info = create_pdf_download_link(source)
+                            
                             st.markdown(f"""
-                            <div style="background: #f5f5f5; padding: 0.8rem; border-radius: 8px;">
-                                <p><b>📁 Source:</b> {source or 'Unknown'}</p>
-                                <p><b>📄 Pages:</b> {pages or row.get('Page', 'N/A')}</p>
-                                <p><b>🧩 Chunk ID:</b> {chunk_id}</p>
-                                {f'<p><b>📌 Heading:</b> {heading}</p>' if heading else ''}
-                            </div>
+                            **📁 Source:** {source or 'Unknown'}  
+                            **📄 Pages:** {pages or row.get('Page', 'N/A')}  
+                            **🧩 Chunk ID:** {create_chunk_id_html(chunk_id, source)}  
+                            **📌 Heading:** {heading if heading else 'N/A'}  
+                            **📥 Download:** [PDF]({pdf_info['url'] if pdf_info else '#'})  
                             """, unsafe_allow_html=True)
                         
                         st.markdown("#### 📌 Relevant Sections")
@@ -1011,7 +1070,7 @@ elif page == "🔍 Smart Search":
             st.info("💡 Enter a search query above to find relevant information")
 
 # ============================================
-# PAGE: CROP TIMELINE - UPDATED WITH GROWTH STAGE CHART
+# PAGE: CROP TIMELINE
 # ============================================
 
 elif page == "🌾 Crop Timeline":
@@ -1063,14 +1122,12 @@ elif page == "🌾 Crop Timeline":
             st.markdown("### 📈 Growth Stage Analysis")
             st.markdown("*Occurrence of growth stages in the selected data*")
             
-            # Define growth stage keywords
             growth_keywords = {
                 'Active Growth': ['active growth', 'growth', 'vegetative', 'tiller', 'leaf', 'stem', 'branching', 'growing'],
                 'Harvesting': ['harvesting', 'harvest', 'harvested', 'cutting', 'yield', 'threshing'],
                 'Sowing': ['sowing', 'sown', 'planting', 'transplant', 'seed', 'germination']
             }
             
-            # Count occurrences in the filtered data
             growth_counts = {key: 0 for key in growth_keywords.keys()}
             
             for _, row in timeline_filtered.iterrows():
@@ -1086,7 +1143,6 @@ elif page == "🌾 Crop Timeline":
                                     growth_counts[stage] += 1
                                     break
             
-            # Create bar chart
             if any(growth_counts.values()):
                 fig, ax = plt.subplots(figsize=(10, 6))
                 stages = list(growth_counts.keys())
@@ -1098,7 +1154,6 @@ elif page == "🌾 Crop Timeline":
                 ax.set_xlabel('Growth Stage')
                 ax.set_ylabel('Number of Occurrences')
                 
-                # Add value labels on bars
                 for bar, count in zip(bars, counts):
                     ax.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.5, 
                             str(count), ha='center', va='bottom', fontsize=10, fontweight='bold')
@@ -1140,7 +1195,7 @@ elif page == "🌾 Crop Timeline":
             st.info(f"No timeline data found for {timeline_crop} in {timeline_state}")
 
 # ============================================
-# PAGE: EVENTS - UPDATED WITH DISTINCT DISEASE AND PEST COUNTS
+# PAGE: EVENTS
 # ============================================
 
 elif page == "⚠️ Events":
@@ -1150,20 +1205,14 @@ elif page == "⚠️ Events":
     if df.empty:
         st.warning("No data available")
     else:
-        # Define DISTINCT disease and pest keywords (NO OVERLAP)
         disease_keywords = ['disease', 'blight', 'rust', 'mildew', 'wilt', 'mosaic', 'virus', 'bacterial', 'fungal', 'leaf spot', 'powdery mildew', 'downy mildew']
         pest_keywords = ['pest', 'infestation', 'borer', 'worm', 'mite', 'aphid', 'whitefly', 'bollworm', 'caterpillar', 'thrips', 'weevil', 'beetle', 'maggot', 'jassid', 'hopper']
         
-        # Collect events from chunks with counts per source
         events_data = []
-        
-        # Get unique sources
         sources = df['Source'].dropna().unique()
         
         for source in sources:
-            # Get all rows for this source
             source_rows = df[df['Source'] == source]
-            
             disease_count = 0
             pest_count = 0
             
@@ -1173,21 +1222,16 @@ elif page == "⚠️ Events":
                     chunk_text, heading, pages = get_chunk_text(source, chunk_id)
                     if chunk_text:
                         chunk_lower = chunk_text.lower()
-                        
-                        # Count diseases (using distinct disease keywords)
                         for keyword in disease_keywords:
                             if keyword in chunk_lower:
                                 disease_count += 1
                                 break
-                        
-                        # Count pests (using distinct pest keywords)
                         for keyword in pest_keywords:
                             if keyword in chunk_lower:
                                 pest_count += 1
                                 break
             
             if disease_count > 0 or pest_count > 0:
-                # Extract date from source
                 date_match = re.search(r'(\d{2})-(\d{2})-(\d{4})', source)
                 display_date = source
                 if date_match:
@@ -1207,10 +1251,8 @@ elif page == "⚠️ Events":
         events_df = pd.DataFrame(events_data)
         
         if not events_df.empty:
-            # Sort by Total Events descending
             events_df = events_df.sort_values('Total Events', ascending=False)
             
-            # Show statistics
             col1, col2, col3, col4 = st.columns(4)
             
             with col1:
@@ -1224,7 +1266,6 @@ elif page == "⚠️ Events":
             
             st.divider()
             
-            # Display table
             st.markdown("### 📊 Event Summary by Report")
             st.markdown("*Disease and Pest occurrences per report*")
             
@@ -1240,7 +1281,6 @@ elif page == "⚠️ Events":
                 }
             )
             
-            # Highlight top reports
             st.divider()
             st.markdown("### 🔥 Top Reports with Most Events")
             
@@ -1264,7 +1304,6 @@ elif page == "⚠️ Events":
                     height=200
                 )
             
-            # Charts
             st.divider()
             col1, col2 = st.columns(2)
             
@@ -1310,7 +1349,6 @@ elif page == "⚠️ Events":
                 plt.tight_layout()
                 st.pyplot(fig)
             
-            # Additional chart: Total events per report
             st.divider()
             col1, col2 = st.columns(2)
             
@@ -1343,7 +1381,6 @@ elif page == "⚠️ Events":
                 plt.tight_layout()
                 st.pyplot(fig)
             
-            # Export button for events data
             st.divider()
             st.markdown("#### 📥 Export Events Data")
             
@@ -1356,7 +1393,6 @@ elif page == "⚠️ Events":
                 use_container_width=True
             )
             
-            # Show detailed view for selected report
             st.divider()
             st.markdown("### 📋 Detailed Report View")
             st.markdown("*Select a report to view its detailed events*")
@@ -1372,6 +1408,12 @@ elif page == "⚠️ Events":
                 
                 st.markdown(f"#### 📁 {selected_report}")
                 st.markdown(f"**Total Records:** {len(source_rows)}")
+                
+                pdf_info = create_pdf_download_link(selected_report)
+                if pdf_info:
+                    st.markdown(f"""
+                    **📥 Download PDF:** [{selected_report}]({pdf_info['url']})
+                    """)
                 
                 st.dataframe(
                     source_rows[['Crop', 'State', 'Season', 'Report Date', 'Chunk ID', 'Recommendation']],
@@ -1569,6 +1611,6 @@ elif page == "📅 Crop Calendar":
 # Footer
 st.divider()
 if not df.empty:
-    st.caption(f"🌱 India Crop Calendar AI Portal | Data Source: {source_file} | Records: {len(df)} | Chunks: {len(chunk_data)} | Dates Filled: {filled_dates} | © 2026")
+    st.caption(f"🌱 India Crop Calendar AI Portal | Data Source: {source_file} | Records: {len(df)} | Chunks: {len(chunk_data)} | Dates Filled: {filled_dates} | 📥 PDFs & Chunks from GitHub | © 2026")
 else:
     st.caption("🌱 India Crop Calendar AI Portal | No data loaded | © 2026")
