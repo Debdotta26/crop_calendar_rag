@@ -27,3 +27,8 @@ python-dateutil
 
 # JSON Schema Validation (optional but useful)
 jsonschema
+
+streamlit
+matplotlib
+pandas
+numpy
