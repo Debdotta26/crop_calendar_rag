@@ -63,21 +63,28 @@ def create_chunk_json_link(source_name, chunk_id):
     }
 
 def create_chunk_id_html(chunk_id, source):
-    """Create clickable HTML for Chunk ID that opens the JSON file"""
+    """
+    Create clickable HTML for Chunk ID that opens the viewer with only that chunk
+    """
     if pd.isna(chunk_id) or chunk_id == '' or chunk_id is None:
         return f"<code>N/A</code>"
     
-    chunk_info = create_chunk_json_link(source, chunk_id)
-    if not chunk_info:
-        return f"<code>{chunk_id}</code>"
+    # URL encode the source and chunk ID
+    encoded_source = urllib.parse.quote(source)
+    encoded_chunk = urllib.parse.quote(chunk_id)
+    
+    # GitHub Pages URL
+    GITHUB_USERNAME = "Debdotta26"
+    GITHUB_REPO = "crop_calendar_rag"
+    viewer_url = f"https://{GITHUB_USERNAME}.github.io/{GITHUB_REPO}/chunk_viewer.html?source={encoded_source}&chunk={encoded_chunk}"
     
     return f"""
-    <a href="{chunk_info['json_url']}" 
+    <a href="{viewer_url}" 
        target="_blank" 
        style="color: #dc3545; text-decoration: underline; cursor: pointer; font-weight: 600; font-family: monospace;">
        {chunk_id}
     </a>
-    <span style="font-size: 0.7rem; color: #6c757d; margin-left: 0.2rem;">(JSON)</span>
+    <span style="font-size: 0.7rem; color: #6c757d; margin-left: 0.2rem;">(View Chunk)</span>
     """
 
 # Page Configuration
