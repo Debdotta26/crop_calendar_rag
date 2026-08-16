@@ -53,6 +53,12 @@ LABELS = [
 
     "Disease",
 
+    "Fertilizer",
+
+    "Recommendation",
+
+    "Irrigation",
+
     "Organization",
 
     "Government Scheme",
